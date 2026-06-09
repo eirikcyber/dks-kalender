@@ -1,0 +1,33 @@
+name: Oppdater DKS-kalender
+
+on:
+  schedule:
+    - cron: '0 4 * * *'   # Kvar natt kl. 04:00 UTC (= 05:00/06:00 norsk tid)
+  workflow_dispatch:        # Manuell køyring frå GitHub-UI
+
+permissions:
+  contents: write
+
+jobs:
+  bygg-kalender:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sjekk ut repo
+        uses: actions/checkout@v4
+
+      - name: Set opp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generer ICS-fil
+        run: python dks_kalender_feed.py
+
+      - name: Commit og push dersom fila er endra
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/dks_asker.ics
+          git diff --cached --quiet || git commit -m "Oppdater DKS-kalender $(date -u +%Y-%m-%d)"
+          git push
