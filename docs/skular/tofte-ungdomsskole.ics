@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte ungdomsskole
-LAST-MODIFIED:20260609T104721Z
+LAST-MODIFIED:20260609T105044Z
 BEGIN:VEVENT
 UID:dks-550217@asker.dks
 DTSTART:20260908T073000Z
@@ -30,6 +30,33 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  +47 45 21 94 47  torgeir.engen@asker.kommune.no\\n  Linda Tyvand Hovet  +4
  7 90 67 80 85  linda.tyvand.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Torstad ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Tofte
+  ungdomsskole</b><br>Avreise: 08:35 &nbsp; Retur: 13:30<br>VY Turbuss frak
+ ter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeldende
+  tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefon Vy
+  Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykler/går
+  eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bill
+ etter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Torst
+ ad ungdomsskole:</b> 9C (25), 9D (25)<br><b>Tofte ungdomsskole:</b> 9A (24
+ ), 9B (25)<br><b>Solvang ungdomsskole:</b> 9B (25)<br><b>Totalt: 124 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 6
+ 6 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto:
+ mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br></p>
+ <p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-R
+ ønning &nbsp; +47 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskolen
+ .no'>jveitait@askerskolen.no</a><br></p><p><b>Solvang ungdomsskole</b><br>
+ Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a hre
+ f='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</
+ a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:lin
+ da.tyvand.hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><
+ br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
+ joner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></ht
+ ml>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775

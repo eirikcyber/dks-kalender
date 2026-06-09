@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260609T104721Z
+LAST-MODIFIED:20260609T105043Z
 BEGIN:VEVENT
 UID:dks-482112@asker.dks
 DTSTART:20260914T083000Z
@@ -15,6 +15,14 @@ DESCRIPTION:KLASSER\\nHolmen barnehage: 3-6 år (52)\\nTotalt: 52 elevar\\n
  \\nKONTAKT\\nHolmen barnehage\\n  Sissel Sønju Moltzau  +47 97 47 10 10  
  sissel.moltzau@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskole
  sekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Holmen barnehage:</b> 3-6 år
+  (52)<br><b>Totalt: 52 elevar</b></p><p><b>KONTAKT</b></p><p><b>Holmen bar
+ nehage</b><br>Sissel Sønju Moltzau &nbsp; +47 97 47 10 10 &nbsp; <a href=
+ 'mailto:sissel.moltzau@asker.kommune.no'>sissel.moltzau@asker.kommune.no</
+ a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
+ uksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body><
+ /html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -28,6 +36,14 @@ DESCRIPTION:KLASSER\\nHval Gård barnehage: 3-6 år (70)\\nTotalt: 70 eleva
  r\\n\\nKONTAKT\\nHval Gård barnehage\\n  Sissel Sønju Moltzau  +47 97 47
   10 10  sissel.moltzau@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
  lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hval Gård barnehage:</b> 3-6
+  år (70)<br><b>Totalt: 70 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hval G
+ ård barnehage</b><br>Sissel Sønju Moltzau &nbsp; +47 97 47 10 10 &nbsp; 
+ <a href='mailto:sissel.moltzau@asker.kommune.no'>sissel.moltzau@asker.komm
+ une.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfo
+ rsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p>
+ </body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -45,6 +61,19 @@ DESCRIPTION:KLASSER\\nVekstbarnehagen: 3-6 år (17)\\nLæringsverkstedet Ve
  age\\n  Jane Lien Grunntieg  +47 41 31 68 40  vestre.billingstad@laringsve
  rkstedet.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
  oduksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vekstbarnehagen:</b> 3-6 år 
+ (17)<br><b>Læringsverkstedet Vestre Billingstad Naturbarnehage:</b> 3-6 �
+ �r (28)<br><b>Totalt: 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vekstb
+ arnehagen</b><br>Tlf: +47 95 55 85 92<br>Anette Tobine Nalum-Rusdal &nbsp;
+  <a href='mailto:ledelse@vekstbarnehagen.no'>ledelse@vekstbarnehagen.no</a
+ ><br>Vestbarnehagen . &nbsp; +47 95 55 85 92 &nbsp; <a href='mailto:snipp@
+ vekstbarnehagen.no'>snipp@vekstbarnehagen.no</a><br></p><p><b>Læringsverk
+ stedet Vestre Billingstad Naturbarnehage</b><br>Jane Lien Grunntieg &nbsp;
+  +47 41 31 68 40 &nbsp; <a href='mailto:vestre.billingstad@laringsverksted
+ et.no'>vestre.billingstad@laringsverkstedet.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -60,6 +89,17 @@ DESCRIPTION:KLASSER\\nVendla barnehage: Selen (18)\\nNesøya barnehage: 3-6
  \\nNesøya barnehage\\n  Camilla Graff  +47 41 42 00 61  camilla.graff@ask
  er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
  produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Selen (
+ 18)<br><b>Nesøya barnehage:</b> 3-6 år (24)<br><b>Totalt: 42 elevar</b><
+ /p><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christoffer Yong Ing
+ rud &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffer.yong.ingrud@
+ asker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</a><br></p><p><
+ b>Nesøya barnehage</b><br>Camilla Graff &nbsp; +47 41 42 00 61 &nbsp; <a 
+ href='mailto:camilla.graff@asker.kommune.no'>camilla.graff@asker.kommune.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></bod
+ y></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -78,6 +118,21 @@ DESCRIPTION:KLASSER\\nHolmentoppen barnehage: 3-6 år (7)\\nHvalstad barneh
  e\\n  Camilla Graff  +47 41 42 00 61  camilla.graff@asker.kommune.no\\n\\n
  INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
  ?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Holmentoppen barnehage:</b> 3
+ -6 år (7)<br><b>Hvalstad barnehage:</b> 3-6 år (18)<br><b>Landøya barne
+ hage:</b> 3-6 år (22)<br><b>Totalt: 47 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Holmentoppen barnehage</b><br>Marianne Thøring &nbsp; +47 45 47 99
+  56 &nbsp; <a href='mailto:holmentoppen.barnehage@kirken.no'>holmentoppen.
+ barnehage@kirken.no</a><br></p><p><b>Hvalstad barnehage</b><br>Evelyn Remm
+ e Thoresen &nbsp; +47 93 08 24 32 &nbsp; <a href='mailto:evelyn.remme.thor
+ esen@asker.kommune.no'>evelyn.remme.thoresen@asker.kommune.no</a><br>Halil
+  Gjoni &nbsp; +47 91 71 45 63 &nbsp; <a href='mailto:halil.gjoni@asker.kom
+ mune.no'>halil.gjoni@asker.kommune.no</a><br></p><p><b>Landøya barnehage<
+ /b><br>Camilla Graff &nbsp; +47 41 42 00 61 &nbsp; <a href='mailto:camilla
+ .graff@asker.kommune.no'>camilla.graff@asker.kommune.no</a><br></p><p><a h
+ ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
+ roduksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -93,6 +148,17 @@ DESCRIPTION:KLASSER\\nVendla barnehage: Sjøhesten + Krepsen (26)\\nNesbru
  ker.kommune.no\\nNesbru barnehage\\n  Stine Baldvinsson  +47 45 25 45 81  
  kontor@nesbrubarnehage.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken
  .no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Sjøhes
+ ten + Krepsen (26)<br><b>Nesbru barnehage:</b> 3-6 år (13)<br><b>Totalt: 
+ 39 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christ
+ offer Yong Ingrud &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffe
+ r.yong.ingrud@asker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</
+ a><br></p><p><b>Nesbru barnehage</b><br>Stine Baldvinsson &nbsp; +47 45 25
+  45 81 &nbsp; <a href='mailto:kontor@nesbrubarnehage.no'>kontor@nesbrubarn
+ ehage.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></
+ p></body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -110,6 +176,20 @@ DESCRIPTION:KLASSER\\nVendla barnehage: Blekkspruten (18)\\nBikuben barneha
  ge.no\\nLæringsverkstedet Bjørndalen barnehage\\n  Therese Holter  +47 4
  1 53 61 65  bjorndalen@laringsverkstedet.no\\n\\nINFO\\nhttps://www.denkul
  turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Blekksp
+ ruten (18)<br><b>Bikuben barnehage:</b> 3-6 år (11)<br><b>Læringsverkste
+ det Bjørndalen barnehage:</b> 3-6 år (19)<br><b>Totalt: 48 elevar</b></p
+ ><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christoffer Yong Ingru
+ d &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffer.yong.ingrud@as
+ ker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</a><br></p><p><b>
+ Bikuben barnehage</b><br>Elin Brandsarbakken &nbsp; +47 99 79 90 06 &nbsp;
+  <a href='mailto:elinb@bikuben-barnehage.no'>elinb@bikuben-barnehage.no</a
+ ><br></p><p><b>Læringsverkstedet Bjørndalen barnehage</b><br>Therese Hol
+ ter &nbsp; +47 41 53 61 65 &nbsp; <a href='mailto:bjorndalen@laringsverkst
+ edet.no'>bjorndalen@laringsverkstedet.no</a><br></p><p><a href='https://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+ '>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -128,6 +208,20 @@ DESCRIPTION:KLASSER\\nVendla barnehage: Sjøstjernen (18)\\nStiftelsen Tert
  llen Stahr Tønder  +47 47 28 64 70  ellen.tonder@bhg.no\\n\\nINFO\\nhttps
  ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
  21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Sjøstj
+ ernen (18)<br><b>Stiftelsen Tertitten Barnehage:</b> 3-6 år (12)<br><b>Me
+ llom-Nes Fus barnehage AS:</b> 3-6 år (24)<br><b>Totalt: 54 elevar</b></p
+ ><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christoffer Yong Ingru
+ d &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffer.yong.ingrud@as
+ ker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</a><br></p><p><b>
+ Stiftelsen Tertitten Barnehage</b><br>Tonje Vegsund &nbsp; +47 93 41 23 26
+  &nbsp; <a href='mailto:tonje@tertittenbarnehage.no'>tonje@tertittenbarneh
+ age.no</a><br></p><p><b>Mellom-Nes Fus barnehage AS</b><br>Tlf: +47 67 79 
+ 97 00<br>Ellen Stahr Tønder &nbsp; +47 47 28 64 70 &nbsp; <a href='mailto
+ :ellen.tonder@bhg.no'>ellen.tonder@bhg.no</a><br></p><p><a href='https://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2128
+ 5'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmen innbyggertorg – Panorama
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -143,6 +237,16 @@ DESCRIPTION:KLASSER\\nDoktorgården barnehage: 3-6 år (35)\\nKana barnehag
   barnehage\\n  Trude Eide  +47 92 27 91 67  admin@kanabarnehage.no\\n\\nIN
  FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
  roduksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Doktorgården barnehage:</b> 
+ 3-6 år (35)<br><b>Kana barnehage:</b> 3-6 år (16)<br><b>Totalt: 51 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Doktorgården barnehage</b><br>Gry Hen
+ riksen &nbsp; +47 48 06 73 70 &nbsp; <a href='mailto:gry.henriksen@asker.k
+ ommune.no'>gry.henriksen@asker.kommune.no</a><br></p><p><b>Kana barnehage<
+ /b><br>Trude Eide &nbsp; +47 92 27 91 67 &nbsp; <a href='mailto:admin@kana
+ barnehage.no'>admin@kanabarnehage.no</a><br></p><p><a href='https://www.de
+ nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Le
+ s meir om produksjonen</a></p></body></html>
 LOCATION:Tofte samfunnshus – Storsalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -159,6 +263,17 @@ DESCRIPTION:KLASSER\\nGulspurven barnehage: 3-6 år (24)\\nNorlandia Ødeg�
  4\\n  Mari Flekstad-Engen  +47 46 41 40 84  mari.flekstad.engen@norlandia.
  com\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjon
  er-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Gulspurven barnehage:</b> 3-6
+  år (24)<br><b>Norlandia Ødegården Barnehage:</b> 3-6 år til Tofte (17
+ )<br><b>Totalt: 41 elevar</b></p><p><b>KONTAKT</b></p><p><b>Gulspurven bar
+ nehage</b><br>Gry Henriksen &nbsp; +47 48 06 73 70 &nbsp; <a href='mailto:
+ gry.henriksen@asker.kommune.no'>gry.henriksen@asker.kommune.no</a><br></p>
+ <p><b>Norlandia Ødegården Barnehage</b><br>Tlf: +47 46 41 40 84<br>Mari 
+ Flekstad-Engen &nbsp; +47 46 41 40 84 &nbsp; <a href='mailto:mari.flekstad
+ .engen@norlandia.com'>mari.flekstad.engen@norlandia.com</a><br></p><p><a h
+ ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
+ roduksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Tofte samfunnshus – Storsalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -177,6 +292,21 @@ DESCRIPTION:KLASSER\\nBitehagen barnehage Sa: 3-6 år (30)\\nCarpe Diem Idr
   +47 31 28 76 70\\n  Ingvild Hansen  +47 90 19 75 32  ingvild.hansen@100-m
  eterskogenbhg.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfor
  sk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bitehagen barnehage Sa:</b> 3
+ -6 år (30)<br><b>Carpe Diem Idrett og Naturbarnehage:</b> 3-6 år (5)<br>
+ <b>100-Meterskogen barnehage AS:</b> 3-6 år (24)<br><b>Totalt: 59 elevar<
+ /b></p><p><b>KONTAKT</b></p><p><b>Bitehagen barnehage Sa</b><br>Tlf: +47 3
+ 1 29 04 88<br>Gry K. S.  Vaeng &nbsp; +47 41 31 71 92 &nbsp; <a href='mail
+ to:barnehagen@bitehagen.no'>barnehagen@bitehagen.no</a><br></p><p><b>Carpe
+  Diem Idrett og Naturbarnehage</b><br>Stein Richard Størdal &nbsp; +47 47
+  45 67 80 &nbsp; <a href='mailto:stein.stordal@ulna.no'>stein.stordal@ulna
+ .no</a><br></p><p><b>100-Meterskogen barnehage AS</b><br>Tlf: +47 31 28 76
+  70<br>Ingvild Hansen &nbsp; +47 90 19 75 32 &nbsp; <a href='mailto:ingvil
+ d.hansen@100-meterskogenbhg.no'>ingvild.hansen@100-meterskogenbhg.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -195,6 +325,20 @@ DESCRIPTION:KLASSER\\nHeggum barnehage AS: 3-6 år (24)\\nHyggen barnehage:
   95\\n  Helene  Malbasa  +47 48 31 13 21  dl.helledammen@bhg.no\\n\\nINFO\
  \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
  uksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggum barnehage AS:</b> 3-6 
+ år (24)<br><b>Hyggen barnehage:</b> 3-6 år (16)<br><b>Helledammen Fus ba
+ rnehage AS:</b> 3-6 år (18)<br><b>Totalt: 58 elevar</b></p><p><b>KONTAKT<
+ /b></p><p><b>Heggum barnehage AS</b><br>Tlf: +47 92 69 34 98<br>Marianne B
+ jørnstad &nbsp; +47 92 69 34 98 &nbsp; <a href='mailto:marianne@heggumbar
+ nehage.no'>marianne@heggumbarnehage.no</a><br></p><p><b>Hyggen barnehage</
+ b><br>Tlf: +47 97 58 97 08<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <
+ a href='mailto:elin.evensen@asker.kommune.no'>elin.evensen@asker.kommune.n
+ o</a><br></p><p><b>Helledammen Fus barnehage AS</b><br>Tlf: +47 31 09 59 9
+ 5<br>Helene  Malbasa &nbsp; +47 48 31 13 21 &nbsp; <a href='mailto:dl.hell
+ edammen@bhg.no'>dl.helledammen@bhg.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>L
+ es meir om produksjonen</a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -211,6 +355,17 @@ DESCRIPTION:KLASSER\\nRøyken barnehage: 3-6 år (30)\\nSpikkestad Kanvas-B
  n  Hege Heiberg  +47 91 17 13 46  hege.heiberg@kanvas.no\\n\\nINFO\\nhttps
  ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
  21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Røyken barnehage:</b> 3-6 å
+ r (30)<br><b>Spikkestad Kanvas-Barnehage:</b> 3-6 år (35)<br><b>Totalt: 6
+ 5 elevar</b></p><p><b>KONTAKT</b></p><p><b>Røyken barnehage</b><br>Tlf: +
+ 47 99 57 28 79<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <a href='mail
+ to:elin.evensen@asker.kommune.no'>elin.evensen@asker.kommune.no</a><br></p
+ ><p><b>Spikkestad Kanvas-Barnehage</b><br>Tlf: +47 22 40 58 40<br>Hege Hei
+ berg &nbsp; +47 91 17 13 46 &nbsp; <a href='mailto:hege.heiberg@kanvas.no'
+ >hege.heiberg@kanvas.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om pro
+ duksjonen</a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -229,6 +384,20 @@ DESCRIPTION:KLASSER\\nPaletten Kanvas-Barnehage: 3-6 år (44)\\nKjekstadmar
   20\\n  Monica Gundhus  +47 40 63 05 23  monica.gundhus@kanvas.no\\n\\nINF
  O\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
  oduksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Paletten Kanvas-Barnehage:</b
+ > 3-6 år (44)<br><b>Kjekstadmarka Kanvas-Barnehage:</b> 3-6 år (12)<br><
+ b>Midtbygda Kanvas-Barnehage:</b> 3-6 år (19)<br><b>Totalt: 75 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Paletten Kanvas-Barnehage</b><br>Mari Janss
+ on &nbsp; +47 40 63 05 13 &nbsp; <a href='mailto:paletten@kanvas.no'>palet
+ ten@kanvas.no</a><br></p><p><b>Kjekstadmarka Kanvas-Barnehage</b><br>Tlf: 
+ +47 31 29 14 00<br>Sindre Andreas Borgund &nbsp; +47 47 24 62 82 &nbsp; <a
+  href='mailto:sindre.borgund@kanvas.no'>sindre.borgund@kanvas.no</a><br></
+ p><p><b>Midtbygda Kanvas-Barnehage</b><br>Tlf: +47 31 28 56 20<br>Monica G
+ undhus &nbsp; +47 40 63 05 23 &nbsp; <a href='mailto:monica.gundhus@kanvas
+ .no'>monica.gundhus@kanvas.no</a><br></p><p><a href='https://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir 
+ om produksjonen</a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -242,6 +411,14 @@ DESCRIPTION:KLASSER\\nMorbergtoppen FUS barnehage: 3-6 år (60)\\nTotalt: 6
  0 elevar\\n\\nKONTAKT\\nMorbergtoppen FUS barnehage\\n  Susanne M. Myrbo  
  +47 90 40 53 53  dl.morbergtoppen@bhg.no\\n\\nINFO\\nhttps://www.denkultur
  elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Morbergtoppen FUS barnehage:<
+ /b> 3-6 år (60)<br><b>Totalt: 60 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Morbergtoppen FUS barnehage</b><br>Susanne M. Myrbo &nbsp; +47 90 40 53 5
+ 3 &nbsp; <a href='mailto:dl.morbergtoppen@bhg.no'>dl.morbergtoppen@bhg.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body>
+ </html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -258,6 +435,17 @@ DESCRIPTION:KLASSER\\nNorlandia Nilsemarka barnehage: 3-6 år (50)\\nTorvbr
  ehage\\n  Tlf: +47 45 96 80 01\\n  Marte M. Kolsrud  +47 40 63 04 78  mart
  e.kolsrud@kanvas.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
  forsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Norlandia Nilsemarka barnehag
+ e:</b> 3-6 år (50)<br><b>Torvbråten Kanvas-Barnehage:</b> 3-6 år (35)<b
+ r><b>Totalt: 85 elevar</b></p><p><b>KONTAKT</b></p><p><b>Norlandia Nilsema
+ rka barnehage</b><br>Tlf: +47 92 66 98 41<br>Elin Dahlen &nbsp; +47 92 66 
+ 98 41 &nbsp; <a href='mailto:nilsemarka.barnehage@norlandia.com'>nilsemark
+ a.barnehage@norlandia.com</a><br></p><p><b>Torvbråten Kanvas-Barnehage</b
+ ><br>Tlf: +47 45 96 80 01<br>Marte M. Kolsrud &nbsp; +47 40 63 04 78 &nbsp
+ ; <a href='mailto:marte.kolsrud@kanvas.no'>marte.kolsrud@kanvas.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -276,6 +464,20 @@ DESCRIPTION:KLASSER\\nBjerkås barnehage: 3-6 år (43)\\nNansentunet Musikk
  \\n  Vilde Endresen Øien  +47 92 11 48 92  dagligleder@naersnesbarnehage.
  no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
  r-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bjerkås barnehage:</b> 3-6 �
+ �r (43)<br><b>Nansentunet Musikkbarnehage:</b> 3-6 år (13)<br><b>Nærsn
+ es barnehage SA:</b> 3-6 år (13)<br><b>Totalt: 69 elevar</b></p><p><b>KON
+ TAKT</b></p><p><b>Bjerkås barnehage</b><br>Tlf: +47 66 79 82 06<br>Anne I
+ rene Bøe Hilden &nbsp; +47 93 40 81 30 &nbsp; <a href='mailto:anne.irene@
+ bjer-bhg.no'>anne.irene@bjer-bhg.no</a><br></p><p><b>Nansentunet Musikkbar
+ nehage</b><br>Tlf: +47 41 21 33 29<br>Kristel  Olsen &nbsp; +47 41 21 33 2
+ 9 &nbsp; <a href='mailto:post@nansentunet.com'>post@nansentunet.com</a><br
+ ></p><p><b>Nærsnes barnehage SA</b><br>Tlf: +47 92 11 48 92<br>Vilde Endr
+ esen Øien &nbsp; +47 92 11 48 92 &nbsp; <a href='mailto:dagligleder@naers
+ nesbarnehage.no'>dagligleder@naersnesbarnehage.no</a><br></p><p><a href='h
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -292,6 +494,17 @@ DESCRIPTION:KLASSER\\nNærsnes kystbarnehage AS: 3-6 år (47)\\nSydskogen b
  ete Bjertnes  +47 92 81 44 64  merete.bjertnes@asker.kommune.no\\n\\nINFO\
  \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
  uksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nærsnes kystbarnehage AS:</b
+ > 3-6 år (47)<br><b>Sydskogen barnehage:</b> 3-6 år (16)<br><b>Totalt: 6
+ 3 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærsnes kystbarnehage AS</b><b
+ r>Tlf: +47 31 28 05 60<br>Aina Wøien &nbsp; +47 93 25 17 83 &nbsp; <a hre
+ f='mailto:kontor@kystbarnehagen.no'>kontor@kystbarnehagen.no</a><br></p><p
+ ><b>Sydskogen barnehage</b><br>Tlf: +47 31 29 33 20<br>Merete Bjertnes &nb
+ sp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.bjertnes@asker.kommune.n
+ o'>merete.bjertnes@asker.kommune.no</a><br></p><p><a href='https://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les
+  meir om produksjonen</a></p></body></html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -308,6 +521,17 @@ DESCRIPTION:KLASSER\\nBjerkåsholmen barnehage AS: 3-6 år (25)\\nSlemmesta
   29 33 60\\n  Merete Bjertnes  +47 92 81 44 64  merete.bjertnes@asker.komm
  une.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produks
  joner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bjerkåsholmen barnehage AS:<
+ /b> 3-6 år (25)<br><b>Slemmestad barnehage:</b> 3-6 år (36)<br><b>Totalt
+ : 61 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bjerkåsholmen barnehage AS<
+ /b><br>Tlf: +47 66 79 80 70<br>Tone Christensen &nbsp; +47 90 66 01 56 &nb
+ sp; <a href='mailto:tone@bjerkasholmenbarnehage.no'>tone@bjerkasholmenbarn
+ ehage.no</a><br></p><p><b>Slemmestad barnehage</b><br>Tlf: +47 31 29 33 60
+ <br>Merete Bjertnes &nbsp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.b
+ jertnes@asker.kommune.no'>merete.bjertnes@asker.kommune.no</a><br></p><p><
+ a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -322,6 +546,15 @@ DESCRIPTION:KLASSER\\nUtforskeren Kanvas-Barnehage: 3-6 år (52)\\nTotalt:
  .bakland@kanvas.no\\n  Utforskeren Kanvas Barnehage  +47 45 96 80 08  utfo
  rskeren@kanvas.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
  rsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Utforskeren Kanvas-Barnehage:
+ </b> 3-6 år (52)<br><b>Totalt: 52 elevar</b></p><p><b>KONTAKT</b></p><p><
+ b>Utforskeren Kanvas-Barnehage</b><br>Roy Bakland &nbsp; <a href='mailto:r
+ oy.bakland@kanvas.no'>roy.bakland@kanvas.no</a><br>Utforskeren Kanvas Barn
+ ehage &nbsp; +47 45 96 80 08 &nbsp; <a href='mailto:utforskeren@kanvas.no'
+ >utforskeren@kanvas.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om prod
+ uksjonen</a></p></body></html>
 LOCATION:Slemmestad MEK – Slemmestad MEK
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -343,6 +576,24 @@ DESCRIPTION:KLASSER\\nEspira Årosfjellet barnehage: 3-6 år (30)\\nKlokkar
  Flekstad-Engen  +47 46 41 40 84  mari.flekstad.engen@norlandia.com\\n\\nIN
  FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
  roduksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Espira Årosfjellet barnehage
+ :</b> 3-6 år (30)<br><b>Klokkarstua barnehage:</b> 3-6 år (12)<br><b>Sli
+ ngrebekken barnehage:</b> 3-6 år (14)<br><b>Norlandia Ødegården Barneha
+ ge:</b> 3-6 år til Sætre gruppe1 (13)<br><b>Totalt: 69 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Espira Årosfjellet barnehage</b><br>Tlf: +47 98 0
+ 3 68 48<br>Ingvild S.  Haugen &nbsp; +47 98 03 68 48 &nbsp; <a href='mailt
+ o:ingvild.haugen@espira.no'>ingvild.haugen@espira.no</a><br></p><p><b>Klok
+ karstua barnehage</b><br>Tlf: +47 32 27 80 10<br>Elin Evensen &nbsp; +47 9
+ 9 57 28 79 &nbsp; <a href='mailto:elin.evensen@asker.kommune.no'>elin.even
+ sen@asker.kommune.no</a><br></p><p><b>Slingrebekken barnehage</b><br>Tlf: 
+ +47 32 27 80 20<br>Gry Henriksen &nbsp; +47 48 06 73 70 &nbsp; <a href='ma
+ ilto:gry.henriksen@asker.kommune.no'>gry.henriksen@asker.kommune.no</a><br
+ ></p><p><b>Norlandia Ødegården Barnehage</b><br>Tlf: +47 46 41 40 84<br>
+ Mari Flekstad-Engen &nbsp; +47 46 41 40 84 &nbsp; <a href='mailto:mari.fle
+ kstad.engen@norlandia.com'>mari.flekstad.engen@norlandia.com</a><br></p><p
+ ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Sætre innbyggertorg – Dynamitten
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -363,6 +614,24 @@ DESCRIPTION:KLASSER\\nNedre Høvik Fus barnehage: 3-6 år (27)\\nSpiren bar
   Ødegården Barnehage\\n  Tlf: +47 46 41 40 84\\n  Mari Flekstad-Engen  +
  47 46 41 40 84  mari.flekstad.engen@norlandia.com\\n\\nINFO\\nhttps://www.
  denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nedre Høvik Fus barnehage:</
+ b> 3-6 år (27)<br><b>Spiren barnehage:</b> 3-6 år (14)<br><b>Askeladden 
+ Steinerbarnehage:</b> 3-6 år (15)<br><b>Norlandia Ødegården Barnehage:<
+ /b> 3-6 år til Sætre gruppe2 (13)<br><b>Totalt: 69 elevar</b></p><p><b>K
+ ONTAKT</b></p><p><b>Nedre Høvik Fus barnehage</b><br>Tlf: +47 31 29 21 20
+ <br>Hanne Kviserud &nbsp; +47 40 48 57 25 &nbsp; <a href='mailto:dl.nedreh
+ ovik@bhg.no'>dl.nedrehovik@bhg.no</a><br></p><p><b>Spiren barnehage</b><br
+ >Tlf: +47 31 28 73 47<br>Irene Zakariassen &nbsp; +47 47 61 57 68 &nbsp; <
+ a href='mailto:irena@itryggehender.no'>irena@itryggehender.no</a><br></p><
+ p><b>Askeladden Steinerbarnehage</b><br>Tlf: +47 32 79 21 80<br>Åshild Su
+ nd &nbsp; +47 40 47 34 72 &nbsp; <a href='mailto:askeladden@steinerbarneha
+ ge.no'>askeladden@steinerbarnehage.no</a><br></p><p><b>Norlandia Ødegård
+ en Barnehage</b><br>Tlf: +47 46 41 40 84<br>Mari Flekstad-Engen &nbsp; +47
+  46 41 40 84 &nbsp; <a href='mailto:mari.flekstad.engen@norlandia.com'>mar
+ i.flekstad.engen@norlandia.com</a><br></p><p><a href='https://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir
+  om produksjonen</a></p></body></html>
 LOCATION:Sætre innbyggertorg – Dynamitten
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -383,6 +652,23 @@ DESCRIPTION:KLASSER\\nBarnas Hus Gullhella: 3-6 år (32)\\nHallenåsen Fami
  ad Menighetsbarnehage\\n  Tlf: +47 66 79 99 77\\n  Maria Forvik  +47 41 67
   69 22  mf347@kirken.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
  o/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Barnas Hus Gullhella:</b> 3-6
+  år (32)<br><b>Hallenåsen Familiebarnehage:</b> 3-6 år (5)<br><b>Viking
+ jordet barnehage Åmotåsen:</b> 3-6 år (14)<br><b>Østenstad Menighetsba
+ rnehage:</b> 3-6 år (10)<br><b>Totalt: 61 elevar</b></p><p><b>KONTAKT</b>
+ </p><p><b>Barnas Hus Gullhella</b><br>Tlf: +47 47 46 33 32<br>Daniela Maas
+ s &nbsp; +47 45 88 25 37 &nbsp; <a href='mailto:kontor@barnashus.com'>kont
+ or@barnashus.com</a><br></p><p><b>Hallenåsen Familiebarnehage</b><br>Tlf:
+  +47 91 16 43 43<br>Marit Kinserdal &nbsp; +47 95 79 57 41 &nbsp; <a href=
+ 'mailto:maritgrefsen@yahoo.no'>maritgrefsen@yahoo.no</a><br></p><p><b>Viki
+ ngjordet barnehage Åmotåsen</b><br>Tlf: +47 66 90 71 00<br>Merete Bjertn
+ es &nbsp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.bjertnes@asker.kom
+ mune.no'>merete.bjertnes@asker.kommune.no</a><br></p><p><b>Østenstad Meni
+ ghetsbarnehage</b><br>Tlf: +47 66 79 99 77<br>Maria Forvik &nbsp; +47 41 6
+ 7 69 22 &nbsp; <a href='mailto:mf347@kirken.no'>mf347@kirken.no</a><br></p
+ ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
+ i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Heggedal innbyggertorg – Fyrstikken
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -397,6 +683,14 @@ DESCRIPTION:KLASSER\\nKistefossdammen barnehage: 3-6 år (68)\\nTotalt: 68
  n  Merete Bjertnes  +47 92 81 44 64  merete.bjertnes@asker.kommune.no\\n\\
  nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
  /?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Kistefossdammen barnehage:</b
+ > 3-6 år (68)<br><b>Totalt: 68 elevar</b></p><p><b>KONTAKT</b></p><p><b>K
+ istefossdammen barnehage</b><br>Tlf: +47 66 71 50 20<br>Merete Bjertnes &n
+ bsp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.bjertnes@asker.kommune.
+ no'>merete.bjertnes@asker.kommune.no</a><br></p><p><a href='https://www.de
+ nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Le
+ s meir om produksjonen</a></p></body></html>
 LOCATION:Heggedal innbyggertorg – Fyrstikken
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -411,6 +705,14 @@ DESCRIPTION:KLASSER\\nBorgen Skog barnehage: 3-6 år (45)\\nTotalt: 45 elev
  in  Aakenes Nysted  +47 48 25 93 64  dagligleder@borgenskogbhg.no\\n\\nINF
  O\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
  oduksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen Skog barnehage:</b> 3-
+ 6 år (45)<br><b>Totalt: 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borge
+ n Skog barnehage</b><br>Tlf: +47 66 76 11 60<br>Kristin  Aakenes Nysted &n
+ bsp; +47 48 25 93 64 &nbsp; <a href='mailto:dagligleder@borgenskogbhg.no'>
+ dagligleder@borgenskogbhg.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir o
+ m produksjonen</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -425,6 +727,14 @@ DESCRIPTION:KLASSER\\nSøndre Borgen barnehage: 3-6 år gruppe2 (30)\\nTota
  6 37\\n  Anita Sønsteby  +47 97 15 45 08  anita.sonsteby@asker.kommune.no
  \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
  i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Søndre Borgen barnehage:</b>
+  3-6 år gruppe2 (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Søndre Borgen barnehage</b><br>Tlf: +47 93 24 66 37<br>Anita Sønst
+ eby &nbsp; +47 97 15 45 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kom
+ mune.no'>anita.sonsteby@asker.kommune.no</a><br></p><p><a href='https://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+ '>Les meir om produksjonen</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -442,6 +752,18 @@ DESCRIPTION:KLASSER\\nFrelsesarmeens  Trollstua barnehage: 3-6 år (30)\\nN
  thiesen  +47 95 74 71 01  janne.mathiesen@norlandia.com\\n\\nINFO\\nhttps:
  //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
  1285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Frelsesarmeens  Trollstua bar
+ nehage:</b> 3-6 år (30)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 å
+ r gruppe1 (16)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>F
+ relsesarmeens  Trollstua barnehage</b><br>Tlf: +47 66 78 74 86<br>Kristin 
+ Blütecher &nbsp; +47 41 45 14 58 &nbsp; <a href='mailto:kristin.blutecher
+ @frelsesarmeen.no'>kristin.blutecher@frelsesarmeen.no</a><br></p><p><b>Nor
+ landia Lilleborgen barnehage</b><br>Tlf: +47 66 79 40 19<br>Janne Mathiese
+ n &nbsp; +47 95 74 71 01 &nbsp; <a href='mailto:janne.mathiesen@norlandia.
+ com'>janne.mathiesen@norlandia.com</a><br></p><p><a href='https://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les 
+ meir om produksjonen</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -458,6 +780,18 @@ DESCRIPTION:KLASSER\\nØsthellinga barnehage: 3-6 år (28)\\nNorlandia Lill
  hage\\n  Tlf: +47 66 79 40 19\\n  Janne Mathiesen  +47 95 74 71 01  janne.
  mathiesen@norlandia.com\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
  o/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Østhellinga barnehage:</b> 3
+ -6 år (28)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 år gruppe2 (12
+ )<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b></p><p><b>Østhellinga b
+ arnehage</b><br>Tlf: +47 66 90 82 00<br>Anita Sønsteby &nbsp; +47 97 15 4
+ 5 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteb
+ y@asker.kommune.no</a><br></p><p><b>Norlandia Lilleborgen barnehage</b><br
+ >Tlf: +47 66 79 40 19<br>Janne Mathiesen &nbsp; +47 95 74 71 01 &nbsp; <a 
+ href='mailto:janne.mathiesen@norlandia.com'>janne.mathiesen@norlandia.com<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body>
+ </html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -471,6 +805,14 @@ DESCRIPTION:KLASSER\\nBorgen barnehage: 3-6 år (35)\\nTotalt: 35 elevar\\n
  \\nKONTAKT\\nBorgen barnehage\\n  Tlf: +47 66 71 52 84\\n  Anita Sønsteby
    +47 97 15 45 08  anita.sonsteby@asker.kommune.no\\n\\nINFO\\nhttps://www
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen barnehage:</b> 3-6 år
+  (35)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen bar
+ nehage</b><br>Tlf: +47 66 71 52 84<br>Anita Sønsteby &nbsp; +47 97 15 45 
+ 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjon
+ en</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -487,6 +829,17 @@ DESCRIPTION:KLASSER\\nBrendsrud barnehage: 3-6 år (13)\\nSøndre Borgen ba
   24 66 37\\n  Anita Sønsteby  +47 97 15 45 08  anita.sonsteby@asker.kommu
  ne.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
  oner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Brendsrud barnehage:</b> 3-6 
+ år (13)<br><b>Søndre Borgen barnehage:</b> 3-6 år gruppe1 (30)<br><b>To
+ talt: 43 elevar</b></p><p><b>KONTAKT</b></p><p><b>Brendsrud barnehage</b><
+ br>Tlf: +47 66 79 55 10<br>Anita Sønsteby &nbsp; +47 97 15 45 08 &nbsp; <
+ a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@asker.kommu
+ ne.no</a><br></p><p><b>Søndre Borgen barnehage</b><br>Tlf: +47 93 24 66 3
+ 7<br>Anita Sønsteby &nbsp; +47 97 15 45 08 &nbsp; <a href='mailto:anita.s
+ onsteby@asker.kommune.no'>anita.sonsteby@asker.kommune.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -505,6 +858,20 @@ DESCRIPTION:KLASSER\\nEspira Gullhella barnehage: 3-6 år (22)\\nStinaløkk
  \\n  Tlf: +47 66 90 47 15\\n  Berit Saur  +47 90 40 56 25  dagligleder@tor
  phoymyr.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
  duksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Espira Gullhella barnehage:</
+ b> 3-6 år (22)<br><b>Stinaløkka Kanvas-Barnehage:</b> 3-6 år (22)<br><b
+ >Torp Høymyr barnehage Sa:</b> 3-6 år (29)<br><b>Totalt: 73 elevar</b></
+ p><p><b>KONTAKT</b></p><p><b>Espira Gullhella barnehage</b><br>Tlf: +47 66
+  75 84 84<br>Regine Gulliksen &nbsp; +47 90 22 82 36 &nbsp; <a href='mailt
+ o:styrer.blakstad@espira.no'>styrer.blakstad@espira.no</a><br></p><p><b>St
+ inaløkka Kanvas-Barnehage</b><br>Tlf: +47 93 25 17 77<br>Astrid Sødal &n
+ bsp; +47 40 10 49 54 &nbsp; <a href='mailto:astri.sodal@kanvas.no'>astri.s
+ odal@kanvas.no</a><br></p><p><b>Torp Høymyr barnehage Sa</b><br>Tlf: +47 
+ 66 90 47 15<br>Berit Saur &nbsp; +47 90 40 56 25 &nbsp; <a href='mailto:da
+ gligleder@torphoymyr.no'>dagligleder@torphoymyr.no</a><br></p><p><a href='
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Heggedal innbyggertorg – Fyrstikken
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -524,6 +891,21 @@ DESCRIPTION:KLASSER\\nEngelsrud barnehage: 3-6 år (18)\\nGjellum barnehage
   Bjertnes  +47 92 81 44 64  merete.bjertnes@asker.kommune.no\\n\\nINFO\\nh
  ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
  jon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Engelsrud barnehage:</b> 3-6 
+ år (18)<br><b>Gjellum barnehage Idrett og Friluftsliv:</b> 3-6 år (18)<b
+ r><b>Heggedalskogen barnehage:</b> 3-6 år Bringebær (16), 3-6 år Jordb�
+ �r (18)<br><b>Totalt: 70 elevar</b></p><p><b>KONTAKT</b></p><p><b>Engels
+ rud barnehage</b><br>Tlf: +47 66 75 40 91<br>Maria Forvik &nbsp; +47 41 67
+  69 22 &nbsp; <a href='mailto:mf347@kirken.no'>mf347@kirken.no</a><br></p>
+ <p><b>Gjellum barnehage Idrett og Friluftsliv</b><br>Tlf: +47 92 81 44 64<
+ br>Merete Bjertnes &nbsp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.bj
+ ertnes@asker.kommune.no'>merete.bjertnes@asker.kommune.no</a><br></p><p><b
+ >Heggedalskogen barnehage</b><br>Tlf: +47 66 79 88 00<br>Merete Bjertnes &
+ nbsp; +47 92 81 44 64 &nbsp; <a href='mailto:merete.bjertnes@asker.kommune
+ .no'>merete.bjertnes@asker.kommune.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>L
+ es meir om produksjonen</a></p></body></html>
 LOCATION:Heggedal innbyggertorg – Fyrstikken
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -541,6 +923,19 @@ DESCRIPTION:KLASSER\\nBleikerfaret barnehage: 3-6 år (50)\\nBåstadmyra ba
  no\\n  Lars Martin Tannæs-Fjeld  +47 94 05 15 93  larsmartin@bastadmyra.n
  o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
  -i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bleikerfaret barnehage:</b> 3
+ -6 år (50)<br><b>Båstadmyra barnehage Sa:</b> 3-6 år (44)<br><b>Totalt:
+  94 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bleikerfaret barnehage</b><br
+ >Tlf: +47 99 01 29 00<br>Kjeti l Halvorsen &nbsp; +47 97 14 88 89 &nbsp; <
+ a href='mailto:kjetil.halvorsen@asker.kommune.no'>kjetil.halvorsen@asker.k
+ ommune.no</a><br></p><p><b>Båstadmyra barnehage Sa</b><br>Tlf: +47 93 43 
+ 99 61<br>Ellen Bråten &nbsp; +47 94 05 15 92 &nbsp; <a href='mailto:ellen
+ .braathen@bastadmyra.no'>ellen.braathen@bastadmyra.no</a><br>Lars Martin T
+ annæs-Fjeld &nbsp; +47 94 05 15 93 &nbsp; <a href='mailto:larsmartin@bast
+ admyra.no'>larsmartin@bastadmyra.no</a><br></p><p><a href='https://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les
+  meir om produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -558,6 +953,20 @@ DESCRIPTION:KLASSER\\nEspira Blakstad barnehage: 3-6 år (58)\\nLeikestua b
  eien barnehage\\n  Tlf: +47 97 14 88 89\\n  Kjeti l Halvorsen  +47 97 14 8
  8 89  kjetil.halvorsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
  lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Espira Blakstad barnehage:</b
+ > 3-6 år (58)<br><b>Leikestua barnehage:</b> 3-6 år (24)<br><b>Morellvei
+ en barnehage:</b> 3-6 år (25)<br><b>Totalt: 107 elevar</b></p><p><b>KONTA
+ KT</b></p><p><b>Espira Blakstad barnehage</b><br>Christine  Bratberg &nbsp
+ ; +47 45 86 69 15 &nbsp; <a href='mailto:blakstad@espira.no'>blakstad@espi
+ ra.no</a><br></p><p><b>Leikestua barnehage</b><br>Tlf: +47 47 01 96 07<br>
+ Linda  Kramer &nbsp; +47 47 01 96 07 &nbsp; <a href='mailto:leikestua@onli
+ ne.no'>leikestua@online.no</a><br></p><p><b>Morellveien barnehage</b><br>T
+ lf: +47 97 14 88 89<br>Kjeti l Halvorsen &nbsp; +47 97 14 88 89 &nbsp; <a 
+ href='mailto:kjetil.halvorsen@asker.kommune.no'>kjetil.halvorsen@asker.kom
+ mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p
+ ></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -576,6 +985,20 @@ DESCRIPTION:KLASSER\\nBillingstad barnehage: 3-6 år (54)\\nFuruly barnehag
  1 75 84 40\\n  Sofie  Bøe  +47 95 15 25 97  sofie.boe@asker.kommune.no\\n
  \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
  ks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Billingstad barnehage:</b> 3-
+ 6 år (54)<br><b>Furuly barnehage:</b> 3-6 år (18)<br><b>Føyka barnehage
+  Ånnerudveien:</b> 3-6 år (21)<br><b>Totalt: 93 elevar</b></p><p><b>KONT
+ AKT</b></p><p><b>Billingstad barnehage</b><br>Tlf: +47 66 85 12 40<br>Elin
+  Brandsarbakken &nbsp; +47 95 74 85 83 &nbsp; <a href='mailto:trine@billin
+ gstadbarnehage.no'>trine@billingstadbarnehage.no</a><br></p><p><b>Furuly b
+ arnehage</b><br>Tlf: +47 40 45 23 56<br>Camilla Aksnes &nbsp; +47 40 45 23
+  56 &nbsp; <a href='mailto:post@furuly-barnehage.no'>post@furuly-barnehage
+ .no</a><br></p><p><b>Føyka barnehage Ånnerudveien</b><br>Tlf: +47 91 75 
+ 84 40<br>Sofie  Bøe &nbsp; +47 95 15 25 97 &nbsp; <a href='mailto:sofie.b
+ oe@asker.kommune.no'>sofie.boe@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -592,6 +1015,18 @@ DESCRIPTION:KLASSER\\nLæringsverkstedet Velodromen idrettsbh: 3-6 år (62)
  ingsverkstedet Bekkeveien bh\\n  Tlf: +47 37 07 15 28\\n  Janicke Olsen  +
  47 99 47 21 09  bekkeveien@laringsverkstedet.no\\n\\nINFO\\nhttps://www.de
  nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Læringsverkstedet Velodromen
+  idrettsbh:</b> 3-6 år (62)<br><b>Læringsverkstedet Bekkeveien bh:</b> 3
+ -6 år (32)<br><b>Totalt: 94 elevar</b></p><p><b>KONTAKT</b></p><p><b>Lær
+ ingsverkstedet Velodromen idrettsbh</b><br>Tlf: +47 37 07 16 91<br>Marie O
+ snes &nbsp; +47 99 52 37 69 &nbsp; <a href='mailto:velodromen@laringsverks
+ tedet.no'>velodromen@laringsverkstedet.no</a><br></p><p><b>Læringsverkste
+ det Bekkeveien bh</b><br>Tlf: +47 37 07 15 28<br>Janicke Olsen &nbsp; +47 
+ 99 47 21 09 &nbsp; <a href='mailto:bekkeveien@laringsverkstedet.no'>bekkev
+ eien@laringsverkstedet.no</a><br></p><p><a href='https://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om p
+ roduksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -609,6 +1044,20 @@ DESCRIPTION:KLASSER\\nSem barnehage: 3-6 år (20)\\nSolgården barnehage: 3
  Nakuhel-Barnehagen Sa\\n  Tlf: +47 99 12 02 36\\n  Merete  Wanggaard  +47 
  99 12 02 36  post@nakuhelbarnehagen.no\\n\\nINFO\\nhttps://www.denkulturel
  leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sem barnehage:</b> 3-6 år (2
+ 0)<br><b>Solgården barnehage:</b> 3-6 år (50)<br><b>Nakuhel-Barnehagen S
+ a:</b> 3-6 år (19)<br><b>Totalt: 89 elevar</b></p><p><b>KONTAKT</b></p><p
+ ><b>Sem barnehage</b><br>Tlf: +47 93 23 71 04<br>Johanne Haug &nbsp; +47 9
+ 3 23 71 04 &nbsp; <a href='mailto:dagligledersembarnehage@gmail.com'>dagli
+ gledersembarnehage@gmail.com</a><br></p><p><b>Solgården barnehage</b><br>
+ Petra Prestrønning &nbsp; +47 91 75 84 40 &nbsp; <a href='mailto:petra.pr
+ estronning@asker.kommune.no'>petra.prestronning@asker.kommune.no</a><br></
+ p><p><b>Nakuhel-Barnehagen Sa</b><br>Tlf: +47 99 12 02 36<br>Merete  Wangg
+ aard &nbsp; +47 99 12 02 36 &nbsp; <a href='mailto:post@nakuhelbarnehagen.
+ no'>post@nakuhelbarnehagen.no</a><br></p><p><a href='https://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir 
+ om produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -628,6 +1077,23 @@ DESCRIPTION:KLASSER\\nNedre Bleiker Barnehus: 3-6 år (49)\\nÅnnerud Barne
  ne.no\\n  Kjeti l Halvorsen  +47 97 14 88 89  kjetil.halvorsen@asker.kommu
  ne.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
  oner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nedre Bleiker Barnehus:</b> 3
+ -6 år (49)<br><b>Ånnerud Barnehus Sa:</b> 3-6 år (18)<br><b>Åby barneh
+ age:</b> 3-6 år (18)<br><b>Totalt: 85 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Nedre Bleiker Barnehus</b><br>Amalie F. &nbsp; +47 95 71 00 10 &nbsp
+ ; <a href='mailto:dagligleder@nbbh.no'>dagligleder@nbbh.no</a><br></p><p><
+ b>Ånnerud Barnehus Sa</b><br>Tlf: +47 96 94 46 50<br>Per Erik Jenssen &nb
+ sp; +47 92 87 77 85 &nbsp; <a href='mailto:kontor@annerudtoppen.no'>kontor
+ @annerudtoppen.no</a><br></p><p><b>Åby barnehage</b><br>Tlf: +47 99 16 85
+  42<br>Suniva Høyer &nbsp; +47 99 16 85 42 &nbsp; <a href='mailto:sunniva
+ hoyer1997@gmail.com'>sunnivahoyer1997@gmail.com</a><br>Bodil Iren Nordvik 
+ &nbsp; +47 91 74 56 48 &nbsp; <a href='mailto:bodil.nordvik@asker.kommune.
+ no'>bodil.nordvik@asker.kommune.no</a><br>Kjeti l Halvorsen &nbsp; +47 97 
+ 14 88 89 &nbsp; <a href='mailto:kjetil.halvorsen@asker.kommune.no'>kjetil.
+ halvorsen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om 
+ produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -646,6 +1112,21 @@ DESCRIPTION:KLASSER\\nFøyka barnehage Gamle Drammensvei: 3-6 år (30)\\nHa
  rydendal barnehage\\n  Tlf: +47 90 17 89 37\\n  Karin  Grøndahl Anderse  
  +47 47 75 55 05  frydbarn@online.no\\n\\nINFO\\nhttps://www.denkulturelles
  kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Føyka barnehage Gamle Dramme
+ nsvei:</b> 3-6 år (30)<br><b>Hanevold Barnegård AS:</b> 3-6 år (26)<br>
+ <b>Frydendal barnehage:</b> 3-6 år (38)<br><b>Totalt: 94 elevar</b></p><p
+ ><b>KONTAKT</b></p><p><b>Føyka barnehage Gamle Drammensvei</b><br>Tlf: +4
+ 7 91 75 84 40<br>Petra Prestrønning &nbsp; +47 91 75 84 40 &nbsp; <a href
+ ='mailto:petra.prestronning@asker.kommune.no'>petra.prestronning@asker.kom
+ mune.no</a><br></p><p><b>Hanevold Barnegård AS</b><br>Tlf: +47 45 91 84 2
+ 6<br>Kristin Mikkelsen &nbsp; +47 45 91 84 26 &nbsp; <a href='mailto:dagli
+ gleder@hanevoldbarnegard.no'>dagligleder@hanevoldbarnegard.no</a><br></p><
+ p><b>Frydendal barnehage</b><br>Tlf: +47 90 17 89 37<br>Karin  Grøndahl A
+ nderse &nbsp; +47 47 75 55 05 &nbsp; <a href='mailto:frydbarn@online.no'>f
+ rydbarn@online.no</a><br></p><p><a href='https://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjo
+ nen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -664,6 +1145,20 @@ DESCRIPTION:KLASSER\\nSolstad barnehage: 3-6 år (36)\\nVardåsen barnehage
   +47 90 94 72 17\\n  Anne Frogner  +47 90 94 72 17  anne.frogner@annerudto
  ppen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
  sjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Solstad barnehage:</b> 3-6 å
+ r (36)<br><b>Vardåsen barnehage Sa:</b> 3-6 år (28)<br><b>Ånnerudtoppen
+  barnehage Sa:</b> 3-6 år (54)<br><b>Totalt: 118 elevar</b></p><p><b>KONT
+ AKT</b></p><p><b>Solstad barnehage</b><br>Tlf: +47 91 71 45 63<br>Sissel S
+ ønju Moltzau &nbsp; +47 97 47 10 10 &nbsp; <a href='mailto:sissel.moltzau
+ @asker.kommune.no'>sissel.moltzau@asker.kommune.no</a><br></p><p><b>Vardå
+ sen barnehage Sa</b><br>Tlf: +47 99 86 47 72<br>Lise Le Hoai Ngoc Hoai Ngo
+ c &nbsp; +47 99 86 47 72 &nbsp; <a href='mailto:lise@vardba.no'>lise@vardb
+ a.no</a><br></p><p><b>Ånnerudtoppen barnehage Sa</b><br>Tlf: +47 90 94 72
+  17<br>Anne Frogner &nbsp; +47 90 94 72 17 &nbsp; <a href='mailto:anne.fro
+ gner@annerudtoppen.no'>anne.frogner@annerudtoppen.no</a><br></p><p><a href
+ ='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
+ uksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285

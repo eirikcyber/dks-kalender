@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20260609T104721Z
+LAST-MODIFIED:20260609T105043Z
 BEGIN:VEVENT
 UID:dks-550221@asker.dks
 DTSTART:20260828T073000Z
@@ -28,6 +28,30 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  n  Anne Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kom
  mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
  sjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Spikkestad ungdomsskole</b><br>Avreise:
+  09:00 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+ emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
+ skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>La
+ ndøya ungdomsskole</b><br>Avreise: 09:10 &nbsp; Retur: 13:30<br>VY Turbus
+ s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
+ ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
+ fon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Landøya ungdomsskol
+ e:</b> 9D (30), 9B (29)<br><b>Spikkestad ungdomsskole:</b> 9A (28), 9D (26
+ )<br><b>Totalt: 113 elevar</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungd
+ omsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 
+ 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.no'>mona.engeb
+ retsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbs
+ p; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>truls.ernani.v
+ alentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &
+ nbsp; <a href='mailto:malmfrid.larsen.dalheim@asker.kommune.no'>malmfrid.l
+ arsen.dalheim@asker.kommune.no</a><br></p><p><b>Spikkestad ungdomsskole</b
+ ><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 
+ &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathri
+ ne.frogner@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
+ leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775'>Les meir om
+  produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -59,6 +83,37 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  m@asker.kommune.no\\n  Line Nordvik  +47 90 84 04 39  line.nordvik@asker.k
  ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
  uksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Landøya ungdomsskole</b><br>Avreise: 0
+ 9:10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikem
+ ark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sk
+ ole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Rise
+ nga ungdomsskole</b><br>Avreise: 09:10 &nbsp; Retur: 13:30<br>VY Turbuss f
+ rakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjelde
+ nde tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefon
+  Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/g�
+ �r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-
+ billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>B
+ orgen ungdomsskole:</b> 9A (27)<br><b>Landøya ungdomsskole:</b> 9C (30), 
+ 9A (30)<br><b>Risenga ungdomsskole:</b> 9C (27)<br><b>Totalt: 114 elevar</
+ b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71
+  54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href=
+ 'mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christopher
+ sen@asker.kommune.no</a><br></p><p><b>Landøya ungdomsskole</b><br>Tlf: +4
+ 7 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='m
+ ailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no
+ </a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:trul
+ s.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.
+ no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:m
+ almfrid.larsen.dalheim@asker.kommune.no'>malmfrid.larsen.dalheim@asker.kom
+ mune.no</a><br></p><p><b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<
+ br>Marianne Norheim &nbsp; +47 90 69 53 73 &nbsp; <a href='mailto:marianne
+ .enderle.norheim@asker.kommune.no'>marianne.enderle.norheim@asker.kommune.
+ no</a><br>Line Nordvik &nbsp; +47 90 84 04 39 &nbsp; <a href='mailto:line.
+ nordvik@asker.kommune.no'>line.nordvik@asker.kommune.no</a><br></p><p><a h
+ ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
+ roduksjon=24775'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -87,6 +142,31 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
   32 27 81 70\\n  Hilde Weseth  +47 95 30 40 09  hweseth@askerskolen.no\\n\
  \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
  s/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+ emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
+ skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>S�
+ �tre ungdomsskole</b><br>Avreise: 08:50 &nbsp; Retur: 13:30<br>VY Turbus
+ s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
+ ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
+ fon Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler
+ /går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS
+ -billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>
+ Slemmestad ungdomsskole:</b> 9B (29), 9C (29)<br><b>Borgen ungdomsskole:</
+ b> 9B (27)<br><b>Sætre ungdomsskole:</b> 9b (25)<br><b>Totalt: 110 elevar
+ </b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47
+  31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='m
+ ailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@as
+ ker.kommune.no</a><br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 
+ 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='
+ mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christophers
+ en@asker.kommune.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 3
+ 2 27 81 70<br>Hilde Weseth &nbsp; +47 95 30 40 09 &nbsp; <a href='mailto:h
+ weseth@askerskolen.no'>hweseth@askerskolen.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 24775'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -117,6 +197,35 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  o\\n  Line Nordvik  +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nIN
  FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
  roduksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Volle
+ n ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss fra
+ kter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeldend
+ e tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefon V
+ y Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/går
+  eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bill
+ etter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Volle
+ n ungdomsskole:</b> 9 sør (21)<br><b>Borgen ungdomsskole:</b> 9C (29)<br>
+ <b>Risenga ungdomsskole:</b> 9A (28), 9D (28)<br><b>Totalt: 106 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Vollen ungdomsskole</b><br>Tlf: +47 66 71 5
+ 2 50<br>Mette Andersen &nbsp; +47 91 75 87 22 &nbsp; <a href='mailto:mette
+ .andersen@asker.kommune.no'>mette.andersen@asker.kommune.no</a><br>Line Ut
+ engen &nbsp; +47 90 68 52 33 &nbsp; <a href='mailto:line.stenrud.utengen@a
+ sker.kommune.no'>line.stenrud.utengen@asker.kommune.no</a><br></p><p><b>Bo
+ rgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen
+  &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@a
+ sker.kommune.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p>
+ <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Marianne Norheim &n
+ bsp; +47 90 69 53 73 &nbsp; <a href='mailto:marianne.enderle.norheim@asker
+ .kommune.no'>marianne.enderle.norheim@asker.kommune.no</a><br>Line Nordvik
+  &nbsp; +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.
+ no'>line.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775'>Les m
+ eir om produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -145,6 +254,32 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frog
  ner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/u
  tforsk-produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Torstad ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Spikk
+ estad ungdomsskole</b><br>Avreise: 09:00 &nbsp; Retur: 13:30<br>VY Turbuss
+  frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjel
+ dende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelef
+ on Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/
+ går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-
+ billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>T
+ orstad ungdomsskole:</b> 9E (25), 9F (25)<br><b>Borgen ungdomsskole:</b> 9
+ D (28)<br><b>Spikkestad ungdomsskole:</b> 9E (22), 9F (24)<br><b>Totalt: 1
+ 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tl
+ f: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href=
+ 'mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a>
+ <br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Mari
+ e Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.
+ christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune.n
+ o</a><br></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>
+ Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a href='mailto:anne.c
+ athrine.frogner@asker.kommune.no'>anne.cathrine.frogner@asker.kommune.no</
+ a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
+ uksjoner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body><
+ /html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -177,6 +312,37 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  omsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53
   30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+ emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
+ skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>St
+ einerskolen i Hurum</b><br>Avreise: 08:50 &nbsp; Retur: 13:30<br>VY Turbus
+ s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
+ ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
+ fon Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler
+ /går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS
+ -billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdomss
+ kole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved kol
+ lektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><
+ p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9D (28)<br
+ ><b>Hovedgården ungdomsskole:</b> 9A (27)<br><b>Steinerskolen i Hurum:</b
+ > 9 (20)<br><b>Borgen ungdomsskole:</b> VKK 9-10 trinn (17)<br><b>Totalt: 
+ 120 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><b
+ r>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; 
+ <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgit
+ te.sund@asker.kommune.no</a><br></p><p><b>Hovedgården ungdomsskole</b><br
+ >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
+ ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
+ no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>J
+ eanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@s
+ teinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Borgen un
+ gdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp;
+  +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.ko
+ mmune.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href
+ ='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
+ uksjon=24775'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -212,6 +378,42 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  askersteinerskole.no\\n  Anne-Mette Bøe  +47 90 66 73 87  anne.boe@askers
  teinerskole.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
  -produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Spikkestad ungdomsskole</b><br>Avreise:
+  09:00 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+ emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
+ skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>St
+ einerskolen i Asker</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbus
+ s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
+ ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
+ fon Vy Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykle
+ r/går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFU
+ S-billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdoms
+ skole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved ko
+ llektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p>
+ <p><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b> 9B (27)<br><b>So
+ lvang ungdomsskole:</b> 9A (23)<br><b>Spikkestad ungdomsskole:</b> 9B (25)
+ , 9C (25)<br><b>Steinerskolen i Asker:</b> 9 (15)<br><b>Totalt: 115 elevar
+ </b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf: +
+ 47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='ma
+ ilto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a><
+ br></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 66 71 23 50<br>Torgeir E
+ ngen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto:torgeir.engen@asker.kom
+ mune.no'>torgeir.engen@asker.kommune.no</a><br>Linda Tyvand Hovet &nbsp; +
+ 47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand.hovet@asker.kommune.no'
+ >linda.tyvand.hovet@asker.kommune.no</a><br></p><p><b>Spikkestad ungdomssk
+ ole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 
+ 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.
+ cathrine.frogner@asker.kommune.no</a><br></p><p><b>Steinerskolen i Asker</
+ b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbsp; +47 98 03 49 34 &nbsp;
+  <a href='mailto:marianne.stai@askersteinerskole.no'>marianne.stai@askerst
+ einerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp; <a href='ma
+ ilto:david.whyte@askersteinerskole.no'>david.whyte@askersteinerskole.no</a
+ ><br>Anne-Mette Bøe &nbsp; +47 90 66 73 87 &nbsp; <a href='mailto:anne.bo
+ e@askersteinerskole.no'>anne.boe@askersteinerskole.no</a><br></p><p><a hre
+ f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -240,6 +442,33 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  +47 45 21 94 47  torgeir.engen@asker.kommune.no\\n  Linda Tyvand Hovet  +4
  7 90 67 80 85  linda.tyvand.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Torstad ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Tofte
+  ungdomsskole</b><br>Avreise: 08:35 &nbsp; Retur: 13:30<br>VY Turbuss frak
+ ter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeldende
+  tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefon Vy
+  Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykler/går
+  eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bill
+ etter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Torst
+ ad ungdomsskole:</b> 9C (25), 9D (25)<br><b>Tofte ungdomsskole:</b> 9A (24
+ ), 9B (25)<br><b>Solvang ungdomsskole:</b> 9B (25)<br><b>Totalt: 124 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 6
+ 6 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto:
+ mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br></p>
+ <p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-R
+ ønning &nbsp; +47 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskolen
+ .no'>jveitait@askerskolen.no</a><br></p><p><b>Solvang ungdomsskole</b><br>
+ Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a hre
+ f='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</
+ a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:lin
+ da.tyvand.hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><
+ br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
+ joner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></ht
+ ml>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -273,6 +502,39 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  christine.birgitte.sun
  d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
  orsk-produksjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Sætre ungdomsskole</b><br>Avreise: 08:
+ 50 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikemar
+ k og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra skol
+ e og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Slemme
+ stad ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss 
+ frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeld
+ ende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefo
+ n Vy Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykler/
+ går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-
+ billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdomssk
+ ole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved koll
+ ektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><p
+ ><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b> 9C (27)<br><b>Sæt
+ re ungdomsskole:</b> 9c (26), 9a (25)<br><b>Solvang ungdomsskole:</b> 9C (
+ 24)<br><b>Slemmestad ungdomsskole:</b> VKK 9-10 trinn (12)<br><b>Totalt: 1
+ 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><
+ br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a
+  href='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommun
+ e.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>H
+ ilde Weseth &nbsp; +47 95 30 40 09 &nbsp; <a href='mailto:hweseth@askersko
+ len.no'>hweseth@askerskolen.no</a><br></p><p><b>Solvang ungdomsskole</b><b
+ r>Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a h
+ ref='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no
+ </a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:l
+ inda.tyvand.hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a
+ ><br></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Chri
+ stine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:christine.birg
+ itte.sund@asker.kommune.no'>christine.birgitte.sund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -303,6 +565,35 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  vet  +47 90 67 80 85  linda.tyvand.hovet@asker.kommune.no\\n\\nINFO\\nhttp
  s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
  =24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Torstad ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Volle
+ n ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss fra
+ kter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeldend
+ e tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefon V
+ y Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykler/gå
+ r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
+ letter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Tors
+ tad ungdomsskole:</b> 9A (25), 9B (25)<br><b>Vollen ungdomsskole:</b> 9 no
+ rd (21), 9 øst (22)<br><b>Solvang ungdomsskole:</b> 9D (23)<br><b>Totalt:
+  116 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>
+ Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a hre
+ f='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</
+ a><br></p><p><b>Vollen ungdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette A
+ ndersen &nbsp; +47 91 75 87 22 &nbsp; <a href='mailto:mette.andersen@asker
+ .kommune.no'>mette.andersen@asker.kommune.no</a><br>Line Utengen &nbsp; +4
+ 7 90 68 52 33 &nbsp; <a href='mailto:line.stenrud.utengen@asker.kommune.no
+ '>line.stenrud.utengen@asker.kommune.no</a><br></p><p><b>Solvang ungdomssk
+ ole</b><br>Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &n
+ bsp; <a href='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.k
+ ommune.no</a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href=
+ 'mailto:linda.tyvand.hovet@asker.kommune.no'>linda.tyvand.hovet@asker.komm
+ une.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfo
+ rsk-produksjoner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p>
+ </body></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -327,6 +618,27 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  hool\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@ask
  eris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
  sjoner-i-dks/?produksjon=24775
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
+ um</p><p><b>TRANSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Avreise: 09
+ :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
+ rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
+ le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Stift
+ elsen Asker International School</b><br>Elevene sykler/går eller tar koll
+ ektivt til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes.
+  Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole
+ :</b> 9B (27), 9E (28)<br><b>Stiftelsen Asker International School:</b> 9a
+  (19), 9b (21), 9c (20)<br><b>Totalt: 115 elevar</b></p><p><b>KONTAKT</b><
+ /p><p><b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Marianne Norh
+ eim &nbsp; +47 90 69 53 73 &nbsp; <a href='mailto:marianne.enderle.norheim
+ @asker.kommune.no'>marianne.enderle.norheim@asker.kommune.no</a><br>Line N
+ ordvik &nbsp; +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.ko
+ mmune.no'>line.nordvik@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker 
+ International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +4
+ 7 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></
+ html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
