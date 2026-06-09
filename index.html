@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DKS Asker – Kalenderabonnement</title>
+<style>
+  :root {
+    --blaa: #1a3a5c;
+    --blaa-lys: #e8f0f8;
+    --gul: #f0b429;
+    --graa: #5a6270;
+    --graa-lys: #f5f6f8;
+    --kant: #dde2ea;
+    --text: #1c2128;
+    --radius: 8px;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--graa-lys);
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  header {
+    background: var(--blaa);
+    color: white;
+    padding: 2rem 2rem 1.5rem;
+    border-bottom: 4px solid var(--gul);
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+
+  header p {
+    margin-top: 0.4rem;
+    font-size: 0.9rem;
+    opacity: 0.75;
+  }
+
+  main {
+    max-width: 720px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+
+  .seksjon {
+    margin-bottom: 2rem;
+  }
+
+  .seksjon-tittel {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--graa);
+    margin-bottom: 0.6rem;
+    padding-left: 0.25rem;
+  }
+
+  .kort-liste {
+    background: white;
+    border: 1px solid var(--kant);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .kort {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--kant);
+  }
+
+  .kort:last-child {
+    border-bottom: none;
+  }
+
+  .kort-namn {
+    flex: 1;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+
+  .kort-url {
+    font-size: 0.75rem;
+    color: var(--graa);
+    font-family: "Courier New", monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 260px;
+  }
+
+  .kopier-btn {
+    flex-shrink: 0;
+    background: var(--blaa-lys);
+    color: var(--blaa);
+    border: none;
+    border-radius: 5px;
+    padding: 0.35rem 0.7rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+    white-space: nowrap;
+  }
+
+  .kopier-btn:hover {
+    background: #cfe0f5;
+  }
+
+  .kopier-btn.kopiert {
+    background: #d4edda;
+    color: #1a6b35;
+  }
+
+  .hjelp {
+    background: white;
+    border: 1px solid var(--kant);
+    border-radius: var(--radius);
+    padding: 1.25rem 1.25rem;
+  }
+
+  .hjelp h3 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+  }
+
+  .hjelp ol {
+    padding-left: 1.2rem;
+    font-size: 0.88rem;
+    color: var(--graa);
+    line-height: 1.8;
+  }
+
+  .hjelp ol li strong {
+    color: var(--text);
+  }
+
+  .oppdatert {
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--graa);
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>DKS Asker – Kalenderabonnement</h1>
+  <p>Abonner på DKS-programmet direkte i Outlook eller anna kalenderprogram</p>
+</header>
+
+<main>
+
+  <div class="seksjon">
+    <div class="seksjon-tittel">Samlefeedar</div>
+    <div class="kort-liste" id="samle-liste"></div>
+  </div>
+
+  <div class="seksjon">
+    <div class="seksjon-tittel">Ungdomsskular</div>
+    <div class="kort-liste" id="ungdom-liste"></div>
+  </div>
+
+  <div class="seksjon" id="barne-seksjon" style="display:none">
+    <div class="seksjon-tittel">Barneskular</div>
+    <div class="kort-liste" id="barne-liste"></div>
+  </div>
+
+  <div class="seksjon">
+    <div class="seksjon-tittel">Slik abonnerer du i Outlook</div>
+    <div class="hjelp">
+      <h3>Legg til kalender fraa internett</h3>
+      <ol>
+        <li>Klikk <strong>Kopier URL</strong> ved sidan av skulen din</li>
+        <li>Aapne <strong>Outlook</strong> og ga til <strong>Kalender</strong></li>
+        <li>Klikk <strong>Legg til kalender</strong> og vel <strong>Fra Internett</strong></li>
+        <li>Lim inn URL-en og klikk <strong>OK</strong></li>
+        <li>Kalenderem oppdaterer seg automatisk kvar dag</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="oppdatert" id="oppdatert-txt">Oppdatert i dag</div>
+
+</main>
+
+<script>
+const BASE = "https://eirikcyber.github.io/dks-kalender";
+
+const SAMLE = [
+  { namn: "Alle arrangement i Asker",  fil: "dks_asker.ics" },
+  { namn: "Barnehageprogram",          fil: "dks_asker_barnehage.ics" },
+  { namn: "Barneskuleprogramm",        fil: "dks_asker_barneskule.ics" },
+  { namn: "Ungdomsskuleprogram",       fil: "dks_asker_ungdomsskule.ics" },
+];
+
+const UNGDOM = [
+  { namn: "Borgen ungdomsskole",       fil: "skular/borgen-ungdomsskole.ics" },
+  { namn: "Hovedgården ungdomsskole",  fil: "skular/hovedgaarden-ungdomsskole.ics" },
+  { namn: "Landøya ungdomsskole",      fil: "skular/landoeya-ungdomsskole.ics" },
+  { namn: "Risenga ungdomsskole",      fil: "skular/risenga-ungdomsskole.ics" },
+  { namn: "Slemmestad ungdomsskole",   fil: "skular/slemmestad-ungdomsskole.ics" },
+  { namn: "Solvang ungdomsskole",      fil: "skular/solvang-ungdomsskole.ics" },
+  { namn: "Spikkestad ungdomsskole",   fil: "skular/spikkestad-ungdomsskole.ics" },
+  { namn: "Sætre ungdomsskole",        fil: "skular/saetre-ungdomsskole.ics" },
+  { namn: "Tofte ungdomsskole",        fil: "skular/tofte-ungdomsskole.ics" },
+  { namn: "Torstad ungdomsskole",      fil: "skular/torstad-ungdomsskole.ics" },
+  { namn: "Vollen ungdomsskole",       fil: "skular/vollen-ungdomsskole.ics" },
+  { namn: "Asker International School",fil: "skular/stiftelsen-asker-international-school.ics" },
+  { namn: "Steinerskolen i Asker",     fil: "skular/steinerskolen-i-asker.ics" },
+  { namn: "Steinerskolen i Hurum",     fil: "skular/steinerskolen-i-hurum.ics" },
+];
+
+const BARNE = [
+  { namn: "Arnestad skole",            fil: "skular/arnestad-skole.ics" },
+  { namn: "Billingstad skole",         fil: "skular/billingstad-skole.ics" },
+  { namn: "Blakstad skole",            fil: "skular/blakstad-skole.ics" },
+  { namn: "Bondi skole",               fil: "skular/bondi-skole.ics" },
+  { namn: "Drengsrud skole",           fil: "skular/drengsrud-skole.ics" },
+  { namn: "Folkestad skole",           fil: "skular/folkestad-skole.ics" },
+  { namn: "Frydenlund barneskole",     fil: "skular/frydenlund-barneskole.ics" },
+  { namn: "Hagaløkka skole",           fil: "skular/hagalokka-skole.ics" },
+  { namn: "Heggedal skole",            fil: "skular/heggedal-skole.ics" },
+  { namn: "Hofstad skole",             fil: "skular/hofstad-skole.ics" },
+  { namn: "Hvalstad skole",            fil: "skular/hvalstad-skole.ics" },
+  { namn: "Hyggen skole",              fil: "skular/hyggen-skole.ics" },
+  { namn: "Jansløkka skole",           fil: "skular/janslokka-skole.ics" },
+  { namn: "Mellom-Nes skole",          fil: "skular/mellom-nes-skole.ics" },
+  { namn: "Midtbygda barneskole",      fil: "skular/midtbygda-barneskole.ics" },
+  { namn: "Nesøya skole",              fil: "skular/nesoea-skole.ics" },
+  { namn: "Nærsnes barneskole",        fil: "skular/naersnes-barneskole.ics" },
+  { namn: "Rønningen skole",           fil: "skular/ronningen-skole.ics" },
+  { namn: "Slemmestad barneskole",     fil: "skular/slemmestad-barneskole.ics" },
+  { namn: "Solberg skole",             fil: "skular/solberg-skole.ics" },
+  { naam: "Spikkestad barneskole",     fil: "skular/spikkestad-barneskole.ics" },
+  { namn: "Sydskogen barneskole",      fil: "skular/sydskogen-barneskole.ics" },
+  { namn: "Sætre skole",               fil: "skular/saetre-skole.ics" },
+  { namn: "Tofte skole",               fil: "skular/tofte-skole.ics" },
+  { namn: "Torvbråten barneskole",     fil: "skular/torvbraaten-barneskole.ics" },
+  { namn: "Vardåsen skole",            fil: "skular/vardaasen-skole.ics" },
+  { namn: "Vettre skole",              fil: "skular/vettre-skole.ics" },
+  { namn: "Vollen Montessoriskole",    fil: "skular/vollen-montessoriskole.ics" },
+];
+
+function lagKort(item) {
+  const url = `${BASE}/${item.fil}`;
+  const div = document.createElement("div");
+  div.className = "kort";
+  div.innerHTML = `
+    <div>
+      <div class="kort-namn">${item.namn}</div>
+      <div class="kort-url">${url}</div>
+    </div>
+    <button class="kopier-btn" data-url="${url}">Kopier URL</button>
+  `;
+  div.querySelector(".kopier-btn").addEventListener("click", function() {
+    navigator.clipboard.writeText(this.dataset.url).then(() => {
+      this.textContent = "Kopiert!";
+      this.classList.add("kopiert");
+      setTimeout(() => {
+        this.textContent = "Kopier URL";
+        this.classList.remove("kopiert");
+      }, 2000);
+    });
+  });
+  return div;
+}
+
+function fyllListe(id, items) {
+  const el = document.getElementById(id);
+  items.forEach(item => el.appendChild(lagKort(item)));
+}
+
+fyllListe("samle-liste", SAMLE);
+fyllListe("ungdom-liste", UNGDOM);
+fyllListe("barne-liste", BARNE);
+
+// Vis barneskuleseksjonen (kjem i bruk fraa august)
+document.getElementById("barne-seksjon").style.display = "block";
+
+// Oppdateringstidspunkt
+const no = new Date();
+document.getElementById("oppdatert-txt").textContent =
+  `Kalenderdata oppdatert: ${no.toLocaleDateString("no-NO", {day:"numeric", month:"long", year:"numeric"})}`;
+</script>
+</body>
+</html>
