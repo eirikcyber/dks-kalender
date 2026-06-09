@@ -38,7 +38,13 @@ def fetch_events():
         req = urllib.request.Request(
             API_URL,
             data=body,
-            headers={"Content-Type": "application/json"},
+            headers={
+                "Content-Type": "application/json",
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15",
+                "Accept": "application/json, */*;q=0.8",
+                "Origin": "https://www.denkulturelleskolesekken.no",
+                "Referer": "https://www.denkulturelleskolesekken.no/asker",
+            },
             method="POST",
         )
         with urllib.request.urlopen(req, timeout=30) as r:
