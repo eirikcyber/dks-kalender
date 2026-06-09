@@ -5,14 +5,29 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260609T101401Z
+LAST-MODIFIED:20260609T104229Z
 BEGIN:VEVENT
 UID:dks-550220@asker.dks
 DTSTART:20260911T073000Z
 DTEND:20260911T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Skule: Risenga ungdomsskole\, Stiftelsen Asker International Sc
- hool\\nElevar: 115
+DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
+ RANSPORT\\nRisenga ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
+ rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
+  gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
+ telefon Vy Buss er 91658600\\nStiftelsen Asker International School\\n  El
+ evene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtranspor
+ t\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\nRi
+ senga ungdomsskole: 9B (27)\, 9E (28)\\nStiftelsen Asker International Sch
+ ool: 9a (19)\, 9b (21)\, 9c (20)\\nTotalt: 115 elevar\\n\\nKONTAKT\\nRisen
+ ga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Marianne Norheim  +47 90 69 5
+ 3 73  marianne.enderle.norheim@asker.kommune.no\\n  Line Nordvik  +47 90 8
+ 4 04 39  line.nordvik@asker.kommune.no\\nStiftelsen Asker International Sc
+ hool\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@ask
+ eris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=24775
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775
 END:VEVENT
 END:VCALENDAR

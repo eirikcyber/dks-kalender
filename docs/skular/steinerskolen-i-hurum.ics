@@ -5,14 +5,37 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Hurum
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Hurum
-LAST-MODIFIED:20260609T101401Z
+LAST-MODIFIED:20260609T104229Z
 BEGIN:VEVENT
 UID:dks-550215@asker.dks
 DTSTART:20260904T073000Z
 DTEND:20260904T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Skule: Slemmestad ungdomsskole\, Hovedgården ungdomsskole\, St
- einerskolen i Hurum\, Borgen ungdomsskole\\nElevar: 120
+DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
+ RANSPORT\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
+  Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
+  Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
+ akttelefon Vy Buss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 08:50 
+  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og til
+ bake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avr
+ eise fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\
+ n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtra
+ nsport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\nHovedgård
+ en ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark.
+  Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS A
+ sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9D (28)\\nHovedgår
+ den ungdomsskole: 9A (27)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
+ skole: VKK 9-10 trinn (17)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nSlemmestad 
+ ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 
+ 09  christine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\
+ n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevi
+ k@asker.kommune.no\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Je
+ anette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nBorgen ungd
+ omsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53
+  30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www
+ .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775
 END:VEVENT
 END:VCALENDAR

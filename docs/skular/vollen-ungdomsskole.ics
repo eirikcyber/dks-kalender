@@ -5,23 +5,65 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vollen ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vollen ungdomsskole
-LAST-MODIFIED:20260609T101401Z
+LAST-MODIFIED:20260609T104229Z
 BEGIN:VEVENT
 UID:dks-550213@asker.dks
 DTSTART:20260902T073000Z
 DTEND:20260902T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Skule: Vollen ungdomsskole\, Borgen ungdomsskole\, Risenga ungd
- omsskole\\nElevar: 106
+DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
+ RANSPORT\\nRisenga ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
+ rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
+  gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
+ telefon Vy Buss er 91658600\\nVollen ungdomsskole\\n  Avreise: 09:05  Retu
+ r: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilbake 
+ etter besøket. Se gjeldende tidspunkter for avreise fra skole og avreise 
+ fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n  El
+ evene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtranspor
+ t\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\nVo
+ llen ungdomsskole: 9 sør (21)\\nBorgen ungdomsskole: 9C (29)\\nRisenga un
+ gdomsskole: 9A (28)\, 9D (28)\\nTotalt: 106 elevar\\n\\nKONTAKT\\nVollen u
+ ngdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette Andersen  +47 91 75 87 22  
+ mette.andersen@asker.kommune.no\\n  Line Utengen  +47 90 68 52 33  line.st
+ enrud.utengen@asker.kommune.no\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54
+  00\\n  Anne-Marie Christophersen  +47 99 53 30 36  anne-marie.christopher
+ sen@asker.kommune.no\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  M
+ arianne Norheim  +47 90 69 53 73  marianne.enderle.norheim@asker.kommune.n
+ o\\n  Line Nordvik  +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nIN
+ FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
+ roduksjon=24775
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-550219@asker.dks
 DTSTART:20260910T073000Z
 DTEND:20260910T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Skule: Torstad ungdomsskole\, Vollen ungdomsskole\, Solvang ung
- domsskole\\nElevar: 116
+DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
+ RANSPORT\\nTorstad ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
+ rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
+  gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
+ telefon Vy Buss er 91658600\\nVollen ungdomsskole\\n  Avreise: 09:05  Retu
+ r: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilbake 
+ etter besøket. Se gjeldende tidspunkter for avreise fra skole og avreise 
+ fra Dikemark. Vakttelefon Vy Buss er 91658600\\nSolvang ungdomsskole\\n  E
+ levene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtranspo
+ rt\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\nT
+ orstad ungdomsskole: 9A (25)\, 9B (25)\\nVollen ungdomsskole: 9 nord (21)\
+ , 9 øst (22)\\nSolvang ungdomsskole: 9D (23)\\nTotalt: 116 elevar\\n\\nKO
+ NTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +
+ 47 41 22 17 79  mari.tvethaug@asker.kommune.no\\nVollen ungdomsskole\\n  T
+ lf: +47 66 71 52 50\\n  Mette Andersen  +47 91 75 87 22  mette.andersen@as
+ ker.kommune.no\\n  Line Utengen  +47 90 68 52 33  line.stenrud.utengen@ask
+ er.kommune.no\\nSolvang ungdomsskole\\n  Tlf: +47 66 71 23 50\\n  Torgeir 
+ Engen  +47 45 21 94 47  torgeir.engen@asker.kommune.no\\n  Linda Tyvand Ho
+ vet  +47 90 67 80 85  linda.tyvand.hovet@asker.kommune.no\\n\\nINFO\\nhttp
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =24775
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775
 END:VEVENT
 END:VCALENDAR
