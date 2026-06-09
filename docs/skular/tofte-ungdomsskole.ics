@@ -1,0 +1,18 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DKS Asker//Kalender//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DKS Tofte ungdomsskole
+X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte ungdomsskole
+LAST-MODIFIED:20260609T100018Z
+BEGIN:VEVENT
+UID:dks-550217@asker.dks
+DTSTART:20260908T073000Z
+DTEND:20260908T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Torstad ungdomsskole\, Tofte ungdomsskole\, Solvang ungd
+ omsskole\\nElevar: 124
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+END:VCALENDAR

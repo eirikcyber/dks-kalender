@@ -5,7 +5,106 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20260609T093837Z
+LAST-MODIFIED:20260609T100018Z
+BEGIN:VEVENT
+UID:dks-550221@asker.dks
+DTSTART:20260828T073000Z
+DTEND:20260828T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Landøya ungdomsskole\, Spikkestad ungdomsskole\\nElevar
+ : 113
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550211@asker.dks
+DTSTART:20260831T073000Z
+DTEND:20260831T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Borgen ungdomsskole\, Landøya ungdomsskole\, Risenga un
+ gdomsskole\\nElevar: 114
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550212@asker.dks
+DTSTART:20260901T073000Z
+DTEND:20260901T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Slemmestad ungdomsskole\, Borgen ungdomsskole\, Sætre u
+ ngdomsskole\\nElevar: 110
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550213@asker.dks
+DTSTART:20260902T073000Z
+DTEND:20260902T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Vollen ungdomsskole\, Borgen ungdomsskole\, Risenga ungd
+ omsskole\\nElevar: 106
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550214@asker.dks
+DTSTART:20260903T073000Z
+DTEND:20260903T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Torstad ungdomsskole\, Borgen ungdomsskole\, Spikkestad 
+ ungdomsskole\\nElevar: 124
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550215@asker.dks
+DTSTART:20260904T073000Z
+DTEND:20260904T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Slemmestad ungdomsskole\, Hovedgården ungdomsskole\, St
+ einerskolen i Hurum\, Borgen ungdomsskole\\nElevar: 120
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550216@asker.dks
+DTSTART:20260907T073000Z
+DTEND:20260907T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Hovedgården ungdomsskole\, Solvang ungdomsskole\, Spikk
+ estad ungdomsskole\, Steinerskolen i Asker\\nElevar: 115
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550217@asker.dks
+DTSTART:20260908T073000Z
+DTEND:20260908T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Torstad ungdomsskole\, Tofte ungdomsskole\, Solvang ungd
+ omsskole\\nElevar: 124
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550218@asker.dks
+DTSTART:20260909T073000Z
+DTEND:20260909T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Hovedgården ungdomsskole\, Sætre ungdomsskole\, Solvan
+ g ungdomsskole\, Slemmestad ungdomsskole\\nElevar: 114
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550219@asker.dks
+DTSTART:20260910T073000Z
+DTEND:20260910T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Torstad ungdomsskole\, Vollen ungdomsskole\, Solvang ung
+ domsskole\\nElevar: 116
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550220@asker.dks
+DTSTART:20260911T073000Z
+DTEND:20260911T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Risenga ungdomsskole\, Stiftelsen Asker International Sc
+ hool\\nElevar: 115
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
 BEGIN:VEVENT
 UID:dks-482112@asker.dks
 DTSTART:20260914T083000Z

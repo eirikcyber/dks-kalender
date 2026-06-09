@@ -3,16 +3,25 @@ VERSION:2.0
 PRODID:-//DKS Asker//Kalender//NO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:DKS Asker barneskule
-X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
+X-WR-CALNAME:DKS Spikkestad ungdomsskole
+X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
 LAST-MODIFIED:20260609T100018Z
 BEGIN:VEVENT
-UID:dks-550215@asker.dks
-DTSTART:20260904T073000Z
-DTEND:20260904T113000Z
+UID:dks-550221@asker.dks
+DTSTART:20260828T073000Z
+DTEND:20260828T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Skule: Slemmestad ungdomsskole\, Hovedgården ungdomsskole\, St
- einerskolen i Hurum\, Borgen ungdomsskole\\nElevar: 120
+DESCRIPTION:Skule: Landøya ungdomsskole\, Spikkestad ungdomsskole\\nElevar
+ : 113
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550214@asker.dks
+DTSTART:20260903T073000Z
+DTEND:20260903T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Torstad ungdomsskole\, Borgen ungdomsskole\, Spikkestad 
+ ungdomsskole\\nElevar: 124
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 END:VEVENT
 BEGIN:VEVENT
