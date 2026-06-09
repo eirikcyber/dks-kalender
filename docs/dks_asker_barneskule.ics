@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barneskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
-LAST-MODIFIED:20260609T100018Z
+LAST-MODIFIED:20260609T100407Z
 BEGIN:VEVENT
 UID:dks-550215@asker.dks
 DTSTART:20260904T073000Z
@@ -22,6 +22,15 @@ DTEND:20260907T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Skule: Hovedgården ungdomsskole\, Solvang ungdomsskole\, Spikk
  estad ungdomsskole\, Steinerskolen i Asker\\nElevar: 115
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-550220@asker.dks
+DTSTART:20260911T073000Z
+DTEND:20260911T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Risenga ungdomsskole\, Stiftelsen Asker International Sc
+ hool\\nElevar: 115
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 END:VEVENT
 END:VCALENDAR

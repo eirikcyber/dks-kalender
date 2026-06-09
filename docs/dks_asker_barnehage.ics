@@ -1,0 +1,359 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DKS Asker//Kalender//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DKS Asker barnehage
+X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
+LAST-MODIFIED:20260609T100407Z
+BEGIN:VEVENT
+UID:dks-482112@asker.dks
+DTSTART:20260914T083000Z
+DTEND:20260914T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Holmen barnehage\\nElevar: 52
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482113@asker.dks
+DTSTART:20260914T100000Z
+DTEND:20260914T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Hval Gård barnehage\\nElevar: 70
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482114@asker.dks
+DTSTART:20260915T083000Z
+DTEND:20260915T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Vekstbarnehagen\, Læringsverkstedet Vestre Billingstad 
+ Naturbarnehage\\nElevar: 45
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482115@asker.dks
+DTSTART:20260915T100000Z
+DTEND:20260915T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Vendla barnehage\, Nesøya barnehage\\nElevar: 42
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482116@asker.dks
+DTSTART:20260916T083000Z
+DTEND:20260916T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Holmentoppen barnehage\, Hvalstad barnehage\, Landøya b
+ arnehage\\nElevar: 47
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482117@asker.dks
+DTSTART:20260916T100000Z
+DTEND:20260916T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Vendla barnehage\, Nesbru barnehage\\nElevar: 39
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482118@asker.dks
+DTSTART:20260917T083000Z
+DTEND:20260917T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Vendla barnehage\, Bikuben barnehage\, Læringsverkstede
+ t Bjørndalen barnehage\\nElevar: 48
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482119@asker.dks
+DTSTART:20260917T100000Z
+DTEND:20260917T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Vendla barnehage\, Stiftelsen Tertitten Barnehage\, Mell
+ om-Nes Fus barnehage AS\\nElevar: 54
+LOCATION:Holmen innbyggertorg – Panorama
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482122@asker.dks
+DTSTART:20260922T083000Z
+DTEND:20260922T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Doktorgården barnehage\, Kana barnehage\\nElevar: 51
+LOCATION:Tofte samfunnshus – Storsalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482123@asker.dks
+DTSTART:20260922T100000Z
+DTEND:20260922T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Gulspurven barnehage\, Norlandia Ødegården Barnehage\\
+ nElevar: 41
+LOCATION:Tofte samfunnshus – Storsalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482124@asker.dks
+DTSTART:20260923T083000Z
+DTEND:20260923T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Bitehagen barnehage Sa\, Carpe Diem Idrett og Naturbarne
+ hage\, 100-Meterskogen barnehage AS\\nElevar: 59
+LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482125@asker.dks
+DTSTART:20260923T100000Z
+DTEND:20260923T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Heggum barnehage AS\, Hyggen barnehage\, Helledammen Fus
+  barnehage AS\\nElevar: 58
+LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482126@asker.dks
+DTSTART:20260924T083000Z
+DTEND:20260924T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Røyken barnehage\, Spikkestad Kanvas-Barnehage\\nElevar
+ : 65
+LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482127@asker.dks
+DTSTART:20260924T100000Z
+DTEND:20260924T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Paletten Kanvas-Barnehage\, Kjekstadmarka Kanvas-Barneha
+ ge\, Midtbygda Kanvas-Barnehage\\nElevar: 75
+LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482128@asker.dks
+DTSTART:20261006T083000Z
+DTEND:20261006T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Morbergtoppen FUS barnehage\\nElevar: 60
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482129@asker.dks
+DTSTART:20261006T100000Z
+DTEND:20261006T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Norlandia Nilsemarka barnehage\, Torvbråten Kanvas-Barn
+ ehage\\nElevar: 85
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482130@asker.dks
+DTSTART:20261007T083000Z
+DTEND:20261007T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Bjerkås barnehage\, Nansentunet Musikkbarnehage\, Nærs
+ nes barnehage SA\\nElevar: 69
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482131@asker.dks
+DTSTART:20261007T100000Z
+DTEND:20261007T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Nærsnes kystbarnehage AS\, Sydskogen barnehage\\nElevar
+ : 63
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482132@asker.dks
+DTSTART:20261008T083000Z
+DTEND:20261008T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Bjerkåsholmen barnehage AS\, Slemmestad barnehage\\nEle
+ var: 61
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482133@asker.dks
+DTSTART:20261008T100000Z
+DTEND:20261008T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Utforskeren Kanvas-Barnehage\\nElevar: 52
+LOCATION:Slemmestad MEK – Slemmestad MEK
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482134@asker.dks
+DTSTART:20261009T083000Z
+DTEND:20261009T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Espira Årosfjellet barnehage\, Klokkarstua barnehage\, 
+ Slingrebekken barnehage\, Norlandia Ødegården Barnehage\\nElevar: 69
+LOCATION:Sætre innbyggertorg – Dynamitten
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482135@asker.dks
+DTSTART:20261009T100000Z
+DTEND:20261009T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Nedre Høvik Fus barnehage\, Spiren barnehage\, Askeladd
+ en Steinerbarnehage\, Norlandia Ødegården Barnehage\\nElevar: 69
+LOCATION:Sætre innbyggertorg – Dynamitten
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482136@asker.dks
+DTSTART:20261012T083000Z
+DTEND:20261012T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Barnas Hus Gullhella\, Hallenåsen Familiebarnehage\, Vi
+ kingjordet barnehage Åmotåsen\, Østenstad Menighetsbarnehage\\nElevar: 
+ 61
+LOCATION:Heggedal innbyggertorg – Fyrstikken
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482137@asker.dks
+DTSTART:20261012T100000Z
+DTEND:20261012T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Kistefossdammen barnehage\\nElevar: 68
+LOCATION:Heggedal innbyggertorg – Fyrstikken
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482138@asker.dks
+DTSTART:20261013T083000Z
+DTEND:20261013T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Borgen Skog barnehage\\nElevar: 45
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482139@asker.dks
+DTSTART:20261013T100000Z
+DTEND:20261013T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Søndre Borgen barnehage\\nElevar: 30
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482140@asker.dks
+DTSTART:20261014T083000Z
+DTEND:20261014T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Frelsesarmeens  Trollstua barnehage\, Norlandia Lillebor
+ gen barnehage\\nElevar: 46
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482141@asker.dks
+DTSTART:20261014T100000Z
+DTEND:20261014T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Østhellinga barnehage\, Norlandia Lilleborgen barnehage
+ \\nElevar: 40
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482142@asker.dks
+DTSTART:20261015T083000Z
+DTEND:20261015T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Borgen barnehage\\nElevar: 35
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482143@asker.dks
+DTSTART:20261015T100000Z
+DTEND:20261015T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Brendsrud barnehage\, Søndre Borgen barnehage\\nElevar:
+  43
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482144@asker.dks
+DTSTART:20261019T083000Z
+DTEND:20261019T090500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Espira Gullhella barnehage\, Stinaløkka Kanvas-Barnehag
+ e\, Torp Høymyr barnehage Sa\\nElevar: 73
+LOCATION:Heggedal innbyggertorg – Fyrstikken
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482145@asker.dks
+DTSTART:20261019T100000Z
+DTEND:20261019T103500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Engelsrud barnehage\, Gjellum barnehage Idrett og Friluf
+ tsliv\, Heggedalskogen barnehage\\nElevar: 70
+LOCATION:Heggedal innbyggertorg – Fyrstikken
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482146@asker.dks
+DTSTART:20261026T093000Z
+DTEND:20261026T100500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Bleikerfaret barnehage\, Båstadmyra barnehage Sa\\nElev
+ ar: 94
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482147@asker.dks
+DTSTART:20261026T110000Z
+DTEND:20261026T113500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Espira Blakstad barnehage\, Leikestua barnehage\, Morell
+ veien barnehage\\nElevar: 107
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482148@asker.dks
+DTSTART:20261027T093000Z
+DTEND:20261027T100500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Billingstad barnehage\, Furuly barnehage\, Føyka barneh
+ age Ånnerudveien\\nElevar: 93
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482149@asker.dks
+DTSTART:20261027T110000Z
+DTEND:20261027T113500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Læringsverkstedet Velodromen idrettsbh\, Læringsverkst
+ edet Bekkeveien bh\\nElevar: 94
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482150@asker.dks
+DTSTART:20261028T093000Z
+DTEND:20261028T100500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Sem barnehage\, Solgården barnehage\, Nakuhel-Barnehage
+ n Sa\\nElevar: 89
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482151@asker.dks
+DTSTART:20261028T110000Z
+DTEND:20261028T113500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Nedre Bleiker Barnehus\, Ånnerud Barnehus Sa\, Åby bar
+ nehage\\nElevar: 85
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482152@asker.dks
+DTSTART:20261029T093000Z
+DTEND:20261029T100500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Føyka barnehage Gamle Drammensvei\, Hanevold Barnegård
+  AS\, Frydendal barnehage\\nElevar: 94
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482153@asker.dks
+DTSTART:20261029T110000Z
+DTEND:20261029T113500Z
+SUMMARY:Hvor er du kjære kjære roboten min?
+DESCRIPTION:Skule: Solstad barnehage\, Vardåsen barnehage Sa\, Ånnerudtop
+ pen barnehage Sa\\nElevar: 118
+LOCATION:Asker Kulturhus – Multisal
+END:VEVENT
+END:VCALENDAR

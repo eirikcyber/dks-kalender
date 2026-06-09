@@ -1,0 +1,18 @@
+﻿BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DKS Asker//Kalender//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DKS Stiftelsen Asker International School
+X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
+LAST-MODIFIED:20260609T100407Z
+BEGIN:VEVENT
+UID:dks-550220@asker.dks
+DTSTART:20260911T073000Z
+DTEND:20260911T113000Z
+SUMMARY:Dagstur til Dikemark (9. trinn)
+DESCRIPTION:Skule: Risenga ungdomsskole\, Stiftelsen Asker International Sc
+ hool\\nElevar: 115
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+END:VEVENT
+END:VCALENDAR
