@@ -5,11 +5,33 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260609T105044Z
+LAST-MODIFIED:20260812T083551Z
+BEGIN:VEVENT
+UID:dks-538211@asker.dks
+DTSTART:20260827T070000Z
+DTEND:20260827T073500Z
+SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 1a (21)\, 2a (
+ 21)\, 1b (21)\, 2b (21)\, 1c (22)\, 2c (22)\\nTotalt: 128 elevar\\n\\nKONT
+ AKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  J
+ ames Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 1a (21), 2a (21), 1b (21), 2b (21), 1c (22), 2c (22)<br><b>T
+ otalt: 128 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Inter
+ national School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 
+ 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=24433'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24433
+END:VEVENT
 BEGIN:VEVENT
 UID:dks-550220@asker.dks
-DTSTART:20260911T073000Z
-DTEND:20260911T113000Z
+DTSTART:20260910T073000Z
+DTEND:20260910T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nRisenga ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
@@ -50,5 +72,811 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-546096@asker.dks
+DTSTART:20260923T093000Z
+DTEND:20260923T120000Z
+SUMMARY:DKS Kulturvertkurs i Asker 2026
+DESCRIPTION:KLASSER\\nBlakstad skole: 7A (4)\\nSolberg skole: 6 (4)\\nStift
+ elsen Asker International School: 9a (4)\, 6a (4)\\nSteinerskolen i Asker:
+  6 (4)\\nHagaløkka skole: 6A (4)\\nTotalt: 24 elevar\\n\\nKONTAKT\\nBlaks
+ tad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lott
+ e.hansen@asker.kommune.no\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knu
+ t Engh  +47 99 79 10 69  knut.gustavsen.engh@asker.kommune.no\\nStiftelsen
+  Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47
+  94 83 92 91  james@askeris.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 
+ 26 80\\n  marianne  stai  +47 98 03 49 34  marianne.stai@askersteinerskole
+ .no\\n  DAVID WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n 
+  Anne-Mette Bøe  +47 90 66 73 87  anne.boe@askersteinerskole.no\\nHagalø
+ kka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  eh
+ alvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=24658
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 7A (4)<br
+ ><b>Solberg skole:</b> 6 (4)<br><b>Stiftelsen Asker International School:<
+ /b> 9a (4), 6a (4)<br><b>Steinerskolen i Asker:</b> 6 (4)<br><b>Hagaløkka
+  skole:</b> 6A (4)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p>
+ <b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 4
+ 1 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.han
+ sen@asker.kommune.no</a><br></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 
+ 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gust
+ avsen.engh@asker.kommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br><
+ /p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70
+ <br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@asker
+ is.no'>james@askeris.no</a><br></p><p><b>Steinerskolen i Asker</b><br>Tlf:
+  +47 66 85 26 80<br>marianne  stai &nbsp; +47 98 03 49 34 &nbsp; <a href='
+ mailto:marianne.stai@askersteinerskole.no'>marianne.stai@askersteinerskole
+ .no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp; <a href='mailto:david
+ .whyte@askersteinerskole.no'>david.whyte@askersteinerskole.no</a><br>Anne-
+ Mette Bøe &nbsp; +47 90 66 73 87 &nbsp; <a href='mailto:anne.boe@askerste
+ inerskole.no'>anne.boe@askersteinerskole.no</a><br></p><p><b>Hagaløkka sk
+ ole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &
+ nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.kommune.no
+ </a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=24658'>Les meir om produksjonen</a></p></body
+ ></html>
+LOCATION:Asker Kulturhus – Bjørn Carlsen-rommet
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24658
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-505717@asker.dks
+DTSTART:20261015T073000Z
+DTEND:20261015T090000Z
+SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
+ lsen Asker International School: 6b (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
+ ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6b (21)<br><
+ b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23232
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-513399@asker.dks
+DTSTART:20261015T090000Z
+DTEND:20261015T100000Z
+SUMMARY:Frankenstein (5. trinn)
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nVardåsen skole\\n  Elev
+ er blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgang og r
+ etur kommer. \\nHagaløkka skole\, Stiftelsen Asker International School\\
+ n  Elevene tar kollektivtransport (tog) til Det Norske teatret\, og tilbak
+ e igjen. DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nVardåsen skole
+ : 5A (22)\, 5B (24)\\nStiftelsen Asker International School: 5a (21)\\nHag
+ aløkka skole: 5A (23)\, 5B (23)\\nTotalt: 113 elevar\\n\\nKONTAKT\\nVard�
+ �sen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86
+  97  kdyrhaug@asker.kommune.no\\nStiftelsen Asker International School\\n 
+  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\
+ \nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 
+ 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
+ >Vardåsen skole</b><br>Elever blir fraktet med bestillerbuss (VY turbuss)
+ . Informasjon om avgang og retur kommer. </p><p><b>Hagaløkka skole, Stift
+ elsen Asker International School</b><br>Elevene tar kollektivtransport (to
+ g) til Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billet
+ ter. </p><p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 5A (22), 5B (24)<
+ br><b>Stiftelsen Asker International School:</b> 5a (21)<br><b>Hagaløkka 
+ skole:</b> 5A (23), 5B (23)<br><b>Totalt: 113 elevar</b></p><p><b>KONTAKT<
+ /b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyr
+ haug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.
+ no'>kdyrhaug@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker Internatio
+ nal School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92
+  91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><
+ p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp;
+  +47 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvor
+ s@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksj
+ onen</a></p></body></html>
+LOCATION:Det Norske Teatret – Scene 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-505718@asker.dks
+DTSTART:20261015T093000Z
+DTEND:20261015T110000Z
+SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
+ lsen Asker International School: 6a (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
+ ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6a (21)<br><
+ b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23232
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-505719@asker.dks
+DTSTART:20261016T073000Z
+DTEND:20261016T090000Z
+SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
+ lsen Asker International School: 6c (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
+ ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6c (21)<br><
+ b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23232
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-513400@asker.dks
+DTSTART:20261019T090000Z
+DTEND:20261019T100000Z
+SUMMARY:Frankenstein (5. trinn)
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nNesøya skole\, Stiftels
+ en Asker International School\\n  Elever blir fraktet med bestillerbuss (V
+ Y turbuss). Informasjon om avgang og retur kommer. \\nBondi skole\\n  Elev
+ ene tar kollektivtransport (tog) til Det Norske teatret\, og tilbake igjen
+ . DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nBondi skole: 5A (20)\,
+  5B (17)\\nNesøya skole: 5A (23)\, 5B (23)\\nStiftelsen Asker Internation
+ al School: 5b (21)\\nTotalt: 104 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf
+ : +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kom
+ mune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.
+ no\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
+ 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
+ 04 31  bjorn.erik.rannestad@asker.kommune.no\\nStiftelsen Asker Internatio
+ nal School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  jam
+ es@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=23665
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
+ >Nesøya skole, Stiftelsen Asker International School</b><br>Elever blir f
+ raktet med bestillerbuss (VY turbuss). Informasjon om avgang og retur komm
+ er. </p><p><b>Bondi skole</b><br>Elevene tar kollektivtransport (tog) til 
+ Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billetter. </
+ p><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 5A (20), 5B (17)<br><b>Nesø
+ ya skole:</b> 5A (23), 5B (23)<br><b>Stiftelsen Asker International School
+ :</b> 5b (21)<br><b>Totalt: 104 elevar</b></p><p><b>KONTAKT</b></p><p><b>B
+ ondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19
+  20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker
+ .kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='m
+ ailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a>
+ <br></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &
+ nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.n
+ o'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 
+ 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>
+ bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker In
+ ternational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 
+ 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><
+ br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
+ joner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></body></ht
+ ml>
+LOCATION:Det Norske Teatret – Scene 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-513407@asker.dks
+DTSTART:20261027T100000Z
+DTEND:20261027T110000Z
+SUMMARY:Frankenstein (5. trinn)
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nFrydenlund barneskole\\n
+   Elever blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgan
+ g og retur kommer. \\nJansløkka skole\, Stiftelsen Asker International Sc
+ hool\\n  Elevene tar kollektivtransport (tog) til Det Norske teatret\, og 
+ tilbake igjen. DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nFrydenlun
+ d barneskole: 5 (31)\\nStiftelsen Asker International School: 5c (21)\\nJa
+ nsløkka skole: 5A  (18)\, 5B (18)\, 5C (20)\\nTotalt: 108 elevar\\n\\nKON
+ TAKT\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Joh
+ ansen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Cecilie
+  Nordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.
+ kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 7
+ 0\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\nJansløkka skole\\
+ n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.ko
+ mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=23665
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
+ >Frydenlund barneskole</b><br>Elever blir fraktet med bestillerbuss (VY tu
+ rbuss). Informasjon om avgang og retur kommer. </p><p><b>Jansløkka skole,
+  Stiftelsen Asker International School</b><br>Elevene tar kollektivtranspo
+ rt (tog) til Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-
+ billetter. </p><p><b>KLASSER</b></p><p><b>Frydenlund barneskole:</b> 5 (31
+ )<br><b>Stiftelsen Asker International School:</b> 5c (21)<br><b>Jansløkk
+ a skole:</b> 5A  (18), 5B (18), 5C (20)<br><b>Totalt: 108 elevar</b></p><p
+ ><b>KONTAKT</b></p><p><b>Frydenlund barneskole</b><br>Tlf: +47 31 29 75 50
+ <br>Bente Reitan Johansen &nbsp; +47 95 23 45 43 &nbsp; <a href='mailto:be
+ nte.reitan.johansen@asker.kommune.no'>bente.reitan.johansen@asker.kommune.
+ no</a><br>Cecilie Nordbø Øyen (tilrettelagt) &nbsp; +47 97 56 35 89 &nbs
+ p; <a href='mailto:cecilie.nordbo.oyen@asker.kommune.no'>cecilie.nordbo.oy
+ en@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker International School
+ </b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp;
+  <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><b>Jansl
+ økka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 4
+ 6 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Det Norske Teatret – Scene 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482030@asker.dks
+DTSTART:20261106T080000Z
+DTEND:20261106T084500Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3a (21)\\nTota
+ lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 3a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482031@asker.dks
+DTSTART:20261106T090500Z
+DTEND:20261106T095000Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3b (21)\\nTota
+ lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 3b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482032@asker.dks
+DTSTART:20261106T103500Z
+DTEND:20261106T112000Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3c (22)\\nTota
+ lt: 22 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 3c (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483581@asker.dks
+DTSTART:20261109T100000Z
+DTEND:20261109T104500Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8a (19)\, 9a (
+ 19)\, 8b (21)\, 9b (21)\, 8c (20)\\nTotalt: 100 elevar\\n\\nKONTAKT\\nStif
+ telsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murph
+ y  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8a (19), 9a (19), 8b (21), 9b (21), 8c (20)<br><b>Totalt: 10
+ 0 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International 
+ School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 
+ &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21348'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483580@asker.dks
+DTSTART:20261109T124000Z
+DTEND:20261109T132500Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 10a (21)\, 10b
+  (21)\, 10c (21)\, 9c (20)\\nTotalt: 83 elevar\\n\\nKONTAKT\\nStiftelsen A
+ sker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 9
+ 4 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=21348
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 10a (21), 10b (21), 10c (21), 9c (20)<br><b>Totalt: 83 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International School<
+ /b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; 
+ <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=21348'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560177@asker.dks
+DTSTART:20261130T080000Z
+DTEND:20261130T084500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5a (21)
+ \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
+ \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
+ rnational School:</b> 5a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
+ 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
+ askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560178@asker.dks
+DTSTART:20261130T095000Z
+DTEND:20261130T103500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5b (21)
+ \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
+ \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
+ rnational School:</b> 5b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
+ 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
+ askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560179@asker.dks
+DTSTART:20261130T122000Z
+DTEND:20261130T130500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5c (21)
+ \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
+ \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
+ rnational School:</b> 5c (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
+ 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
+ askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559436@asker.dks
+DTSTART:20261211T090000Z
+DTEND:20261211T094500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nStiftelsen Asker I
+ nternational School: 8a (19)\, 8b (21)\\nTotalt: 40 elevar\\n\\nKONTAKT\\n
+ Stiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James M
+ urphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Stiftelsen Asker International School:</b> 8a (19), 8b (21)<br><b>T
+ otalt: 40 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Intern
+ ational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 8
+ 3 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br><
+ /p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Asker bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560814@asker.dks
+DTSTART:20270125T080000Z
+DTEND:20270125T084500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 10a (21)\\nTot
+ alt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tl
+ f: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 10a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<b
+ r>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris
+ .no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produ
+ ksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Asker bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560815@asker.dks
+DTSTART:20270125T093000Z
+DTEND:20270125T101500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 10b (21)\\nTot
+ alt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tl
+ f: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 10b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<b
+ r>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris
+ .no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produ
+ ksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Asker bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560816@asker.dks
+DTSTART:20270125T110000Z
+DTEND:20270125T114500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 10c (21)\\nTot
+ alt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tl
+ f: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 10c (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<b
+ r>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris
+ .no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produ
+ ksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Asker bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559589@asker.dks
+DTSTART:20270126T090500Z
+DTEND:20270126T094000Z
+SUMMARY:Kokken Tor (3.-4. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3a (21)\, 3b (
+ 21)\, 3c (22)\\nTotalt: 64 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internat
+ ional School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  j
+ ames@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=25176
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 3a (21), 3b (21), 3c (22)<br><b>Totalt: 64 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: 
+ +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mai
+ lto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25176'>
+ Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559590@asker.dks
+DTSTART:20270126T103500Z
+DTEND:20270126T111000Z
+SUMMARY:Kokken Tor (3.-4. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 4a (21)\, 4b (
+ 21)\, 4c (21)\\nTotalt: 63 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internat
+ ional School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  j
+ ames@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=25176
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 4a (21), 4b (21), 4c (21)<br><b>Totalt: 63 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: 
+ +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mai
+ lto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25176'>
+ Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480455@asker.dks
+DTSTART:20270202T073000Z
+DTEND:20270202T090000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8a (19)\\nTota
+ lt: 19 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8a (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480456@asker.dks
+DTSTART:20270202T093000Z
+DTEND:20270202T110000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8b (21)\\nTota
+ lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480457@asker.dks
+DTSTART:20270202T113000Z
+DTEND:20270202T130000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8c (20)\\nTota
+ lt: 20 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8c (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559437@asker.dks
+DTSTART:20270215T090000Z
+DTEND:20270215T094500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nStiftelsen Asker I
+ nternational School: 8c (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nStiftelsen
+  Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47
+  94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
+ ekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Stiftelsen Asker International School:</b> 8c (20)<br><b>Totalt: 20
+  elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International S
+ chool</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &
+ nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=24899'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Asker bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-552730@asker.dks
+DTSTART:20270217T083000Z
+DTEND:20270217T091500Z
+SUMMARY:Duo Sara og Ole (1.-7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7a (21)\, 6a (
+ 21)\, 5a (21)\, 4a (21)\, 3a (21)\, 1a (21)\, 2a (21)\\nTotalt: 147 elevar
+ \\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 0
+ 6 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 23367
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7a (21), 6a (21), 5a (21), 4a (21), 3a (21), 1a (21), 2a (21
+ )<br><b>Totalt: 147 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen As
+ ker International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp
+ ; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23367'>Les meir om produksjonen</a></p></bod
+ y></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-552731@asker.dks
+DTSTART:20270217T093000Z
+DTEND:20270217T101500Z
+SUMMARY:Duo Sara og Ole (1.-7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7b (21)\, 6b (
+ 21)\, 5b (21)\, 4b (21)\, 3b (21)\, 1b (21)\, 2b (21)\\nTotalt: 147 elevar
+ \\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 0
+ 6 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 23367
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7b (21), 6b (21), 5b (21), 4b (21), 3b (21), 1b (21), 2b (21
+ )<br><b>Totalt: 147 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen As
+ ker International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp
+ ; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23367'>Les meir om produksjonen</a></p></bod
+ y></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-552732@asker.dks
+DTSTART:20270217T103000Z
+DTEND:20270217T111500Z
+SUMMARY:Duo Sara og Ole (1.-7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7c (21)\, 6c (
+ 21)\, 5c (21)\, 4c (21)\, 3c (22)\, 1c (22)\, 2c (22)\\nTotalt: 150 elevar
+ \\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 0
+ 6 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 23367
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7c (21), 6c (21), 5c (21), 4c (21), 3c (22), 1c (22), 2c (22
+ )<br><b>Totalt: 150 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen As
+ ker International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp
+ ; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23367'>Les meir om produksjonen</a></p></bod
+ y></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545603@asker.dks
+DTSTART:20270319T075000Z
+DTEND:20270319T095000Z
+SUMMARY:Tilbake til Tottori (7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7a (21)\, 7b (
+ 21)\, 7c (21)\\nTotalt: 63 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internat
+ ional School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  j
+ ames@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=24641
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7a (21), 7b (21), 7c (21)<br><b>Totalt: 63 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: 
+ +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mai
+ lto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24641'>
+ Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker kino – Sal 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24641
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-523084@asker.dks
+DTSTART:20270409T080500Z
+DTEND:20270409T084000Z
+SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 4a (21)\, 4b (
+ 21)\, 3a (21)\, 1a (21)\, 2a (21)\, 2b (21)\\nTotalt: 126 elevar\\n\\nKONT
+ AKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  J
+ ames Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 4a (21), 4b (21), 3a (21), 1a (21), 2a (21), 2b (21)<br><b>T
+ otalt: 126 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Inter
+ national School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 
+ 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=24038'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-523085@asker.dks
+DTSTART:20270409T093500Z
+DTEND:20270409T101000Z
+SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 4c (21)\, 3b (
+ 21)\, 3c (22)\, 1b (21)\, 1c (22)\, 2c (22)\\nTotalt: 129 elevar\\n\\nKONT
+ AKT\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  J
+ ames Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 4c (21), 3b (21), 3c (22), 1b (21), 1c (22), 2c (22)<br><b>T
+ otalt: 129 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Inter
+ national School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 
+ 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=24038'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School – U1 Activity Room
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545539@asker.dks
+DTSTART:20270430T065000Z
+DTEND:20270430T085000Z
+SUMMARY:Klasseturen (9. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 9a (19)\, 9b (
+ 21)\, 9c (20)\\nTotalt: 60 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internat
+ ional School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  j
+ ames@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=24624
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 9a (19), 9b (21), 9c (20)<br><b>Totalt: 60 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: 
+ +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mai
+ lto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24624'>
+ Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker kino – Sal 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24624
 END:VEVENT
 END:VCALENDAR

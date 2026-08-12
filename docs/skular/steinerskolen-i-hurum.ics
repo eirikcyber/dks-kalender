@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Hurum
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Hurum
-LAST-MODIFIED:20260609T105044Z
+LAST-MODIFIED:20260812T083552Z
 BEGIN:VEVENT
 UID:dks-550215@asker.dks
-DTSTART:20260904T073000Z
-DTEND:20260904T113000Z
+DTSTART:20260901T073000Z
+DTEND:20260901T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
@@ -23,8 +23,8 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  nsport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\nHovedgård
  en ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark.
   Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS A
- sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9D (28)\\nHovedgår
- den ungdomsskole: 9A (27)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
+ sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\\nHovedgår
+ den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
  skole: VKK 9-10 trinn (17)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nSlemmestad 
  ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 
  09  christine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\
@@ -48,8 +48,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  -billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdomss
  kole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved kol
  lektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><
- p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9D (28)<br
- ><b>Hovedgården ungdomsskole:</b> 9A (27)<br><b>Steinerskolen i Hurum:</b
+ p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9B (29)<br
+ ><b>Hovedgården ungdomsskole:</b> 9A (26)<br><b>Steinerskolen i Hurum:</b
  > 9 (20)<br><b>Borgen ungdomsskole:</b> VKK 9-10 trinn (17)<br><b>Totalt: 
  120 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><b
  r>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; 
@@ -68,5 +68,507 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559204@asker.dks
+DTSTART:20260903T070000Z
+DTEND:20260903T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nFolkestad skol
+ e\\n  Avreise: 08:15  Retur: 13:30\\n  VY Turbuss frakter elevene fra skol
+ e til Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for
+  avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91
+ 658600\\nHyggen skole\\n  Avreise: 08:30  Retur: 13:30\\n  VY Turbuss frak
+ ter elevene fra skole til Asker museum og tilbake etter besøket. Se gjeld
+ ende tidspunkter for avreise fra skole og avreise fra Asker museum . Vaktt
+ elefon Vy Buss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 08:20  Ret
+ ur: 13:30\\n  VY Turbuss frakter elevene fra skole til Asker museum og til
+ bake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avr
+ eise fra Asker museum . Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nHyg
+ gen skole: 4 (16)\\nSteinerskolen i Hurum: 4 (11)\\nFolkestad skole: 4 (13
+ )\\nTotalt: 40 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14
+ \\n  Lene Austreng  +47 90 91 11 86  laustren@asker.kommune.no\\n  Anita T
+ ollefsen  +47 48 23 76 17  anita.tollefsen@asker.kommune.no\\nSteinerskole
+ n i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jea
+ nette.ward@steinerskolen.no\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n 
+  Ellen Engeland  +47 48 19 60 52  ellen.engeland@asker.kommune.no\\n  Gry 
+ Bente Olsen Brosø  +47 92 25 86 48  gry.bente.broso@asker.kommune.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
+ ></p><p><b>Folkestad skole</b><br>Avreise: 08:15 &nbsp; Retur: 13:30<br>VY
+  Turbuss frakter elevene fra skole til Asker museum og tilbake etter besø
+ ket. Se gjeldende tidspunkter for avreise fra skole og avreise fra Asker m
+ useum . Vakttelefon Vy Buss er 91658600</p><p><b>Hyggen skole</b><br>Avrei
+ se: 08:30 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til 
+ Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for avrei
+ se fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91658600
+ </p><p><b>Steinerskolen i Hurum</b><br>Avreise: 08:20 &nbsp; Retur: 13:30<
+ br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
+ besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
+ ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
+ >Hyggen skole:</b> 4 (16)<br><b>Steinerskolen i Hurum:</b> 4 (11)<br><b>Fo
+ lkestad skole:</b> 4 (13)<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b>
+ </p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp;
+  +47 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>laustre
+ n@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a
+  href='mailto:anita.tollefsen@asker.kommune.no'>anita.tollefsen@asker.komm
+ une.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<
+ br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.wa
+ rd@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Folke
+ stad skole</b><br>Tlf: +47 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 
+ 60 52 &nbsp; <a href='mailto:ellen.engeland@asker.kommune.no'>ellen.engela
+ nd@asker.kommune.no</a><br>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &
+ nbsp; <a href='mailto:gry.bente.broso@asker.kommune.no'>gry.bente.broso@as
+ ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
+ .no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen
+ </a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-546091@asker.dks
+DTSTART:20260914T073000Z
+DTEND:20260914T100000Z
+SUMMARY:DKS Kulturvertkurs i Asker 2026
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 9 (3)\, 7 (5)\\nFrydenlund bar
+ neskole: 7 (2)\, 6 (2)\\nSætre ungdomsskole: 9a (4)\\nSætre skole: 6a (5
+ )\\nTotalt: 21 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32
+  79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.
+ no\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Johan
+ sen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Cecilie N
+ ordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.ko
+ mmune.no\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\nSætre skole\\n  Tlf: +47 3
+ 2 27 83 30\\n  Hanne Lien Aaberg  +47 90 96 05 37  hanne.lien.aaberg@asker
+ .kommune.no\\n  Linda Syvertsen  +47 40 23 68 60  linda.syvertsen@asker.ko
+ mmune.no\\n  Skjalg Olsen  +47 95 07 47 37  skjalg.flesland.olsen@asker.ko
+ mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24658
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 9 
+ (3), 7 (5)<br><b>Frydenlund barneskole:</b> 7 (2), 6 (2)<br><b>Sætre ungd
+ omsskole:</b> 9a (4)<br><b>Sætre skole:</b> 6a (5)<br><b>Totalt: 21 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 
+ 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto
+ :jeanette.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p
+ ><p><b>Frydenlund barneskole</b><br>Tlf: +47 31 29 75 50<br>Bente Reitan J
+ ohansen &nbsp; +47 95 23 45 43 &nbsp; <a href='mailto:bente.reitan.johanse
+ n@asker.kommune.no'>bente.reitan.johansen@asker.kommune.no</a><br>Cecilie 
+ Nordbø Øyen (tilrettelagt) &nbsp; +47 97 56 35 89 &nbsp; <a href='mailto
+ :cecilie.nordbo.oyen@asker.kommune.no'>cecilie.nordbo.oyen@asker.kommune.n
+ o</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>Hild
+ e Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.solum@asker.ko
+ mmune.no'>hilde.solum@asker.kommune.no</a><br></p><p><b>Sætre skole</b><b
+ r>Tlf: +47 32 27 83 30<br>Hanne Lien Aaberg &nbsp; +47 90 96 05 37 &nbsp; 
+ <a href='mailto:hanne.lien.aaberg@asker.kommune.no'>hanne.lien.aaberg@aske
+ r.kommune.no</a><br>Linda Syvertsen &nbsp; +47 40 23 68 60 &nbsp; <a href=
+ 'mailto:linda.syvertsen@asker.kommune.no'>linda.syvertsen@asker.kommune.no
+ </a><br>Skjalg Olsen &nbsp; +47 95 07 47 37 &nbsp; <a href='mailto:skjalg.
+ flesland.olsen@asker.kommune.no'>skjalg.flesland.olsen@asker.kommune.no</a
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24658'>Les meir om produksjonen</a></p></body></
+ html>
+LOCATION:Sætre ungdomsklubb – klubben
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24658
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559774@asker.dks
+DTSTART:20260925T093000Z
+DTEND:20260925T110000Z
+SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
+DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
+ \n\\nKLASSER\\nHyggen skole: 6 (19)\\nSteinerskolen i Hurum: 6 (12)\\nTota
+ lt: 31 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14\\n  Len
+ e Austreng  +47 90 91 11 86  laustren@asker.kommune.no\\n  Anita Tollefsen
+   +47 48 23 76 17  anita.tollefsen@asker.kommune.no\\nSteinerskolen i Huru
+ m\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.wa
+ rd@steinerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=25157
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
+ nstmuseum</p><p><b>KLASSER</b></p><p><b>Hyggen skole:</b> 6 (19)<br><b>Ste
+ inerskolen i Hurum:</b> 6 (12)<br><b>Totalt: 31 elevar</b></p><p><b>KONTAK
+ T</b></p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &
+ nbsp; +47 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>la
+ ustren@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbs
+ p; <a href='mailto:anita.tollefsen@asker.kommune.no'>anita.tollefsen@asker
+ .kommune.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 2
+ 1 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanet
+ te.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=25157'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25157
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-538643@asker.dks
+DTSTART:20261006T100000Z
+DTEND:20261006T103500Z
+SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 1 (9)\, 2 (9)\\nTotalt: 18 ele
+ var\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jean
+ ette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=24433
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 1 
+ (9), 2 (9)<br><b>Totalt: 18 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stein
+ erskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 9
+ 4 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette
+ .ward@steinerskolen.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24433
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-513396@asker.dks
+DTSTART:20261012T090000Z
+DTEND:20261012T100000Z
+SUMMARY:Frankenstein (5. trinn)
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\, 
+ Steinerskolen i Hurum\\n  Elever blir fraktet med bestillerbuss (VY turbus
+ s). Informasjon om avgang og retur kommer. \\nHvalstad skole\\n  Elevene t
+ ar kollektivtransport (tog) til Det Norske teatret\, og tilbake igjen. DKS
+  Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nSteinerskolen i Hurum: 5 (1
+ 1)\\nSlemmestad barneskole: 5 (36)\\nHvalstad skole: 5A (18)\, 5B (18)\, 5
+ C (19)\\nTotalt: 102 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: 
+ +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steiners
+ kolen.no\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin 
+ Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nHvalstad
+  skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +
+ 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Kristine Tokle Klei
+ venes  +47 92 20 85 86  kristine.tokle.kleivenes@asker.kommune.no\\n  Anne
+  Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=23665
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
+ >Slemmestad barneskole, Steinerskolen i Hurum</b><br>Elever blir fraktet m
+ ed bestillerbuss (VY turbuss). Informasjon om avgang og retur kommer. </p>
+ <p><b>Hvalstad skole</b><br>Elevene tar kollektivtransport (tog) til Det N
+ orske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billetter. </p><p>
+ <b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 5 (11)<br><b>Slemmestad
+  barneskole:</b> 5 (36)<br><b>Hvalstad skole:</b> 5A (18), 5B (18), 5C (19
+ )<br><b>Totalt: 102 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen
+  i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 
+ 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@st
+ einerskolen.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 2
+ 9 34 00<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href='mai
+ lto:ann.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.kommun
+ e.no</a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine 
+ Norman Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailt
+ o:trine.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</
+ a><br>Kristine Tokle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mail
+ to:kristine.tokle.kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@ask
+ er.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; 
+ <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.
+ ekkje@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Det Norske Teatret – Scene 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-546953@asker.dks
+DTSTART:20261016T090000Z
+DTEND:20261016T110000Z
+SUMMARY:Oscarsborg festning (10. trinn Asker sør)
+DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nKLASSER\\nSteinerskole
+ n i Hurum: 10 (13)\\nTofte ungdomsskole: 10B (30)\, 10A (31)\\nTotalt: 74 
+ elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  J
+ eanette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nTofte ungd
+ omsskole\\n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite-Rønning  +47 93 97
+  00 58  jveitait@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=24706
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>KLASSER<
+ /b></p><p><b>Steinerskolen i Hurum:</b> 10 (13)<br><b>Tofte ungdomsskole:<
+ /b> 10B (30), 10A (31)<br><b>Totalt: 74 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward 
+ &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.
+ no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Tofte ungdomsskole</b>
+ <br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-Rønning &nbsp; +47 93 97 00 
+ 58 &nbsp; <a href='mailto:jveitait@askerskolen.no'>jveitait@askerskolen.no
+ </a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=24706'>Les meir om produksjonen</a></p></body
+ ></html>
+LOCATION:Oscarsborg festning – Oscarsborg festning
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24706
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483579@asker.dks
+DTSTART:20261028T084500Z
+DTEND:20261028T093000Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 10 (11)\, 8 (20)\, 9 (20)\\nTo
+ talt: 51 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21
+  90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=21348
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 10
+  (11), 8 (20), 9 (20)<br><b>Totalt: 51 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &
+ nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.n
+ o'>jeanette.ward@steinerskolen.no</a><br></p><p><a href='https://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les m
+ eir om produksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559422@asker.dks
+DTSTART:20261104T110000Z
+DTEND:20261104T114500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSteinerskolen i Hu
+ rum: 8 (20)\\nSætre ungdomsskole: 8c (26)\\nTotalt: 46 elevar\\n\\nKONTAK
+ T\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 
+ 94 42 17 43  jeanette.ward@steinerskolen.no\\nSætre ungdomsskole\\n  Tlf:
+  +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommu
+ ne.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Steinerskolen i Hurum:</b> 8 (20)<br><b>Sætre ungdomsskole:</b> 8c
+  (26)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
+ len i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 
+ 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward
+ @steinerskolen.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 
+ 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hild
+ e.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=24899'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Askerbibliotekene – Sætre bibliotek
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482062@asker.dks
+DTSTART:20261125T110000Z
+DTEND:20261125T114500Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 3 (14)\\nTotalt: 14 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Wa
+ rd  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 3 
+ (14)<br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 1
+ 7 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@
+ steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-511469@asker.dks
+DTSTART:20270112T110000Z
+DTEND:20270112T114500Z
+SUMMARY:Duo Sara og Ole (1.-7. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 7 (18)\, 6 (12)\, 5 (11)\, 4 (
+ 9)\, 3 (14)\, 1 (9)\, 2 (9)\\nTotalt: 82 elevar\\n\\nKONTAKT\\nSteinerskol
+ en i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  je
+ anette.ward@steinerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=23367
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 7 
+ (18), 6 (12), 5 (11), 4 (9), 3 (14), 1 (9), 2 (9)<br><b>Totalt: 82 elevar<
+ /b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32
+  79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:j
+ eanette.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><
+ p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=23367'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559592@asker.dks
+DTSTART:20270127T085500Z
+DTEND:20270127T093000Z
+SUMMARY:Kokken Tor (3.-4. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 4 (9)\, 3 (14)\\nTotalt: 23 el
+ evar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jea
+ nette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=25176
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 4 
+ (9), 3 (14)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stei
+ nerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 
+ 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanett
+ e.ward@steinerskolen.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25176'>Les meir om pro
+ duksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480463@asker.dks
+DTSTART:20270204T113000Z
+DTEND:20270204T130000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 8 (20)\\nTotalt: 20 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Wa
+ rd  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 8 
+ (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 1
+ 7 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@
+ steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560124@asker.dks
+DTSTART:20270302T120000Z
+DTEND:20270302T124500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nSteinerskolen i Hurum: 5 (11)\\nTotalt: 11 ele
+ var\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jean
+ ette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum
+ :</b> 5 (11)<br><b>Totalt: 11 elevar</b></p><p><b>KONTAKT</b></p><p><b>Ste
+ inerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47
+  94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanet
+ te.ward@steinerskolen.no</a><br></p><p><a href='https://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om pr
+ oduksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560842@asker.dks
+DTSTART:20270305T100000Z
+DTEND:20270305T104500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 10 (11)\\nTotalt: 11 elevar\\n
+ \\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette W
+ ard  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2515
+ 8
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 10
+  (11)<br><b>Totalt: 11 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
+ len i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 
+ 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward
+ @steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjo
+ nen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545602@asker.dks
+DTSTART:20270319T090000Z
+DTEND:20270319T110000Z
+SUMMARY:Tilbake til Tottori (7. trinn)
+DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nSteinerskolen i Hurum: 7 (18)\
+ \nFolkestad skole: 7 (17)\\nHagaløkka skole: 7A (23)\, 7B (23)\\nTotalt: 
+ 120 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel
+  Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nSteinerskolen i Hur
+ um\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.w
+ ard@steinerskolen.no\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen 
+ Engeland  +47 48 19 60 52  ellen.engeland@asker.kommune.no\\n  Gry Bente O
+ lsen Brosø  +47 92 25 86 48  gry.bente.broso@asker.kommune.no\\nHagaløkk
+ a skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehal
+ vors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=24641
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (39)<br><
+ b>Steinerskolen i Hurum:</b> 7 (18)<br><b>Folkestad skole:</b> 7 (17)<br><
+ b>Hagaløkka skole:</b> 7A (23), 7B (23)<br><b>Totalt: 120 elevar</b></p><
+ p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sids
+ el Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.ko
+ mmune.no'>sidsel.fonn@asker.kommune.no</a><br></p><p><b>Steinerskolen i Hu
+ rum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &n
+ bsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@steiner
+ skolen.no</a><br></p><p><b>Folkestad skole</b><br>Tlf: +47 90 20 95 70<br>
+ Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='mailto:ellen.engelan
+ d@asker.kommune.no'>ellen.engeland@asker.kommune.no</a><br>Gry Bente Olsen
+  Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry.bente.broso@aske
+ r.kommune.no'>gry.bente.broso@asker.kommune.no</a><br></p><p><b>Hagaløkka
+  skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 76 04 0
+ 5 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.kommune
+ .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=24641'>Les meir om produksjonen</a></p></b
+ ody></html>
+LOCATION:Asker kino – Sal 1
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24641
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-523090@asker.dks
+DTSTART:20270413T073000Z
+DTEND:20270413T080500Z
+SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 4 (9)\, 3 (14)\, 1 (9)\, 2 (9)
+ \\nTotalt: 41 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 
+ 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.n
+ o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
+ -i-dks/?produksjon=24038
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 4 
+ (9), 3 (14), 1 (9), 2 (9)<br><b>Totalt: 41 elevar</b></p><p><b>KONTAKT</b>
+ </p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Wa
+ rd &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskol
+ en.no'>jeanette.ward@steinerskolen.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038'>L
+ es meir om produksjonen</a></p></body></html>
+LOCATION:Steinerskolen i Hurum – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545530@asker.dks
+DTSTART:20270426T090000Z
+DTEND:20270426T110000Z
+SUMMARY:Klasseturen (9. trinn)
+DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 9C (26)\, 9B (27)\, 9A (26
+ )\\nSteinerskolen i Hurum: 9 (20)\\nTotalt: 99 elevar\\n\\nKONTAKT\\nHoved
+ gården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 7
+ 2 26 98  hanne.hellevik@asker.kommune.no\\nSteinerskolen i Hurum\\n  Tlf: 
+ +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steiners
+ kolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24624
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b
+ > 9C (26), 9B (27), 9A (26)<br><b>Steinerskolen i Hurum:</b> 9 (20)<br><b>
+ Totalt: 99 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomssk
+ ole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &
+ nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@aske
+ r.kommune.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 
+ 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeane
+ tte.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=24624'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker kino – Sal 2
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24624
 END:VEVENT
 END:VCALENDAR

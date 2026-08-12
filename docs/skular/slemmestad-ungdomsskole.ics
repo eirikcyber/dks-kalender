@@ -5,64 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad ungdomsskole
-LAST-MODIFIED:20260609T105043Z
-BEGIN:VEVENT
-UID:dks-550212@asker.dks
-DTSTART:20260901T073000Z
-DTEND:20260901T113000Z
-SUMMARY:Dagstur til Dikemark (9. trinn)
-DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
- RANSPORT\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
-  Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
-  Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
- akttelefon Vy Buss er 91658600\\nSætre ungdomsskole\\n  Avreise: 08:50  R
- etur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilba
- ke etter besøket. Se gjeldende tidspunkter for avreise fra skole og avrei
- se fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n 
-  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtrans
- port\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\
- nSlemmestad ungdomsskole: 9B (29)\, 9C (29)\\nBorgen ungdomsskole: 9B (27)
- \\nSætre ungdomsskole: 9b (25)\\nTotalt: 110 elevar\\n\\nKONTAKT\\nSlemme
- stad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 0
- 8 77 09  christine.birgitte.sund@asker.kommune.no\\nBorgen ungdomsskole\\n
-   Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36  ann
- e-marie.christophersen@asker.kommune.no\\nSætre ungdomsskole\\n  Tlf: +47
-  32 27 81 70\\n  Hilde Weseth  +47 95 30 40 09  hweseth@askerskolen.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=24775
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
- um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
-  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
- emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
- skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>S�
- �tre ungdomsskole</b><br>Avreise: 08:50 &nbsp; Retur: 13:30<br>VY Turbus
- s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
- ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
- fon Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler
- /går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS
- -billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>
- Slemmestad ungdomsskole:</b> 9B (29), 9C (29)<br><b>Borgen ungdomsskole:</
- b> 9B (27)<br><b>Sætre ungdomsskole:</b> 9b (25)<br><b>Totalt: 110 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47
-  31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='m
- ailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@as
- ker.kommune.no</a><br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 
- 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='
- mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christophers
- en@asker.kommune.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 3
- 2 27 81 70<br>Hilde Weseth &nbsp; +47 95 30 40 09 &nbsp; <a href='mailto:h
- weseth@askerskolen.no'>hweseth@askerskolen.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 24775'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24775
-END:VEVENT
+LAST-MODIFIED:20260812T083550Z
 BEGIN:VEVENT
 UID:dks-550215@asker.dks
-DTSTART:20260904T073000Z
-DTEND:20260904T113000Z
+DTSTART:20260901T073000Z
+DTEND:20260901T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
@@ -76,8 +23,8 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  nsport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\nHovedgård
  en ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark.
   Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS A
- sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9D (28)\\nHovedgår
- den ungdomsskole: 9A (27)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
+ sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\\nHovedgår
+ den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
  skole: VKK 9-10 trinn (17)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nSlemmestad 
  ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 
  09  christine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\
@@ -101,8 +48,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  -billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdomss
  kole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved kol
  lektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><
- p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9D (28)<br
- ><b>Hovedgården ungdomsskole:</b> 9A (27)<br><b>Steinerskolen i Hurum:</b
+ p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9B (29)<br
+ ><b>Hovedgården ungdomsskole:</b> 9A (26)<br><b>Steinerskolen i Hurum:</b
  > 9 (20)<br><b>Borgen ungdomsskole:</b> VKK 9-10 trinn (17)<br><b>Totalt: 
  120 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><b
  r>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; 
@@ -123,69 +70,472 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-550218@asker.dks
-DTSTART:20260909T073000Z
-DTEND:20260909T113000Z
+UID:dks-550212@asker.dks
+DTSTART:20260904T073000Z
+DTEND:20260904T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
- RANSPORT\\nSætre ungdomsskole\\n  Avreise: 08:50  Retur: 13:30\\n  VY Tur
- buss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se 
- gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vaktt
- elefon Vy Buss er 91658600\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  R
+ RANSPORT\\nSlemmestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
+  Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
+  Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
+ akttelefon Vy Buss er 91658600\\nSætre ungdomsskole\\n  Avreise: 08:50  R
  etur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilba
  ke etter besøket. Se gjeldende tidspunkter for avreise fra skole og avrei
- se fra Dikemark. Vakttelefon Vy Buss er 91658600\\nSolvang ungdomsskole\\n
-   Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtran
- sport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\nHovedgårde
- n ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark. 
- Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS As
- ker\\n\\nKLASSER\\nHovedgården ungdomsskole: 9C (27)\\nSætre ungdomsskol
- e: 9c (26)\, 9a (25)\\nSolvang ungdomsskole: 9C (24)\\nSlemmestad ungdomss
- kole: VKK 9-10 trinn (12)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nHovedgården
-  ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98
-   hanne.hellevik@asker.kommune.no\\nSætre ungdomsskole\\n  Tlf: +47 32 27
-  81 70\\n  Hilde Weseth  +47 95 30 40 09  hweseth@askerskolen.no\\nSolvang
-  ungdomsskole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47 
-  torgeir.engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  l
- inda.tyvand.hovet@asker.kommune.no\\nSlemmestad ungdomsskole\\n  Tlf: +47 
- 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  christine.birgitte.sun
- d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=24775
+ se fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n 
+  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtrans
+ port\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\
+ nSlemmestad ungdomsskole: 9C (29)\, 9D (28)\, VKK 9 (5)\\nBorgen ungdomssk
+ ole: 9B (27)\\nSætre ungdomsskole: 9b (25)\\nTotalt: 114 elevar\\n\\nKONT
+ AKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Su
+ nd  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\nBorgen ung
+ domsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 5
+ 3 30 36  anne-marie.christophersen@asker.kommune.no\\nSætre ungdomsskole\
+ \n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@ask
+ er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=24775
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
- um</p><p><b>TRANSPORT</b></p><p><b>Sætre ungdomsskole</b><br>Avreise: 08:
- 50 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikemar
- k og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra skol
- e og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Slemme
- stad ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss 
- frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjeld
- ende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelefo
- n Vy Buss er 91658600</p><p><b>Solvang ungdomsskole</b><br>Elevene sykler/
- går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-
- billetter benyttes. Dette dekker DKS Asker</p><p><b>Hovedgården ungdomssk
- ole</b><br>Elevene sykler/går eller tar kollektivt til Dikemark. Ved koll
- ektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><p
- ><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b> 9C (27)<br><b>Sæt
- re ungdomsskole:</b> 9c (26), 9a (25)<br><b>Solvang ungdomsskole:</b> 9C (
- 24)<br><b>Slemmestad ungdomsskole:</b> VKK 9-10 trinn (12)<br><b>Totalt: 1
- 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><
- br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a
-  href='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommun
- e.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>H
- ilde Weseth &nbsp; +47 95 30 40 09 &nbsp; <a href='mailto:hweseth@askersko
- len.no'>hweseth@askerskolen.no</a><br></p><p><b>Solvang ungdomsskole</b><b
+ um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+ emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
+ skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>S�
+ �tre ungdomsskole</b><br>Avreise: 08:50 &nbsp; Retur: 13:30<br>VY Turbus
+ s frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gje
+ ldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttele
+ fon Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler
+ /går eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS
+ -billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>
+ Slemmestad ungdomsskole:</b> 9C (29), 9D (28), VKK 9 (5)<br><b>Borgen ungd
+ omsskole:</b> 9B (27)<br><b>Sætre ungdomsskole:</b> 9b (25)<br><b>Totalt:
+  114 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><
+ br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp;
+  <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgi
+ tte.sund@asker.kommune.no</a><br></p><p><b>Borgen ungdomsskole</b><br>Tlf:
+  +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp
+ ; <a href='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.c
+ hristophersen@asker.kommune.no</a><br></p><p><b>Sætre ungdomsskole</b><br
+ >Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href
+ ='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br
+ ></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjo
+ ner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></html
+ >
+LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24775
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-546086@asker.dks
+DTSTART:20260904T093000Z
+DTEND:20260904T120000Z
+SUMMARY:DKS Kulturvertkurs i Asker 2026
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 9A (4)\\nHovedgården ungdom
+ sskole: 9A (3)\\nSlemmestad barneskole: 7 (4)\, 6 (4)\\nStiftelsen Vollen 
+ Montessoriskole: 6 (4)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nSlemmestad ungdo
+ msskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  c
+ hristine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\n  Tl
+ f: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevik@ask
+ er.kommune.no\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kri
+ stin Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nSti
+ ftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camilla Nystr�
+ �m  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 9A (4)<br><b>Hovedgården ungdomsskole:</b> 9A (3)<br><b>Slemmestad barnes
+ kole:</b> 7 (4), 6 (4)<br><b>Stiftelsen Vollen Montessoriskole:</b> 6 (4)<
+ br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdo
+ msskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 
+ 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune.no'>chr
+ istine.birgitte.sund@asker.kommune.no</a><br></p><p><b>Hovedgården ungdom
+ sskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 9
+ 8 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@a
+ sker.kommune.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 
+ 29 34 00<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href='ma
+ ilto:ann.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.kommu
+ ne.no</a><br></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47 6
+ 6 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='mail
+ to:camilla.nystrom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><p><a href=
+ 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=24658'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad MEK – Slemmestad MEK
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24658
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-546949@asker.dks
+DTSTART:20261007T090000Z
+DTEND:20261007T110000Z
+SUMMARY:Oscarsborg festning (10. trinn Asker sør)
+DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nKLASSER\\nSlemmestad u
+ ngdomsskole: 10A (30)\, 10B (30)\, 10C (30)\, 10D (29)\, VKK 10 (7)\\nTota
+ lt: 126 elevar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 3
+ 4 40\\n  Christine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker
+ .kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=24706
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>KLASSER<
+ /b></p><p><b>Slemmestad ungdomsskole:</b> 10A (30), 10B (30), 10C (30), 10
+ D (29), VKK 10 (7)<br><b>Totalt: 126 elevar</b></p><p><b>KONTAKT</b></p><p
+ ><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Su
+ nd &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@a
+ sker.kommune.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=24706'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Oscarsborg festning – Oscarsborg festning
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24706
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559423@asker.dks
+DTSTART:20261105T090000Z
+DTEND:20261105T094500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSlemmestad ungdoms
+ skole: 8A (28)\, 8B (29)\\nTotalt: 57 elevar\\n\\nKONTAKT\\nSlemmestad ung
+ domsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09 
+  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Slemmestad ungdomsskole:</b> 8A (28), 8B (29)<br><b>Totalt: 57 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +
+ 47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href=
+ 'mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Auditoriet
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559424@asker.dks
+DTSTART:20261105T110000Z
+DTEND:20261105T114500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSlemmestad ungdoms
+ skole: 8C (29)\, 8D (28)\\nTotalt: 57 elevar\\n\\nKONTAKT\\nSlemmestad ung
+ domsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09 
+  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Slemmestad ungdomsskole:</b> 8C (29), 8D (28)<br><b>Totalt: 57 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +
+ 47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href=
+ 'mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Auditoriet
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483444@asker.dks
+DTSTART:20261111T085500Z
+DTEND:20261111T094000Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8A (28)\, 8B (29)\, 8C (29)\
+ , 8D (28)\, VKK 8 (5)\, VKK 10 (5)\\nTotalt: 124 elevar\\n\\nKONTAKT\\nSle
+ mmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 4
+ 7 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2134
+ 8
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 8A (28), 8B (29), 8C (29), 8D (28), VKK 8 (5), VKK 10 (5)<br><b>Totalt: 12
+ 4 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>
+ Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a
+  href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte
+ .sund@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Aula'n
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483445@asker.dks
+DTSTART:20261111T100500Z
+DTEND:20261111T105000Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\, 9C (29)\
+ , 9D (28)\, VKK 9 (5)\\nTotalt: 119 elevar\\n\\nKONTAKT\\nSlemmestad ungdo
+ msskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  c
+ hristine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 9A (28), 9B (29), 9C (29), 9D (28), VKK 9 (5)<br><b>Totalt: 119 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 
+ 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailt
+ o:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@asker.
+ kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjonen</a>
+ </p></body></html>
+LOCATION:Slemmestad ungdomsskole – Aula'n
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-483446@asker.dks
+DTSTART:20261111T113500Z
+DTEND:20261111T122000Z
+SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10A (28)\, 10B (28)\, 10C (2
+ 8)\, 10D (27)\\nTotalt: 111 elevar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\
+ \n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  christine
+ .birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10A (28), 10B (28), 10C (28), 10D (27)<br><b>Totalt: 111 elevar</b></p><p>
+ <b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 4
+ 0<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:chris
+ tine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@asker.kommune
+ .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=21348'>Les meir om produksjonen</a></p></b
+ ody></html>
+LOCATION:Slemmestad ungdomsskole – Aula'n
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480440@asker.dks
+DTSTART:20270126T073000Z
+DTEND:20270126T090000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8A (28)\\nTotalt: 28 elevar\
+ \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
+ ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 8A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
+ 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
+ .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480441@asker.dks
+DTSTART:20270126T093000Z
+DTEND:20270126T110000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8B (29)\\nTotalt: 29 elevar\
+ \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
+ ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 8B (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
+ 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
+ .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480442@asker.dks
+DTSTART:20270126T113000Z
+DTEND:20270126T130000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8C (29)\\nTotalt: 29 elevar\
+ \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
+ ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 8C (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
+ 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
+ .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-480443@asker.dks
+DTSTART:20270127T073000Z
+DTEND:20270127T090000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8D (28)\\nTotalt: 28 elevar\
+ \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
+ ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
+ \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 8D (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
+ 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
+ .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560832@asker.dks
+DTSTART:20270302T083000Z
+DTEND:20270302T091500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10A (28)\\nTotalt: 28 elevar
+ \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
+ tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
+ 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
+ e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560833@asker.dks
+DTSTART:20270302T100000Z
+DTEND:20270302T104500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10B (28)\\nTotalt: 28 elevar
+ \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
+ tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10B (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
+ 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
+ e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560834@asker.dks
+DTSTART:20270302T103000Z
+DTEND:20270302T111500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10C (28)\\nTotalt: 28 elevar
+ \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
+ tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10C (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
+ 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
+ e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560841@asker.dks
+DTSTART:20270305T083000Z
+DTEND:20270305T091500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10D (27)\\nTotalt: 27 elevar
+ \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
+ tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10D (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
+ 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
+ e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545533@asker.dks
+DTSTART:20270428T080000Z
+DTEND:20270428T100000Z
+SUMMARY:Klasseturen (9. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\, VKK 9-10
+  trinn (12)\\nBorgen ungdomsskole: 9C (29)\, 9D (28)\, VKK 9-10 trinn (17)
+ \\nTotalt: 143 elevar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 
+ 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  christine.birgitte.sun
+ d@asker.kommune.no\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne
+ -Marie Christophersen  +47 99 53 30 36  anne-marie.christophersen@asker.ko
+ mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24624
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 9A (28), 9B (29), VKK 9-10 trinn (12)<br><b>Borgen ungdomsskole:</b> 9C (2
+ 9), 9D (28), VKK 9-10 trinn (17)<br><b>Totalt: 143 elevar</b></p><p><b>KON
+ TAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>C
+ hristine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:christine.b
+ irgitte.sund@asker.kommune.no'>christine.birgitte.sund@asker.kommune.no</a
+ ><br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Mar
+ ie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie
+ .christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=24624'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Asker kino – Sal 1
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24624
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-545534@asker.dks
+DTSTART:20270428T090000Z
+DTEND:20270428T110000Z
+SUMMARY:Klasseturen (9. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 9C (29)\, 9D (28)\\nSolvang 
+ ungdomsskole: 9C (24)\, 9B (25)\\nTotalt: 106 elevar\\n\\nKONTAKT\\nSlemme
+ stad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 0
+ 8 77 09  christine.birgitte.sund@asker.kommune.no\\nSolvang ungdomsskole\\
+ n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir.engen@
+ asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyvand.hov
+ et@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=24624
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 9C (29), 9D (28)<br><b>Solvang ungdomsskole:</b> 9C (24), 9B (25)<br><b>To
+ talt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole
+ </b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &
+ nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.
+ birgitte.sund@asker.kommune.no</a><br></p><p><b>Solvang ungdomsskole</b><b
  r>Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a h
  ref='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no
  </a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:l
  inda.tyvand.hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a
- ><br></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Chri
- stine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:christine.birg
- itte.sund@asker.kommune.no'>christine.birgitte.sund@asker.kommune.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></body></htm
- l>
-LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=24624'>Les meir om produksjonen</a></p></body></
+ html>
+LOCATION:Asker kino – Sal 2
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24775
+ duksjon=24624
 END:VEVENT
 END:VCALENDAR
