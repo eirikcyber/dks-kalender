@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barneskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
-LAST-MODIFIED:20260812T134129Z
+LAST-MODIFIED:20260812T140032Z
 BEGIN:VEVENT
 UID:dks-559201@asker.dks
 DTSTART:20260824T070300Z
@@ -135,6 +135,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-541969@asker.dks
+DTSTART:20260827T100500Z
+DTEND:20260827T104000Z
+SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
+DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
+  80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
+ E HANSEN  +47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 24433
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 1A (26), 
+ 2A (28), 1B (26)<br><b>Totalt: 80 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 
+ 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hanse
+ n@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksj
+ onen</a></p></body></html>
+LOCATION:Blakstad skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24433
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-538213@asker.dks
@@ -486,28 +508,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24658
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-538627@asker.dks
-DTSTART:20260903T094500Z
-DTEND:20260903T102000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
-  80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
- E HANSEN  +47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 1A (26), 
- 2A (28), 1B (26)<br><b>Totalt: 80 elevar</b></p><p><b>KONTAKT</b></p><p><b
- >Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 
- 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hanse
- n@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Blakstad skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-559207@asker.dks

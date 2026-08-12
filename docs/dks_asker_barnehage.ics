@@ -5,29 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260812T134135Z
-BEGIN:VEVENT
-UID:dks-541969@asker.dks
-DTSTART:20260827T083500Z
-DTEND:20260827T091000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nHagaløkka skole: 1A (23)\, 2A (23)\, 1B (23)\, 2B (2
- 3)\\nTotalt: 92 elevar\\n\\nKONTAKT\\nHagaløkka skole\\n  Tlf: +47 66 71 
- 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@asker.kommune.no\\n\\n
- INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hagaløkka skole:</b> 1A (23)
- , 2A (23), 1B (23), 2B (23)<br><b>Totalt: 92 elevar</b></p><p><b>KONTAKT</
- b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen
-  &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>
- ehalvors@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om p
- roduksjonen</a></p></body></html>
-LOCATION:Hagaløkka skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20260812T140037Z
 BEGIN:VEVENT
 UID:dks-483454@asker.dks
 DTSTART:20260828T081000Z
@@ -113,6 +91,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om
   produksjonen</a></p></body></html>
 LOCATION:Vardåsen skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24433
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-538627@asker.dks
+DTSTART:20260903T094500Z
+DTEND:20260903T102000Z
+SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
+DESCRIPTION:KLASSER\\nHagaløkka skole: 1A (23)\, 2A (23)\, 1B (23)\, 2B (2
+ 3)\\nTotalt: 92 elevar\\n\\nKONTAKT\\nHagaløkka skole\\n  Tlf: +47 66 71 
+ 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@asker.kommune.no\\n\\n
+ INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=24433
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hagaløkka skole:</b> 1A (23)
+ , 2A (23), 1B (23), 2B (23)<br><b>Totalt: 92 elevar</b></p><p><b>KONTAKT</
+ b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen
+  &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>
+ ehalvors@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om p
+ roduksjonen</a></p></body></html>
+LOCATION:Hagaløkka skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
 END:VEVENT

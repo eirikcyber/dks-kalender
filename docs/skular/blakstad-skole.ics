@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Blakstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Blakstad skole
-LAST-MODIFIED:20260812T134137Z
+LAST-MODIFIED:20260812T140040Z
 BEGIN:VEVENT
 UID:dks-559203@asker.dks
 DTSTART:20260827T070000Z
@@ -44,9 +44,9 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-538627@asker.dks
-DTSTART:20260903T094500Z
-DTEND:20260903T102000Z
+UID:dks-541969@asker.dks
+DTSTART:20260827T100500Z
+DTEND:20260827T104000Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
 DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
   80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
