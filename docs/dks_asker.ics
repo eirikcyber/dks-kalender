@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20260812T083540Z
+LAST-MODIFIED:20260812T101740Z
 BEGIN:VEVENT
 UID:dks-559201@asker.dks
-DTSTART:20260824T070100Z
-DTEND:20260824T113100Z
+DTSTART:20260824T070300Z
+DTEND:20260824T113300Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nArnestad skole
  \\n  Avreise: 08:35  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole
