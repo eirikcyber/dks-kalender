@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260813T090016Z
+LAST-MODIFIED:20260814T090016Z
 BEGIN:VEVENT
 UID:dks-483454@asker.dks
 DTSTART:20260828T081000Z
@@ -4759,6 +4759,59 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-559217@asker.dks
+DTSTART:20270426T071000Z
+DTEND:20270426T114000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nNesøya skole: 4
+ A (21)\, 4B (21)\, 4C (21)\\nTotalt: 63 elevar\\n\\nKONTAKT\\nNesøya skol
+ e\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsa
+ as@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik
+ .rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Nesøya skole:</b> 4A (21), 4B (21), 4C (21)<br><b>Totalt: 63 ele
+ var</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 
+ 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.
+ singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Er
+ ik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rann
+ estad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><
+ p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559216@asker.dks
+DTSTART:20270427T070000Z
+DTEND:20270427T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nSætre skole: 4a
+  (21)\, 4b (20)\\nTotalt: 41 elevar\\n\\nKONTAKT\\nSætre skole\\n  Tlf: +
+ 47 32 27 83 30\\n  Hanne Lien Aaberg  +47 90 96 05 37  hanne.lien.aaberg@a
+ sker.kommune.no\\n  Linda Syvertsen  +47 40 23 68 60  linda.syvertsen@aske
+ r.kommune.no\\n  Skjalg Olsen  +47 95 07 47 37  skjalg.flesland.olsen@aske
+ r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Sætre skole:</b> 4a (21), 4b (20)<br><b>Totalt: 41 elevar</b></p
+ ><p><b>KONTAKT</b></p><p><b>Sætre skole</b><br>Tlf: +47 32 27 83 30<br>Ha
+ nne Lien Aaberg &nbsp; +47 90 96 05 37 &nbsp; <a href='mailto:hanne.lien.a
+ aberg@asker.kommune.no'>hanne.lien.aaberg@asker.kommune.no</a><br>Linda Sy
+ vertsen &nbsp; +47 40 23 68 60 &nbsp; <a href='mailto:linda.syvertsen@aske
+ r.kommune.no'>linda.syvertsen@asker.kommune.no</a><br>Skjalg Olsen &nbsp; 
+ +47 95 07 47 37 &nbsp; <a href='mailto:skjalg.flesland.olsen@asker.kommune
+ .no'>skjalg.flesland.olsen@asker.kommune.no</a><br></p><p><a href='https:/
+ /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25
+ 156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556270@asker.dks
 DTSTART:20270427T100000Z
 DTEND:20270427T104000Z
@@ -4779,6 +4832,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Rønningen skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559218@asker.dks
+DTSTART:20270428T070000Z
+DTEND:20270428T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nTorvbråten barn
+ eskole: 4A (22)\, 4B (21)\\nTotalt: 43 elevar\\n\\nKONTAKT\\nTorvbråten b
+ arneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet Bath  +47 46 83 89 11  jas
+ preet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Torvbråten barneskole:</b> 4A (22), 4B (21)<br><b>Totalt: 43 ele
+ var</b></p><p><b>KONTAKT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +
+ 47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mai
+ lto:jaspreet.kaur.bath@asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556275@asker.dks
@@ -4802,6 +4878,57 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Nærsnes barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559219@asker.dks
+DTSTART:20270504T070000Z
+DTEND:20270504T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nRønningen sko
+ le\\n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollekti
+ vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
+ � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
+ ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nTotalt: 25 elevar\\n\\nKONT
+ AKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95
+  76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
+ ></p><p><b>Rønningen skole</b><br>Elevene sykler/går eller tar kollektiv
+ t til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
+ e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
+ ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen skol
+ e:</b> 4 (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>R�
+ �nningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 
+ 95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.g
+ raffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om pro
+ duksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559225@asker.dks
+DTSTART:20270514T070000Z
+DTEND:20270514T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nVardåsen skole:
+  4A (24)\, 4B (23)\\nTotalt: 47 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  
+ Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@ask
+ er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Vardåsen skole:</b> 4A (24), 4B (23)<br><b>Totalt: 47 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00
+ <br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrh
+ aug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=25156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560850@asker.dks

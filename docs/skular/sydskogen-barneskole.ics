@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Sydskogen barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Sydskogen barneskole
-LAST-MODIFIED:20260813T090019Z
+LAST-MODIFIED:20260814T090020Z
 BEGIN:VEVENT
 UID:dks-546085@asker.dks
 DTSTART:20260904T073000Z
@@ -429,5 +429,36 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Sydskogen barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559220@asker.dks
+DTSTART:20270505T070000Z
+DTEND:20270505T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nSydskogen barnes
+ kole: 4 (28)\\nSlemmestad barneskole: 4 (32)\\nTotalt: 60 elevar\\n\\nKONT
+ AKT\\nSydskogen barneskole\\n  Tlf: +47 31 29 33 55\\n  Siri Østvik Hage 
+  +47 92 69 67 67  siri.ostvik.hage@asker.kommune.no\\n  Marte Svestad Eitr
+ heim  +47 91 82 90 27  marte.svestad@asker.kommune.no\\nSlemmestad barnesk
+ ole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin Nergård  +47 90 04 36 18  an
+ n.kristin.nergard@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Sydskogen barneskole:</b> 4 (28)<br><b>Slemmestad barneskole:</b>
+  4 (32)<br><b>Totalt: 60 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sydskoge
+ n barneskole</b><br>Tlf: +47 31 29 33 55<br>Siri Østvik Hage &nbsp; +47 9
+ 2 69 67 67 &nbsp; <a href='mailto:siri.ostvik.hage@asker.kommune.no'>siri.
+ ostvik.hage@asker.kommune.no</a><br>Marte Svestad Eitrheim &nbsp; +47 91 8
+ 2 90 27 &nbsp; <a href='mailto:marte.svestad@asker.kommune.no'>marte.svest
+ ad@asker.kommune.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47
+  31 29 34 00<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href
+ ='mailto:ann.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 END:VCALENDAR

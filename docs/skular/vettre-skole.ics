@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vettre skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vettre skole
-LAST-MODIFIED:20260813T090020Z
+LAST-MODIFIED:20260814T090021Z
 BEGIN:VEVENT
 UID:dks-538215@asker.dks
-DTSTART:20260903T070000Z
-DTEND:20260903T073500Z
+DTSTART:20260827T100500Z
+DTEND:20260827T104000Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
 DESCRIPTION:KLASSER\\nVettre skole: 1 (42)\, 2 (50)\\nTotalt: 92 elevar\\n\
  \nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 
@@ -390,5 +390,34 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vettre skole – Gymsal med scene
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559224@asker.dks
+DTSTART:20270511T070000Z
+DTEND:20270511T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nVettre skole\\
+ n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtra
+ nsport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må be
+ stilles i forkant av skolene. Se e-post med ordrenummer for bestilling. \\
+ n\\nKLASSER\\nVettre skole: 4 (49)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nVett
+ re skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel
+ .fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
+ /utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
+ ></p><p><b>Vettre skole</b><br>Elevene sykler/går eller tar kollektivt ti
+ l Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette de
+ kker DKS Asker, men må bestilles i forkant av skolene. Se e-post med ordr
+ enummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 4
+  (49)<br><b>Totalt: 49 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre sko
+ le</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp
+ ; <a href='mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 END:VCALENDAR

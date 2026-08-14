@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Frydenlund barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Frydenlund barneskole
-LAST-MODIFIED:20260813T090017Z
+LAST-MODIFIED:20260814T090018Z
 BEGIN:VEVENT
 UID:dks-546091@asker.dks
 DTSTART:20260914T073000Z
@@ -471,5 +471,37 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Frydenlund barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559222@asker.dks
+DTSTART:20270513T073000Z
+DTEND:20270513T120000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nNærsnes barnesk
+ ole: 4 (25)\\nFrydenlund barneskole: 4 (36)\\nTotalt: 61 elevar\\n\\nKONTA
+ KT\\nNærsnes barneskole\\n  Tlf: +47 31 29 35 40\\n  Alise Narjord Thue  
+ +47 90 50 18 39  alise.narjord.thue@asker.kommune.no\\nFrydenlund barnesko
+ le\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Johansen  +47 95 23 45 43  be
+ nte.reitan.johansen@asker.kommune.no\\n  Cecilie Nordbø Øyen (tilrettela
+ gt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Nærsnes barneskole:</b> 4 (25)<br><b>Frydenlund barneskole:</b> 
+ 4 (36)<br><b>Totalt: 61 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærsnes 
+ barneskole</b><br>Tlf: +47 31 29 35 40<br>Alise Narjord Thue &nbsp; +47 90
+  50 18 39 &nbsp; <a href='mailto:alise.narjord.thue@asker.kommune.no'>alis
+ e.narjord.thue@asker.kommune.no</a><br></p><p><b>Frydenlund barneskole</b>
+ <br>Tlf: +47 31 29 75 50<br>Bente Reitan Johansen &nbsp; +47 95 23 45 43 &
+ nbsp; <a href='mailto:bente.reitan.johansen@asker.kommune.no'>bente.reitan
+ .johansen@asker.kommune.no</a><br>Cecilie Nordbø Øyen (tilrettelagt) &nb
+ sp; +47 97 56 35 89 &nbsp; <a href='mailto:cecilie.nordbo.oyen@asker.kommu
+ ne.no'>cecilie.nordbo.oyen@asker.kommune.no</a><br></p><p><a href='https:/
+ /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25
+ 156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 END:VCALENDAR

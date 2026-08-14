@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260813T090022Z
+LAST-MODIFIED:20260814T090024Z
 BEGIN:VEVENT
 UID:dks-538211@asker.dks
 DTSTART:20260827T070000Z
@@ -878,5 +878,36 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Asker kino – Sal 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24624
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559223@asker.dks
+DTSTART:20270510T070000Z
+DTEND:20270510T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Ask
+ er International School\\n  Elevene sykler/går eller tar kollektivt til D
+ ikemark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
+ er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
+ nummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International Scho
+ ol: 4a (23)\, 4b (23)\, 4c (23)\\nTotalt: 69 elevar\\n\\nKONTAKT\\nStiftel
+ sen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  
+ +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
+ ></p><p><b>Stiftelsen Asker International School</b><br>Elevene sykler/gå
+ r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
+ letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
+ olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
+ <p><b>Stiftelsen Asker International School:</b> 4a (23), 4b (23), 4c (23)
+ <br><b>Totalt: 69 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Aske
+ r International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; 
+ +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body>
+ </html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 END:VCALENDAR

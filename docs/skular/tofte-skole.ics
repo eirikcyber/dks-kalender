@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte skole
-LAST-MODIFIED:20260813T090020Z
+LAST-MODIFIED:20260814T090021Z
 BEGIN:VEVENT
 UID:dks-546092@asker.dks
 DTSTART:20260914T100000Z
@@ -358,25 +358,36 @@ UID:dks-559221@asker.dks
 DTSTART:20270512T070000Z
 DTEND:20270512T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\n\\n  Elevene s
- ykler/går eller tar kollektivt til Dikemark. Ved kollektivtransport\, kan
-  RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må bestilles i fo
- rkant av skolene. Se e-post med ordrenummer for bestilling. \\n\\nKLASSER\
- \nTofte skole: 4a (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nTofte skole\\n  
- Tlf: +47 32 27 84 13\\n  Anita Olsen  +47 47 64 53 53  anita.olsen@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=25156
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Vol
+ len Montessoriskole\\n  Elevene sykler/går eller tar kollektivt til Dikem
+ ark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker D
+ KS Asker\, men må bestilles i forkant av skolene. Se e-post med ordrenumm
+ er for bestilling. \\n\\nKLASSER\\nSolberg skole: 4 (16)\\nTofte skole: 4a
+  (27)\\nStiftelsen Vollen Montessoriskole: 4 (16)\\nTotalt: 59 elevar\\n\\
+ nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79
+  10 69  knut.gustavsen.engh@asker.kommune.no\\nTofte skole\\n  Tlf: +47 32
+  27 84 13\\n  Anita Olsen  +47 47 64 53 53  anita.olsen@asker.kommune.no\\
+ nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camilla Ny
+ strøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b></b><br>Elevene sykler/går eller tar kollektivt til Dikemark. 
- Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Ask
- er, men må bestilles i forkant av skolene. Se e-post med ordrenummer for 
- bestilling. </p><p><b>KLASSER</b></p><p><b>Tofte skole:</b> 4a (27)<br><b>
- Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Tofte skole</b><br>Tlf
- : +47 32 27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 &nbsp; <a href='ma
- ilto:anita.olsen@asker.kommune.no'>anita.olsen@asker.kommune.no</a><br></p
- ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
+ ></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Elevene sykler/går el
+ ler tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-billett
+ er benyttes. Dette dekker DKS Asker, men må bestilles i forkant av skolen
+ e. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><
+ b>Solberg skole:</b> 4 (16)<br><b>Tofte skole:</b> 4a (27)<br><b>Stiftelse
+ n Vollen Montessoriskole:</b> 4 (16)<br><b>Totalt: 59 elevar</b></p><p><b>
+ KONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut Eng
+ h &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@asker.
+ kommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Tofte sk
+ ole</b><br>Tlf: +47 32 27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 &nbs
+ p; <a href='mailto:anita.olsen@asker.kommune.no'>anita.olsen@asker.kommune
+ .no</a><br></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47 66 
+ 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='mailto
+ :camilla.nystrom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><p><a href='h
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156

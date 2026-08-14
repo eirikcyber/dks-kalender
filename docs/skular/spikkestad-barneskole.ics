@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20260813T090019Z
+LAST-MODIFIED:20260814T090020Z
 BEGIN:VEVENT
 UID:dks-546087@asker.dks
 DTSTART:20260903T073000Z
@@ -532,5 +532,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559215@asker.dks
+DTSTART:20270503T070000Z
+DTEND:20270503T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nSpikkestad barne
+ skole: 4A (23)\, 4B (24)\\nTotalt: 47 elevar\\n\\nKONTAKT\\nSpikkestad bar
+ neskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eiri
+ k.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Spikkestad barneskole:</b> 4A (23), 4B (24)<br><b>Totalt: 47 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf: +47
+  31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href='mail
+ to:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a><br><
+ /p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
 END:VEVENT
 END:VCALENDAR
