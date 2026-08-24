@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vettre skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vettre skole
-LAST-MODIFIED:20260814T090021Z
+LAST-MODIFIED:20260824T090050Z
 BEGIN:VEVENT
 UID:dks-538215@asker.dks
 DTSTART:20260827T100500Z
@@ -77,32 +77,37 @@ DTSTART:20260923T073000Z
 DTEND:20260923T100000Z
 SUMMARY:DKS Kulturvertkurs i Asker 2026
 DESCRIPTION:KLASSER\\nVettre skole: 7 (4)\, 6 (5)\\nVardåsen skole: 6A (4)
- \\nDrengsrud skole: 7A (6)\\nRønningen skole: 6 (4)\\nTotalt: 23 elevar\\
- n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 9
- 2 26 88 00  sidsel.fonn@asker.kommune.no\\nVardåsen skole\\n  Tlf: +47 66
-  71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@asker.kommune.
- no\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolland  +47 47 8
- 4 13 15  thomas.rolland@asker.kommune.no\\nRønningen skole\\n  Tlf: +47 6
- 6 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@asker.kommun
- e.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjo
- ner-i-dks/?produksjon=24658
+ \\nBillingstad skole: 7A (4)\\nDrengsrud skole: 7A (6)\\nRønningen skole:
+  6 (4)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 
+ 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nVar
+ dåsen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86
+  97  kdyrhaug@asker.kommune.no\\nBillingstad skole\\n  Tlf: +47 66 71 53 0
+ 0\\n  Caroline Halnes  +47 92 64 17 94  caroline.blutecher.halnes@asker.ko
+ mmune.no\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolland  +4
+ 7 47 84 13 15  thomas.rolland@asker.kommune.no\\nRønningen skole\\n  Tlf:
+  +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@asker.
+ kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=24658
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (4), 6 (5
- )<br><b>Vardåsen skole:</b> 6A (4)<br><b>Drengsrud skole:</b> 7A (6)<br><
- b>Rønningen skole:</b> 6 (4)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT
- </b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbs
- p; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.kommune.no'>si
- dsel.fonn@asker.kommune.no</a><br></p><p><b>Vardåsen skole</b><br>Tlf: +4
- 7 66 71 51 00<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href=
- 'mailto:kdyrhaug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p
- ><b>Drengsrud skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +
- 47 47 84 13 15 &nbsp; <a href='mailto:thomas.rolland@asker.kommune.no'>tho
- mas.rolland@asker.kommune.no</a><br></p><p><b>Rønningen skole</b><br>Tlf:
-  +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; <a href='
- mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommune.no</a><
- br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=24658'>Les meir om produksjonen</a></p></body></ht
- ml>
+ )<br><b>Vardåsen skole:</b> 6A (4)<br><b>Billingstad skole:</b> 7A (4)<br
+ ><b>Drengsrud skole:</b> 7A (6)<br><b>Rønningen skole:</b> 6 (4)<br><b>To
+ talt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf:
+  +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mai
+ lto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br></p>
+ <p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &n
+ bsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdy
+ rhaug@asker.kommune.no</a><br></p><p><b>Billingstad skole</b><br>Tlf: +47 
+ 66 71 53 00<br>Caroline Halnes &nbsp; +47 92 64 17 94 &nbsp; <a href='mail
+ to:caroline.blutecher.halnes@asker.kommune.no'>caroline.blutecher.halnes@a
+ sker.kommune.no</a><br></p><p><b>Drengsrud skole</b><br>Tlf: +47 66 71 27 
+ 00<br>Thomas Rolland &nbsp; +47 47 84 13 15 &nbsp; <a href='mailto:thomas.
+ rolland@asker.kommune.no'>thomas.rolland@asker.kommune.no</a><br></p><p><b
+ >Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47
+  95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.
+ graffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658'>Les meir om pr
+ oduksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Bjørn Carlsen-rommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24658

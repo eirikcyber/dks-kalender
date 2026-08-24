@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
-LAST-MODIFIED:20260814T090023Z
+LAST-MODIFIED:20260824T090053Z
 BEGIN:VEVENT
 UID:dks-546087@asker.dks
 DTSTART:20260903T073000Z
@@ -56,7 +56,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nTorstad ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
  rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
   gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
- telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  
+ telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  
  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilb
  ake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avre
  ise fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n
@@ -78,7 +78,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
  rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
  le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Spikk
- estad ungdomsskole</b><br>Avreise: 09:00 &nbsp; Retur: 13:30<br>VY Turbuss
+ estad ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss
   frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjel
  dende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelef
  on Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/
@@ -109,7 +109,7 @@ DTSTART:20260907T073000Z
 DTEND:20260907T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
- RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  Retur: 13:30\\n  VY
+ RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
   Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
   Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
  akttelefon Vy Buss er 91658600\\nSteinerskolen i Asker\\n  Avreise: 09:05 
@@ -137,7 +137,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
  um</p><p><b>TRANSPORT</b></p><p><b>Spikkestad ungdomsskole</b><br>Avreise:
-  09:00 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
  emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
  skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>St
  einerskolen i Asker</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbus
@@ -180,7 +180,7 @@ DTSTART:20260911T073000Z
 DTEND:20260911T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
- RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  Retur: 13:30\\n  VY
+ RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
   Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
   Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
  akttelefon Vy Buss er 91658600\\nLandøya ungdomsskole\\n  Avreise: 09:10 
@@ -199,7 +199,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
  um</p><p><b>TRANSPORT</b></p><p><b>Spikkestad ungdomsskole</b><br>Avreise:
-  09:00 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
  emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
  skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>La
  ndøya ungdomsskole</b><br>Avreise: 09:10 &nbsp; Retur: 13:30<br>VY Turbus
@@ -274,8 +274,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-559371@asker.dks
-DTSTART:20261102T090000Z
-DTEND:20261102T094500Z
+DTSTART:20261102T091500Z
+DTEND:20261102T100000Z
 SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
  skole: 8D (26)\, 8E (22)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nSpikkestad ung
@@ -366,8 +366,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-483449@asker.dks
-DTSTART:20261113T113500Z
-DTEND:20261113T122000Z
+DTSTART:20261113T105500Z
+DTEND:20261113T114000Z
 SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\, 10E (23)\, 10D (2
  5)\, 10C (25)\, 10B (24)\, 10A (25)\\nTotalt: 145 elevar\\n\\nKONTAKT\\nSp
@@ -390,8 +390,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-483448@asker.dks
-DTSTART:20261113T124500Z
-DTEND:20261113T133000Z
+DTSTART:20261113T120000Z
+DTEND:20261113T124500Z
 SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 9A (28)\, 9B (25)\, 9C (25)\
  , 9D (26)\, 9E (22)\, 9F (24)\\nTotalt: 150 elevar\\n\\nKONTAKT\\nSpikkest

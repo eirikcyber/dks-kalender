@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hvalstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hvalstad skole
-LAST-MODIFIED:20260814T090019Z
+LAST-MODIFIED:20260824T090044Z
 BEGIN:VEVENT
 UID:dks-546085@asker.dks
 DTSTART:20260904T073000Z
@@ -89,33 +89,28 @@ DTSTART:20260907T070000Z
 DTEND:20260907T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHvalstad skole
- \\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollek
- tivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men 
- må bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nHvalstad skole: 4A (21)\, 4B (22)\, 4C (19)\\nTotalt: 
- 62 elevar\\n\\nKONTAKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine
-  Norman Hegg(kun tilrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.k
- ommune.no\\n  Kristine Tokle Kleivenes  +47 92 20 85 86  kristine.tokle.kl
- eivenes@asker.kommune.no\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne
- .lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelles
- kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ \\n  Elevene sykler/går til Asker museum. \\n\\nKLASSER\\nHvalstad skole:
+  4A (21)\, 4B (22)\, 4C (19)\\nTotalt: 62 elevar\\n\\nKONTAKT\\nHvalstad s
+ kole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +47
+  93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Kristine Tokle Kleive
+ nes  +47 92 20 85 86  kristine.tokle.kleivenes@asker.kommune.no\\n  Anne L
+ ene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no
+ \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
+ i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Hvalstad skole</b><br>Elevene sykler/går eller tar kollektivt 
- til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. De
- tte dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post me
- d ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Hvalstad skol
- e:</b> 4A (21), 4B (22), 4C (19)<br><b>Totalt: 62 elevar</b></p><p><b>KONT
- AKT</b></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norma
- n Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:tri
- ne.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br
- >Kristine Tokle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mailto:kr
- istine.tokle.kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@asker.ko
- mmune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a hr
- ef='mailto:anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjo
- nen</a></p></body></html>
+ ></p><p><b>Hvalstad skole</b><br>Elevene sykler/går til Asker museum. </p
+ ><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 4A (21), 4B (22), 4C (19)<
+ br><b>Totalt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</
+ b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +
+ 47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>
+ trine.norman.hegg@asker.kommune.no</a><br>Kristine Tokle Kleivenes &nbsp; 
+ +47 92 20 85 86 &nbsp; <a href='mailto:kristine.tokle.kleivenes@asker.komm
+ une.no'>kristine.tokle.kleivenes@asker.kommune.no</a><br>Anne Lene Tveten 
+ Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje
+ @asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><
+ a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156

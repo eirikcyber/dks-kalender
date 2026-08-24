@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barneskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
-LAST-MODIFIED:20260814T090013Z
+LAST-MODIFIED:20260824T090030Z
 BEGIN:VEVENT
 UID:dks-559201@asker.dks
-DTSTART:20260824T070300Z
-DTEND:20260824T113300Z
+DTSTART:20260824T070000Z
+DTEND:20260824T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nArnestad skole
  \\n  Avreise: 08:35  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole
@@ -189,28 +189,26 @@ DTSTART:20260831T070000Z
 DTEND:20260831T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nBondi skole\\n
-   Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollektiv
- transport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må
-  bestilles i forkant av skolene. Se e-post med ordrenummer for bestilling.
-  \\n\\nKLASSER\\nBondi skole: 4A (21)\, 4B (22)\, 4C (20)\\nTotalt: 63 ele
- var\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  
- +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 5
- 9 43 53  karianne.mayer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+   Avreise: 08:40  Retur: 13:30\\n  VY Turbuss frakter elevene fra skolen t
+ il Asker museum og tilbake etter besøket. Vakttelefon Vy Buss er 91658600
+ \\n\\nKLASSER\\nBondi skole: 4A (21)\, 4B (22)\, 4C (20)\\nTotalt: 63 elev
+ ar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +
+ 47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59
+  43 53  karianne.mayer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Bondi skole</b><br>Elevene sykler/går eller tar kollektivt til
-  Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette
-  dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med o
- rdrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Bondi skole:</b>
-  4A (21), 4B (22), 4C (20)<br><b>Totalt: 63 elevar</b></p><p><b>KONTAKT</b
- ></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; 
- +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi
- .asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp
- ; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></
- p></body></html>
+ ></p><p><b>Bondi skole</b><br>Avreise: 08:40 &nbsp; Retur: 13:30<br>VY Tur
+ buss frakter elevene fra skolen til Asker museum og tilbake etter besøket
+ . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skol
+ e:</b> 4A (21), 4B (22), 4C (20)<br><b>Totalt: 63 elevar</b></p><p><b>KONT
+ AKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &
+ nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'
+ >heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53
+  &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@as
+ ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
+ .no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen
+ </a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -221,26 +219,21 @@ DTSTART:20260901T070000Z
 DTEND:20260901T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nDrengsrud skol
- e\\n  Avreise: 08:40  Retur: 13:30\\n  VY Turbuss frakter elevene fra skol
- e til Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for
-  avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91
- 658600\\n\\nKLASSER\\nDrengsrud skole: 4A (22)\, 4B (23)\\nTotalt: 45 elev
- ar\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Roll
- and  +47 47 84 13 15  thomas.rolland@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=251
- 56
+ e\\n  Elevene sykler til Asker museum\\n\\nKLASSER\\nDrengsrud skole: 4A (
+ 22)\, 4B (23)\\nTotalt: 45 elevar\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: 
+ +47 66 71 27 00\\n  Thomas Rolland  +47 47 84 13 15  thomas.rolland@asker.
+ kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Drengsrud skole</b><br>Avreise: 08:40 &nbsp; Retur: 13:30<br>VY
-  Turbuss frakter elevene fra skole til Asker museum og tilbake etter besø
- ket. Se gjeldende tidspunkter for avreise fra skole og avreise fra Asker m
- useum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Dren
- gsrud skole:</b> 4A (22), 4B (23)<br><b>Totalt: 45 elevar</b></p><p><b>KON
- TAKT</b></p><p><b>Drengsrud skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Ro
- lland &nbsp; +47 47 84 13 15 &nbsp; <a href='mailto:thomas.rolland@asker.k
- ommune.no'>thomas.rolland@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=251
- 56'>Les meir om produksjonen</a></p></body></html>
+ ></p><p><b>Drengsrud skole</b><br>Elevene sykler til Asker museum</p><p><b
+ >KLASSER</b></p><p><b>Drengsrud skole:</b> 4A (22), 4B (23)<br><b>Totalt: 
+ 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsrud skole</b><br>Tlf: +4
+ 7 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13 15 &nbsp; <a href='mai
+ lto:thomas.rolland@asker.kommune.no'>thomas.rolland@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -263,16 +256,16 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  en ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark.
   Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS A
  sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\\nHovedgår
- den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
- skole: VKK 9-10 trinn (17)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nSlemmestad 
- ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 
- 09  christine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\
- n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevi
- k@asker.kommune.no\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Je
- anette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nBorgen ungd
- omsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53
-  30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
+ den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nTotalt: 103 el
+ evar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  C
+ hristine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.n
+ o\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik 
+  +47 99 72 26 98  hanne.hellevik@asker.kommune.no\\nSteinerskolen i Hurum\
+ \n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward
+ @steinerskolen.no\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-
+ Marie Christophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kom
+ mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=24775
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
  um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
@@ -289,21 +282,21 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  lektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><
  p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9B (29)<br
  ><b>Hovedgården ungdomsskole:</b> 9A (26)<br><b>Steinerskolen i Hurum:</b
- > 9 (20)<br><b>Borgen ungdomsskole:</b> VKK 9-10 trinn (17)<br><b>Totalt: 
- 120 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><b
- r>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; 
- <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgit
- te.sund@asker.kommune.no</a><br></p><p><b>Hovedgården ungdomsskole</b><br
- >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
- ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
- no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>J
- eanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@s
- teinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Borgen un
- gdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp;
-  +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.ko
- mmune.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href
- ='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=24775'>Les meir om produksjonen</a></p></body></html>
+ > 9 (20)<br><b>Totalt: 103 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemme
+ stad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; 
+ +47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommu
+ ne.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><b>Hovedgår
+ den ungdomsskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 
+ 99 72 26 98 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>hanne.
+ hellevik@asker.kommune.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tl
+ f: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href=
+ 'mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a>
+ <br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Mari
+ e Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.
+ christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></bod
+ y></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -380,18 +373,40 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-541969@asker.dks
+DTSTART:20260903T065500Z
+DTEND:20260903T073000Z
+SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
+DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
+  80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
+ E HANSEN  +47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 24433
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 1A (26), 
+ 2A (28), 1B (26)<br><b>Totalt: 80 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 
+ 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hanse
+ n@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksj
+ onen</a></p></body></html>
+LOCATION:Blakstad skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24433
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-559204@asker.dks
 DTSTART:20260903T070000Z
 DTEND:20260903T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nFolkestad skol
- e\\n  Avreise: 08:15  Retur: 13:30\\n  VY Turbuss frakter elevene fra skol
+ e\\n  Avreise: 08:10  Retur: 13:30\\n  VY Turbuss frakter elevene fra skol
  e til Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for
   avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91
- 658600\\nHyggen skole\\n  Avreise: 08:30  Retur: 13:30\\n  VY Turbuss frak
+ 658600\\nHyggen skole\\n  Avreise: 08:25  Retur: 13:30\\n  VY Turbuss frak
  ter elevene fra skole til Asker museum og tilbake etter besøket. Se gjeld
  ende tidspunkter for avreise fra skole og avreise fra Asker museum . Vaktt
- elefon Vy Buss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 08:20  Ret
+ elefon Vy Buss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 08:15  Ret
  ur: 13:30\\n  VY Turbuss frakter elevene fra skole til Asker museum og til
  bake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avr
  eise fra Asker museum . Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nHyg
@@ -407,14 +422,14 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nFolkestad skol
  /?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Folkestad skole</b><br>Avreise: 08:15 &nbsp; Retur: 13:30<br>VY
+ ></p><p><b>Folkestad skole</b><br>Avreise: 08:10 &nbsp; Retur: 13:30<br>VY
   Turbuss frakter elevene fra skole til Asker museum og tilbake etter besø
  ket. Se gjeldende tidspunkter for avreise fra skole og avreise fra Asker m
  useum . Vakttelefon Vy Buss er 91658600</p><p><b>Hyggen skole</b><br>Avrei
- se: 08:30 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til 
+ se: 08:25 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til 
  Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for avrei
  se fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91658600
- </p><p><b>Steinerskolen i Hurum</b><br>Avreise: 08:20 &nbsp; Retur: 13:30<
+ </p><p><b>Steinerskolen i Hurum</b><br>Avreise: 08:15 &nbsp; Retur: 13:30<
  br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
  besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
  ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
@@ -480,56 +495,29 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24658
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-541969@asker.dks
-DTSTART:20260903T100500Z
-DTEND:20260903T104000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
-  80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
- E HANSEN  +47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 1A (26), 
- 2A (28), 1B (26)<br><b>Totalt: 80 elevar</b></p><p><b>KONTAKT</b></p><p><b
- >Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 
- 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hanse
- n@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Blakstad skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-559207@asker.dks
 DTSTART:20260904T071500Z
 DTEND:20260904T114500Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHofstad skole\
- \n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollekt
- ivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m
- å bestilles i forkant av skolene. Se e-post med ordrenummer for bestillin
- g. \\n\\nKLASSER\\nHofstad skole: 4A (20)\, 4B (25)\\nTotalt: 45 elevar\\n
- \\nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von 
- Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  Inge
- borg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 25156
+ \n  Elevene går eller sykler til Asker museum\\n\\nKLASSER\\nHofstad skol
+ e: 4A (20)\, 4B (25)\\nTotalt: 45 elevar\\n\\nKONTAKT\\nHofstad skole\\n  
+ Tlf: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.s
+ ynnove.von.hirsch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  
+ iwiencke@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken
+ .no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Hofstad skole</b><br>Elevene sykler/går eller tar kollektivt t
- il Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. Det
- te dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med
-  ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Hofstad skole:
- </b> 4A (20), 4B (25)<br><b>Totalt: 45 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Hofstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsc
- h &nbsp; +47 97 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@as
- ker.kommune.no'>anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg W
- iencke &nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommun
- e.no'>iwiencke@asker.kommune.no</a><br></p><p><a href='https://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les mei
- r om produksjonen</a></p></body></html>
+ ></p><p><b>Hofstad skole</b><br>Elevene går eller sykler til Asker museum
+ </p><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 4A (20), 4B (25)<br><b>T
+ otalt: 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad skole</b><br>Tl
+ f: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73 &nbs
+ p; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.synnove.
+ von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 13 94
+  &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></bo
+ dy></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -655,33 +643,28 @@ DTSTART:20260907T070000Z
 DTEND:20260907T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHvalstad skole
- \\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollek
- tivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men 
- må bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nHvalstad skole: 4A (21)\, 4B (22)\, 4C (19)\\nTotalt: 
- 62 elevar\\n\\nKONTAKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine
-  Norman Hegg(kun tilrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.k
- ommune.no\\n  Kristine Tokle Kleivenes  +47 92 20 85 86  kristine.tokle.kl
- eivenes@asker.kommune.no\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne
- .lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelles
- kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ \\n  Elevene sykler/går til Asker museum. \\n\\nKLASSER\\nHvalstad skole:
+  4A (21)\, 4B (22)\, 4C (19)\\nTotalt: 62 elevar\\n\\nKONTAKT\\nHvalstad s
+ kole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +47
+  93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Kristine Tokle Kleive
+ nes  +47 92 20 85 86  kristine.tokle.kleivenes@asker.kommune.no\\n  Anne L
+ ene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no
+ \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
+ i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Hvalstad skole</b><br>Elevene sykler/går eller tar kollektivt 
- til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. De
- tte dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post me
- d ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Hvalstad skol
- e:</b> 4A (21), 4B (22), 4C (19)<br><b>Totalt: 62 elevar</b></p><p><b>KONT
- AKT</b></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norma
- n Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:tri
- ne.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br
- >Kristine Tokle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mailto:kr
- istine.tokle.kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@asker.ko
- mmune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a hr
- ef='mailto:anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjo
- nen</a></p></body></html>
+ ></p><p><b>Hvalstad skole</b><br>Elevene sykler/går til Asker museum. </p
+ ><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 4A (21), 4B (22), 4C (19)<
+ br><b>Totalt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</
+ b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +
+ 47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>
+ trine.norman.hegg@asker.kommune.no</a><br>Kristine Tokle Kleivenes &nbsp; 
+ +47 92 20 85 86 &nbsp; <a href='mailto:kristine.tokle.kleivenes@asker.komm
+ une.no'>kristine.tokle.kleivenes@asker.kommune.no</a><br>Anne Lene Tveten 
+ Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje
+ @asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><
+ a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -692,7 +675,7 @@ DTSTART:20260907T073000Z
 DTEND:20260907T113000Z
 SUMMARY:Dagstur til Dikemark (9. trinn)
 DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
- RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  Retur: 13:30\\n  VY
+ RANSPORT\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  Retur: 13:30\\n  VY
   Turbuss frakter elevene fra skole til Dikemark og tilbake etter besøket.
   Se gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. V
  akttelefon Vy Buss er 91658600\\nSteinerskolen i Asker\\n  Avreise: 09:05 
@@ -720,7 +703,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
  um</p><p><b>TRANSPORT</b></p><p><b>Spikkestad ungdomsskole</b><br>Avreise:
-  09:00 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
+  09:05 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dik
  emark og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra 
  skole og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>St
  einerskolen i Asker</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbus
@@ -763,36 +746,38 @@ DTSTART:20260910T070000Z
 DTEND:20260910T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHeggedal skole
- \\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollek
- tivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men 
- må bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nHeggedal skole: 4A (27)\\nSteinerskolen i Asker: 4 (2
- 3)\\nTotalt: 50 elevar\\n\\nKONTAKT\\nHeggedal skole\\n  Tlf: +47 66 76 88
-  00\\n  Ann Louise Schmidt  +47 93 42 03 91  ann.louise.schmidt@asker.komm
- une.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  stai
-   +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  +47
-  96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Mette Bøe  +47 90
-  66 73 87  anne.boe@askersteinerskole.no\\n\\nINFO\\nhttps://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ \\n  Elevene tar kollektivt til Asker museum. Ved kollektivtransport\, kan
+  RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må bestilles i fo
+ rkant av skolene. Se e-post med ordrenummer for bestilling. \\nSteinersko
+ len i Asker\\n  Elevene sykler/går til Asker museum\\n\\nKLASSER\\nHegged
+ al skole: 4A (27)\\nSteinerskolen i Asker: 4 (23)\\nTotalt: 50 elevar\\n\\
+ nKONTAKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt 
+  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\nSteinerskolen i As
+ ker\\n  Tlf: +47 66 85 26 80\\n  marianne  stai  +47 98 03 49 34  marianne
+ .stai@askersteinerskole.no\\n  DAVID WHYTE  +47 96 62 36 15  david.whyte@a
+ skersteinerskole.no\\n  Anne-Mette Bøe  +47 90 66 73 87  anne.boe@askerst
+ einerskole.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Heggedal skole</b><br>Elevene sykler/går eller tar kollektivt 
- til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. De
- tte dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post me
- d ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Heggedal sko
- le:</b> 4A (27)<br><b>Steinerskolen i Asker:</b> 4 (23)<br><b>Totalt: 50 e
- levar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b><br>Tlf: +47 66 
- 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nbsp; <a href='mail
- to:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmidt@asker.kommune.n
- o</a><br></p><p><b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>ma
- rianne  stai &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@a
- skersteinerskole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE
-  &nbsp; +47 96 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteinersko
- le.no'>david.whyte@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 
- 90 66 73 87 &nbsp; <a href='mailto:anne.boe@askersteinerskole.no'>anne.boe
- @askersteinerskole.no</a><br></p><p><a href='https://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produ
- ksjonen</a></p></body></html>
+ ></p><p><b>Heggedal skole</b><br>Elevene tar kollektivt til Asker museum. 
+ Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Ask
+ er, men må bestilles i forkant av skolene. Se e-post med ordrenummer for 
+ bestilling. </p><p><b>Steinerskolen i Asker</b><br>Elevene sykler/går ti
+ l Asker museum</p><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 4A (27)<b
+ r><b>Steinerskolen i Asker:</b> 4 (23)<br><b>Totalt: 50 elevar</b></p><p><
+ b>KONTAKT</b></p><p><b>Heggedal skole</b><br>Tlf: +47 66 76 88 00<br>Ann L
+ ouise Schmidt &nbsp; +47 93 42 03 91 &nbsp; <a href='mailto:ann.louise.sch
+ midt@asker.kommune.no'>ann.louise.schmidt@asker.kommune.no</a><br></p><p><
+ b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbs
+ p; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinerskole.
+ no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62
+  36 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>david.whyt
+ e@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 90 66 73 87 &nbsp
+ ; <a href='mailto:anne.boe@askersteinerskole.no'>anne.boe@askersteinerskol
+ e.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></
+ body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -892,26 +877,25 @@ DTSTART:20260911T070000Z
 DTEND:20260911T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHeggedal skole
- \\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollek
- tivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men 
- må bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nHeggedal skole: 4B (27)\, 4c (27)\\nTotalt: 54 elevar
- \\n\\nKONTAKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Sch
- midt  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhtt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=25156
+ \\n  Elevene tar kollektivt til Asker museum. Ved kollektivtransport\, kan
+  RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må bestilles i fo
+ rkant av skolene. Se e-post med ordrenummer for bestilling. \\n\\nKLASSER
+ \\nHeggedal skole: 4B (27)\, 4c (27)\\nTotalt: 54 elevar\\n\\nKONTAKT\\nHe
+ ggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 93 42 03
+  91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Heggedal skole</b><br>Elevene sykler/går eller tar kollektivt 
- til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. De
- tte dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post me
- d ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Heggedal sko
- le:</b> 4B (27), 4c (27)<br><b>Totalt: 54 elevar</b></p><p><b>KONTAKT</b><
- /p><p><b>Heggedal skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt 
- &nbsp; +47 93 42 03 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kom
- mune.no'>ann.louise.schmidt@asker.kommune.no</a><br></p><p><a href='https:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 5156'>Les meir om produksjonen</a></p></body></html>
+ ></p><p><b>Heggedal skole</b><br>Elevene tar kollektivt til Asker museum. 
+ Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Ask
+ er, men må bestilles i forkant av skolene. Se e-post med ordrenummer for 
+ bestilling. </p><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 4B (27), 4
+ c (27)<br><b>Totalt: 54 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal 
+ skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 0
+ 3 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louis
+ e.schmidt@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om 
+ produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -1218,23 +1202,26 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-505686@asker.dks
+UID:dks-505688@asker.dks
 DTSTART:20260916T093000Z
 DTEND:20260916T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBlakst
- ad skole: 6A (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tl
- f: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lotte.hansen@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBondi 
+ skole: 6C (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47
+  66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.
+ no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Blakstad skole:</b> 6A (23)<br><b>Totalt: 23 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<
- br>LOTTE HANSEN &nbsp; +47 41 68 28 11 &nbsp; <a href='mailto:lotte.hansen
- @asker.kommune.no'>lotte.hansen@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23232'>Les meir om produksjonen</a></p></body></html>
+ ASSER</b></p><p><b>Bondi skole:</b> 6C (15)<br><b>Totalt: 15 elevar</b></p
+ ><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Hei
+ di Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.
+ kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 
+ 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karian
+ ne.mayer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om p
+ roduksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1245,7 +1232,7 @@ DTSTART:20260917T071500Z
 DTEND:20260917T114500Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nMidtbygda barn
- eskole\\n  Avreise: 08:45  Retur: 13:45\\n  VY Turbuss frakter elevene fra
+ eskole\\n  Avreise: 08:30  Retur: 13:30\\n  VY Turbuss frakter elevene fra
   skole til Asker museum og tilbake etter besøket. Se gjeldende tidspunkte
  r for avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss 
  er 91658600\\n\\nKLASSER\\nMidtbygda barneskole: 4A (23)\, 4B (25)\, 4C (2
@@ -1255,7 +1242,7 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nMidtbygda barn
  orsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Midtbygda barneskole</b><br>Avreise: 08:45 &nbsp; Retur: 13:45<
+ ></p><p><b>Midtbygda barneskole</b><br>Avreise: 08:30 &nbsp; Retur: 13:30<
  br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
  besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
  ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
@@ -1293,26 +1280,23 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-505688@asker.dks
+UID:dks-505686@asker.dks
 DTSTART:20260917T093000Z
 DTEND:20260917T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBondi 
- skole: 6C (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47
-  66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.
- no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\n
- \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBlakst
+ ad skole: 6A (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tl
+ f: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lotte.hansen@asker.k
+ ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
+ uksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Bondi skole:</b> 6C (15)<br><b>Totalt: 15 elevar</b></p
- ><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Hei
- di Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.
- kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 
- 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karian
- ne.mayer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om p
- roduksjonen</a></p></body></html>
+ ASSER</b></p><p><b>Blakstad skole:</b> 6A (23)<br><b>Totalt: 23 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<
+ br>LOTTE HANSEN &nbsp; +47 41 68 28 11 &nbsp; <a href='mailto:lotte.hansen
+ @asker.kommune.no'>lotte.hansen@asker.kommune.no</a><br></p><p><a href='ht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1584,43 +1568,38 @@ UID:dks-546093@asker.dks
 DTSTART:20260922T073000Z
 DTEND:20260922T100000Z
 SUMMARY:DKS Kulturvertkurs i Asker 2026
-DESCRIPTION:KLASSER\\nBondi skole: 6A (6)\\nBillingstad skole: 7A (4)\\nHof
- stad skole: 6A (4)\\nMellom-Nes skole: 6 (6)\\nJansløkka skole: 6A  (6)\\
- nTotalt: 26 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n 
-  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne 
- Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nBillingstad skol
- e\\n  Tlf: +47 66 71 53 00\\n  Caroline Halnes  +47 92 64 17 94  caroline.
- blutecher.halnes@asker.kommune.no\\nHofstad skole\\n  Tlf: +47 66 71 54 20
- \\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@as
- ker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommu
- ne.no\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73
-  77 35  kari.ruud@asker.kommune.no\\nJansløkka skole\\n  Tlf: +47 66 71 5
- 5 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\
- \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=24658
+DESCRIPTION:KLASSER\\nBondi skole: 6A (6)\\nHofstad skole: 6A (4)\\nMellom-
+ Nes skole: 6 (6)\\nJansløkka skole: 6A  (6)\\nTotalt: 22 elevar\\n\\nKONT
+ AKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 
+ 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  kari
+ anne.mayer@asker.kommune.no\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  A
+ nne Synnøve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.ko
+ mmune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\
+ \nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 77 35
+   kari.ruud@asker.kommune.no\\nJansløkka skole\\n  Tlf: +47 66 71 55 70\\
+ n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttp
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =24658
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 6A (6)<br><b
- >Billingstad skole:</b> 7A (4)<br><b>Hofstad skole:</b> 6A (4)<br><b>Mello
- m-Nes skole:</b> 6 (6)<br><b>Jansløkka skole:</b> 6A  (6)<br><b>Totalt: 2
- 6 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 
- 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:hei
- di.asmul@asker.kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Ma
- yer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kom
- mune.no'>karianne.mayer@asker.kommune.no</a><br></p><p><b>Billingstad skol
- e</b><br>Tlf: +47 66 71 53 00<br>Caroline Halnes &nbsp; +47 92 64 17 94 &n
- bsp; <a href='mailto:caroline.blutecher.halnes@asker.kommune.no'>caroline.
- blutecher.halnes@asker.kommune.no</a><br></p><p><b>Hofstad skole</b><br>Tl
- f: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73 &nbs
- p; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.synnove.
- von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 13 94
-  &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.kommune.
- no</a><br></p><p><b>Mellom-Nes skole</b><br>Tlf: +47 97 73 77 35<br>Kari R
- uud &nbsp; +47 97 73 77 35 &nbsp; <a href='mailto:kari.ruud@asker.kommune.
- no'>kari.ruud@asker.kommune.no</a><br></p><p><b>Jansløkka skole</b><br>Tl
- f: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='
- mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=24658'>Les meir om produksjonen</a></p></body></html>
+ >Hofstad skole:</b> 6A (4)<br><b>Mellom-Nes skole:</b> 6 (6)<br><b>Janslø
+ kka skole:</b> 6A  (6)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 
+ 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asm
+ ul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a
+  href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommun
+ e.no</a><br></p><p><b>Hofstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Sy
+ nnøve Von Hirsch &nbsp; +47 97 11 34 73 &nbsp; <a href='mailto:anne.synno
+ ve.von.hirsch@asker.kommune.no'>anne.synnove.von.hirsch@asker.kommune.no</
+ a><br>Ingeborg Wiencke &nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwien
+ cke@asker.kommune.no'>iwiencke@asker.kommune.no</a><br></p><p><b>Mellom-Ne
+ s skole</b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &n
+ bsp; <a href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker.kommune.n
+ o</a><br></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit M
+ elås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.n
+ o'>mmelas@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658'>Les meir om 
+ produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Bjørn Carlsen-rommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24658
@@ -1821,32 +1800,37 @@ DTSTART:20260923T073000Z
 DTEND:20260923T100000Z
 SUMMARY:DKS Kulturvertkurs i Asker 2026
 DESCRIPTION:KLASSER\\nVettre skole: 7 (4)\, 6 (5)\\nVardåsen skole: 6A (4)
- \\nDrengsrud skole: 7A (6)\\nRønningen skole: 6 (4)\\nTotalt: 23 elevar\\
- n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 9
- 2 26 88 00  sidsel.fonn@asker.kommune.no\\nVardåsen skole\\n  Tlf: +47 66
-  71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@asker.kommune.
- no\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolland  +47 47 8
- 4 13 15  thomas.rolland@asker.kommune.no\\nRønningen skole\\n  Tlf: +47 6
- 6 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@asker.kommun
- e.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjo
- ner-i-dks/?produksjon=24658
+ \\nBillingstad skole: 7A (4)\\nDrengsrud skole: 7A (6)\\nRønningen skole:
+  6 (4)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 
+ 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nVar
+ dåsen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86
+  97  kdyrhaug@asker.kommune.no\\nBillingstad skole\\n  Tlf: +47 66 71 53 0
+ 0\\n  Caroline Halnes  +47 92 64 17 94  caroline.blutecher.halnes@asker.ko
+ mmune.no\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolland  +4
+ 7 47 84 13 15  thomas.rolland@asker.kommune.no\\nRønningen skole\\n  Tlf:
+  +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@asker.
+ kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=24658
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (4), 6 (5
- )<br><b>Vardåsen skole:</b> 6A (4)<br><b>Drengsrud skole:</b> 7A (6)<br><
- b>Rønningen skole:</b> 6 (4)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT
- </b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbs
- p; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.kommune.no'>si
- dsel.fonn@asker.kommune.no</a><br></p><p><b>Vardåsen skole</b><br>Tlf: +4
- 7 66 71 51 00<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href=
- 'mailto:kdyrhaug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p
- ><b>Drengsrud skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +
- 47 47 84 13 15 &nbsp; <a href='mailto:thomas.rolland@asker.kommune.no'>tho
- mas.rolland@asker.kommune.no</a><br></p><p><b>Rønningen skole</b><br>Tlf:
-  +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; <a href='
- mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommune.no</a><
- br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=24658'>Les meir om produksjonen</a></p></body></ht
- ml>
+ )<br><b>Vardåsen skole:</b> 6A (4)<br><b>Billingstad skole:</b> 7A (4)<br
+ ><b>Drengsrud skole:</b> 7A (6)<br><b>Rønningen skole:</b> 6 (4)<br><b>To
+ talt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf:
+  +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mai
+ lto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br></p>
+ <p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &n
+ bsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdy
+ rhaug@asker.kommune.no</a><br></p><p><b>Billingstad skole</b><br>Tlf: +47 
+ 66 71 53 00<br>Caroline Halnes &nbsp; +47 92 64 17 94 &nbsp; <a href='mail
+ to:caroline.blutecher.halnes@asker.kommune.no'>caroline.blutecher.halnes@a
+ sker.kommune.no</a><br></p><p><b>Drengsrud skole</b><br>Tlf: +47 66 71 27 
+ 00<br>Thomas Rolland &nbsp; +47 47 84 13 15 &nbsp; <a href='mailto:thomas.
+ rolland@asker.kommune.no'>thomas.rolland@asker.kommune.no</a><br></p><p><b
+ >Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47
+  95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.
+ graffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658'>Les meir om pr
+ oduksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Bjørn Carlsen-rommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24658
@@ -2509,7 +2493,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nVardåsen skole\\n  Elev
  n  Elevene tar kollektivtransport (tog) til Det Norske teatret\, og tilbak
  e igjen. DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nVardåsen skole
  : 5A (22)\, 5B (24)\\nStiftelsen Asker International School: 5a (21)\\nHag
- aløkka skole: 5A (23)\, 5B (23)\\nTotalt: 113 elevar\\n\\nKONTAKT\\nVard�
+ aløkka skole: 5A (22)\, 5B (23)\\nTotalt: 112 elevar\\n\\nKONTAKT\\nVard�
  �sen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86
   97  kdyrhaug@asker.kommune.no\\nStiftelsen Asker International School\\n 
   Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\
@@ -2524,7 +2508,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  g) til Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billet
  ter. </p><p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 5A (22), 5B (24)<
  br><b>Stiftelsen Asker International School:</b> 5a (21)<br><b>Hagaløkka 
- skole:</b> 5A (23), 5B (23)<br><b>Totalt: 113 elevar</b></p><p><b>KONTAKT<
+ skole:</b> 5A (22), 5B (23)<br><b>Totalt: 112 elevar</b></p><p><b>KONTAKT<
  /b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyr
  haug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.
  no'>kdyrhaug@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker Internatio
@@ -4049,7 +4033,7 @@ DTSTART:20261104T110000Z
 DTEND:20261104T114500Z
 SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSteinerskolen i Hu
- rum: 8 (20)\\nSætre ungdomsskole: 8c (26)\\nTotalt: 46 elevar\\n\\nKONTAK
+ rum: 8 (20)\\nSætre ungdomsskole: 8c (21)\\nTotalt: 41 elevar\\n\\nKONTAK
  T\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 
  94 42 17 43  jeanette.ward@steinerskolen.no\\nSætre ungdomsskole\\n  Tlf:
   +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommu
@@ -4058,7 +4042,7 @@ DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSteinerskolen i Hu
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
  ><p><b>Steinerskolen i Hurum:</b> 8 (20)<br><b>Sætre ungdomsskole:</b> 8c
-  (26)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
+  (21)<br><b>Totalt: 41 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
  len i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 
  17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward
  @steinerskolen.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 

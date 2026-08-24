@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Borgen ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Borgen ungdomsskole
-LAST-MODIFIED:20260814T090021Z
+LAST-MODIFIED:20260824T090050Z
 BEGIN:VEVENT
 UID:dks-550211@asker.dks
 DTSTART:20260831T073000Z
@@ -21,8 +21,8 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  e fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n  
  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtransp
  ort\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\\n\\nKLASSER\\n
- Borgen ungdomsskole: 9A (27)\\nLandøya ungdomsskole: 9C (30)\, 9A (30)\\n
- Risenga ungdomsskole: 9C (27)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nBorgen u
+ Borgen ungdomsskole: 9A (28)\\nLandøya ungdomsskole: 9C (30)\, 9A (30)\\n
+ Risenga ungdomsskole: 9C (27)\\nTotalt: 115 elevar\\n\\nKONTAKT\\nBorgen u
  ngdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99
   53 30 36  anne-marie.christophersen@asker.kommune.no\\nLandøya ungdomssk
  ole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25  mona.e
@@ -45,8 +45,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
   Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/g�
  �r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-
  billetter benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>B
- orgen ungdomsskole:</b> 9A (27)<br><b>Landøya ungdomsskole:</b> 9C (30), 
- 9A (30)<br><b>Risenga ungdomsskole:</b> 9C (27)<br><b>Totalt: 114 elevar</
+ orgen ungdomsskole:</b> 9A (28)<br><b>Landøya ungdomsskole:</b> 9C (30), 
+ 9A (30)<br><b>Risenga ungdomsskole:</b> 9C (27)<br><b>Totalt: 115 elevar</
  b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71
   54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href=
  'mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christopher
@@ -86,16 +86,16 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  en ungdomsskole\\n  Elevene sykler/går eller tar kollektivt til Dikemark.
   Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS A
  sker\\n\\nKLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\\nHovedgår
- den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nBorgen ungdoms
- skole: VKK 9-10 trinn (17)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nSlemmestad 
- ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 
- 09  christine.birgitte.sund@asker.kommune.no\\nHovedgården ungdomsskole\\
- n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevi
- k@asker.kommune.no\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Je
- anette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nBorgen ungd
- omsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53
-  30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24775
+ den ungdomsskole: 9A (26)\\nSteinerskolen i Hurum: 9 (20)\\nTotalt: 103 el
+ evar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  C
+ hristine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.n
+ o\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik 
+  +47 99 72 26 98  hanne.hellevik@asker.kommune.no\\nSteinerskolen i Hurum\
+ \n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward
+ @steinerskolen.no\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-
+ Marie Christophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kom
+ mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=24775
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Teaterkompaniet NIE, Trafo kunsthall og Dikemark muse
  um</p><p><b>TRANSPORT</b></p><p><b>Slemmestad ungdomsskole</b><br>Avreise:
@@ -112,21 +112,21 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  lektivtransport, kan RUFUS-billetter benyttes. Dette dekker DKS Asker</p><
  p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 9A (28), 9B (29)<br
  ><b>Hovedgården ungdomsskole:</b> 9A (26)<br><b>Steinerskolen i Hurum:</b
- > 9 (20)<br><b>Borgen ungdomsskole:</b> VKK 9-10 trinn (17)<br><b>Totalt: 
- 120 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><b
- r>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; 
- <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgit
- te.sund@asker.kommune.no</a><br></p><p><b>Hovedgården ungdomsskole</b><br
- >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
- ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
- no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>J
- eanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@s
- teinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Borgen un
- gdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp;
-  +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.ko
- mmune.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href
- ='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=24775'>Les meir om produksjonen</a></p></body></html>
+ > 9 (20)<br><b>Totalt: 103 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemme
+ stad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; 
+ +47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommu
+ ne.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><b>Hovedgår
+ den ungdomsskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 
+ 99 72 26 98 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>hanne.
+ hellevik@asker.kommune.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tl
+ f: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href=
+ 'mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a>
+ <br></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Mari
+ e Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.
+ christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=24775'>Les meir om produksjonen</a></p></bod
+ y></html>
 LOCATION:Legebygningen Sykehusveien 1 1385 – Dikemark sykehusområde
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24775
@@ -199,7 +199,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nTorstad ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
  rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
   gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
- telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  
+ telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  
  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilb
  ake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avre
  ise fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n
@@ -221,7 +221,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
  rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
  le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Spikk
- estad ungdomsskole</b><br>Avreise: 09:00 &nbsp; Retur: 13:30<br>VY Turbuss
+ estad ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss
   frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjel
  dende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelef
  on Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/
@@ -374,13 +374,13 @@ DTSTART:20261005T100000Z
 DTEND:20261005T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
 DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nBorgen 
- ungdomsskole: 10D (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
+ ungdomsskole: 10D (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
  ole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 3
  6  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
  ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Borgen ungdomsskole:</b> 10D (28)<br><b>Totalt: 28 eleva
+ SSER</b></p><p><b>Borgen ungdomsskole:</b> 10D (27)<br><b>Totalt: 27 eleva
  r</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66
   71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a hr
  ef='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christop
@@ -397,13 +397,13 @@ DTSTART:20261006T070000Z
 DTEND:20261006T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
 DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nBorgen 
- ungdomsskole: 10VKK (8)\\nTotalt: 8 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
+ ungdomsskole: 10VKK (7)\\nTotalt: 7 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
  ole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 3
  6  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
  ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Borgen ungdomsskole:</b> 10VKK (8)<br><b>Totalt: 8 eleva
+ SSER</b></p><p><b>Borgen ungdomsskole:</b> 10VKK (7)<br><b>Totalt: 7 eleva
  r</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66
   71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a hr
  ef='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christop
@@ -420,13 +420,13 @@ DTSTART:20261006T100000Z
 DTEND:20261006T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
 DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nBorgen 
- ungdomsskole: 10C (30)\\nTotalt: 30 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
+ ungdomsskole: 10C (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
  ole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 3
  6  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
  ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Borgen ungdomsskole:</b> 10C (30)<br><b>Totalt: 30 eleva
+ SSER</b></p><p><b>Borgen ungdomsskole:</b> 10C (27)<br><b>Totalt: 27 eleva
  r</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66
   71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a hr
  ef='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christop
@@ -443,13 +443,13 @@ DTSTART:20261008T070000Z
 DTEND:20261008T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
 DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nBorgen 
- ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
+ ungdomsskole: 10A (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nBorgen ungdomssk
  ole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 3
  6  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
  ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Borgen ungdomsskole:</b> 10A (28)<br><b>Totalt: 28 eleva
+ SSER</b></p><p><b>Borgen ungdomsskole:</b> 10A (27)<br><b>Totalt: 27 eleva
  r</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66
   71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a hr
  ef='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christop
@@ -488,14 +488,14 @@ UID:dks-483435@asker.dks
 DTSTART:20261103T093500Z
 DTEND:20261103T102000Z
 SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8A (27)\, 8B (27)\, 8C (29)\, 8D
-  (28)\\nTotalt: 111 elevar\\n\\nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8A (29)\, 8B (30)\, 8C (28)\, 8D
+  (29)\\nTotalt: 116 elevar\\n\\nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47
   66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36  anne-marie.ch
  ristophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
  kken.no/utforsk-produksjoner-i-dks/?produksjon=21348
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8A (
- 27), 8B (27), 8C (29), 8D (28)<br><b>Totalt: 111 elevar</b></p><p><b>KONTA
+ 29), 8B (30), 8C (28), 8D (29)<br><b>Totalt: 116 elevar</b></p><p><b>KONTA
  KT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Ma
  rie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-mari
  e.christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune
@@ -511,14 +511,14 @@ UID:dks-483436@asker.dks
 DTSTART:20261103T110500Z
 DTEND:20261103T115000Z
 SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (27)\, 9B (27)\, 9C (29)\, 9D
-  (28)\, VKK 8-10 trinn (17)\\nTotalt: 128 elevar\\n\\nKONTAKT\\nBorgen ung
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (28)\, 9B (27)\, 9C (29)\, 9D
+  (28)\, VKK 8-10 trinn (17)\\nTotalt: 129 elevar\\n\\nKONTAKT\\nBorgen ung
  domsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 5
  3 30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://ww
  w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 9A (
- 27), 9B (27), 9C (29), 9D (28), VKK 8-10 trinn (17)<br><b>Totalt: 128 elev
+ 28), 9B (27), 9C (29), 9D (28), VKK 8-10 trinn (17)<br><b>Totalt: 129 elev
  ar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 6
  6 71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a h
  ref='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christo
@@ -534,16 +534,16 @@ UID:dks-483437@asker.dks
 DTSTART:20261103T123000Z
 DTEND:20261103T131500Z
 SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10A (26)\, 10B (27)\, 10C (28)\,
-  10D (26)\, 10VKK (6)\, VKK 9-10 trinn (17)\\nTotalt: 130 elevar\\n\\nKONT
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10A (25)\, 10B (27)\, 10C (25)\,
+  10D (25)\, 10VKK (5)\, VKK 9-10 trinn (17)\\nTotalt: 124 elevar\\n\\nKONT
  AKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christop
  hersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\n\\nI
  NFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
  produksjon=21348
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 10A 
- (26), 10B (27), 10C (28), 10D (26), 10VKK (6), VKK 9-10 trinn (17)<br><b>T
- otalt: 130 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b
+ (25), 10B (27), 10C (25), 10D (25), 10VKK (5), VKK 9-10 trinn (17)<br><b>T
+ otalt: 124 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b
  ><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30
   36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommune.no'>ann
  e-marie.christophersen@asker.kommune.no</a><br></p><p><a href='https://www
@@ -590,13 +590,13 @@ DTSTART:20261209T110000Z
 DTEND:20261209T114500Z
 SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nBorgen ungdomsskol
- e: 8A (27)\, 8B (27)\\nTotalt: 54 elevar\\n\\nKONTAKT\\nBorgen ungdomsskol
+ e: 8A (29)\, 8B (30)\\nTotalt: 59 elevar\\n\\nKONTAKT\\nBorgen ungdomsskol
  e\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36 
   anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
  turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Borgen ungdomsskole:</b> 8A (27), 8B (27)<br><b>Totalt: 54 elevar</
+ ><p><b>Borgen ungdomsskole:</b> 8A (29), 8B (30)<br><b>Totalt: 59 elevar</
  b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71
   54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href=
  'mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christopher
@@ -613,13 +613,13 @@ DTSTART:20261210T090000Z
 DTEND:20261210T094500Z
 SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nBorgen ungdomsskol
- e: 8C (29)\, 8D (28)\\nTotalt: 57 elevar\\n\\nKONTAKT\\nBorgen ungdomsskol
+ e: 8C (28)\, 8D (29)\\nTotalt: 57 elevar\\n\\nKONTAKT\\nBorgen ungdomsskol
  e\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36 
   anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
  turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Borgen ungdomsskole:</b> 8C (29), 8D (28)<br><b>Totalt: 57 elevar</
+ ><p><b>Borgen ungdomsskole:</b> 8C (28), 8D (29)<br><b>Totalt: 57 elevar</
  b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71
   54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href=
  'mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christopher
@@ -635,14 +635,14 @@ UID:dks-480422@asker.dks
 DTSTART:20270118T073000Z
 DTEND:20270118T090000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8A (27)\\nTotalt: 27 elevar\\n\\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8A (29)\\nTotalt: 29 elevar\\n\\
  nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Chr
  istophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\
  n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
  dks/?produksjon=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8A (
- 27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
+ 29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
  msskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +4
  7 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommu
  ne.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='h
@@ -657,14 +657,14 @@ UID:dks-480423@asker.dks
 DTSTART:20270118T093000Z
 DTEND:20270118T110000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8B (27)\\nTotalt: 27 elevar\\n\\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8B (30)\\nTotalt: 30 elevar\\n\\
  nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Chr
  istophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\
  n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
  dks/?produksjon=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8B (
- 27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
+ 30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
  msskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +4
  7 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommu
  ne.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='h
@@ -679,14 +679,14 @@ UID:dks-480424@asker.dks
 DTSTART:20270118T113000Z
 DTEND:20270118T130000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8C (29)\\nTotalt: 29 elevar\\n\\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8C (28)\\nTotalt: 28 elevar\\n\\
  nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Chr
  istophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\
  n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
  dks/?produksjon=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8C (
- 29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
+ 28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
  msskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +4
  7 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommu
  ne.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='h
@@ -701,14 +701,14 @@ UID:dks-480425@asker.dks
 DTSTART:20270119T073000Z
 DTEND:20270119T090000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8D (28)\\nTotalt: 28 elevar\\n\\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8D (29)\\nTotalt: 29 elevar\\n\\
  nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Chr
  istophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\
  n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
  dks/?produksjon=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8D (
- 28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
+ 29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdo
  msskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +4
  7 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommu
  ne.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='h
@@ -723,14 +723,14 @@ UID:dks-560817@asker.dks
 DTSTART:20270126T080000Z
 DTEND:20270126T084500Z
 SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10A (26)\\nTotalt: 26 elevar\\n\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10A (25)\\nTotalt: 25 elevar\\n\
  \nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Ch
  ristophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\
  \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
  -dks/?produksjon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 10A 
- (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
+ (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
  omsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +
  47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.komm
  une.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='
@@ -767,14 +767,14 @@ UID:dks-560819@asker.dks
 DTSTART:20270126T110000Z
 DTEND:20270126T114500Z
 SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10C (28)\\nTotalt: 28 elevar\\n\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10C (25)\\nTotalt: 25 elevar\\n\
  \nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Ch
  ristophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\
  \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
  -dks/?produksjon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 10C 
- (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
+ (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
  omsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +
  47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.komm
  une.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='
@@ -789,14 +789,14 @@ UID:dks-560820@asker.dks
 DTSTART:20270127T074500Z
 DTEND:20270127T083000Z
 SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10D (26)\\nTotalt: 26 elevar\\n\
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10D (25)\\nTotalt: 25 elevar\\n\
  \nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Ch
  ristophersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\
  \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
  -dks/?produksjon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 10D 
- (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
+ (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungd
  omsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +
  47 99 53 30 36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.komm
  une.no'>anne-marie.christophersen@asker.kommune.no</a><br></p><p><a href='
@@ -811,9 +811,9 @@ UID:dks-545529@asker.dks
 DTSTART:20270426T080000Z
 DTEND:20270426T100000Z
 SUMMARY:Klasseturen (9. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (27)\, 9B (27)\\nSætre ungdo
- msskole: 9c (26)\, 9b (25)\, 9a (25)\\nDen Alternative skolen Asker: 1 (30
- )\\nTotalt: 160 elevar\\n\\nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 
+DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (28)\, 9B (27)\\nSætre ungdo
+ msskole: 9c (25)\, 9b (25)\, 9a (19)\\nDen Alternative skolen Asker: 1 (30
+ )\\nTotalt: 154 elevar\\n\\nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 
  71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36  anne-marie.christ
  ophersen@asker.kommune.no\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\
  n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommune.no\\nDen Altern
@@ -822,8 +822,8 @@ DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (27)\, 9B (27)\\nSætre ungdo
  lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24624
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 9A (
- 27), 9B (27)<br><b>Sætre ungdomsskole:</b> 9c (26), 9b (25), 9a (25)<br><
- b>Den Alternative skolen Asker:</b> 1 (30)<br><b>Totalt: 160 elevar</b></p
+ 28), 9B (27)<br><b>Sætre ungdomsskole:</b> 9c (25), 9b (25), 9a (19)<br><
+ b>Den Alternative skolen Asker:</b> 1 (30)<br><b>Totalt: 154 elevar</b></p
  ><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 0
  0<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mail
  to:anne-marie.christophersen@asker.kommune.no'>anne-marie.christophersen@a

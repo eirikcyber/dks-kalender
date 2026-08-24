@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Torstad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Torstad ungdomsskole
-LAST-MODIFIED:20260814T090023Z
+LAST-MODIFIED:20260824T090054Z
 BEGIN:VEVENT
 UID:dks-550219@asker.dks
 DTSTART:20260826T073000Z
@@ -75,7 +75,7 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  RANSPORT\\nTorstad ungdomsskole\\n  Avreise: 09:10  Retur: 13:30\\n  VY Tu
  rbuss frakter elevene fra skole til Dikemark og tilbake etter besøket. Se
   gjeldende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakt
- telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:00  
+ telefon Vy Buss er 91658600\\nSpikkestad ungdomsskole\\n  Avreise: 09:05  
  Retur: 13:30\\n  VY Turbuss frakter elevene fra skole til Dikemark og tilb
  ake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avre
  ise fra Dikemark. Vakttelefon Vy Buss er 91658600\\nBorgen ungdomsskole\\n
@@ -97,7 +97,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  :10 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til Dikema
  rk og tilbake etter besøket. Se gjeldende tidspunkter for avreise fra sko
  le og avreise fra Dikemark. Vakttelefon Vy Buss er 91658600</p><p><b>Spikk
- estad ungdomsskole</b><br>Avreise: 09:00 &nbsp; Retur: 13:30<br>VY Turbuss
+ estad ungdomsskole</b><br>Avreise: 09:05 &nbsp; Retur: 13:30<br>VY Turbuss
   frakter elevene fra skole til Dikemark og tilbake etter besøket. Se gjel
  dende tidspunkter for avreise fra skole og avreise fra Dikemark. Vakttelef
  on Vy Buss er 91658600</p><p><b>Borgen ungdomsskole</b><br>Elevene sykler/
