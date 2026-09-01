@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Sydskogen barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Sydskogen barneskole
-LAST-MODIFIED:20260824T090048Z
+LAST-MODIFIED:20260901T090035Z
 BEGIN:VEVENT
 UID:dks-546085@asker.dks
 DTSTART:20260904T073000Z
@@ -233,15 +233,15 @@ UID:dks-552733@asker.dks
 DTSTART:20270218T083000Z
 DTEND:20270218T091500Z
 SUMMARY:Duo Sara og Ole (1.-7. trinn)
-DESCRIPTION:KLASSER\\nSydskogen barneskole: 7 (10)\, 6 (27)\, 5 (15)\, 4 (2
- 6)\, 3 (26)\, 1 (17)\, 2 (23)\\nTotalt: 144 elevar\\n\\nKONTAKT\\nSydskoge
+DESCRIPTION:KLASSER\\nSydskogen barneskole: 7 (11)\, 6 (27)\, 5 (15)\, 4 (2
+ 6)\, 3 (26)\, 1 (17)\, 2 (23)\\nTotalt: 145 elevar\\n\\nKONTAKT\\nSydskoge
  n barneskole\\n  Tlf: +47 31 29 33 55\\n  Siri Østvik Hage  +47 92 69 67 
  67  siri.ostvik.hage@asker.kommune.no\\n  Marte Svestad Eitrheim  +47 91 8
  2 90 27  marte.svestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
  lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23367
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sydskogen barneskole:</b> 7 (
- 10), 6 (27), 5 (15), 4 (26), 3 (26), 1 (17), 2 (23)<br><b>Totalt: 144 elev
+ 11), 6 (27), 5 (15), 4 (26), 3 (26), 1 (17), 2 (23)<br><b>Totalt: 145 elev
  ar</b></p><p><b>KONTAKT</b></p><p><b>Sydskogen barneskole</b><br>Tlf: +47 
  31 29 33 55<br>Siri Østvik Hage &nbsp; +47 92 69 67 67 &nbsp; <a href='ma
  ilto:siri.ostvik.hage@asker.kommune.no'>siri.ostvik.hage@asker.kommune.no<
@@ -309,8 +309,8 @@ DTSTART:20270317T090000Z
 DTEND:20270317T110000Z
 SUMMARY:Tilbake til Tottori (7. trinn)
 DESCRIPTION:KLASSER\\nNærsnes barneskole: 7 (29)\\nSydskogen barneskole: 7
-  (10)\\nArnestad skole: 7A (22)\, 7B (22)\, 7C (23)\\nTorvbråten barnesko
- le: 7A (25)\, 7B (22)\\nTotalt: 153 elevar\\n\\nKONTAKT\\nNærsnes barnesk
+  (11)\\nArnestad skole: 7A (22)\, 7B (22)\, 7C (23)\\nTorvbråten barnesko
+ le: 7A (25)\, 7B (22)\\nTotalt: 154 elevar\\n\\nKONTAKT\\nNærsnes barnesk
  ole\\n  Tlf: +47 31 29 35 40\\n  Alise Narjord Thue  +47 90 50 18 39  alis
  e.narjord.thue@asker.kommune.no\\nSydskogen barneskole\\n  Tlf: +47 31 29 
  33 55\\n  Siri Østvik Hage  +47 92 69 67 67  siri.ostvik.hage@asker.kommu
@@ -326,9 +326,9 @@ DESCRIPTION:KLASSER\\nNærsnes barneskole: 7 (29)\\nSydskogen barneskole: 7
  forsk-produksjoner-i-dks/?produksjon=24641
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nærsnes barneskole:</b> 7 (2
- 9)<br><b>Sydskogen barneskole:</b> 7 (10)<br><b>Arnestad skole:</b> 7A (22
+ 9)<br><b>Sydskogen barneskole:</b> 7 (11)<br><b>Arnestad skole:</b> 7A (22
  ), 7B (22), 7C (23)<br><b>Torvbråten barneskole:</b> 7A (25), 7B (22)<br>
- <b>Totalt: 153 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærsnes barneskol
+ <b>Totalt: 154 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærsnes barneskol
  e</b><br>Tlf: +47 31 29 35 40<br>Alise Narjord Thue &nbsp; +47 90 50 18 39
   &nbsp; <a href='mailto:alise.narjord.thue@asker.kommune.no'>alise.narjord
  .thue@asker.kommune.no</a><br></p><p><b>Sydskogen barneskole</b><br>Tlf: +

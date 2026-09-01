@@ -5,73 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260824T090036Z
-BEGIN:VEVENT
-UID:dks-483454@asker.dks
-DTSTART:20260828T081000Z
-DTEND:20260828T085500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10c (28)\, 10b (27)\, 10a (26)\,
-  8a (22)\\nTotalt: 103 elevar\\n\\nKONTAKT\\nSætre ungdomsskole\\n  Tlf: 
- +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommun
- e.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjo
- ner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 10c 
- (28), 10b (27), 10a (26), 8a (22)<br><b>Totalt: 103 elevar</b></p><p><b>KO
- NTAKT</b></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>Hild
- e Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.solum@asker.ko
- mmune.no'>hilde.solum@asker.kommune.no</a><br></p><p><a href='https://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>
- Les meir om produksjonen</a></p></body></html>
-LOCATION:Sætre innbyggertorg – Dynamitten
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-541978@asker.dks
-DTSTART:20260828T083500Z
-DTEND:20260828T091000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Vollen Montessoriskole: 1 (14)\, 2 (14)\\n
- Totalt: 28 elevar\\n\\nKONTAKT\\nStiftelsen Vollen Montessoriskole\\n  Tlf
- : +47 66 98 71 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@v
- omo.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Vollen Montessoris
- kole:</b> 1 (14), 2 (14)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b><
- /p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47 66 98 71 20<br>
- Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='mailto:camilla.nys
- trom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><p><a href='https://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>L
- es meir om produksjonen</a></p></body></html>
-LOCATION:Stiftelsen Vollen Montessoriskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483455@asker.dks
-DTSTART:20260828T095000Z
-DTEND:20260828T103500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8c (21)\, 9c (25)\, 8b (21)\, 9b
-  (25)\, 9a (19)\\nTotalt: 111 elevar\\n\\nKONTAKT\\nSætre ungdomsskole\\n
-   Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker
- .kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
- oduksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8c (
- 21), 9c (25), 8b (21), 9b (25), 9a (19)<br><b>Totalt: 111 elevar</b></p><p
- ><b>KONTAKT</b></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<b
- r>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.solum@as
- ker.kommune.no'>hilde.solum@asker.kommune.no</a><br></p><p><a href='https:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 1348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Sætre innbyggertorg – Dynamitten
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
+LAST-MODIFIED:20260901T090026Z
 BEGIN:VEVENT
 UID:dks-541970@asker.dks
 DTSTART:20260901T093000Z
@@ -146,21 +80,21 @@ DTSTART:20260914T070000Z
 DTEND:20260914T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nJansløkka sko
- le\\n  levene går eller sykler til Asker museum.\\n\\nKLASSER\\nJansløkk
- a skole: 4A  (24)\, 4B (24)\, 4C (23)\\nTotalt: 71 elevar\\n\\nKONTAKT\\nJ
- ansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28
-   mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken
- .no/utforsk-produksjoner-i-dks/?produksjon=25156
+ le\\n  Elevene går eller sykler til Asker museum.\\n\\nKLASSER\\nJansløk
+ ka skole: 4A  (24)\, 4B (24)\, 4C (23)\\nTotalt: 71 elevar\\n\\nKONTAKT\\n
+ Jansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 2
+ 8  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Jansløkka skole</b><br>levene går eller sykler til Asker muse
- um.</p><p><b>KLASSER</b></p><p><b>Jansløkka skole:</b> 4A  (24), 4B (24),
-  4C (23)<br><b>Totalt: 71 elevar</b></p><p><b>KONTAKT</b></p><p><b>Janslø
- kka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 
- 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.no
- </a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pr
- oduksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body
- ></html>
+ ></p><p><b>Jansløkka skole</b><br>Elevene går eller sykler til Asker mus
+ eum.</p><p><b>KLASSER</b></p><p><b>Jansløkka skole:</b> 4A  (24), 4B (24)
+ , 4C (23)<br><b>Totalt: 71 elevar</b></p><p><b>KONTAKT</b></p><p><b>Jansl�
+ �kka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 
+ 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune
+ .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></b
+ ody></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -170,13 +104,13 @@ UID:dks-482112@asker.dks
 DTSTART:20260914T083000Z
 DTEND:20260914T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nHolmen barnehage: 3-6 år (52)\\nTotalt: 52 elevar\\n
+DESCRIPTION:KLASSER\\nHolmen barnehage: 3-6 år (30)\\nTotalt: 30 elevar\\n
  \\nKONTAKT\\nHolmen barnehage\\n  Sissel Sønju Moltzau  +47 97 47 10 10  
  sissel.moltzau@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskole
  sekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Holmen barnehage:</b> 3-6 år
-  (52)<br><b>Totalt: 52 elevar</b></p><p><b>KONTAKT</b></p><p><b>Holmen bar
+  (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b>Holmen bar
  nehage</b><br>Sissel Sønju Moltzau &nbsp; +47 97 47 10 10 &nbsp; <a href=
  'mailto:sissel.moltzau@asker.kommune.no'>sissel.moltzau@asker.kommune.no</
  a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
@@ -1442,7 +1376,7 @@ DTSTART:20261014T083000Z
 DTEND:20261014T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nFrelsesarmeens  Trollstua barnehage: 3-6 år (30)\\nN
- orlandia Lilleborgen barnehage: 3-6 år gruppe1 (16)\\nTotalt: 46 elevar\\
+ orlandia Lilleborgen barnehage: 3-6 år gruppe1 (10)\\nTotalt: 40 elevar\\
  n\\nKONTAKT\\nFrelsesarmeens  Trollstua barnehage\\n  Tlf: +47 66 78 74 86
  \\n  Kristin Blütecher  +47 41 45 14 58  kristin.blutecher@frelsesarmeen.
  no\\nNorlandia Lilleborgen barnehage\\n  Tlf: +47 66 79 40 19\\n  Janne Ma
@@ -1452,7 +1386,7 @@ DESCRIPTION:KLASSER\\nFrelsesarmeens  Trollstua barnehage: 3-6 år (30)\\nN
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Frelsesarmeens  Trollstua bar
  nehage:</b> 3-6 år (30)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 å
- r gruppe1 (16)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>F
+ r gruppe1 (10)<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b></p><p><b>F
  relsesarmeens  Trollstua barnehage</b><br>Tlf: +47 66 78 74 86<br>Kristin 
  Blütecher &nbsp; +47 41 45 14 58 &nbsp; <a href='mailto:kristin.blutecher
  @frelsesarmeen.no'>kristin.blutecher@frelsesarmeen.no</a><br></p><p><b>Nor
@@ -1473,17 +1407,20 @@ SUMMARY:Oscarsborg festning (10. trinn Asker sør)
 DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nKLASSER\\nSætre ungdo
  msskole: 10c (30)\, 10b (29)\, 10a (28)\\nTotalt: 87 elevar\\n\\nKONTAKT\\
  nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 7
- 0 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=24706
+ 0 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08
+  22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nhttps://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24706
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>KLASSER<
  /b></p><p><b>Sætre ungdomsskole:</b> 10c (30), 10b (29), 10a (28)<br><b>T
  otalt: 87 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdomsskole</b>
  <br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a h
  ref='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a>
- <br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=24706'>Les meir om produksjonen</a></p></body></h
- tml>
+ <br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto
+ :henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eliassen@modum
+ .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
+ /utforsk-produksjoner-i-dks/?produksjon=24706'>Les meir om produksjonen</a
+ ></p></body></html>
 LOCATION:Oscarsborg festning – Oscarsborg festning
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24706
@@ -1516,7 +1453,7 @@ DTSTART:20261014T100000Z
 DTEND:20261014T103500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nØsthellinga barnehage: 3-6 år (28)\\nNorlandia Lill
- eborgen barnehage: 3-6 år gruppe2 (12)\\nTotalt: 40 elevar\\n\\nKONTAKT\\
+ eborgen barnehage: 3-6 år gruppe2 (21)\\nTotalt: 49 elevar\\n\\nKONTAKT\\
  nØsthellinga barnehage\\n  Tlf: +47 66 90 82 00\\n  Anita Sønsteby  +47 
  97 15 45 08  anita.sonsteby@asker.kommune.no\\nNorlandia Lilleborgen barne
  hage\\n  Tlf: +47 66 79 40 19\\n  Janne Mathiesen  +47 95 74 71 01  janne.
@@ -1524,8 +1461,8 @@ DESCRIPTION:KLASSER\\nØsthellinga barnehage: 3-6 år (28)\\nNorlandia Lill
  o/utforsk-produksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Østhellinga barnehage:</b> 3
- -6 år (28)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 år gruppe2 (12
- )<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b></p><p><b>Østhellinga b
+ -6 år (28)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 år gruppe2 (21
+ )<br><b>Totalt: 49 elevar</b></p><p><b>KONTAKT</b></p><p><b>Østhellinga b
  arnehage</b><br>Tlf: +47 66 90 82 00<br>Anita Sønsteby &nbsp; +47 97 15 4
  5 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteb
  y@asker.kommune.no</a><br></p><p><b>Norlandia Lilleborgen barnehage</b><br
@@ -1534,27 +1471,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
  duksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body>
  </html>
-LOCATION:Borgen innbyggertorg – Påfuglrommet
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482142@asker.dks
-DTSTART:20261015T083000Z
-DTEND:20261015T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nBorgen barnehage: 3-6 år (35)\\nTotalt: 35 elevar\\n
- \\nKONTAKT\\nBorgen barnehage\\n  Tlf: +47 66 71 52 84\\n  Anita Sønsteby
-   +47 97 15 45 08  anita.sonsteby@asker.kommune.no\\n\\nINFO\\nhttps://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen barnehage:</b> 3-6 år
-  (35)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen bar
- nehage</b><br>Tlf: +47 66 71 52 84<br>Anita Sønsteby &nbsp; +47 97 15 45 
- 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjon
- en</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -1582,6 +1498,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  onsteby@asker.kommune.no'>anita.sonsteby@asker.kommune.no</a><br></p><p><a
   href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
  ?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Borgen innbyggertorg – Påfuglrommet
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21285
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482142@asker.dks
+DTSTART:20261015T110000Z
+DTEND:20261015T113500Z
+SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
+DESCRIPTION:KLASSER\\nBorgen barnehage: 3-6 år (35)\\nTotalt: 35 elevar\\n
+ \\nKONTAKT\\nBorgen barnehage\\n  Tlf: +47 66 71 52 84\\n  Anita Sønsteby
+   +47 97 15 45 08  anita.sonsteby@asker.kommune.no\\n\\nINFO\\nhttps://www
+ .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen barnehage:</b> 3-6 år
+  (35)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen bar
+ nehage</b><br>Tlf: +47 66 71 52 84<br>Anita Sønsteby &nbsp; +47 97 15 45 
+ 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjon
+ en</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -2014,11 +1951,11 @@ DESCRIPTION:KLASSER\\nNedre Bleiker Barnehus: 3-6 år (49)\\nÅnnerud Barne
  \\nKONTAKT\\nNedre Bleiker Barnehus\\n  Amalie F.  +47 95 71 00 10  daglig
  leder@nbbh.no\\nÅnnerud Barnehus Sa\\n  Tlf: +47 96 94 46 50\\n  Per Erik
   Jenssen  +47 92 87 77 85  kontor@annerudtoppen.no\\nÅby barnehage\\n  Tl
- f: +47 99 16 85 42\\n  Suniva Høyer  +47 99 16 85 42  sunnivahoyer1997@gm
- ail.com\\n  Bodil Iren Nordvik  +47 91 74 56 48  bodil.nordvik@asker.kommu
- ne.no\\n  Kjeti l Halvorsen  +47 97 14 88 89  kjetil.halvorsen@asker.kommu
- ne.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=21285
+ f: +47 99 16 85 42\\n  Bodil Iren Nordvik  +47 91 74 56 48  bodil.nordvik@
+ asker.kommune.no\\n  Kjeti l Halvorsen  +47 97 14 88 89  kjetil.halvorsen@
+ asker.kommune.no\\n  Annette Nordal Johansen  +47 95 87 78 98  annette.nor
+ dal.johansen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nedre Bleiker Barnehus:</b> 3
  -6 år (49)<br><b>Ånnerud Barnehus Sa:</b> 3-6 år (18)<br><b>Åby barneh
@@ -2028,14 +1965,14 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  b>Ånnerud Barnehus Sa</b><br>Tlf: +47 96 94 46 50<br>Per Erik Jenssen &nb
  sp; +47 92 87 77 85 &nbsp; <a href='mailto:kontor@annerudtoppen.no'>kontor
  @annerudtoppen.no</a><br></p><p><b>Åby barnehage</b><br>Tlf: +47 99 16 85
-  42<br>Suniva Høyer &nbsp; +47 99 16 85 42 &nbsp; <a href='mailto:sunniva
- hoyer1997@gmail.com'>sunnivahoyer1997@gmail.com</a><br>Bodil Iren Nordvik 
- &nbsp; +47 91 74 56 48 &nbsp; <a href='mailto:bodil.nordvik@asker.kommune.
- no'>bodil.nordvik@asker.kommune.no</a><br>Kjeti l Halvorsen &nbsp; +47 97 
- 14 88 89 &nbsp; <a href='mailto:kjetil.halvorsen@asker.kommune.no'>kjetil.
- halvorsen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om 
- produksjonen</a></p></body></html>
+  42<br>Bodil Iren Nordvik &nbsp; +47 91 74 56 48 &nbsp; <a href='mailto:bo
+ dil.nordvik@asker.kommune.no'>bodil.nordvik@asker.kommune.no</a><br>Kjeti 
+ l Halvorsen &nbsp; +47 97 14 88 89 &nbsp; <a href='mailto:kjetil.halvorsen
+ @asker.kommune.no'>kjetil.halvorsen@asker.kommune.no</a><br>Annette Nordal
+  Johansen &nbsp; +47 95 87 78 98 &nbsp; <a href='mailto:annette.nordal.joh
+ ansen@asker.kommune.no'>annette.nordal.johansen@asker.kommune.no</a><br></
+ p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
+ -i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -2243,16 +2180,20 @@ SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSætre ungdomsskol
  e: 8b (21)\, 8a (22)\\nTotalt: 43 elevar\\n\\nKONTAKT\\nSætre ungdomsskol
  e\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@a
- sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
- k-produksjoner-i-dks/?produksjon=24899
+ sker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skif
+ jeld.eliassen@modum.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
+ ekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
  ><p><b>Sætre ungdomsskole:</b> 8b (21), 8a (22)<br><b>Totalt: 43 elevar</
  b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27
   81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.
- solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br></p><p><a href
- ='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=24899'>Les meir om produksjonen</a></p></body></html>
+ solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifjel
+ d Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld.e
+ liassen@modum.kommune.no'>henrik.skifjeld.eliassen@modum.kommune.no</a><br
+ ></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjo
+ ner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></html
+ >
 LOCATION:Askerbibliotekene – Sætre bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
@@ -3368,16 +3309,20 @@ DTEND:20270203T090000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8a (22)\\nTotalt: 22 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
- 47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8a (
  22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p
- ></body></html>
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
+ assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
@@ -3389,16 +3334,20 @@ DTEND:20270203T110000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8b (21)\\nTotalt: 21 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
- 47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8b (
  21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p
- ></body></html>
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
+ assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
@@ -3410,16 +3359,20 @@ DTEND:20270203T130000Z
 SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8c (21)\\nTotalt: 21 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
- 47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8c (
  21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p
- ></body></html>
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
+ assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
@@ -4927,16 +4880,20 @@ DTEND:20270526T081500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10a (26)\\nTotalt: 26 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
- +47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
- ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158
+ +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
+   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 10a 
  (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungd
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a></
- p></body></html>
+ mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
+ href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
+ iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
+ duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
@@ -4948,16 +4905,20 @@ DTEND:20270526T094500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10b (27)\\nTotalt: 27 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
- +47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
- ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158
+ +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
+   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 10b 
  (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungd
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a></
- p></body></html>
+ mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
+ href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
+ iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
+ duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
@@ -4969,16 +4930,20 @@ DTEND:20270526T111500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10c (28)\\nTotalt: 28 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
- +47 91 53 70 44  hilde.solum@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
- ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158
+ +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
+   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 10c 
  (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungd
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a></
- p></body></html>
+ mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
+ href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
+ iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
+ duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158

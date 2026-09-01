@@ -5,36 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Blakstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Blakstad skole
-LAST-MODIFIED:20260824T090040Z
-BEGIN:VEVENT
-UID:dks-559203@asker.dks
-DTSTART:20260827T070000Z
-DTEND:20260827T113000Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nBlakstad skole
- \\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollek
- tivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men 
- må bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nBlakstad skole: 4A (17)\, 4B (17)\\nTotalt: 34 elevar\
- \n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN  +
- 47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
- ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Blakstad skole</b><br>Elevene sykler/går eller tar kollektivt 
- til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. De
- tte dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post me
- d ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Blakstad skol
- e:</b> 4A (17), 4B (17)<br><b>Totalt: 34 elevar</b></p><p><b>KONTAKT</b></
- p><p><b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; 
- +47 41 68 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lott
- e.hansen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om p
- roduksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
+LAST-MODIFIED:20260901T090029Z
 BEGIN:VEVENT
 UID:dks-541969@asker.dks
 DTSTART:20260903T065500Z

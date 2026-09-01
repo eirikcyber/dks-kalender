@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Folkestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Folkestad skole
-LAST-MODIFIED:20260824T090042Z
+LAST-MODIFIED:20260901T090030Z
 BEGIN:VEVENT
 UID:dks-559204@asker.dks
 DTSTART:20260903T070000Z
@@ -22,8 +22,8 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nFolkestad skol
  ur: 13:30\\n  VY Turbuss frakter elevene fra skole til Asker museum og til
  bake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avr
  eise fra Asker museum . Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nHyg
- gen skole: 4 (16)\\nSteinerskolen i Hurum: 4 (11)\\nFolkestad skole: 4 (13
- )\\nTotalt: 40 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14
+ gen skole: 4 (16)\\nSteinerskolen i Hurum: 4 (13)\\nFolkestad skole: 4 (13
+ )\\nTotalt: 42 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14
  \\n  Lene Austreng  +47 90 91 11 86  laustren@asker.kommune.no\\n  Anita T
  ollefsen  +47 48 23 76 17  anita.tollefsen@asker.kommune.no\\nSteinerskole
  n i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jea
@@ -45,8 +45,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
  besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
  ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
- >Hyggen skole:</b> 4 (16)<br><b>Steinerskolen i Hurum:</b> 4 (11)<br><b>Fo
- lkestad skole:</b> 4 (13)<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b>
+ >Hyggen skole:</b> 4 (16)<br><b>Steinerskolen i Hurum:</b> 4 (13)<br><b>Fo
+ lkestad skole:</b> 4 (13)<br><b>Totalt: 42 elevar</b></p><p><b>KONTAKT</b>
  </p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp;
   +47 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>laustre
  n@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a
@@ -356,9 +356,9 @@ UID:dks-545602@asker.dks
 DTSTART:20270319T090000Z
 DTEND:20270319T110000Z
 SUMMARY:Tilbake til Tottori (7. trinn)
-DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nSteinerskolen i Hurum: 7 (18)\
+DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nSteinerskolen i Hurum: 7 (20)\
  \nFolkestad skole: 7 (17)\\nHagaløkka skole: 7A (23)\, 7B (23)\\nTotalt: 
- 120 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel
+ 122 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel
   Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nSteinerskolen i Hur
  um\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.w
  ard@steinerskolen.no\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen 
@@ -369,8 +369,8 @@ DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nSteinerskolen i Hurum: 7 (18)\
  utforsk-produksjoner-i-dks/?produksjon=24641
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (39)<br><
- b>Steinerskolen i Hurum:</b> 7 (18)<br><b>Folkestad skole:</b> 7 (17)<br><
- b>Hagaløkka skole:</b> 7A (23), 7B (23)<br><b>Totalt: 120 elevar</b></p><
+ b>Steinerskolen i Hurum:</b> 7 (20)<br><b>Folkestad skole:</b> 7 (17)<br><
+ b>Hagaløkka skole:</b> 7A (23), 7B (23)<br><b>Totalt: 122 elevar</b></p><
  p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sids
  el Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.ko
  mmune.no'>sidsel.fonn@asker.kommune.no</a><br></p><p><b>Steinerskolen i Hu

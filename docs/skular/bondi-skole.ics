@@ -5,37 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Bondi skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Bondi skole
-LAST-MODIFIED:20260824T090041Z
-BEGIN:VEVENT
-UID:dks-559205@asker.dks
-DTSTART:20260831T070000Z
-DTEND:20260831T113000Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nBondi skole\\n
-   Avreise: 08:40  Retur: 13:30\\n  VY Turbuss frakter elevene fra skolen t
- il Asker museum og tilbake etter besøket. Vakttelefon Vy Buss er 91658600
- \\n\\nKLASSER\\nBondi skole: 4A (21)\, 4B (22)\, 4C (20)\\nTotalt: 63 elev
- ar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +
- 47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59
-  43 53  karianne.mayer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Bondi skole</b><br>Avreise: 08:40 &nbsp; Retur: 13:30<br>VY Tur
- buss frakter elevene fra skolen til Asker museum og tilbake etter besøket
- . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skol
- e:</b> 4A (21), 4B (22), 4C (20)<br><b>Totalt: 63 elevar</b></p><p><b>KONT
- AKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &
- nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'
- >heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53
-  &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@as
- ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
- .no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen
- </a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
+LAST-MODIFIED:20260901T090029Z
 BEGIN:VEVENT
 UID:dks-505688@asker.dks
 DTSTART:20260916T093000Z
