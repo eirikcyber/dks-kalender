@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Frydenlund barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Frydenlund barneskole
-LAST-MODIFIED:20260901T090030Z
+LAST-MODIFIED:20260903T021538Z
 BEGIN:VEVENT
 UID:dks-546091@asker.dks
 DTSTART:20260914T073000Z
@@ -20,7 +20,7 @@ DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 9 (3)\, 7 (5)\\nFrydenlund bar
  ordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.ko
  mmune.no\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
  47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
-  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\nSætre skole
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\nSætre skole
  \\n  Tlf: +47 32 27 83 30\\n  Hanne Lien Aaberg  +47 90 96 05 37  hanne.li
  en.aaberg@asker.kommune.no\\n  Linda Syvertsen  +47 40 23 68 60  linda.syv
  ertsen@asker.kommune.no\\n  Skjalg Olsen  +47 95 07 47 37  skjalg.flesland
@@ -41,8 +41,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  o</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>Hild
  e Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.solum@asker.ko
  mmune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifjeld Eliassen &nb
- sp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld.eliassen@modum.
- kommune.no'>henrik.skifjeld.eliassen@modum.kommune.no</a><br></p><p><b>Sæ
+ sp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld.eliassen@asker.
+ kommune.no'>henrik.skifjeld.eliassen@asker.kommune.no</a><br></p><p><b>Sæ
  tre skole</b><br>Tlf: +47 32 27 83 30<br>Hanne Lien Aaberg &nbsp; +47 90 9
  6 05 37 &nbsp; <a href='mailto:hanne.lien.aaberg@asker.kommune.no'>hanne.l
  ien.aaberg@asker.kommune.no</a><br>Linda Syvertsen &nbsp; +47 40 23 68 60 
@@ -88,24 +88,29 @@ UID:dks-505700@asker.dks
 DTSTART:20260925T093000Z
 DTEND:20260925T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nFryden
- lund barneskole: 6 (34)\\nTotalt: 34 elevar\\n\\nKONTAKT\\nFrydenlund barn
- eskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Johansen  +47 95 23 45 43
-   bente.reitan.johansen@asker.kommune.no\\n  Cecilie Nordbø Øyen (tilret
- telagt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.kommune.no\\n\\nINFO\\
- nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
- ksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nFryd
+ enlund barneskole\\n  Avreise: 10:55  Retur: 13:05\\n  VY Turbuss frakter 
+ elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658
+ 600\\n\\nKLASSER\\nFrydenlund barneskole: 6 (34)\\nTotalt: 34 elevar\\n\\n
+ KONTAKT\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan 
+ Johansen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Ceci
+ lie Nordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@ask
+ er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Frydenlund barneskole:</b> 6 (34)<br><b>Totalt: 34 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Frydenlund barneskole</b><br>Tlf: +47
-  31 29 75 50<br>Bente Reitan Johansen &nbsp; +47 95 23 45 43 &nbsp; <a hre
- f='mailto:bente.reitan.johansen@asker.kommune.no'>bente.reitan.johansen@as
- ker.kommune.no</a><br>Cecilie Nordbø Øyen (tilrettelagt) &nbsp; +47 97 5
- 6 35 89 &nbsp; <a href='mailto:cecilie.nordbo.oyen@asker.kommune.no'>cecil
- ie.nordbo.oyen@asker.kommune.no</a><br></p><p><a href='https://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les mei
- r om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Frydenlund barneskole</b><br>Avreise: 10:55 &nbsp; Re
+ tur: 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besø
+ ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Frydenl
+ und barneskole:</b> 6 (34)<br><b>Totalt: 34 elevar</b></p><p><b>KONTAKT</b
+ ></p><p><b>Frydenlund barneskole</b><br>Tlf: +47 31 29 75 50<br>Bente Reit
+ an Johansen &nbsp; +47 95 23 45 43 &nbsp; <a href='mailto:bente.reitan.joh
+ ansen@asker.kommune.no'>bente.reitan.johansen@asker.kommune.no</a><br>Ceci
+ lie Nordbø Øyen (tilrettelagt) &nbsp; +47 97 56 35 89 &nbsp; <a href='ma
+ ilto:cecilie.nordbo.oyen@asker.kommune.no'>cecilie.nordbo.oyen@asker.kommu
+ ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
+ sk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p><
+ /body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232

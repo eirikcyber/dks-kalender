@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260901T090041Z
+LAST-MODIFIED:20260903T062143Z
 BEGIN:VEVENT
 UID:dks-550220@asker.dks
 DTSTART:20260910T073000Z
@@ -103,20 +103,27 @@ UID:dks-505717@asker.dks
 DTSTART:20261015T073000Z
 DTEND:20261015T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
- lsen Asker International School: 6b (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
- \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
-  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nStif
+ telsen Asker International School\\n  Elevene reiser kollektivt til Kunsth
+ all Dikemark. Buss 280 fra Oreholtet kl. 09:15. Beregnet ankomsttid 09:29.
+  Retur med buss 280 fra Dikemark kl. 11:17. RUFUS-billetter kan benyttes. 
+ Dette dekker DKS Asker\\n\\nKLASSER\\nStiftelsen Asker International Schoo
+ l: 6b (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internation
+ al School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  jame
+ s@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6b (21)<br><
- b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
- ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
- 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
- l>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Stiftelsen Asker International School</b><br>Elevene 
+ reiser kollektivt til Kunsthall Dikemark. Buss 280 fra Oreholtet kl. 09:15
+ . Beregnet ankomsttid 09:29. Retur med buss 280 fra Dikemark kl. 11:17. RU
+ FUS-billetter kan benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p
+ ><p><b>Stiftelsen Asker International School:</b> 6b (21)<br><b>Totalt: 21
+  elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International S
+ chool</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &
+ nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -167,20 +174,27 @@ UID:dks-505718@asker.dks
 DTSTART:20261015T093000Z
 DTEND:20261015T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
- lsen Asker International School: 6a (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
- \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
-  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nStif
+ telsen Asker International School\\n  Elevene reiser kollektivt til Kunsth
+ all Dikemark. Buss 280 fra Oreholtet kl. 11:15. Beregnet ankomsttid 11:29.
+  Retur med buss 280 fra Dikemark kl. 13:17. RUFUS-billetter kan benyttes. 
+ Dette dekker DKS Asker\\n\\nKLASSER\\nStiftelsen Asker International Schoo
+ l: 6a (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internation
+ al School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  jame
+ s@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6a (21)<br><
- b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
- ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
- 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
- l>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Stiftelsen Asker International School</b><br>Elevene 
+ reiser kollektivt til Kunsthall Dikemark. Buss 280 fra Oreholtet kl. 11:15
+ . Beregnet ankomsttid 11:29. Retur med buss 280 fra Dikemark kl. 13:17. RU
+ FUS-billetter kan benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p
+ ><p><b>Stiftelsen Asker International School:</b> 6a (21)<br><b>Totalt: 21
+  elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International S
+ chool</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &
+ nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -190,20 +204,27 @@ UID:dks-505719@asker.dks
 DTSTART:20261016T073000Z
 DTEND:20261016T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
- lsen Asker International School: 6c (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\
- \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
-  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nStif
+ telsen Asker International School\\n  Elevene reiser kollektivt til Kunsth
+ all Dikemark. Buss 280 fra Oreholtet kl. 09:15. Beregnet ankomsttid 09:29.
+  Retur med buss 280 fra Dikemark kl. 11:17. RUFUS-billetter kan benyttes. 
+ Dette dekker DKS Asker\\n\\nKLASSER\\nStiftelsen Asker International Schoo
+ l: 6c (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker Internation
+ al School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  jame
+ s@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Stiftelsen Asker International School:</b> 6c (21)<br><
- b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
- ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
- 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></htm
- l>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Stiftelsen Asker International School</b><br>Elevene 
+ reiser kollektivt til Kunsthall Dikemark. Buss 280 fra Oreholtet kl. 09:15
+ . Beregnet ankomsttid 09:29. Retur med buss 280 fra Dikemark kl. 11:17. RU
+ FUS-billetter kan benyttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p
+ ><p><b>Stiftelsen Asker International School:</b> 6c (21)<br><b>Totalt: 21
+  elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International S
+ chool</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &
+ nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Blakstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Blakstad skole
-LAST-MODIFIED:20260901T090029Z
+LAST-MODIFIED:20260903T010135Z
 BEGIN:VEVENT
 UID:dks-541969@asker.dks
 DTSTART:20260903T065500Z
@@ -33,19 +33,24 @@ UID:dks-505687@asker.dks
 DTSTART:20260917T073000Z
 DTEND:20260917T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBlakst
- ad skole: 6B (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tl
- f: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lotte.hansen@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nBlak
+ stad skole\\n  Avreise: 09:10  Retur: 11:05\\n  VY Turbuss frakter elevene
+  fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
+ \nKLASSER\\nBlakstad skole: 6B (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nBla
+ kstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lo
+ tte.hansen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Blakstad skole:</b> 6B (21)<br><b>Totalt: 21 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<
- br>LOTTE HANSEN &nbsp; +47 41 68 28 11 &nbsp; <a href='mailto:lotte.hansen
- @asker.kommune.no'>lotte.hansen@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Blakstad skole</b><br>Avreise: 09:10 &nbsp; Retur: 11
+ :05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
+ kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Blakstad skole
+ :</b> 6B (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bl
+ akstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 68 
+ 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hansen@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjone
+ n</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -55,19 +60,24 @@ UID:dks-505686@asker.dks
 DTSTART:20260917T093000Z
 DTEND:20260917T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nBlakst
- ad skole: 6A (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tl
- f: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lotte.hansen@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nBlak
+ stad skole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turbuss frakter elevene
+  fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
+ \nKLASSER\\nBlakstad skole: 6A (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\\nBla
+ kstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN  +47 41 68 28 11  lo
+ tte.hansen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Blakstad skole:</b> 6A (23)<br><b>Totalt: 23 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Blakstad skole</b><br>Tlf: +47 66 78 68 10<
- br>LOTTE HANSEN &nbsp; +47 41 68 28 11 &nbsp; <a href='mailto:lotte.hansen
- @asker.kommune.no'>lotte.hansen@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Blakstad skole</b><br>Avreise: 11:10 &nbsp; Retur: 13
+ :05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
+ kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Blakstad skole
+ :</b> 6A (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bl
+ akstad skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 68 
+ 28 11 &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hansen@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjone
+ n</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232

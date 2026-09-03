@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solvang ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solvang ungdomsskole
-LAST-MODIFIED:20260901T090038Z
+LAST-MODIFIED:20260903T062140Z
 BEGIN:VEVENT
 UID:dks-550216@asker.dks
 DTSTART:20260907T073000Z
@@ -153,8 +153,8 @@ DESCRIPTION:Teaterkompaniet NIE\, Trafo kunsthall og Dikemark museum\\n\\nT
  rden ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 2
  6 98  hanne.hellevik@asker.kommune.no\\nSætre ungdomsskole\\n  Tlf: +47 3
  2 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommune.no\
- \n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skifjeld.eliassen@mo
- dum.kommune.no\\nSolvang ungdomsskole\\n  Tlf: +47 66 71 23 50\\n  Torgeir
+ \n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skifjeld.eliassen@as
+ ker.kommune.no\\nSolvang ungdomsskole\\n  Tlf: +47 66 71 23 50\\n  Torgeir
   Engen  +47 45 21 94 47  torgeir.engen@asker.kommune.no\\n  Linda Tyvand H
  ovet  +47 90 67 80 85  linda.tyvand.hovet@asker.kommune.no\\n\\nINFO\\nhtt
  ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
@@ -178,8 +178,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  <b>Sætre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +
  47 91 53 70 44 &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.
  solum@asker.kommune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22
-  27 &nbsp; <a href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henr
- ik.skifjeld.eliassen@modum.kommune.no</a><br></p><p><b>Solvang ungdomsskol
+  27 &nbsp; <a href='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henr
+ ik.skifjeld.eliassen@asker.kommune.no</a><br></p><p><b>Solvang ungdomsskol
  e</b><br>Tlf: +47 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbs
  p; <a href='mailto:torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kom
  mune.no</a><br>Linda Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='m

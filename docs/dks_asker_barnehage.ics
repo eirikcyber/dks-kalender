@@ -5,29 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260901T090026Z
-BEGIN:VEVENT
-UID:dks-541970@asker.dks
-DTSTART:20260901T093000Z
-DTEND:20260901T100500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nVardåsen skole: 1A (18)\, 2A (19)\, 1B (18)\, 2B (20
- )\\nTotalt: 75 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  Tlf: +47 66 71 51
-  00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@asker.kommune.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 1A (18),
-  2A (19), 1B (18), 2B (20)<br><b>Totalt: 75 elevar</b></p><p><b>KONTAKT</b
- ></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrha
- ug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no
- '>kdyrhaug@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om
-  produksjonen</a></p></body></html>
-LOCATION:Vardåsen skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20260903T010131Z
 BEGIN:VEVENT
 UID:dks-538627@asker.dks
 DTSTART:20260903T094500Z
@@ -146,8 +124,8 @@ UID:dks-482114@asker.dks
 DTSTART:20260915T083000Z
 DTEND:20260915T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nVekstbarnehagen: 3-6 år (17)\\nLæringsverkstedet Ve
- stre Billingstad Naturbarnehage: 3-6 år (28)\\nTotalt: 45 elevar\\n\\nKON
+DESCRIPTION:KLASSER\\nVekstbarnehagen: 3-6 år (13)\\nLæringsverkstedet Ve
+ stre Billingstad Naturbarnehage: 3-6 år (28)\\nTotalt: 41 elevar\\n\\nKON
  TAKT\\nVekstbarnehagen\\n  Tlf: +47 95 55 85 92\\n  Anette Tobine Nalum-Ru
  sdal  ledelse@vekstbarnehagen.no\\n  Vestbarnehagen .  +47 95 55 85 92  sn
  ipp@vekstbarnehagen.no\\nLæringsverkstedet Vestre Billingstad Naturbarneh
@@ -156,8 +134,8 @@ DESCRIPTION:KLASSER\\nVekstbarnehagen: 3-6 år (17)\\nLæringsverkstedet Ve
  oduksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vekstbarnehagen:</b> 3-6 år 
- (17)<br><b>Læringsverkstedet Vestre Billingstad Naturbarnehage:</b> 3-6 �
- �r (28)<br><b>Totalt: 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vekstb
+ (13)<br><b>Læringsverkstedet Vestre Billingstad Naturbarnehage:</b> 3-6 �
+ �r (28)<br><b>Totalt: 41 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vekstb
  arnehagen</b><br>Tlf: +47 95 55 85 92<br>Anette Tobine Nalum-Rusdal &nbsp;
   <a href='mailto:ledelse@vekstbarnehagen.no'>ledelse@vekstbarnehagen.no</a
  ><br>Vestbarnehagen . &nbsp; +47 95 55 85 92 &nbsp; <a href='mailto:snipp@
@@ -480,28 +458,33 @@ DTSTART:20260923T100000Z
 DTEND:20260923T103500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nHeggum barnehage AS: 3-6 år (24)\\nHyggen barnehage:
-  3-6 år (16)\\nHelledammen Fus barnehage AS: 3-6 år (18)\\nTotalt: 58 el
- evar\\n\\nKONTAKT\\nHeggum barnehage AS\\n  Tlf: +47 92 69 34 98\\n  Maria
- nne Bjørnstad  +47 92 69 34 98  marianne@heggumbarnehage.no\\nHyggen barn
- ehage\\n  Tlf: +47 97 58 97 08\\n  Elin Evensen  +47 99 57 28 79  elin.eve
- nsen@asker.kommune.no\\nHelledammen Fus barnehage AS\\n  Tlf: +47 31 09 59
-  95\\n  Helene  Malbasa  +47 48 31 13 21  dl.helledammen@bhg.no\\n\\nINFO\
- \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=21285
+  3-6 år (16)\\nMidtbygda Kanvas-Barnehage: 3-6 år (19)\\nHelledammen Fus
+  barnehage AS: 3-6 år (18)\\nTotalt: 77 elevar\\n\\nKONTAKT\\nHeggum barn
+ ehage AS\\n  Tlf: +47 92 69 34 98\\n  Marianne Bjørnstad  +47 92 69 34 98
+   marianne@heggumbarnehage.no\\nHyggen barnehage\\n  Tlf: +47 97 58 97 08\
+ \n  Elin Evensen  +47 99 57 28 79  elin.evensen@asker.kommune.no\\nMidtbyg
+ da Kanvas-Barnehage\\n  Tlf: +47 31 28 56 20\\n  Monica Gundhus  +47 40 63
+  05 23  monica.gundhus@kanvas.no\\nHelledammen Fus barnehage AS\\n  Tlf: +
+ 47 31 09 59 95\\n  Helene  Malbasa  +47 48 31 13 21  dl.helledammen@bhg.no
+ \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
+ i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggum barnehage AS:</b> 3-6 
- år (24)<br><b>Hyggen barnehage:</b> 3-6 år (16)<br><b>Helledammen Fus ba
- rnehage AS:</b> 3-6 år (18)<br><b>Totalt: 58 elevar</b></p><p><b>KONTAKT<
- /b></p><p><b>Heggum barnehage AS</b><br>Tlf: +47 92 69 34 98<br>Marianne B
- jørnstad &nbsp; +47 92 69 34 98 &nbsp; <a href='mailto:marianne@heggumbar
- nehage.no'>marianne@heggumbarnehage.no</a><br></p><p><b>Hyggen barnehage</
- b><br>Tlf: +47 97 58 97 08<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <
- a href='mailto:elin.evensen@asker.kommune.no'>elin.evensen@asker.kommune.n
- o</a><br></p><p><b>Helledammen Fus barnehage AS</b><br>Tlf: +47 31 09 59 9
- 5<br>Helene  Malbasa &nbsp; +47 48 31 13 21 &nbsp; <a href='mailto:dl.hell
- edammen@bhg.no'>dl.helledammen@bhg.no</a><br></p><p><a href='https://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>L
- es meir om produksjonen</a></p></body></html>
+ år (24)<br><b>Hyggen barnehage:</b> 3-6 år (16)<br><b>Midtbygda Kanvas-B
+ arnehage:</b> 3-6 år (19)<br><b>Helledammen Fus barnehage AS:</b> 3-6 år
+  (18)<br><b>Totalt: 77 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggum bar
+ nehage AS</b><br>Tlf: +47 92 69 34 98<br>Marianne Bjørnstad &nbsp; +47 92
+  69 34 98 &nbsp; <a href='mailto:marianne@heggumbarnehage.no'>marianne@heg
+ gumbarnehage.no</a><br></p><p><b>Hyggen barnehage</b><br>Tlf: +47 97 58 97
+  08<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <a href='mailto:elin.eve
+ nsen@asker.kommune.no'>elin.evensen@asker.kommune.no</a><br></p><p><b>Midt
+ bygda Kanvas-Barnehage</b><br>Tlf: +47 31 28 56 20<br>Monica Gundhus &nbsp
+ ; +47 40 63 05 23 &nbsp; <a href='mailto:monica.gundhus@kanvas.no'>monica.
+ gundhus@kanvas.no</a><br></p><p><b>Helledammen Fus barnehage AS</b><br>Tlf
+ : +47 31 09 59 95<br>Helene  Malbasa &nbsp; +47 48 31 13 21 &nbsp; <a href
+ ='mailto:dl.helledammen@bhg.no'>dl.helledammen@bhg.no</a><br></p><p><a hre
+ f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -511,22 +494,27 @@ UID:dks-505697@asker.dks
 DTSTART:20260924T073000Z
 DTEND:20260924T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nNesøy
- a skole: 6C (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNesøya skole\\n  Tlf:
-  +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.k
- ommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannestad
- @asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
- rsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
+ �ya skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter eleven
+ e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
+ \\nKLASSER\\nNesøya skole: 6C (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNes
+ øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
+ ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
+ jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Nesøya skole:</b> 6C (19)<br><b>Totalt: 19 elevar</b><
- /p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br
- >Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas
- @asker.kommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Ranne
- stad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@as
- ker.kommune.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a hre
- f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 09:05 &nbsp; Retur: 11:
+ 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
+ ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
+ /b> 6C (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
+ �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
+ 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
+ @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
+ p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
+ stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
+ ksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -587,22 +575,27 @@ UID:dks-505698@asker.dks
 DTSTART:20260924T093000Z
 DTEND:20260924T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nNesøy
- a skole: 6B (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nNesøya skole\\n  Tlf:
-  +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.k
- ommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannestad
- @asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
- rsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
+ �ya skole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter eleven
+ e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
+ \\nKLASSER\\nNesøya skole: 6B (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nNes
+ øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
+ ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
+ jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Nesøya skole:</b> 6B (20)<br><b>Totalt: 20 elevar</b><
- /p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br
- >Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas
- @asker.kommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Ranne
- stad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@as
- ker.kommune.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a hre
- f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 11:05 &nbsp; Retur: 13:
+ 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
+ ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
+ /b> 6B (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
+ �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
+ 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
+ @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
+ p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
+ stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
+ ksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -642,28 +635,23 @@ DTSTART:20260924T100000Z
 DTEND:20260924T103500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nPaletten Kanvas-Barnehage: 3-6 år (44)\\nKjekstadmar
- ka Kanvas-Barnehage: 3-6 år (12)\\nMidtbygda Kanvas-Barnehage: 3-6 år (1
- 9)\\nTotalt: 75 elevar\\n\\nKONTAKT\\nPaletten Kanvas-Barnehage\\n  Mari J
- ansson  +47 40 63 05 13  paletten@kanvas.no\\nKjekstadmarka Kanvas-Barneha
- ge\\n  Tlf: +47 31 29 14 00\\n  Sindre Andreas Borgund  +47 47 24 62 82  s
- indre.borgund@kanvas.no\\nMidtbygda Kanvas-Barnehage\\n  Tlf: +47 31 28 56
-  20\\n  Monica Gundhus  +47 40 63 05 23  monica.gundhus@kanvas.no\\n\\nINF
- O\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=21285
+ ka Kanvas-Barnehage: 3-6 år (12)\\nTotalt: 56 elevar\\n\\nKONTAKT\\nPalet
+ ten Kanvas-Barnehage\\n  Mari Jansson  +47 40 63 05 13  paletten@kanvas.no
+ \\nKjekstadmarka Kanvas-Barnehage\\n  Tlf: +47 31 29 14 00\\n  Sindre Andr
+ eas Borgund  +47 47 24 62 82  sindre.borgund@kanvas.no\\n\\nINFO\\nhttps:/
+ /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21
+ 285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Paletten Kanvas-Barnehage:</b
  > 3-6 år (44)<br><b>Kjekstadmarka Kanvas-Barnehage:</b> 3-6 år (12)<br><
- b>Midtbygda Kanvas-Barnehage:</b> 3-6 år (19)<br><b>Totalt: 75 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Paletten Kanvas-Barnehage</b><br>Mari Janss
- on &nbsp; +47 40 63 05 13 &nbsp; <a href='mailto:paletten@kanvas.no'>palet
- ten@kanvas.no</a><br></p><p><b>Kjekstadmarka Kanvas-Barnehage</b><br>Tlf: 
- +47 31 29 14 00<br>Sindre Andreas Borgund &nbsp; +47 47 24 62 82 &nbsp; <a
-  href='mailto:sindre.borgund@kanvas.no'>sindre.borgund@kanvas.no</a><br></
- p><p><b>Midtbygda Kanvas-Barnehage</b><br>Tlf: +47 31 28 56 20<br>Monica G
- undhus &nbsp; +47 40 63 05 23 &nbsp; <a href='mailto:monica.gundhus@kanvas
- .no'>monica.gundhus@kanvas.no</a><br></p><p><a href='https://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir 
- om produksjonen</a></p></body></html>
+ b>Totalt: 56 elevar</b></p><p><b>KONTAKT</b></p><p><b>Paletten Kanvas-Barn
+ ehage</b><br>Mari Jansson &nbsp; +47 40 63 05 13 &nbsp; <a href='mailto:pa
+ letten@kanvas.no'>paletten@kanvas.no</a><br></p><p><b>Kjekstadmarka Kanvas
+ -Barnehage</b><br>Tlf: +47 31 29 14 00<br>Sindre Andreas Borgund &nbsp; +4
+ 7 47 24 62 82 &nbsp; <a href='mailto:sindre.borgund@kanvas.no'>sindre.borg
+ und@kanvas.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
+ no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen<
+ /a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -673,22 +661,27 @@ UID:dks-505699@asker.dks
 DTSTART:20260925T073000Z
 DTEND:20260925T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nNesøy
- a skole: 6A (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNesøya skole\\n  Tlf:
-  +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.k
- ommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannestad
- @asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
- rsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
+ �ya skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter eleven
+ e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
+ \\nKLASSER\\nNesøya skole: 6A (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNes
+ øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
+ ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
+ jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Nesøya skole:</b> 6A (19)<br><b>Totalt: 19 elevar</b><
- /p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br
- >Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas
- @asker.kommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Ranne
- stad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@as
- ker.kommune.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a hre
- f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 09:05 &nbsp; Retur: 11:
+ 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
+ ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
+ /b> 6A (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
+ �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
+ 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
+ @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
+ p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
+ stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
+ esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
+ ksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -698,20 +691,25 @@ UID:dks-505701@asker.dks
 DTSTART:20261005T073000Z
 DTEND:20261005T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nTorvbr
- åten barneskole: 6B (16)\\nTotalt: 16 elevar\\n\\nKONTAKT\\nTorvbråten b
- arneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet Bath  +47 46 83 89 11  jas
- preet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nTorv
+ bråten barneskole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter
+  elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9165
+ 8600\\n\\nKLASSER\\nTorvbråten barneskole: 6B (16)\\nTotalt: 16 elevar\\n
+ \\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet 
+ Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Torvbråten barneskole:</b> 6B (16)<br><b>Totalt: 16 el
- evar</b></p><p><b>KONTAKT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: 
- +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='ma
- ilto:jaspreet.kaur.bath@asker.kommune.no'>jaspreet.kaur.bath@asker.kommune
- .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></b
- ody></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Avreise: 09:05 &nbsp; R
+ etur: 11:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter bes�
+ �ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torv
+ bråten barneskole:</b> 6B (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTA
+ KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
+ reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
+ @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -721,20 +719,25 @@ UID:dks-505702@asker.dks
 DTSTART:20261005T093000Z
 DTEND:20261005T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nTorvbr
- åten barneskole: 6A (16)\\nTotalt: 16 elevar\\n\\nKONTAKT\\nTorvbråten b
- arneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet Bath  +47 46 83 89 11  jas
- preet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nTorv
+ bråten barneskole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter
+  elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9165
+ 8600\\n\\nKLASSER\\nTorvbråten barneskole: 6A (16)\\nTotalt: 16 elevar\\n
+ \\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet 
+ Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Torvbråten barneskole:</b> 6A (16)<br><b>Totalt: 16 el
- evar</b></p><p><b>KONTAKT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: 
- +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='ma
- ilto:jaspreet.kaur.bath@asker.kommune.no'>jaspreet.kaur.bath@asker.kommune
- .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></b
- ody></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Avreise: 11:05 &nbsp; R
+ etur: 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter bes�
+ �ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torv
+ bråten barneskole:</b> 6A (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTA
+ KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
+ reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
+ @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -852,19 +855,24 @@ UID:dks-505706@asker.dks
 DTSTART:20261007T093000Z
 DTEND:20261007T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nRønni
- ngen skole: 6 (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nRønningen skole\\n 
-  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@a
- sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
- k-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nRøn
+ ningen skole\\n  Avreise: 11:15  Retur: 13:05\\n  VY Turbuss frakter eleve
+ ne fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\
+ n\\nKLASSER\\nRønningen skole: 6 (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\n
+ Rønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44
+  76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Rønningen skole:</b> 6 (15)<br><b>Totalt: 15 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Rønningen skole</b><br>Tlf: +47 66 71 29 
- 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; <a href='mailto:solvi.g
- raffer@asker.kommune.no'>solvi.graffer@asker.kommune.no</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Rønningen skole</b><br>Avreise: 11:15 &nbsp; Retur: 
+ 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. 
+ Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Rønningen s
+ kole:</b> 6 (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47
+  95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.
+ graffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om pr
+ oduksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -901,19 +909,26 @@ UID:dks-505707@asker.dks
 DTSTART:20261008T073000Z
 DTEND:20261008T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nVardå
- sen skole: 6A (17)\\nTotalt: 17 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  
- Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nVard
+ åsen skole\\n  Elevene reiser kollektivt til Kunsthall Dikemark. Buss 280
+  fra Sportstuen kl. 09:21. Beregnet ankomsttid 09:29. Retur med buss 280 f
+ ra Dikemark kl. 11:17. RUFUS-billetter kan benyttes. Dette dekker DKS Aske
+ r\\n\\nKLASSER\\nVardåsen skole: 6A (17)\\nTotalt: 17 elevar\\n\\nKONTAKT
+ \\nVardåsen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90
+  11 86 97  kdyrhaug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Vardåsen skole:</b> 6A (17)<br><b>Totalt: 17 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 0
- 0<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyr
- haug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Vardåsen skole</b><br>Elevene reiser kollektivt til 
+ Kunsthall Dikemark. Buss 280 fra Sportstuen kl. 09:21. Beregnet ankomsttid
+  09:29. Retur med buss 280 fra Dikemark kl. 11:17. RUFUS-billetter kan ben
+ yttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Vardåsen skol
+ e:</b> 6A (17)<br><b>Totalt: 17 elevar</b></p><p><b>KONTAKT</b></p><p><b>V
+ ardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &nbsp; +4
+ 7 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdyrhaug@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjone
+ n</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -924,7 +939,7 @@ DTSTART:20261008T083000Z
 DTEND:20261008T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nBjerkåsholmen barnehage AS: 3-6 år (25)\\nSlemmesta
- d barnehage: 3-6 år (36)\\nTotalt: 61 elevar\\n\\nKONTAKT\\nBjerkåsholme
+ d barnehage: 3-6 år (26)\\nTotalt: 51 elevar\\n\\nKONTAKT\\nBjerkåsholme
  n barnehage AS\\n  Tlf: +47 66 79 80 70\\n  Tone Christensen  +47 90 66 01
   56  tone@bjerkasholmenbarnehage.no\\nSlemmestad barnehage\\n  Tlf: +47 31
   29 33 60\\n  Merete Bjertnes  +47 92 81 44 64  merete.bjertnes@asker.komm
@@ -932,8 +947,8 @@ DESCRIPTION:KLASSER\\nBjerkåsholmen barnehage AS: 3-6 år (25)\\nSlemmesta
  joner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bjerkåsholmen barnehage AS:<
- /b> 3-6 år (25)<br><b>Slemmestad barnehage:</b> 3-6 år (36)<br><b>Totalt
- : 61 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bjerkåsholmen barnehage AS<
+ /b> 3-6 år (25)<br><b>Slemmestad barnehage:</b> 3-6 år (26)<br><b>Totalt
+ : 51 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bjerkåsholmen barnehage AS<
  /b><br>Tlf: +47 66 79 80 70<br>Tone Christensen &nbsp; +47 90 66 01 56 &nb
  sp; <a href='mailto:tone@bjerkasholmenbarnehage.no'>tone@bjerkasholmenbarn
  ehage.no</a><br></p><p><b>Slemmestad barnehage</b><br>Tlf: +47 31 29 33 60
@@ -950,19 +965,26 @@ UID:dks-505708@asker.dks
 DTSTART:20261008T093000Z
 DTEND:20261008T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nVardå
- sen skole: 6B (16)\\nTotalt: 16 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  
- Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nVard
+ åsen skole\\n  Elevene reiser kollektivt til Kunsthall Dikemark. Buss 280
+  fra Sportstuen kl. 11:21. Beregnet ankomsttid 11:29. Retur med buss 280 f
+ ra Dikemark kl. 13:17. RUFUS-billetter kan benyttes. Dette dekker DKS Aske
+ r\\n\\nKLASSER\\nVardåsen skole: 6B (16)\\nTotalt: 16 elevar\\n\\nKONTAKT
+ \\nVardåsen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90
+  11 86 97  kdyrhaug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
+ skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Vardåsen skole:</b> 6B (16)<br><b>Totalt: 16 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 0
- 0<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyr
- haug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Vardåsen skole</b><br>Elevene reiser kollektivt til 
+ Kunsthall Dikemark. Buss 280 fra Sportstuen kl. 11:21. Beregnet ankomsttid
+  11:29. Retur med buss 280 fra Dikemark kl. 13:17. RUFUS-billetter kan ben
+ yttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Vardåsen skol
+ e:</b> 6B (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTAKT</b></p><p><b>V
+ ardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &nbsp; +4
+ 7 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdyrhaug@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjone
+ n</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1193,19 +1215,24 @@ UID:dks-505712@asker.dks
 DTSTART:20261012T093000Z
 DTEND:20261012T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nJansl�
- �kka skole: 6C (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\nJansløkka skole\
- \n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nJans
+ løkka skole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turbuss frakter eleve
+ ne fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\
+ n\\nKLASSER\\nJansløkka skole: 6C (21)\\nTotalt: 21 elevar\\n\\nKONTAKT\\
+ nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 
+ 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Jansløkka skole:</b> 6C (21)<br><b>Totalt: 21 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55
-  70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@a
- sker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='https://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
- '>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Jansløkka skole</b><br>Avreise: 11:10 &nbsp; Retur: 
+ 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. 
+ Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Jansløkka s
+ kole:</b> 6C (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><
+ b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 
+ 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a><
+ /p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1265,19 +1292,24 @@ UID:dks-505713@asker.dks
 DTSTART:20261013T073000Z
 DTEND:20261013T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nJansl�
- �kka skole: 6B (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nJansløkka skole\
- \n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nJans
+ løkka skole\\n  Avreise: 09:10  Retur: 11:05\\n  VY Turbuss frakter eleve
+ ne fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\
+ n\\nKLASSER\\nJansløkka skole: 6B (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\
+ nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 
+ 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Jansløkka skole:</b> 6B (19)<br><b>Totalt: 19 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55
-  70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@a
- sker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='https://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
- '>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Jansløkka skole</b><br>Avreise: 09:10 &nbsp; Retur: 
+ 11:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. 
+ Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Jansløkka s
+ kole:</b> 6B (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><
+ b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 
+ 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a><
+ /p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1309,19 +1341,24 @@ UID:dks-505714@asker.dks
 DTSTART:20261013T093000Z
 DTEND:20261013T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nJansl�
- �kka skole: 6A  (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nJansløkka skole
- \\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.
- kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nJans
+ løkka skole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turbuss frakter eleve
+ ne fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\
+ n\\nKLASSER\\nJansløkka skole: 6A  (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\
+ \nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46
+  28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Jansløkka skole:</b> 6A  (19)<br><b>Totalt: 19 elevar<
- /b></p><p><b>KONTAKT</b></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 5
- 5 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@
- asker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='https://w
- ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2323
- 2'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Jansløkka skole</b><br>Avreise: 11:10 &nbsp; Retur: 
+ 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. 
+ Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Jansløkka s
+ kole:</b> 6A  (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p>
+ <b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47
+  91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.
+ kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a>
+ </p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1353,19 +1390,26 @@ UID:dks-505715@asker.dks
 DTSTART:20261014T073000Z
 DTEND:20261014T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nHagal�
- �kka skole: 6B (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nHagaløkka skole\
- \n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nHaga
+ løkka skole\\n  Elevene reiser kollektivt til Kunsthall Dikemark. Buss 28
+ 0 fra Oreholtet kl. 09:10. Beregnet ankomsttid 09:29. Retur med buss 280 f
+ ra Dikemark kl. 11:17. RUFUS-billetter kan benyttes. Dette dekker DKS Aske
+ r\\n\\nKLASSER\\nHagaløkka skole: 6B (28)\\nTotalt: 28 elevar\\n\\nKONTAK
+ T\\nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 7
+ 6 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Hagaløkka skole:</b> 6B (28)<br><b>Totalt: 28 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50
-  50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:ehalvo
- rs@asker.kommune.no'>ehalvors@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Hagaløkka skole</b><br>Elevene reiser kollektivt til
+  Kunsthall Dikemark. Buss 280 fra Oreholtet kl. 09:10. Beregnet ankomsttid
+  09:29. Retur med buss 280 fra Dikemark kl. 11:17. RUFUS-billetter kan ben
+ yttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Hagaløkka sko
+ le:</b> 6B (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>
+ Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 
+ 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@ask
+ er.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
+ no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen<
+ /a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1408,7 +1452,7 @@ DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nKLASSER\\nSætre ungdo
  msskole: 10c (30)\, 10b (29)\, 10a (28)\\nTotalt: 87 elevar\\n\\nKONTAKT\\
  nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 7
  0 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08
-  22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nhttps://www.
+  22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nhttps://www.
  denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24706
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>KLASSER<
@@ -1417,7 +1461,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  <br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a h
  ref='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a>
  <br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto
- :henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eliassen@modum
+ :henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker
  .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
  /utforsk-produksjoner-i-dks/?produksjon=24706'>Les meir om produksjonen</a
  ></p></body></html>
@@ -1430,19 +1474,26 @@ UID:dks-505716@asker.dks
 DTSTART:20261014T093000Z
 DTEND:20261014T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nHagal�
- �kka skole: 6A (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nHagaløkka skole\
- \n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nHaga
+ løkka skole\\n  Elevene reiser kollektivt til Kunsthall Dikemark. Buss 28
+ 0 fra Oreholtet kl. 11:10. Beregnet ankomsttid 11:29. Retur med buss 280 f
+ ra Dikemark kl. 13:17. RUFUS-billetter kan benyttes. Dette dekker DKS Aske
+ r\\n\\nKLASSER\\nHagaløkka skole: 6A (28)\\nTotalt: 28 elevar\\n\\nKONTAK
+ T\\nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 7
+ 6 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Hagaløkka skole:</b> 6A (28)<br><b>Totalt: 28 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50
-  50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:ehalvo
- rs@asker.kommune.no'>ehalvors@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Hagaløkka skole</b><br>Elevene reiser kollektivt til
+  Kunsthall Dikemark. Buss 280 fra Oreholtet kl. 11:10. Beregnet ankomsttid
+  11:29. Retur med buss 280 fra Dikemark kl. 13:17. RUFUS-billetter kan ben
+ yttes. Dette dekker DKS Asker</p><p><b>KLASSER</b></p><p><b>Hagaløkka sko
+ le:</b> 6A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>
+ Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 
+ 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@ask
+ er.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
+ no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen<
+ /a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1528,20 +1579,25 @@ UID:dks-505720@asker.dks
 DTSTART:20261016T093000Z
 DTEND:20261016T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nStifte
- lsen Vollen Montessoriskole: 6 (7)\\nTotalt: 7 elevar\\n\\nKONTAKT\\nStift
- elsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camilla Nystrøm
-   +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://www.denkult
- urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nStif
+ telsen Vollen Montessoriskole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turb
+ uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
+ uss er 91658600\\n\\nKLASSER\\nStiftelsen Vollen Montessoriskole: 6 (7)\\n
+ Totalt: 7 elevar\\n\\nKONTAKT\\nStiftelsen Vollen Montessoriskole\\n  Tlf:
+  +47 66 98 71 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vo
+ mo.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Stiftelsen Vollen Montessoriskole:</b> 6 (7)<br><b>Tota
- lt: 7 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Vollen Montessor
- iskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97
-  04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>camilla.nystrom@vomo.n
- o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></bod
- y></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Avreise: 11:
+ 10 &nbsp; Retur: 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake
+  etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><
+ p><b>Stiftelsen Vollen Montessoriskole:</b> 6 (7)<br><b>Totalt: 7 elevar</
+ b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>
+ Tlf: +47 66 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a 
+ href='mailto:camilla.nystrom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><
+ p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
@@ -1887,25 +1943,25 @@ UID:dks-482149@asker.dks
 DTSTART:20261027T110000Z
 DTEND:20261027T113500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nLæringsverkstedet Velodromen idrettsbh: 3-6 år (62)
- \\nLæringsverkstedet Bekkeveien bh: 3-6 år (32)\\nTotalt: 94 elevar\\n\\
- nKONTAKT\\nLæringsverkstedet Velodromen idrettsbh\\n  Tlf: +47 37 07 16 9
- 1\\n  Marie Osnes  +47 99 52 37 69  velodromen@laringsverkstedet.no\\nLær
- ingsverkstedet Bekkeveien bh\\n  Tlf: +47 37 07 15 28\\n  Janicke Olsen  +
- 47 99 47 21 09  bekkeveien@laringsverkstedet.no\\n\\nINFO\\nhttps://www.de
- nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+DESCRIPTION:KLASSER\\nLæringsverkstedet Velodromen idrettsbh: 3-6 år (74)
+ \\nLæringsverkstedet Bekkeveien bh: 3-6 år (32)\\nTotalt: 106 elevar\\n\
+ \nKONTAKT\\nLæringsverkstedet Velodromen idrettsbh\\n  Tlf: +47 37 07 16 
+ 91\\n  Marie Osnes  +47 99 52 37 69  velodromen@laringsverkstedet.no\\nLæ
+ ringsverkstedet Bekkeveien bh\\n  Tlf: +47 37 07 15 28\\n  Janicke Olsen  
+ +47 99 47 21 09  bekkeveien@laringsverkstedet.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Læringsverkstedet Velodromen
-  idrettsbh:</b> 3-6 år (62)<br><b>Læringsverkstedet Bekkeveien bh:</b> 3
- -6 år (32)<br><b>Totalt: 94 elevar</b></p><p><b>KONTAKT</b></p><p><b>Lær
- ingsverkstedet Velodromen idrettsbh</b><br>Tlf: +47 37 07 16 91<br>Marie O
- snes &nbsp; +47 99 52 37 69 &nbsp; <a href='mailto:velodromen@laringsverks
- tedet.no'>velodromen@laringsverkstedet.no</a><br></p><p><b>Læringsverkste
- det Bekkeveien bh</b><br>Tlf: +47 37 07 15 28<br>Janicke Olsen &nbsp; +47 
- 99 47 21 09 &nbsp; <a href='mailto:bekkeveien@laringsverkstedet.no'>bekkev
- eien@laringsverkstedet.no</a><br></p><p><a href='https://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om p
- roduksjonen</a></p></body></html>
+  idrettsbh:</b> 3-6 år (74)<br><b>Læringsverkstedet Bekkeveien bh:</b> 3
+ -6 år (32)<br><b>Totalt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Læ
+ ringsverkstedet Velodromen idrettsbh</b><br>Tlf: +47 37 07 16 91<br>Marie 
+ Osnes &nbsp; +47 99 52 37 69 &nbsp; <a href='mailto:velodromen@laringsverk
+ stedet.no'>velodromen@laringsverkstedet.no</a><br></p><p><b>Læringsverkst
+ edet Bekkeveien bh</b><br>Tlf: +47 37 07 15 28<br>Janicke Olsen &nbsp; +47
+  99 47 21 09 &nbsp; <a href='mailto:bekkeveien@laringsverkstedet.no'>bekke
+ veien@laringsverkstedet.no</a><br></p><p><a href='https://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om 
+ produksjonen</a></p></body></html>
 LOCATION:Asker Kulturhus – Multisal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -2181,7 +2237,7 @@ DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSætre ungdomsskol
  e: 8b (21)\, 8a (22)\\nTotalt: 43 elevar\\n\\nKONTAKT\\nSætre ungdomsskol
  e\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@a
  sker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skif
- jeld.eliassen@modum.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
+ jeld.eliassen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
  ekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
@@ -2190,7 +2246,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
   81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.
  solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifjel
  d Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld.e
- liassen@modum.kommune.no'>henrik.skifjeld.eliassen@modum.kommune.no</a><br
+ liassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker.kommune.no</a><br
  ></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjo
  ner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></html
  >
@@ -3310,7 +3366,7 @@ SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8a (22)\\nTotalt: 22 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
  47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
-  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
  tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
  on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -3319,8 +3375,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
  mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
- ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
- assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
  lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
  uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
@@ -3335,7 +3391,7 @@ SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8b (21)\\nTotalt: 21 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
  47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
-  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
  tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
  on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -3344,8 +3400,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
  mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
- ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
- assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
  lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
  uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
@@ -3360,7 +3416,7 @@ SUMMARY:Konspirasjonsverksted (8. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8c (21)\\nTotalt: 21 elevar\\n\\
  nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
  47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
-  +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nht
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
  tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
  on=21216
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -3369,8 +3425,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
  &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
  mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
- ref='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.eli
- assen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
  lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
  uksjonen</a></p></body></html>
 LOCATION:Sætre ungdomsskole – Klasserom
@@ -4881,7 +4937,7 @@ SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10a (26)\\nTotalt: 26 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
  +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
-   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+   +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nh
  ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
  jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -4890,8 +4946,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
  mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
- href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
- iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ href='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.el
+ iassen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
  olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
  duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek
@@ -4906,7 +4962,7 @@ SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10b (27)\\nTotalt: 27 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
  +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
-   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+   +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nh
  ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
  jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -4915,8 +4971,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
  mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
- href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
- iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ href='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.el
+ iassen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
  olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
  duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek
@@ -4931,7 +4987,7 @@ SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSætre ungdomsskole: 10c (28)\\nTotalt: 28 elevar\\n\
  \nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  
  +47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen
-   +47 93 08 22 27  henrik.skifjeld.eliassen@modum.kommune.no\\n\\nINFO\\nh
+   +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nh
  ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
  jon=25158
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -4940,8 +4996,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  omsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44
   &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.ko
  mmune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a 
- href='mailto:henrik.skifjeld.eliassen@modum.kommune.no'>henrik.skifjeld.el
- iassen@modum.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ href='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.el
+ iassen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
  olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om pro
  duksjonen</a></p></body></html>
 LOCATION:Askerbibliotekene – Sætre bibliotek

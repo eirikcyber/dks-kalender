@@ -5,35 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Asker
-LAST-MODIFIED:20260901T090041Z
-BEGIN:VEVENT
-UID:dks-541979@asker.dks
-DTSTART:20260902T083500Z
-DTEND:20260902T091000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nSteinerskolen i Asker: 1 (22)\, 2 (22)\\nTotalt: 44 e
- levar\\n\\nKONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  ma
- rianne  stai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVI
- D WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Mette 
- Bøe  +47 90 66 73 87  anne.boe@askersteinerskole.no\\n\\nINFO\\nhttps://w
- ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2443
- 3
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Asker:</b> 1 
- (22), 2 (22)<br><b>Totalt: 44 elevar</b></p><p><b>KONTAKT</b></p><p><b>Ste
- inerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbsp; +4
- 7 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinerskole.no'>m
- arianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 1
- 5 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>david.whyte@ask
- ersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 90 66 73 87 &nbsp; <a 
- href='mailto:anne.boe@askersteinerskole.no'>anne.boe@askersteinerskole.no<
- /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=24433'>Les meir om produksjonen</a></p></body>
- </html>
-LOCATION:Steinerskolen i Asker – stor sal uten scene
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20260903T062144Z
 BEGIN:VEVENT
 UID:dks-550216@asker.dks
 DTSTART:20260907T073000Z
@@ -152,25 +124,30 @@ UID:dks-505693@asker.dks
 DTSTART:20260922T073000Z
 DTEND:20260922T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nSteine
- rskolen i Asker: 6 (26)\\nTotalt: 26 elevar\\n\\nKONTAKT\\nSteinerskolen i
-  Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  stai  +47 98 03 49 34  maria
- nne.stai@askersteinerskole.no\\n  DAVID WHYTE  +47 96 62 36 15  david.whyt
- e@askersteinerskole.no\\n  Anne-Mette Bøe  +47 90 66 73 87  anne.boe@aske
- rsteinerskole.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfor
- sk-produksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nStei
+ nerskolen i Asker\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter 
+ elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658
+ 600\\n\\nKLASSER\\nSteinerskolen i Asker: 6 (26)\\nTotalt: 26 elevar\\n\\n
+ KONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  sta
+ i  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  +4
+ 7 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Mette Bøe  +47 9
+ 0 66 73 87  anne.boe@askersteinerskole.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Steinerskolen i Asker:</b> 6 (26)<br><b>Totalt: 26 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen i Asker</b><br>Tlf: +47
-  66 85 26 80<br>marianne  stai &nbsp; +47 98 03 49 34 &nbsp; <a href='mail
- to:marianne.stai@askersteinerskole.no'>marianne.stai@askersteinerskole.no<
- /a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp; <a href='mailto:david.why
- te@askersteinerskole.no'>david.whyte@askersteinerskole.no</a><br>Anne-Mett
- e Bøe &nbsp; +47 90 66 73 87 &nbsp; <a href='mailto:anne.boe@askersteiner
- skole.no'>anne.boe@askersteinerskole.no</a><br></p><p><a href='https://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'
- >Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Steinerskolen i Asker</b><br>Avreise: 09:05 &nbsp; Re
+ tur: 11:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besø
+ ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Steiner
+ skolen i Asker:</b> 6 (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b
+ ></p><p><b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  
+ stai &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askerstei
+ nerskole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; 
+ +47 96 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>d
+ avid.whyte@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 90 66 73
+  87 &nbsp; <a href='mailto:anne.boe@askersteinerskole.no'>anne.boe@askerst
+ einerskole.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
+ no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen<
+ /a></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232

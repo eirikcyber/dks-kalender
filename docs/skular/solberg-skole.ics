@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solberg skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solberg skole
-LAST-MODIFIED:20260901T090034Z
+LAST-MODIFIED:20260903T062135Z
 BEGIN:VEVENT
 UID:dks-546096@asker.dks
 DTSTART:20260923T093000Z
@@ -58,19 +58,22 @@ UID:dks-505703@asker.dks
 DTSTART:20261006T073000Z
 DTEND:20261006T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nKLASSER\\nSolber
- g skole: 6 (14)\\nTotalt: 14 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tlf: 
- +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.engh@asker.
- kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=23232
+DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nSolb
+ erg skole\\n  Elevene går eller sykler til Kunsthall Dikemark.\\n\\nKLASS
+ ER\\nSolberg skole: 6 (14)\\nTotalt: 14 elevar\\n\\nKONTAKT\\nSolberg skol
+ e\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.
+ engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>KL
- ASSER</b></p><p><b>Solberg skole:</b> 6 (14)<br><b>Totalt: 14 elevar</b></
- p><p><b>KONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>
- Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.eng
- h@asker.kommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><a 
- href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=23232'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
+ ANSPORT</b></p><p><b>Solberg skole</b><br>Elevene går eller sykler til Ku
+ nsthall Dikemark.</p><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 6 (14)<
+ br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg skole</b
+ ><br>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a hr
+ ef='mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@asker
+ .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
+ /utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a
+ ></p></body></html>
 LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23232
