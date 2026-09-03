@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20260903T010128Z
+LAST-MODIFIED:20260903T090023Z
 BEGIN:VEVENT
 UID:dks-559204@asker.dks
 DTSTART:20260903T070000Z
@@ -1070,11 +1070,10 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\,
  kolen.no\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin 
  Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nHvalstad
   skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +
- 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Kristine Tokle Klei
- venes  +47 92 20 85 86  kristine.tokle.kleivenes@asker.kommune.no\\n  Anne
-  Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.
- no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
- r-i-dks/?produksjon=23665
+ 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne Lene Tveten Ek
+ kje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\n
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
  >Slemmestad barneskole, Steinerskolen i Hurum</b><br>Elever blir fraktet m
@@ -1092,13 +1091,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  e.no</a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine 
  Norman Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailt
  o:trine.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</
- a><br>Kristine Tokle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mail
- to:kristine.tokle.kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@ask
- er.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; 
- <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.
- ekkje@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om prod
- uksjonen</a></p></body></html>
+ a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto
+ :anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kom
+ mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p
+ ></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
@@ -5275,37 +5272,34 @@ DESCRIPTION:KLASSER\\nHvalstad skole: 7A (26)\, 7B (25)\\nSteinerskolen i A
  sker: 7 (15)\\nJansløkka skole: 7A  (27)\, 7B (28)\\nTotalt: 121 elevar\\
  n\\nKONTAKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Heg
  g(kun tilrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\
- n  Kristine Tokle Kleivenes  +47 92 20 85 86  kristine.tokle.kleivenes@ask
- er.kommune.no\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tvete
- n.ekkje@asker.kommune.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\
- \n  marianne  stai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n
-   DAVID WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-
- Mette Bøe  +47 90 66 73 87  anne.boe@askersteinerskole.no\\nJansløkka sk
- ole\\n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=24641
+ n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.k
+ ommune.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  s
+ tai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  
+ +47 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Mette Bøe  +47
+  90 66 73 87  anne.boe@askersteinerskole.no\\nJansløkka skole\\n  Tlf: +4
+ 7 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=24641
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 7A (26), 
  7B (25)<br><b>Steinerskolen i Asker:</b> 7 (15)<br><b>Jansløkka skole:</b
  > 7A  (27), 7B (28)<br><b>Totalt: 121 elevar</b></p><p><b>KONTAKT</b></p><
  p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun t
  ilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.he
- gg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br>Kristine To
- kle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mailto:kristine.tokle
- .kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@asker.kommune.no</a>
- <br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:a
- nne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommu
- ne.no</a><br></p><p><b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<b
- r>marianne  stai &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.st
- ai@askersteinerskole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID W
- HYTE &nbsp; +47 96 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteine
- rskole.no'>david.whyte@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; 
- +47 90 66 73 87 &nbsp; <a href='mailto:anne.boe@askersteinerskole.no'>anne
- .boe@askersteinerskole.no</a><br></p><p><b>Jansløkka skole</b><br>Tlf: +4
- 7 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailt
- o:mmelas@asker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='
- https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
- sjon=24641'>Les meir om produksjonen</a></p></body></html>
+ gg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br>Anne Lene T
+ veten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten
+ .ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></
+ p><p><b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  sta
+ i &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteiner
+ skole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47
+  96 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>davi
+ d.whyte@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 90 66 73 87
+  &nbsp; <a href='mailto:anne.boe@askersteinerskole.no'>anne.boe@askerstein
+ erskole.no</a><br></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<b
+ r>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.
+ kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='https://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24641'>Les
+  meir om produksjonen</a></p></body></html>
 LOCATION:Asker kino – Sal 2
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24641

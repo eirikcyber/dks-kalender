@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad barneskole
-LAST-MODIFIED:20260903T062135Z
+LAST-MODIFIED:20260903T090036Z
 BEGIN:VEVENT
 UID:dks-546086@asker.dks
 DTSTART:20260904T093000Z
@@ -116,11 +116,10 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\,
  kolen.no\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin 
  Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nHvalstad
   skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +
- 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Kristine Tokle Klei
- venes  +47 92 20 85 86  kristine.tokle.kleivenes@asker.kommune.no\\n  Anne
-  Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.
- no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
- r-i-dks/?produksjon=23665
+ 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne Lene Tveten Ek
+ kje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\n
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
  >Slemmestad barneskole, Steinerskolen i Hurum</b><br>Elever blir fraktet m
@@ -138,13 +137,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  e.no</a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine 
  Norman Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailt
  o:trine.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</
- a><br>Kristine Tokle Kleivenes &nbsp; +47 92 20 85 86 &nbsp; <a href='mail
- to:kristine.tokle.kleivenes@asker.kommune.no'>kristine.tokle.kleivenes@ask
- er.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; 
- <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.
- ekkje@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om prod
- uksjonen</a></p></body></html>
+ a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto
+ :anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kom
+ mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p
+ ></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
