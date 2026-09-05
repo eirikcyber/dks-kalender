@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260903T090046Z
+LAST-MODIFIED:20260905T010144Z
 BEGIN:VEVENT
 UID:dks-550220@asker.dks
 DTSTART:20260910T073000Z
@@ -133,38 +133,52 @@ UID:dks-513399@asker.dks
 DTSTART:20261015T090000Z
 DTEND:20261015T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nVardåsen skole\\n  Elev
- er blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgang og r
- etur kommer. \\nHagaløkka skole\, Stiftelsen Asker International School\\
- n  Elevene tar kollektivtransport (tog) til Det Norske teatret\, og tilbak
- e igjen. DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nVardåsen skole
- : 5A (22)\, 5B (24)\\nStiftelsen Asker International School: 5a (21)\\nHag
- aløkka skole: 5A (22)\, 5B (23)\\nTotalt: 112 elevar\\n\\nKONTAKT\\nVard�
- �sen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86
-  97  kdyrhaug@asker.kommune.no\\nStiftelsen Asker International School\\n 
-  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\
- \nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 
- 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nVardåsen skole\\n  Avre
+ ise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilb
+ ake etter besøket. Vakttelefon Vy Buss er 91658600\\nStiftelsen Asker Int
+ ernational School\\n  Elevene reiser kollektivt til Det Norske Teatret. Fo
+ rslag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på
+  stasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21
+ . RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DK
+ S Asker\\nHagaløkka skole\\n  Elevene reiser kollektivt til Det Norske Te
+ atret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet an
+ komst på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon 
+ kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dek
+ kes av DKS Asker\\n\\nKLASSER\\nVardåsen skole: 5A (22)\, 5B (24)\\nStift
+ elsen Asker International School: 5a (21)\\nHagaløkka skole: 5A (22)\, 5B
+  (23)\\nTotalt: 112 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  Tlf: +47 66 
+ 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@asker.kommune.n
+ o\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  Jam
+ es Murphy  +47 94 83 92 91  james@askeris.no\\nHagaløkka skole\\n  Tlf: +
+ 47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@asker.kommune
+ .no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Vardåsen skole</b><br>Elever blir fraktet med bestillerbuss (VY turbuss)
- . Informasjon om avgang og retur kommer. </p><p><b>Hagaløkka skole, Stift
- elsen Asker International School</b><br>Elevene tar kollektivtransport (to
- g) til Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billet
- ter. </p><p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 5A (22), 5B (24)<
- br><b>Stiftelsen Asker International School:</b> 5a (21)<br><b>Hagaløkka 
- skole:</b> 5A (22), 5B (23)<br><b>Totalt: 112 elevar</b></p><p><b>KONTAKT<
- /b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyr
- haug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.
- no'>kdyrhaug@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker Internatio
- nal School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92
-  91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><
- p><b>Hagaløkka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp;
-  +47 95 76 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvor
- s@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksj
- onen</a></p></body></html>
+ >Vardåsen skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:05<br>VY Turbuss f
+ rakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss e
+ r 91658600</p><p><b>Stiftelsen Asker International School</b><br>Elevene r
+ eiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra As
+ ker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med
+  tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes.
+  Dette bestilles av skolene og dekkes av DKS Asker</p><p><b>Hagaløkka sko
+ le</b><br>Elevene reiser kollektivt til Det Norske Teatret. Forslag til re
+ iserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen k
+ l. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-bill
+ etter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker</p><
+ p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 5A (22), 5B (24)<br><b>Stif
+ telsen Asker International School:</b> 5a (21)<br><b>Hagaløkka skole:</b>
+  5A (22), 5B (23)<br><b>Totalt: 112 elevar</b></p><p><b>KONTAKT</b></p><p>
+ <b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &nbsp
+ ; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdyrha
+ ug@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker International School
+ </b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp;
+  <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><b>Hagal
+ økka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 76
+  04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.ko
+ mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></
+ p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
@@ -234,44 +248,57 @@ UID:dks-513400@asker.dks
 DTSTART:20261019T090000Z
 DTEND:20261019T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nNesøya skole\, Stiftels
- en Asker International School\\n  Elever blir fraktet med bestillerbuss (V
- Y turbuss). Informasjon om avgang og retur kommer. \\nBondi skole\\n  Elev
- ene tar kollektivtransport (tog) til Det Norske teatret\, og tilbake igjen
- . DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nBondi skole: 5A (20)\,
-  5B (17)\\nNesøya skole: 5A (23)\, 5B (23)\\nStiftelsen Asker Internation
- al School: 5b (21)\\nTotalt: 104 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf
- : +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kom
- mune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.
- no\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
- 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
- 04 31  bjorn.erik.rannestad@asker.kommune.no\\nStiftelsen Asker Internatio
- nal School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  jam
- es@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nStiftelsen Asker Interna
+ tional School\\n  Elevene reiser kollektivt til Det Norske Teatret. Forsla
+ g til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på sta
+ sjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. RU
+ FUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS As
+ ker\\nBondi skole\\n  Elevene reiser kollektivt til Det Norske Teatret. Fo
+ rslag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på
+  stasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21
+ . RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DK
+ S Asker\\nNesøya skole\\n  Avreise: 10:30  Retur: 12:05\\n  VY Turbuss fr
+ akter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er
+  91658600\\n\\nKLASSER\\nBondi skole: 5A (20)\, 5B (17)\\nNesøya skole: 5
+ A (23)\, 5B (23)\\nStiftelsen Asker International School: 5b (21)\\nTotalt
+ : 104 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi
+  Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer 
+  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nNesøya skole\\n  Tlf:
+  +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.k
+ ommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannestad
+ @asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 
+ 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nh
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Nesøya skole, Stiftelsen Asker International School</b><br>Elever blir f
- raktet med bestillerbuss (VY turbuss). Informasjon om avgang og retur komm
- er. </p><p><b>Bondi skole</b><br>Elevene tar kollektivtransport (tog) til 
- Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billetter. </
- p><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 5A (20), 5B (17)<br><b>Nesø
- ya skole:</b> 5A (23), 5B (23)<br><b>Stiftelsen Asker International School
- :</b> 5b (21)<br><b>Totalt: 104 elevar</b></p><p><b>KONTAKT</b></p><p><b>B
- ondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19
-  20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker
- .kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='m
- ailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a>
- <br></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &
- nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.n
- o'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 
- 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>
- bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker In
- ternational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 
- 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><
- br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></body></ht
- ml>
+ >Stiftelsen Asker International School</b><br>Elevene reiser kollektivt ti
+ l Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:
+ 19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationalth
+ eatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av
+  skolene og dekkes av DKS Asker</p><p><b>Bondi skole</b><br>Elevene reiser
+  kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Asker s
+ tasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog 
+ fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dett
+ e bestilles av skolene og dekkes av DKS Asker</p><p><b>Nesøya skole</b><b
+ r>Avreise: 10:30 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra sko
+ len og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KL
+ ASSER</b></p><p><b>Bondi skole:</b> 5A (20), 5B (17)<br><b>Nesøya skole:<
+ /b> 5A (23), 5B (23)<br><b>Stiftelsen Asker International School:</b> 5b (
+ 21)<br><b>Totalt: 104 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole
+ </b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp;
+  <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommune.n
+ o</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:kari
+ anne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p><p
+ ><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 
+ 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.si
+ ngsaas@asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 3
+ 1 &nbsp; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik
+ .rannestad@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker Internationa
+ l School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 9
+ 1 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p>
+ <a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
+ s/?produksjon=23665'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
@@ -282,42 +309,55 @@ DTSTART:20261027T100000Z
 DTEND:20261027T110000Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nFrydenlund barneskole\\n
-   Elever blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgan
- g og retur kommer. \\nJansløkka skole\, Stiftelsen Asker International Sc
- hool\\n  Elevene tar kollektivtransport (tog) til Det Norske teatret\, og 
- tilbake igjen. DKS Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nFrydenlun
- d barneskole: 5 (31)\\nStiftelsen Asker International School: 5c (21)\\nJa
- nsløkka skole: 5A  (18)\, 5B (18)\, 5C (20)\\nTotalt: 108 elevar\\n\\nKON
- TAKT\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Joh
- ansen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Cecilie
-  Nordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.
- kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 7
- 0\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\nJansløkka skole\\
- n  Tlf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.ko
- mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=23665
+   Avreise: 10:00  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
+ g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nStiftelsen Ask
+ er International School\\n  Elevene reiser kollektivt til Det Norske Teatr
+ et. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankom
+ st på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl.
+  12:21. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes
+  av DKS Asker\\nJansløkka skole\\n  Elevene reiser kollektivt til Det Nor
+ ske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Bereg
+ net ankomst på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret st
+ asjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av skolene 
+ og dekkes av DKS Asker\\n\\nKLASSER\\nFrydenlund barneskole: 5 (31)\\nStif
+ telsen Asker International School: 5c (21)\\nJansløkka skole: 5A  (18)\, 
+ 5B (18)\, 5C (20)\\nTotalt: 108 elevar\\n\\nKONTAKT\\nFrydenlund barneskol
+ e\\n  Tlf: +47 31 29 75 50\\n  Bente Reitan Johansen  +47 95 23 45 43  ben
+ te.reitan.johansen@asker.kommune.no\\n  Cecilie Nordbø Øyen (tilrettelag
+ t)  +47 97 56 35 89  cecilie.nordbo.oyen@asker.kommune.no\\nStiftelsen Ask
+ er International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 
+ 83 92 91  james@askeris.no\\nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n 
+  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps:
+ //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
+ 3665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Frydenlund barneskole</b><br>Elever blir fraktet med bestillerbuss (VY tu
- rbuss). Informasjon om avgang og retur kommer. </p><p><b>Jansløkka skole,
-  Stiftelsen Asker International School</b><br>Elevene tar kollektivtranspo
- rt (tog) til Det Norske teatret, og tilbake igjen. DKS Asker dekker RUFUS-
- billetter. </p><p><b>KLASSER</b></p><p><b>Frydenlund barneskole:</b> 5 (31
- )<br><b>Stiftelsen Asker International School:</b> 5c (21)<br><b>Jansløkk
- a skole:</b> 5A  (18), 5B (18), 5C (20)<br><b>Totalt: 108 elevar</b></p><p
- ><b>KONTAKT</b></p><p><b>Frydenlund barneskole</b><br>Tlf: +47 31 29 75 50
- <br>Bente Reitan Johansen &nbsp; +47 95 23 45 43 &nbsp; <a href='mailto:be
- nte.reitan.johansen@asker.kommune.no'>bente.reitan.johansen@asker.kommune.
- no</a><br>Cecilie Nordbø Øyen (tilrettelagt) &nbsp; +47 97 56 35 89 &nbs
- p; <a href='mailto:cecilie.nordbo.oyen@asker.kommune.no'>cecilie.nordbo.oy
- en@asker.kommune.no</a><br></p><p><b>Stiftelsen Asker International School
- </b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp;
-  <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><b>Jansl
- økka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 4
- 6 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></bo
- dy></html>
+ >Frydenlund barneskole</b><br>Avreise: 10:00 &nbsp; Retur: 12:05<br>VY Tur
+ buss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy 
+ Buss er 91658600</p><p><b>Stiftelsen Asker International School</b><br>Ele
+ vene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog 
+ fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Ret
+ ur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan ben
+ yttes. Dette bestilles av skolene og dekkes av DKS Asker</p><p><b>Jansløk
+ ka skole</b><br>Elevene reiser kollektivt til Det Norske Teatret. Forslag 
+ til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasj
+ onen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFU
+ S-billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Aske
+ r</p><p><b>KLASSER</b></p><p><b>Frydenlund barneskole:</b> 5 (31)<br><b>St
+ iftelsen Asker International School:</b> 5c (21)<br><b>Jansløkka skole:</
+ b> 5A  (18), 5B (18), 5C (20)<br><b>Totalt: 108 elevar</b></p><p><b>KONTAK
+ T</b></p><p><b>Frydenlund barneskole</b><br>Tlf: +47 31 29 75 50<br>Bente 
+ Reitan Johansen &nbsp; +47 95 23 45 43 &nbsp; <a href='mailto:bente.reitan
+ .johansen@asker.kommune.no'>bente.reitan.johansen@asker.kommune.no</a><br>
+ Cecilie Nordbø Øyen (tilrettelagt) &nbsp; +47 97 56 35 89 &nbsp; <a href
+ ='mailto:cecilie.nordbo.oyen@asker.kommune.no'>cecilie.nordbo.oyen@asker.k
+ ommune.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tl
+ f: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='
+ mailto:james@askeris.no'>james@askeris.no</a><br></p><p><b>Jansløkka skol
+ e</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp
+ ; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

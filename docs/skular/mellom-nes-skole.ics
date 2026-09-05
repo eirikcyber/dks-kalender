@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Mellom-Nes skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Mellom-Nes skole
-LAST-MODIFIED:20260903T090034Z
+LAST-MODIFIED:20260905T010141Z
 BEGIN:VEVENT
 UID:dks-558932@asker.dks
 DTSTART:20260910T073000Z
@@ -142,40 +142,49 @@ UID:dks-513403@asker.dks
 DTSTART:20261021T090000Z
 DTEND:20261021T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nMellom-Nes skole\, Sydsk
- ogen barneskole\\n  Elever blir fraktet med bestillerbuss (VY turbuss). In
- formasjon om avgang og retur kommer. \\nRønningen skole\\n  Elevene tar k
- ollektivtransport (tog) til Det Norske teatret\, og tilbake igjen. DKS Ask
- er dekker RUFUS-billetter. \\n\\nKLASSER\\nSydskogen barneskole: 5 (15)\\n
- Rønningen skole: 5 (27)\\nMellom-Nes skole: 5 (64)\\nTotalt: 106 elevar\\
- n\\nKONTAKT\\nSydskogen barneskole\\n  Tlf: +47 31 29 33 55\\n  Siri Østv
- ik Hage  +47 92 69 67 67  siri.ostvik.hage@asker.kommune.no\\n  Marte Sves
- tad Eitrheim  +47 91 82 90 27  marte.svestad@asker.kommune.no\\nRønningen
-  skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi
- .graffer@asker.kommune.no\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  
- Kari Ruud  +47 97 73 77 35  kari.ruud@asker.kommune.no\\n\\nINFO\\nhttps:/
- /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23
- 665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSydskogen barneskole\\n 
+  Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og
+  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nRønningen skol
+ e\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiser
+ ute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 1
+ 0:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billette
+ r kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nMellom
+ -Nes skole\\n  Avreise: 10:25  Retur: 12:05\\n  VY Turbuss frakter elevene
+  fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
+ \nKLASSER\\nSydskogen barneskole: 5 (15)\\nRønningen skole: 5 (27)\\nMell
+ om-Nes skole: 5 (64)\\nTotalt: 106 elevar\\n\\nKONTAKT\\nSydskogen barnesk
+ ole\\n  Tlf: +47 31 29 33 55\\n  Siri Østvik Hage  +47 92 69 67 67  siri.
+ ostvik.hage@asker.kommune.no\\n  Marte Svestad Eitrheim  +47 91 82 90 27  
+ marte.svestad@asker.kommune.no\\nRønningen skole\\n  Tlf: +47 66 71 29 00
+ \\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@asker.kommune.no\\nMel
+ lom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 77 35  kar
+ i.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Mellom-Nes skole, Sydskogen barneskole</b><br>Elever blir fraktet med bes
- tillerbuss (VY turbuss). Informasjon om avgang og retur kommer. </p><p><b>
- Rønningen skole</b><br>Elevene tar kollektivtransport (tog) til Det Norsk
- e teatret, og tilbake igjen. DKS Asker dekker RUFUS-billetter. </p><p><b>K
- LASSER</b></p><p><b>Sydskogen barneskole:</b> 5 (15)<br><b>Rønningen skol
- e:</b> 5 (27)<br><b>Mellom-Nes skole:</b> 5 (64)<br><b>Totalt: 106 elevar<
- /b></p><p><b>KONTAKT</b></p><p><b>Sydskogen barneskole</b><br>Tlf: +47 31 
- 29 33 55<br>Siri Østvik Hage &nbsp; +47 92 69 67 67 &nbsp; <a href='mailt
- o:siri.ostvik.hage@asker.kommune.no'>siri.ostvik.hage@asker.kommune.no</a>
- <br>Marte Svestad Eitrheim &nbsp; +47 91 82 90 27 &nbsp; <a href='mailto:m
- arte.svestad@asker.kommune.no'>marte.svestad@asker.kommune.no</a><br></p><
- p><b>Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp;
-  +47 95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>so
- lvi.graffer@asker.kommune.no</a><br></p><p><b>Mellom-Nes skole</b><br>Tlf:
-  +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &nbsp; <a href='mailt
- o:kari.ruud@asker.kommune.no'>kari.ruud@asker.kommune.no</a><br></p><p><a 
- href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=23665'>Les meir om produksjonen</a></p></body></html>
+ >Sydskogen barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Turb
+ uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
+ uss er 91658600</p><p><b>Rønningen skole</b><br>Elevene reiser kollektivt
+  til Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 
+ 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationa
+ ltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles
+  av skolene og dekkes av DKS Asker</p><p><b>Mellom-Nes skole</b><br>Avreis
+ e: 10:25 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og t
+ ilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b
+ ></p><p><b>Sydskogen barneskole:</b> 5 (15)<br><b>Rønningen skole:</b> 5 
+ (27)<br><b>Mellom-Nes skole:</b> 5 (64)<br><b>Totalt: 106 elevar</b></p><p
+ ><b>KONTAKT</b></p><p><b>Sydskogen barneskole</b><br>Tlf: +47 31 29 33 55<
+ br>Siri Østvik Hage &nbsp; +47 92 69 67 67 &nbsp; <a href='mailto:siri.os
+ tvik.hage@asker.kommune.no'>siri.ostvik.hage@asker.kommune.no</a><br>Marte
+  Svestad Eitrheim &nbsp; +47 91 82 90 27 &nbsp; <a href='mailto:marte.sves
+ tad@asker.kommune.no'>marte.svestad@asker.kommune.no</a><br></p><p><b>Røn
+ ningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 7
+ 6 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graff
+ er@asker.kommune.no</a><br></p><p><b>Mellom-Nes skole</b><br>Tlf: +47 97 7
+ 3 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &nbsp; <a href='mailto:kari.ru
+ ud@asker.kommune.no'>kari.ruud@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=23665'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Drengsrud skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Drengsrud skole
-LAST-MODIFIED:20260903T090030Z
+LAST-MODIFIED:20260905T010139Z
 BEGIN:VEVENT
 UID:dks-559206@asker.dks
 DTSTART:20260916T070000Z
@@ -133,38 +133,43 @@ UID:dks-513397@asker.dks
 DTSTART:20261013T090000Z
 DTEND:20261013T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSætre skole\\n  Elever 
- blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgang og retu
- r kommer. \\nDrengsrud skole\\n  Elevene tar kollektivtransport (tog) til 
- Det Norske teatret\, og tilbake igjen. DKS Asker dekker RUFUS-billetter. \
- \n\\nKLASSER\\nDrengsrud skole: 5A (18)\, 5B (17)\, 5C (19)\\nSætre skole
- : 5a (20)\, 5b (21)\\nTotalt: 95 elevar\\n\\nKONTAKT\\nDrengsrud skole\\n 
-  Tlf: +47 66 71 27 00\\n  Thomas Rolland  +47 47 84 13 15  thomas.rolland@
- asker.kommune.no\\nSætre skole\\n  Tlf: +47 32 27 83 30\\n  Hanne Lien Aa
- berg  +47 90 96 05 37  hanne.lien.aaberg@asker.kommune.no\\n  Linda Syvert
- sen  +47 40 23 68 60  linda.syvertsen@asker.kommune.no\\n  Skjalg Olsen  +
- 47 95 07 47 37  skjalg.flesland.olsen@asker.kommune.no\\n\\nINFO\\nhttps:/
- /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23
- 665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSætre skole\\n  Avreise
+ : 09:55  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake
+  etter besøket. Vakttelefon Vy Buss er 91658600\\nDrengsrud skole\\n  Ele
+ vene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog 
+ fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Ret
+ ur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan ben
+ yttes. Dette bestilles av skolene og dekkes av DKS Asker\\n\\nKLASSER\\nDr
+ engsrud skole: 5A (18)\, 5B (17)\, 5C (19)\\nSætre skole: 5a (20)\, 5b (2
+ 1)\\nTotalt: 95 elevar\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: +47 66 71 2
+ 7 00\\n  Thomas Rolland  +47 47 84 13 15  thomas.rolland@asker.kommune.no\
+ \nSætre skole\\n  Tlf: +47 32 27 83 30\\n  Hanne Lien Aaberg  +47 90 96 0
+ 5 37  hanne.lien.aaberg@asker.kommune.no\\n  Linda Syvertsen  +47 40 23 68
+  60  linda.syvertsen@asker.kommune.no\\n  Skjalg Olsen  +47 95 07 47 37  s
+ kjalg.flesland.olsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Sætre skole</b><br>Elever blir fraktet med bestillerbuss (VY turbuss). I
- nformasjon om avgang og retur kommer. </p><p><b>Drengsrud skole</b><br>Ele
- vene tar kollektivtransport (tog) til Det Norske teatret, og tilbake igjen
- . DKS Asker dekker RUFUS-billetter. </p><p><b>KLASSER</b></p><p><b>Drengsr
- ud skole:</b> 5A (18), 5B (17), 5C (19)<br><b>Sætre skole:</b> 5a (20), 5
- b (21)<br><b>Totalt: 95 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsrud
-  skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13 1
- 5 &nbsp; <a href='mailto:thomas.rolland@asker.kommune.no'>thomas.rolland@a
- sker.kommune.no</a><br></p><p><b>Sætre skole</b><br>Tlf: +47 32 27 83 30<
- br>Hanne Lien Aaberg &nbsp; +47 90 96 05 37 &nbsp; <a href='mailto:hanne.l
- ien.aaberg@asker.kommune.no'>hanne.lien.aaberg@asker.kommune.no</a><br>Lin
- da Syvertsen &nbsp; +47 40 23 68 60 &nbsp; <a href='mailto:linda.syvertsen
- @asker.kommune.no'>linda.syvertsen@asker.kommune.no</a><br>Skjalg Olsen &n
- bsp; +47 95 07 47 37 &nbsp; <a href='mailto:skjalg.flesland.olsen@asker.ko
- mmune.no'>skjalg.flesland.olsen@asker.kommune.no</a><br></p><p><a href='ht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=23665'>Les meir om produksjonen</a></p></body></html>
+ >Sætre skole</b><br>Avreise: 09:55 &nbsp; Retur: 12:05<br>VY Turbuss frak
+ ter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9
+ 1658600</p><p><b>Drengsrud skole</b><br>Elevene reiser kollektivt til Det 
+ Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Be
+ regnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret
+  stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av skole
+ ne og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Drengsrud skole:</
+ b> 5A (18), 5B (17), 5C (19)<br><b>Sætre skole:</b> 5a (20), 5b (21)<br><
+ b>Totalt: 95 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsrud skole</b><
+ br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13 15 &nbsp; <a
+  href='mailto:thomas.rolland@asker.kommune.no'>thomas.rolland@asker.kommun
+ e.no</a><br></p><p><b>Sætre skole</b><br>Tlf: +47 32 27 83 30<br>Hanne Li
+ en Aaberg &nbsp; +47 90 96 05 37 &nbsp; <a href='mailto:hanne.lien.aaberg@
+ asker.kommune.no'>hanne.lien.aaberg@asker.kommune.no</a><br>Linda Syvertse
+ n &nbsp; +47 40 23 68 60 &nbsp; <a href='mailto:linda.syvertsen@asker.komm
+ une.no'>linda.syvertsen@asker.kommune.no</a><br>Skjalg Olsen &nbsp; +47 95
+  07 47 37 &nbsp; <a href='mailto:skjalg.flesland.olsen@asker.kommune.no'>s
+ kjalg.flesland.olsen@asker.kommune.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>L
+ es meir om produksjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

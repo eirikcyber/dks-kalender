@@ -5,66 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Hurum
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Hurum
-LAST-MODIFIED:20260903T090047Z
-BEGIN:VEVENT
-UID:dks-559204@asker.dks
-DTSTART:20260903T070000Z
-DTEND:20260903T113000Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nFolkestad skol
- e\\n  Avreise: 08:10  Retur: 13:30\\n  VY Turbuss frakter elevene fra skol
- e til Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for
-  avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91
- 658600\\nHyggen skole\\n  Avreise: 08:25  Retur: 13:30\\n  VY Turbuss frak
- ter elevene fra skole til Asker museum og tilbake etter besøket. Se gjeld
- ende tidspunkter for avreise fra skole og avreise fra Asker museum . Vaktt
- elefon Vy Buss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 08:15  Ret
- ur: 13:30\\n  VY Turbuss frakter elevene fra skole til Asker museum og til
- bake etter besøket. Se gjeldende tidspunkter for avreise fra skole og avr
- eise fra Asker museum . Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nHyg
- gen skole: 4 (16)\\nSteinerskolen i Hurum: 4 (13)\\nFolkestad skole: 4 (13
- )\\nTotalt: 42 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14
- \\n  Lene Austreng  +47 90 91 11 86  laustren@asker.kommune.no\\n  Anita T
- ollefsen  +47 48 23 76 17  anita.tollefsen@asker.kommune.no\\nSteinerskole
- n i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jea
- nette.ward@steinerskolen.no\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n 
-  Ellen Engeland  +47 48 19 60 52  ellen.engeland@asker.kommune.no\\n  Gry 
- Bente Olsen Brosø  +47 92 25 86 48  gry.bente.broso@asker.kommune.no\\n\\
- nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
- /?produksjon=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Folkestad skole</b><br>Avreise: 08:10 &nbsp; Retur: 13:30<br>VY
-  Turbuss frakter elevene fra skole til Asker museum og tilbake etter besø
- ket. Se gjeldende tidspunkter for avreise fra skole og avreise fra Asker m
- useum . Vakttelefon Vy Buss er 91658600</p><p><b>Hyggen skole</b><br>Avrei
- se: 08:25 &nbsp; Retur: 13:30<br>VY Turbuss frakter elevene fra skole til 
- Asker museum og tilbake etter besøket. Se gjeldende tidspunkter for avrei
- se fra skole og avreise fra Asker museum . Vakttelefon Vy Buss er 91658600
- </p><p><b>Steinerskolen i Hurum</b><br>Avreise: 08:15 &nbsp; Retur: 13:30<
- br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
- besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
- ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
- >Hyggen skole:</b> 4 (16)<br><b>Steinerskolen i Hurum:</b> 4 (13)<br><b>Fo
- lkestad skole:</b> 4 (13)<br><b>Totalt: 42 elevar</b></p><p><b>KONTAKT</b>
- </p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp;
-  +47 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>laustre
- n@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a
-  href='mailto:anita.tollefsen@asker.kommune.no'>anita.tollefsen@asker.komm
- une.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<
- br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.wa
- rd@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Folke
- stad skole</b><br>Tlf: +47 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 
- 60 52 &nbsp; <a href='mailto:ellen.engeland@asker.kommune.no'>ellen.engela
- nd@asker.kommune.no</a><br>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &
- nbsp; <a href='mailto:gry.bente.broso@asker.kommune.no'>gry.bente.broso@as
- ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
- .no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen
- </a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
+LAST-MODIFIED:20260905T010145Z
 BEGIN:VEVENT
 UID:dks-546091@asker.dks
 DTSTART:20260914T073000Z
@@ -121,26 +62,35 @@ DTSTART:20260925T093000Z
 DTEND:20260925T110000Z
 SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
 DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nKLASSER\\nHyggen skole: 6 (19)\\nSteinerskolen i Hurum: 6 (12)\\nTota
- lt: 31 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14\\n  Len
- e Austreng  +47 90 91 11 86  laustren@asker.kommune.no\\n  Anita Tollefsen
-   +47 48 23 76 17  anita.tollefsen@asker.kommune.no\\nSteinerskolen i Huru
- m\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.wa
- rd@steinerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25157
+ \n\\nTRANSPORT\\nHyggen skole\\n  Avreise: 10:45  Retur: 13:10\\n  VY Turb
+ uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
+ uss er 91658600\\nSteinerskolen i Hurum\\n  Avreise: 11:00  Retur: 13:10\\
+ n  VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktte
+ lefon Vy Buss er 91658600\\n\\nKLASSER\\nHyggen skole: 6 (19)\\nSteinersko
+ len i Hurum: 6 (12)\\nTotalt: 31 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tl
+ f: +47 40 90 39 14\\n  Lene Austreng  +47 90 91 11 86  laustren@asker.komm
+ une.no\\n  Anita Tollefsen  +47 48 23 76 17  anita.tollefsen@asker.kommune
+ .no\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +4
+ 7 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25157
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>KLASSER</b></p><p><b>Hyggen skole:</b> 6 (19)<br><b>Ste
- inerskolen i Hurum:</b> 6 (12)<br><b>Totalt: 31 elevar</b></p><p><b>KONTAK
- T</b></p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &
- nbsp; +47 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>la
- ustren@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbs
- p; <a href='mailto:anita.tollefsen@asker.kommune.no'>anita.tollefsen@asker
- .kommune.no</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 2
- 1 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanet
- te.ward@steinerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><a 
- href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=25157'>Les meir om produksjonen</a></p></body></html>
+ nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Hyggen skole</b><br>Avreise: 10:
+ 45 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen og tilbake
+  etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>Steinerskolen i 
+ Hurum</b><br>Avreise: 11:00 &nbsp; Retur: 13:10<br>VY Turbuss frakter elev
+ ene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600<
+ /p><p><b>KLASSER</b></p><p><b>Hyggen skole:</b> 6 (19)<br><b>Steinerskolen
+  i Hurum:</b> 6 (12)<br><b>Totalt: 31 elevar</b></p><p><b>KONTAKT</b></p><
+ p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp; +47 
+ 90 91 11 86 &nbsp; <a href='mailto:laustren@asker.kommune.no'>laustren@ask
+ er.kommune.no</a><br>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a href
+ ='mailto:anita.tollefsen@asker.kommune.no'>anita.tollefsen@asker.kommune.n
+ o</a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Je
+ anette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@st
+ einerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25157'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25157
@@ -172,43 +122,52 @@ UID:dks-513396@asker.dks
 DTSTART:20261012T090000Z
 DTEND:20261012T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\, 
- Steinerskolen i Hurum\\n  Elever blir fraktet med bestillerbuss (VY turbus
- s). Informasjon om avgang og retur kommer. \\nHvalstad skole\\n  Elevene t
- ar kollektivtransport (tog) til Det Norske teatret\, og tilbake igjen. DKS
-  Asker dekker RUFUS-billetter. \\n\\nKLASSER\\nSteinerskolen i Hurum: 5 (1
- 5)\\nSlemmestad barneskole: 5 (36)\\nHvalstad skole: 5A (18)\, 5B (18)\, 5
- C (19)\\nTotalt: 106 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: 
- +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steiners
- kolen.no\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin 
- Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nHvalstad
-  skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +
- 47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne Lene Tveten Ek
- kje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\n
- https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
- sjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSteinerskolen i Hurum\\n
+   Avreise: 09:55  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
+ g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nHvalstad skole
+ \\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiseru
+ te: Tog fra Hvalstad stasjon kl. 10:10. Beregnet ankomst på stasjonen kl.
+  10:35. Retur med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billet
+ ter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSlem
+ mestad barneskole\\n  Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter 
+ elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658
+ 600\\n\\nKLASSER\\nSteinerskolen i Hurum: 5 (15)\\nSlemmestad barneskole: 
+ 5 (36)\\nHvalstad skole: 5A (18)\, 5B (18)\, 5C (19)\\nTotalt: 106 elevar\
+ \n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette
+  Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nSlemmestad barnes
+ kole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin Nergård  +47 90 04 36 18  a
+ nn.kristin.nergard@asker.kommune.no\\nHvalstad skole\\n  Tlf: +47 66 71 54
+  50\\n  Trine Norman Hegg(kun tilrettelagt)  +47 93 86 68 66  trine.norman
+ .hegg@asker.kommune.no\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.l
+ ene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Slemmestad barneskole, Steinerskolen i Hurum</b><br>Elever blir fraktet m
- ed bestillerbuss (VY turbuss). Informasjon om avgang og retur kommer. </p>
- <p><b>Hvalstad skole</b><br>Elevene tar kollektivtransport (tog) til Det N
- orske teatret, og tilbake igjen. DKS Asker dekker RUFUS-billetter. </p><p>
- <b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 5 (15)<br><b>Slemmestad
-  barneskole:</b> 5 (36)<br><b>Hvalstad skole:</b> 5A (18), 5B (18), 5C (19
- )<br><b>Totalt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen
-  i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 
- 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@st
- einerskolen.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 2
- 9 34 00<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href='mai
- lto:ann.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.kommun
- e.no</a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine 
- Norman Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailt
- o:trine.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</
- a><br>Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto
- :anne.lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p
- ></body></html>
+ >Steinerskolen i Hurum</b><br>Avreise: 09:55 &nbsp; Retur: 12:05<br>VY Tur
+ buss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy 
+ Buss er 91658600</p><p><b>Hvalstad skole</b><br>Elevene reiser kollektivt 
+ til Det Norske Teatret. Forslag til reiserute: Tog fra Hvalstad stasjon kl
+ . 10:10. Beregnet ankomst på stasjonen kl. 10:35. Retur med tog fra Natio
+ naltheatret stasjon kl. 12:29. RUFUS-billetter kan benyttes. Dette bestill
+ es av skolene og dekkes av DKS Asker</p><p><b>Slemmestad barneskole</b><br
+ >Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skol
+ en og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLA
+ SSER</b></p><p><b>Steinerskolen i Hurum:</b> 5 (15)<br><b>Slemmestad barne
+ skole:</b> 5 (36)<br><b>Hvalstad skole:</b> 5A (18), 5B (18), 5C (19)<br><
+ b>Totalt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen i Hur
+ um</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nb
+ sp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@steiners
+ kolen.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 29 34 0
+ 0<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href='mailto:an
+ n.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.kommune.no</
+ a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norman
+  Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:trin
+ e.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br>
+ Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.
+ lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommune.n
+ o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></bod
+ y></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

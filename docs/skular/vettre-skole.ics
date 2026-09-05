@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vettre skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vettre skole
-LAST-MODIFIED:20260903T090039Z
+LAST-MODIFIED:20260905T010142Z
 BEGIN:VEVENT
 UID:dks-558934@asker.dks
 DTSTART:20260911T073000Z
@@ -106,34 +106,40 @@ UID:dks-513398@asker.dks
 DTSTART:20261014T090000Z
 DTEND:20261014T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHofstad skole\\n  Elever
-  blir fraktet med bestillerbuss (VY turbuss). Informasjon om avgang og ret
- ur kommer. \\nVettre skole\\n  Elevene tar kollektivtransport (tog) til De
- t Norske teatret\, og tilbake igjen. DKS Asker dekker RUFUS-billetter. \\n
- \\nKLASSER\\nVettre skole: 5 (48)\\nHofstad skole: 5A (23)\, 5B (25)\\nTot
- alt: 96 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Si
- dsel Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nHofstad skole\\
- n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  ann
- e.synnove.von.hirsch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 9
- 4  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHofstad skole\\n  Eleven
+ e reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra
+  Vakås stasjon kl. 10:08. Beregnet ankomst på stasjonen kl. 10:35. Retur
+  med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter kan benyt
+ tes. Dette bestilles av skolene og dekkes av DKS Asker\\nVettre skole\\n  
+ Avreise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og 
+ tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nVet
+ tre skole: 5 (48)\\nHofstad skole: 5A (23)\, 5B (25)\\nTotalt: 96 elevar\\
+ n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 9
+ 2 26 88 00  sidsel.fonn@asker.kommune.no\\nHofstad skole\\n  Tlf: +47 66 7
+ 1 54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hi
+ rsch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@aske
+ r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Hofstad skole</b><br>Elever blir fraktet med bestillerbuss (VY turbuss). 
- Informasjon om avgang og retur kommer. </p><p><b>Vettre skole</b><br>Eleve
- ne tar kollektivtransport (tog) til Det Norske teatret, og tilbake igjen. 
- DKS Asker dekker RUFUS-billetter. </p><p><b>KLASSER</b></p><p><b>Vettre sk
- ole:</b> 5 (48)<br><b>Hofstad skole:</b> 5A (23), 5B (25)<br><b>Totalt: 96
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf: +47 66 
- 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mailto:sids
- el.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br></p><p><b>Ho
- fstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp;
-  +47 97 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.komm
- une.no'>anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &
- nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iw
- iencke@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om pro
- duksjonen</a></p></body></html>
+ >Hofstad skole</b><br>Elevene reiser kollektivt til Det Norske Teatret. Fo
+ rslag til reiserute: Tog fra Vakås stasjon kl. 10:08. Beregnet ankomst p�
+ � stasjonen kl. 10:35. Retur med tog fra Nationaltheatret stasjon kl. 12
+ :29. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av
+  DKS Asker</p><p><b>Vettre skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:05
+ <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
+ elefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Vettre skole:</b>
+  5 (48)<br><b>Hofstad skole:</b> 5A (23), 5B (25)<br><b>Totalt: 96 elevar<
+ /b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50
+ <br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@
+ asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br></p><p><b>Hofstad sk
+ ole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 
+ 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>
+ anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +4
+ 7 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjone
+ n</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
