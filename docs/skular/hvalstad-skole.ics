@@ -5,36 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hvalstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hvalstad skole
-LAST-MODIFIED:20260905T010140Z
-BEGIN:VEVENT
-UID:dks-559208@asker.dks
-DTSTART:20260907T070000Z
-DTEND:20260907T113000Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nHvalstad skole
- \\n  Elevene sykler/går til Asker museum. \\n\\nKLASSER\\nHvalstad skole:
-  4A (21)\, 4B (22)\, 4C (19)\\nTotalt: 62 elevar\\n\\nKONTAKT\\nHvalstad s
- kole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun tilrettelagt)  +47
-  93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne Lene Tveten Ekkj
- e  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\nht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Hvalstad skole</b><br>Elevene sykler/går til Asker museum. </p
- ><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 4A (21), 4B (22), 4C (19)<
- br><b>Totalt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</
- b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +
- 47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>
- trine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +4
- 7 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.
- no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href='https:/
- /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25
- 156'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
+LAST-MODIFIED:20260908T090020Z
 BEGIN:VEVENT
 UID:dks-538231@asker.dks
 DTSTART:20261007T070000Z

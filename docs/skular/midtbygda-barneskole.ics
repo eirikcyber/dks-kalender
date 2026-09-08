@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Midtbygda barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Midtbygda barneskole
-LAST-MODIFIED:20260905T010141Z
+LAST-MODIFIED:20260908T090021Z
 BEGIN:VEVENT
 UID:dks-559212@asker.dks
 DTSTART:20260917T071500Z
@@ -110,15 +110,18 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nMidtbygda barneskole\\n
  kole\\n  Avreise: 09:45  Retur: 12:05\\n  VY Turbuss frakter elevene fra s
  kolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLAS
  SER\\nBondi skole: 5C (18)\\nFolkestad skole: 5 (11)\\nMidtbygda barneskol
- e: 5A (21)\, 5B (19)\, 5C (20)\\nTotalt: 89 elevar\\n\\nKONTAKT\\nBondi sk
- ole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmu
- l@asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@ask
- er.kommune.no\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engelan
- d  +47 48 19 60 52  ellen.engeland@asker.kommune.no\\n  Gry Bente Olsen Br
- osø  +47 92 25 86 48  gry.bente.broso@asker.kommune.no\\nMidtbygda barnes
- kole\\n  Tlf: +47 31 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  
- foline.geertje.ophaug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
+ e: 5A (21)\, 5B (19)\, 5C (20)\\nStiftelsen Vollen Montessoriskole: 6 (7)\
+ , 4 (14)\\nTotalt: 110 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 7
+ 6 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n
+   Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nFolke
+ stad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engeland  +47 48 19 60 52  e
+ llen.engeland@asker.kommune.no\\n  Gry Bente Olsen Brosø  +47 92 25 86 48
+   gry.bente.broso@asker.kommune.no\\nMidtbygda barneskole\\n  Tlf: +47 31 
+ 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophaug
+ @asker.kommune.no\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 7
+ 1 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nI
+ NFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
  >Midtbygda barneskole</b><br>Avreise: 10:05 &nbsp; Retur: 12:05<br>VY Turb
@@ -131,21 +134,25 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  45 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake
   etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><
  p><b>Bondi skole:</b> 5C (18)<br><b>Folkestad skole:</b> 5 (11)<br><b>Midt
- bygda barneskole:</b> 5A (21), 5B (19), 5C (20)<br><b>Totalt: 89 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br
- >Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@as
- ker.kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; 
- +47 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>ka
- rianne.mayer@asker.kommune.no</a><br></p><p><b>Folkestad skole</b><br>Tlf:
-  +47 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='
- mailto:ellen.engeland@asker.kommune.no'>ellen.engeland@asker.kommune.no</a
- ><br>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:
- gry.bente.broso@asker.kommune.no'>gry.bente.broso@asker.kommune.no</a><br>
- </p><p><b>Midtbygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geert
- je Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.oph
- aug@asker.kommune.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p
- ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=23665'>Les meir om produksjonen</a></p></body></html>
+ bygda barneskole:</b> 5A (21), 5B (19), 5C (20)<br><b>Stiftelsen Vollen Mo
+ ntessoriskole:</b> 6 (7), 4 (14)<br><b>Totalt: 110 elevar</b></p><p><b>KON
+ TAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul 
+ &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no
+ '>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 5
+ 3 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@a
+ sker.kommune.no</a><br></p><p><b>Folkestad skole</b><br>Tlf: +47 90 20 95 
+ 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='mailto:ellen.e
+ ngeland@asker.kommune.no'>ellen.engeland@asker.kommune.no</a><br>Gry Bente
+  Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry.bente.bros
+ o@asker.kommune.no'>gry.bente.broso@asker.kommune.no</a><br></p><p><b>Midt
+ bygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje Ophaug &nbs
+ p; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug@asker.komm
+ une.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p><b>Stiftelsen
+  Vollen Montessoriskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm &n
+ bsp; +47 92 28 97 04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>camil
+ la.nystrom@vomo.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksj
+ onen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
