@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Folkestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Folkestad skole
-LAST-MODIFIED:20260908T090020Z
+LAST-MODIFIED:20260909T091406Z
 BEGIN:VEVENT
 UID:dks-546092@asker.dks
 DTSTART:20260914T100000Z
@@ -81,6 +81,61 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25157
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-513398@asker.dks
+DTSTART:20261014T090000Z
+DTEND:20261014T100000Z
+SUMMARY:Frankenstein (5. trinn)
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHofstad skole\\n  Eleven
+ e reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra
+  Vakås stasjon kl. 10:08. Beregnet ankomst på stasjonen kl. 10:35. Retur
+  med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter kan benyt
+ tes. Dette bestilles av skolene og dekkes av DKS Asker\\nVettre skole\\n  
+ Avreise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og 
+ tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nFolkestad skole\
+ \n  Avreise: 10:30  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
+  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
+ nVettre skole: 5 (48)\\nFolkestad skole: 5 (11)\\nHofstad skole: 5A (23)\,
+  5B (25)\\nTotalt: 107 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 
+ 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\n
+ Folkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engeland  +47 48 19 60 
+ 52  ellen.engeland@asker.kommune.no\\n  Gry Bente Olsen Brosø  +47 92 25 
+ 86 48  gry.bente.broso@asker.kommune.no\\nHofstad skole\\n  Tlf: +47 66 71
+  54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hir
+ sch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@asker
+ .kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=23665
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
+ >Hofstad skole</b><br>Elevene reiser kollektivt til Det Norske Teatret. Fo
+ rslag til reiserute: Tog fra Vakås stasjon kl. 10:08. Beregnet ankomst p�
+ � stasjonen kl. 10:35. Retur med tog fra Nationaltheatret stasjon kl. 12
+ :29. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av
+  DKS Asker</p><p><b>Vettre skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:05
+ <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
+ elefon Vy Buss er 91658600</p><p><b>Folkestad skole</b><br>Avreise: 10:30 
+ &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake et
+ ter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><
+ b>Vettre skole:</b> 5 (48)<br><b>Folkestad skole:</b> 5 (11)<br><b>Hofstad
+  skole:</b> 5A (23), 5B (25)<br><b>Totalt: 107 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbs
+ p; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.kommune.no'>si
+ dsel.fonn@asker.kommune.no</a><br></p><p><b>Folkestad skole</b><br>Tlf: +4
+ 7 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='mai
+ lto:ellen.engeland@asker.kommune.no'>ellen.engeland@asker.kommune.no</a><b
+ r>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry
+ .bente.broso@asker.kommune.no'>gry.bente.broso@asker.kommune.no</a><br></p
+ ><p><b>Hofstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirs
+ ch &nbsp; +47 97 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@a
+ sker.kommune.no'>anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg 
+ Wiencke &nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommu
+ ne.no'>iwiencke@asker.kommune.no</a><br></p><p><a href='https://www.denkul
+ turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les me
+ ir om produksjonen</a></p></body></html>
+LOCATION:Det Norske Teatret – Scene 3
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-541975@asker.dks
 DTSTART:20261019T093000Z
 DTEND:20261019T100500Z
@@ -104,68 +159,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Folkestad skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-513402@asker.dks
-DTSTART:20261020T090000Z
-DTEND:20261020T100000Z
-SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nMidtbygda barneskole\\n 
-  Avreise: 10:05  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og
-  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nBondi skole\\n 
-  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: 
- Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37.
-  Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan
-  benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nFolkestad s
- kole\\n  Avreise: 09:45  Retur: 12:05\\n  VY Turbuss frakter elevene fra s
- kolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLAS
- SER\\nBondi skole: 5C (18)\\nFolkestad skole: 5 (11)\\nMidtbygda barneskol
- e: 5A (21)\, 5B (19)\, 5C (20)\\nStiftelsen Vollen Montessoriskole: 6 (7)\
- , 4 (14)\\nTotalt: 110 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 7
- 6 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n
-   Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nFolke
- stad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engeland  +47 48 19 60 52  e
- llen.engeland@asker.kommune.no\\n  Gry Bente Olsen Brosø  +47 92 25 86 48
-   gry.bente.broso@asker.kommune.no\\nMidtbygda barneskole\\n  Tlf: +47 31 
- 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophaug
- @asker.kommune.no\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 7
- 1 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nI
- NFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=23665
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Midtbygda barneskole</b><br>Avreise: 10:05 &nbsp; Retur: 12:05<br>VY Turb
- uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
- uss er 91658600</p><p><b>Bondi skole</b><br>Elevene reiser kollektivt til 
- Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19
- . Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationalthea
- tret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av s
- kolene og dekkes av DKS Asker</p><p><b>Folkestad skole</b><br>Avreise: 09:
- 45 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake
-  etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><
- p><b>Bondi skole:</b> 5C (18)<br><b>Folkestad skole:</b> 5 (11)<br><b>Midt
- bygda barneskole:</b> 5A (21), 5B (19), 5C (20)<br><b>Stiftelsen Vollen Mo
- ntessoriskole:</b> 6 (7), 4 (14)<br><b>Totalt: 110 elevar</b></p><p><b>KON
- TAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul 
- &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no
- '>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 5
- 3 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@a
- sker.kommune.no</a><br></p><p><b>Folkestad skole</b><br>Tlf: +47 90 20 95 
- 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='mailto:ellen.e
- ngeland@asker.kommune.no'>ellen.engeland@asker.kommune.no</a><br>Gry Bente
-  Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry.bente.bros
- o@asker.kommune.no'>gry.bente.broso@asker.kommune.no</a><br></p><p><b>Midt
- bygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje Ophaug &nbs
- p; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug@asker.komm
- une.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p><b>Stiftelsen
-  Vollen Montessoriskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm &n
- bsp; +47 92 28 97 04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>camil
- la.nystrom@vomo.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Det Norske Teatret – Scene 3
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23665
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482058@asker.dks

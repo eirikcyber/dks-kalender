@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260908T090018Z
+LAST-MODIFIED:20260909T091402Z
 BEGIN:VEVENT
 UID:dks-559209@asker.dks
 DTSTART:20260909T070000Z
@@ -356,8 +356,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482123@asker.dks
-DTSTART:20260922T100000Z
-DTEND:20260922T103500Z
+DTSTART:20260922T101500Z
+DTEND:20260922T105000Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nGulspurven barnehage: 3-6 år (24)\\nNorlandia Ødeg�
  �rden Barnehage: 3-6 år til Tofte (17)\\nTotalt: 41 elevar\\n\\nKONTAKT
