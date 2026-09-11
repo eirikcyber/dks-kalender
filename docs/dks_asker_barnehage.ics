@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260911T010051Z
+LAST-MODIFIED:20260911T090013Z
 BEGIN:VEVENT
 UID:dks-559213@asker.dks
 DTSTART:20260914T070000Z
@@ -3785,28 +3785,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-556064@asker.dks
-DTSTART:20270301T090000Z
-DTEND:20270301T094000Z
-SUMMARY:Sangskattekista (skolestartere og 1. trinn)
-DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nHagaløkka s
- kole: 1A (23)\, 1B (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nHagaløkka skol
- e\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@a
- sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
- k-produksjoner-i-dks/?produksjon=21436
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Bygge bro mellom barnehage og skole</p><p><b>KLASSER<
- /b></p><p><b>Hagaløkka skole:</b> 1A (23), 1B (23)<br><b>Totalt: 46 eleva
- r</b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71
-  50 50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:eha
- lvors@asker.kommune.no'>ehalvors@asker.kommune.no</a><br></p><p><a href='h
- ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
- jon=21436'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hagaløkka skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21436
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-511545@asker.dks
 DTSTART:20270301T090000Z
 DTEND:20270301T094500Z
@@ -3833,6 +3811,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Sætre skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-556064@asker.dks
+DTSTART:20270301T090000Z
+DTEND:20270301T094000Z
+SUMMARY:Sangskattekista (skolestartere og 1. trinn)
+DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nHagaløkka s
+ kole: 1A (23)\, 1B (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nHagaløkka skol
+ e\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 95 76 04 05  ehalvors@a
+ sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=21436
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Bygge bro mellom barnehage og skole</p><p><b>KLASSER<
+ /b></p><p><b>Hagaløkka skole:</b> 1A (23), 1B (23)<br><b>Totalt: 46 eleva
+ r</b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skole</b><br>Tlf: +47 66 71
+  50 50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nbsp; <a href='mailto:eha
+ lvors@asker.kommune.no'>ehalvors@asker.kommune.no</a><br></p><p><a href='h
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=21436'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Hagaløkka skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560122@asker.dks
@@ -4358,28 +4358,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-556243@asker.dks
-DTSTART:20270407T093000Z
-DTEND:20270407T101000Z
-SUMMARY:Sangskattekista (skolestartere og 1. trinn)
-DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nVardåsen sk
- ole: 1A (18)\, 1B (18)\\nTotalt: 36 elevar\\n\\nKONTAKT\\nVardåsen skole\
- \n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug
- @asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
- rsk-produksjoner-i-dks/?produksjon=21436
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Bygge bro mellom barnehage og skole</p><p><b>KLASSER<
- /b></p><p><b>Vardåsen skole:</b> 1A (18), 1B (18)<br><b>Totalt: 36 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 5
- 1 00<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:k
- dyrhaug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href=
- 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
- ksjon=21436'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vardåsen skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21436
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-523079@asker.dks
 DTSTART:20270407T093000Z
 DTEND:20270407T100500Z
@@ -4403,6 +4381,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Nesøya skole – Idrettshall
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-556243@asker.dks
+DTSTART:20270407T093000Z
+DTEND:20270407T101000Z
+SUMMARY:Sangskattekista (skolestartere og 1. trinn)
+DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nVardåsen sk
+ ole: 1A (18)\, 1B (18)\\nTotalt: 36 elevar\\n\\nKONTAKT\\nVardåsen skole\
+ \n  Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug
+ @asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfo
+ rsk-produksjoner-i-dks/?produksjon=21436
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Bygge bro mellom barnehage og skole</p><p><b>KLASSER<
+ /b></p><p><b>Vardåsen skole:</b> 1A (18), 1B (18)<br><b>Totalt: 36 elevar
+ </b></p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 5
+ 1 00<br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:k
+ dyrhaug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href=
+ 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21436'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Vardåsen skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-523081@asker.dks
