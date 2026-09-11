@@ -5,61 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Mellom-Nes skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Mellom-Nes skole
-LAST-MODIFIED:20260909T091408Z
-BEGIN:VEVENT
-UID:dks-558932@asker.dks
-DTSTART:20260910T073000Z
-DTEND:20260910T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nMell
- om-Nes skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter eleve
- ne fra skolen til Kunsthall Dikemark. Vakttelefon Vy Buss er 91658600\\n\\
- nKLASSER\\nMellom-Nes skole: 6 (24)\\nTotalt: 24 elevar\\n\\nKONTAKT\\nMel
- lom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 77 35  kar
- i.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
- o/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Mellom-Nes skole</b><br>Avreise: 09:05 &nbsp; Retur: 
- 11:05<br>VY Turbuss frakter elevene fra skolen til Kunsthall Dikemark. Vak
- ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Mellom-Nes skol
- e:</b> 6 (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Me
- llom-Nes skole</b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 7
- 7 35 &nbsp; <a href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a></
- p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-558933@asker.dks
-DTSTART:20260910T093000Z
-DTEND:20260910T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nMell
- om-Nes skole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter eleve
- ne fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\
- n\\nKLASSER\\nMellom-Nes skole: 6 (24)\\nTotalt: 24 elevar\\n\\nKONTAKT\\n
- Mellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 77 35  
- kari.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Mellom-Nes skole</b><br>Avreise: 11:05 &nbsp; Retur: 
- 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. 
- Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Mellom-Nes s
- kole:</b> 6 (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b
- >Mellom-Nes skole</b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 7
- 3 77 35 &nbsp; <a href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker
- .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a
- ></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20260911T010057Z
 BEGIN:VEVENT
 UID:dks-559214@asker.dks
 DTSTART:20260915T070000Z

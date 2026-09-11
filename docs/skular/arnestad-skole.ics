@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Arnestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Arnestad skole
-LAST-MODIFIED:20260909T091404Z
+LAST-MODIFIED:20260911T010053Z
 BEGIN:VEVENT
 UID:dks-505681@asker.dks
 DTSTART:20260914T073000Z
 DTEND:20260914T090000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
 DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nArne
- stad skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter elevene
+ stad skole\\n  Avreise: 09:05  Retur: 11:15\\n  VY Turbuss frakter elevene
   fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
  \nKLASSER\\nArnestad skole: 6A (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nArn
  estad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (tilrettelagt)  +47 
@@ -25,7 +25,7 @@ DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nArne
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
  ANSPORT</b></p><p><b>Arnestad skole</b><br>Avreise: 09:05 &nbsp; Retur: 11
- :05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
+ :15<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
  kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Arnestad skole
  :</b> 6A (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Ar
  nestad skole</b><br>Tlf: +47 48 24 24 13<br>Eva Øverås (tilrettelagt) &n
@@ -50,7 +50,7 @@ DTSTART:20260914T093000Z
 DTEND:20260914T110000Z
 SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
 DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nArne
- stad skole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter elevene
+ stad skole\\n  Avreise: 11:00  Retur: 13:05\\n  VY Turbuss frakter elevene
   fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
  \nKLASSER\\nArnestad skole: 6B (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nArn
  estad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (tilrettelagt)  +47 
@@ -62,7 +62,7 @@ DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nArne
  esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Arnestad skole</b><br>Avreise: 11:05 &nbsp; Retur: 13
+ ANSPORT</b></p><p><b>Arnestad skole</b><br>Avreise: 11:00 &nbsp; Retur: 13
  :05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
  kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Arnestad skole
  :</b> 6B (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Ar
