@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vollen ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vollen ungdomsskole
-LAST-MODIFIED:20260911T090017Z
+LAST-MODIFIED:20260916T090018Z
 BEGIN:VEVENT
 UID:dks-509376@asker.dks
 DTSTART:20261013T070000Z
@@ -181,81 +181,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vollen ungdomsskole – Aula
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480470@asker.dks
-DTSTART:20270209T073000Z
-DTEND:20270209T090000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 8 nord (26)\\nTotalt: 26 elevar\
- \n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette Ande
- rsen  +47 91 75 87 22  mette.andersen@asker.kommune.no\\n  Line Utengen  +
- 47 90 68 52 33  line.stenrud.utengen@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 16
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 8 no
- rd (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen u
- ngdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 75
-  87 22 &nbsp; <a href='mailto:mette.andersen@asker.kommune.no'>mette.ander
- sen@asker.kommune.no</a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <a 
- href='mailto:line.stenrud.utengen@asker.kommune.no'>line.stenrud.utengen@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjone
- n</a></p></body></html>
-LOCATION:Vollen ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480471@asker.dks
-DTSTART:20270209T093000Z
-DTEND:20270209T110000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 8 øst (25)\\nTotalt: 25 elevar\
- \n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette Ande
- rsen  +47 91 75 87 22  mette.andersen@asker.kommune.no\\n  Line Utengen  +
- 47 90 68 52 33  line.stenrud.utengen@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 16
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 8 ø
- st (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen u
- ngdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 75
-  87 22 &nbsp; <a href='mailto:mette.andersen@asker.kommune.no'>mette.ander
- sen@asker.kommune.no</a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <a 
- href='mailto:line.stenrud.utengen@asker.kommune.no'>line.stenrud.utengen@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjone
- n</a></p></body></html>
-LOCATION:Vollen ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480472@asker.dks
-DTSTART:20270209T113000Z
-DTEND:20270209T130000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 8 sør (25)\\nTotalt: 25 elevar\
- \n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette Ande
- rsen  +47 91 75 87 22  mette.andersen@asker.kommune.no\\n  Line Utengen  +
- 47 90 68 52 33  line.stenrud.utengen@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 16
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 8 s�
- �r (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen
-  ungdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 
- 75 87 22 &nbsp; <a href='mailto:mette.andersen@asker.kommune.no'>mette.and
- ersen@asker.kommune.no</a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <
- a href='mailto:line.stenrud.utengen@asker.kommune.no'>line.stenrud.utengen
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjo
- nen</a></p></body></html>
-LOCATION:Vollen ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560829@asker.dks

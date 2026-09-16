@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hyggen skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hyggen skole
-LAST-MODIFIED:20260911T090015Z
+LAST-MODIFIED:20260916T090015Z
 BEGIN:VEVENT
 UID:dks-559774@asker.dks
 DTSTART:20260925T093000Z
@@ -99,8 +99,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-541977@asker.dks
-DTSTART:20261021T091000Z
-DTEND:20261021T094500Z
+DTSTART:20261027T101000Z
+DTEND:20261027T104500Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
 DESCRIPTION:KLASSER\\nHyggen skole: 1 (5)\, 2 (9)\\nTotalt: 14 elevar\\n\\n
  KONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14\\n  Lene Austreng  +47 90 

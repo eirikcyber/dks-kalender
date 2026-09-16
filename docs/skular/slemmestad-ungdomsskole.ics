@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad ungdomsskole
-LAST-MODIFIED:20260911T090017Z
+LAST-MODIFIED:20260916T090017Z
 BEGIN:VEVENT
 UID:dks-546949@asker.dks
 DTSTART:20261007T090000Z
@@ -145,94 +145,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Slemmestad ungdomsskole – Aula'n
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480440@asker.dks
-DTSTART:20270126T073000Z
-DTEND:20270126T090000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8A (28)\\nTotalt: 28 elevar\
- \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
- ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=21216
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 8A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
- ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
- 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
- .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21216'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480441@asker.dks
-DTSTART:20270126T093000Z
-DTEND:20270126T110000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8B (29)\\nTotalt: 29 elevar\
- \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
- ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=21216
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 8B (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
- ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
- 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
- .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21216'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480442@asker.dks
-DTSTART:20270126T113000Z
-DTEND:20270126T130000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8C (29)\\nTotalt: 29 elevar\
- \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
- ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=21216
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 8C (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
- ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
- 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
- .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21216'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-480443@asker.dks
-DTSTART:20270127T073000Z
-DTEND:20270127T090000Z
-SUMMARY:Konspirasjonsverksted (8. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8D (28)\\nTotalt: 28 elevar\
- \n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christ
- ine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=21216
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 8D (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmest
- ad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +4
- 7 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommune
- .no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21216'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560832@asker.dks
