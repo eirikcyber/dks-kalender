@@ -5,38 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Midtbygda barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Midtbygda barneskole
-LAST-MODIFIED:20260916T090016Z
-BEGIN:VEVENT
-UID:dks-559212@asker.dks
-DTSTART:20260917T071500Z
-DTEND:20260917T114500Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nMidtbygda barn
- eskole\\n  Avreise: 08:30  Retur: 13:30\\n  VY Turbuss frakter elevene fra
-  skole til Asker museum og tilbake etter besøket. Se gjeldende tidspunkte
- r for avreise fra skole og avreise fra Asker museum . Vakttelefon Vy Buss 
- er 91658600\\n\\nKLASSER\\nMidtbygda barneskole: 4A (23)\, 4B (25)\, 4C (2
- 4)\\nTotalt: 72 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 31
-  29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophau
- g@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
- ></p><p><b>Midtbygda barneskole</b><br>Avreise: 08:30 &nbsp; Retur: 13:30<
- br>VY Turbuss frakter elevene fra skole til Asker museum og tilbake etter 
- besøket. Se gjeldende tidspunkter for avreise fra skole og avreise fra As
- ker museum . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b
- >Midtbygda barneskole:</b> 4A (23), 4B (25), 4C (24)<br><b>Totalt: 72 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Midtbygda barneskole</b><br>Tlf: +47 
- 31 29 35 00<br>Foline Geertje Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href
- ='mailto:foline.geertje.ophaug@asker.kommune.no'>foline.geertje.ophaug@ask
- er.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen<
- /a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
+LAST-MODIFIED:20260918T010124Z
 BEGIN:VEVENT
 UID:dks-559765@asker.dks
 DTSTART:20260921T073000Z

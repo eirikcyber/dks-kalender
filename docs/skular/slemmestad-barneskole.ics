@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad barneskole
-LAST-MODIFIED:20260916T090016Z
+LAST-MODIFIED:20260918T010125Z
 BEGIN:VEVENT
 UID:dks-559767@asker.dks
 DTSTART:20260922T073000Z
@@ -14,7 +14,7 @@ SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
 DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
  \n\\nTRANSPORT\\nFolkestad skole\\n  Avreise: 09:05  Retur: 11:10\\n  VY T
  urbuss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon V
- y Buss er 91658600\\nSlemmestad barneskole\\n  Avreise: 08:30  Retur: 11:1
+ y Buss er 91658600\\nSlemmestad barneskole\\n  Avreise: 08:30  Retur: 13:0
  0\\n  VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
  ttelefon Vy Buss er 91658600\\n\\nKLASSER\\nSlemmestad barneskole: 6 (17)\
  \nFolkestad skole: 6 (11)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nSlemmestad ba
@@ -29,7 +29,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Folkestad skole</b><br>Avreise: 
  09:05 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen og tilb
  ake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>Slemmestad ba
- rneskole</b><br>Avreise: 08:30 &nbsp; Retur: 11:10<br>VY Turbuss frakter e
+ rneskole</b><br>Avreise: 08:30 &nbsp; Retur: 13:00<br>VY Turbuss frakter e
  levene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 916586
  00</p><p><b>KLASSER</b></p><p><b>Slemmestad barneskole:</b> 6 (17)<br><b>F
  olkestad skole:</b> 6 (11)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b
@@ -53,7 +53,7 @@ DTSTART:20260922T093000Z
 DTEND:20260922T110000Z
 SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
 DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSlemmestad barneskole\\n  Avreise: 10:30  Retur: 13:10\\n
+ \n\\nTRANSPORT\\nSlemmestad barneskole\\n  Avreise: 08:30  Retur: 13:00\\n
    VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttel
  efon Vy Buss er 91658600\\n\\nKLASSER\\nSlemmestad barneskole: 6 (27)\\nTo
  talt: 27 elevar\\n\\nKONTAKT\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34
@@ -63,7 +63,7 @@ DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
  nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Slemmestad barneskole</b><br>Avr
- eise: 10:30 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen o
+ eise: 08:30 &nbsp; Retur: 13:00<br>VY Turbuss frakter elevene fra skolen o
  g tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER
  </b></p><p><b>Slemmestad barneskole:</b> 6 (27)<br><b>Totalt: 27 elevar</b
  ></p><p><b>KONTAKT</b></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 2

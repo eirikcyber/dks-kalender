@@ -5,158 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260916T090013Z
-BEGIN:VEVENT
-UID:dks-482116@asker.dks
-DTSTART:20260916T083000Z
-DTEND:20260916T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nHolmentoppen barnehage: 3-6 år (7)\\nHvalstad barneh
- age: 3-6 år (18)\\nLandøya barnehage: 3-6 år (22)\\nTotalt: 47 elevar\\
- n\\nKONTAKT\\nHolmentoppen barnehage\\n  Marianne Thøring  +47 45 47 99 5
- 6  holmentoppen.barnehage@kirken.no\\nHvalstad barnehage\\n  Evelyn Remme 
- Thoresen  +47 93 08 24 32  evelyn.remme.thoresen@asker.kommune.no\\n  Hali
- l Gjoni  +47 91 71 45 63  halil.gjoni@asker.kommune.no\\nLandøya barnehag
- e\\n  Camilla Graff  +47 41 42 00 61  camilla.graff@asker.kommune.no\\n\\n
- INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Holmentoppen barnehage:</b> 3
- -6 år (7)<br><b>Hvalstad barnehage:</b> 3-6 år (18)<br><b>Landøya barne
- hage:</b> 3-6 år (22)<br><b>Totalt: 47 elevar</b></p><p><b>KONTAKT</b></p
- ><p><b>Holmentoppen barnehage</b><br>Marianne Thøring &nbsp; +47 45 47 99
-  56 &nbsp; <a href='mailto:holmentoppen.barnehage@kirken.no'>holmentoppen.
- barnehage@kirken.no</a><br></p><p><b>Hvalstad barnehage</b><br>Evelyn Remm
- e Thoresen &nbsp; +47 93 08 24 32 &nbsp; <a href='mailto:evelyn.remme.thor
- esen@asker.kommune.no'>evelyn.remme.thoresen@asker.kommune.no</a><br>Halil
-  Gjoni &nbsp; +47 91 71 45 63 &nbsp; <a href='mailto:halil.gjoni@asker.kom
- mune.no'>halil.gjoni@asker.kommune.no</a><br></p><p><b>Landøya barnehage<
- /b><br>Camilla Graff &nbsp; +47 41 42 00 61 &nbsp; <a href='mailto:camilla
- .graff@asker.kommune.no'>camilla.graff@asker.kommune.no</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=21285'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Holmen innbyggertorg – Panorama
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482117@asker.dks
-DTSTART:20260916T100000Z
-DTEND:20260916T103500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nVendla barnehage: Sjøhesten + Krepsen (26)\\nNesbru 
- barnehage: 3-6 år (13)\\nTotalt: 39 elevar\\n\\nKONTAKT\\nVendla barnehag
- e\\n  Christoffer Yong Ingrud  +47 92 82 43 63  christoffer.yong.ingrud@as
- ker.kommune.no\\nNesbru barnehage\\n  Stine Baldvinsson  +47 45 25 45 81  
- kontor@nesbrubarnehage.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken
- .no/utforsk-produksjoner-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Sjøhes
- ten + Krepsen (26)<br><b>Nesbru barnehage:</b> 3-6 år (13)<br><b>Totalt: 
- 39 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christ
- offer Yong Ingrud &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffe
- r.yong.ingrud@asker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</
- a><br></p><p><b>Nesbru barnehage</b><br>Stine Baldvinsson &nbsp; +47 45 25
-  45 81 &nbsp; <a href='mailto:kontor@nesbrubarnehage.no'>kontor@nesbrubarn
- ehage.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></
- p></body></html>
-LOCATION:Holmen innbyggertorg – Panorama
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482118@asker.dks
-DTSTART:20260917T083000Z
-DTEND:20260917T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nVendla barnehage: Blekkspruten (18)\\nLæringsverkste
- det Bjørndalen barnehage: 3-6 år (19)\\nTotalt: 37 elevar\\n\\nKONTAKT\\
- nVendla barnehage\\n  Christoffer Yong Ingrud  +47 92 82 43 63  christoffe
- r.yong.ingrud@asker.kommune.no\\nBikuben barnehage\\n  Elin Brandsarbakken
-   +47 99 79 90 06  elinb@bikuben-barnehage.no\\nLæringsverkstedet Bjørnd
- alen barnehage\\n  Therese Holter  +47 41 53 61 65  bjorndalen@laringsverk
- stedet.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Blekksp
- ruten (18)<br><b>Læringsverkstedet Bjørndalen barnehage:</b> 3-6 år (19
- )<br><b>Totalt: 37 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vendla barneha
- ge</b><br>Christoffer Yong Ingrud &nbsp; +47 92 82 43 63 &nbsp; <a href='m
- ailto:christoffer.yong.ingrud@asker.kommune.no'>christoffer.yong.ingrud@as
- ker.kommune.no</a><br></p><p><b>Bikuben barnehage</b><br>Elin Brandsarbakk
- en &nbsp; +47 99 79 90 06 &nbsp; <a href='mailto:elinb@bikuben-barnehage.n
- o'>elinb@bikuben-barnehage.no</a><br></p><p><b>Læringsverkstedet Bjørnda
- len barnehage</b><br>Therese Holter &nbsp; +47 41 53 61 65 &nbsp; <a href=
- 'mailto:bjorndalen@laringsverkstedet.no'>bjorndalen@laringsverkstedet.no</
- a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body><
- /html>
-LOCATION:Holmen innbyggertorg – Panorama
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560882@asker.dks
-DTSTART:20260917T093000Z
-DTEND:20260917T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nNærsnes barneskole\\n  Avreise: 10:35  Retur: 13:10\\n  
- VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttelef
- on Vy Buss er 91658600\\n\\nKLASSER\\nNærsnes barneskole: 6 (27)\\nTotalt
- : 27 elevar\\n\\nKONTAKT\\nNærsnes barneskole\\n  Tlf: +47 31 29 35 40\\n
-   Alise Narjord Thue  +47 90 50 18 39  alise.narjord.thue@asker.kommune.no
- \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Nærsnes barneskole</b><br>Avrei
- se: 10:35 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen og 
- tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</
- b></p><p><b>Nærsnes barneskole:</b> 6 (27)<br><b>Totalt: 27 elevar</b></p
- ><p><b>KONTAKT</b></p><p><b>Nærsnes barneskole</b><br>Tlf: +47 31 29 35 4
- 0<br>Alise Narjord Thue &nbsp; +47 90 50 18 39 &nbsp; <a href='mailto:alis
- e.narjord.thue@asker.kommune.no'>alise.narjord.thue@asker.kommune.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></p></body></htm
- l>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482119@asker.dks
-DTSTART:20260917T100000Z
-DTEND:20260917T103500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nVendla barnehage: Sjøstjernen (18)\\nStiftelsen Tert
- itten Barnehage: 3-6 år (12)\\nMellom-Nes Fus barnehage AS: 3-6 år (24)\
- \nTotalt: 54 elevar\\n\\nKONTAKT\\nVendla barnehage\\n  Christoffer Yong I
- ngrud  +47 92 82 43 63  christoffer.yong.ingrud@asker.kommune.no\\nStiftel
- sen Tertitten Barnehage\\n  Tonje Vegsund  +47 93 41 23 26  tonje@tertitte
- nbarnehage.no\\nMellom-Nes Fus barnehage AS\\n  Tlf: +47 67 79 97 00\\n  E
- llen Stahr Tønder  +47 47 28 64 70  ellen.tonder@bhg.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vendla barnehage:</b> Sjøstj
- ernen (18)<br><b>Stiftelsen Tertitten Barnehage:</b> 3-6 år (12)<br><b>Me
- llom-Nes Fus barnehage AS:</b> 3-6 år (24)<br><b>Totalt: 54 elevar</b></p
- ><p><b>KONTAKT</b></p><p><b>Vendla barnehage</b><br>Christoffer Yong Ingru
- d &nbsp; +47 92 82 43 63 &nbsp; <a href='mailto:christoffer.yong.ingrud@as
- ker.kommune.no'>christoffer.yong.ingrud@asker.kommune.no</a><br></p><p><b>
- Stiftelsen Tertitten Barnehage</b><br>Tonje Vegsund &nbsp; +47 93 41 23 26
-  &nbsp; <a href='mailto:tonje@tertittenbarnehage.no'>tonje@tertittenbarneh
- age.no</a><br></p><p><b>Mellom-Nes Fus barnehage AS</b><br>Tlf: +47 67 79 
- 97 00<br>Ellen Stahr Tønder &nbsp; +47 47 28 64 70 &nbsp; <a href='mailto
- :ellen.tonder@bhg.no'>ellen.tonder@bhg.no</a><br></p><p><a href='https://w
- ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2128
- 5'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Holmen innbyggertorg – Panorama
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
+LAST-MODIFIED:20260918T010120Z
 BEGIN:VEVENT
 UID:dks-538223@asker.dks
 DTSTART:20260922T073000Z
@@ -1026,8 +875,8 @@ DTSTART:20261012T083000Z
 DTEND:20261012T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nBarnas Hus Gullhella: 3-6 år (32)\\nHallenåsen Fami
- liebarnehage: 3-6 år (5)\\nVikingjordet barnehage Åmotåsen: 3-6 år (14
- )\\nØstenstad Menighetsbarnehage: 3-6 år (7)\\nTotalt: 58 elevar\\n\\nKO
+ liebarnehage: 3-6 år (5)\\nVikingjordet barnehage Åmotåsen: 3-6 år (34
+ )\\nØstenstad Menighetsbarnehage: 3-6 år (7)\\nTotalt: 78 elevar\\n\\nKO
  NTAKT\\nBarnas Hus Gullhella\\n  Tlf: +47 47 46 33 32\\n  Daniela Maass  +
  47 45 88 25 37  kontor@barnashus.com\\nHallenåsen Familiebarnehage\\n  Tl
  f: +47 91 16 43 43\\n  Marit Kinserdal  +47 95 79 57 41  maritgrefsen@yaho
@@ -1039,8 +888,8 @@ DESCRIPTION:KLASSER\\nBarnas Hus Gullhella: 3-6 år (32)\\nHallenåsen Fami
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Barnas Hus Gullhella:</b> 3-6
   år (32)<br><b>Hallenåsen Familiebarnehage:</b> 3-6 år (5)<br><b>Viking
- jordet barnehage Åmotåsen:</b> 3-6 år (14)<br><b>Østenstad Menighetsba
- rnehage:</b> 3-6 år (7)<br><b>Totalt: 58 elevar</b></p><p><b>KONTAKT</b><
+ jordet barnehage Åmotåsen:</b> 3-6 år (34)<br><b>Østenstad Menighetsba
+ rnehage:</b> 3-6 år (7)<br><b>Totalt: 78 elevar</b></p><p><b>KONTAKT</b><
  /p><p><b>Barnas Hus Gullhella</b><br>Tlf: +47 47 46 33 32<br>Daniela Maass
   &nbsp; +47 45 88 25 37 &nbsp; <a href='mailto:kontor@barnashus.com'>konto
  r@barnashus.com</a><br></p><p><b>Hallenåsen Familiebarnehage</b><br>Tlf: 
@@ -1266,26 +1115,19 @@ UID:dks-482140@asker.dks
 DTSTART:20261014T083000Z
 DTEND:20261014T090500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nFrelsesarmeens  Trollstua barnehage: 3-6 år (30)\\nN
- orlandia Lilleborgen barnehage: 3-6 år gruppe1 (10)\\nTotalt: 40 elevar\\
- n\\nKONTAKT\\nFrelsesarmeens  Trollstua barnehage\\n  Tlf: +47 66 78 74 86
- \\n  Kristin Blütecher  +47 41 45 14 58  kristin.blutecher@frelsesarmeen.
- no\\nNorlandia Lilleborgen barnehage\\n  Tlf: +47 66 79 40 19\\n  Janne Ma
- thiesen  +47 95 74 71 01  janne.mathiesen@norlandia.com\\n\\nINFO\\nhttps:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 1285
+DESCRIPTION:KLASSER\\nNorlandia Lilleborgen barnehage: 3-6 år gruppe1 (10)
+ \\nTotalt: 10 elevar\\n\\nKONTAKT\\nNorlandia Lilleborgen barnehage\\n  Tl
+ f: +47 66 79 40 19\\n  Janne Mathiesen  +47 95 74 71 01  janne.mathiesen@n
+ orlandia.com\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Frelsesarmeens  Trollstua bar
- nehage:</b> 3-6 år (30)<br><b>Norlandia Lilleborgen barnehage:</b> 3-6 å
- r gruppe1 (10)<br><b>Totalt: 40 elevar</b></p><p><b>KONTAKT</b></p><p><b>F
- relsesarmeens  Trollstua barnehage</b><br>Tlf: +47 66 78 74 86<br>Kristin 
- Blütecher &nbsp; +47 41 45 14 58 &nbsp; <a href='mailto:kristin.blutecher
- @frelsesarmeen.no'>kristin.blutecher@frelsesarmeen.no</a><br></p><p><b>Nor
- landia Lilleborgen barnehage</b><br>Tlf: +47 66 79 40 19<br>Janne Mathiese
- n &nbsp; +47 95 74 71 01 &nbsp; <a href='mailto:janne.mathiesen@norlandia.
- com'>janne.mathiesen@norlandia.com</a><br></p><p><a href='https://www.denk
- ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les 
- meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Norlandia Lilleborgen barneha
+ ge:</b> 3-6 år gruppe1 (10)<br><b>Totalt: 10 elevar</b></p><p><b>KONTAKT<
+ /b></p><p><b>Norlandia Lilleborgen barnehage</b><br>Tlf: +47 66 79 40 19<b
+ r>Janne Mathiesen &nbsp; +47 95 74 71 01 &nbsp; <a href='mailto:janne.math
+ iesen@norlandia.com'>janne.mathiesen@norlandia.com</a><br></p><p><a href='
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -1405,18 +1247,25 @@ UID:dks-482142@asker.dks
 DTSTART:20261015T110000Z
 DTEND:20261015T113500Z
 SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nBorgen barnehage: 3-6 år (35)\\nTotalt: 35 elevar\\n
- \\nKONTAKT\\nBorgen barnehage\\n  Tlf: +47 66 71 52 84\\n  Anita Sønsteby
-   +47 97 15 45 08  anita.sonsteby@asker.kommune.no\\n\\nINFO\\nhttps://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
+DESCRIPTION:KLASSER\\nBorgen barnehage: 3-6 år (35)\\nFrelsesarmeens  Trol
+ lstua barnehage: 3-6 år (30)\\nTotalt: 65 elevar\\n\\nKONTAKT\\nBorgen ba
+ rnehage\\n  Tlf: +47 66 71 52 84\\n  Anita Sønsteby  +47 97 15 45 08  ani
+ ta.sonsteby@asker.kommune.no\\nFrelsesarmeens  Trollstua barnehage\\n  Tlf
+ : +47 66 78 74 86\\n  Kristin Blütecher  +47 41 45 14 58  kristin.blutech
+ er@frelsesarmeen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen barnehage:</b> 3-6 år
-  (35)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen bar
- nehage</b><br>Tlf: +47 66 71 52 84<br>Anita Sønsteby &nbsp; +47 97 15 45 
- 08 &nbsp; <a href='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjon
- en</a></p></body></html>
+  (35)<br><b>Frelsesarmeens  Trollstua barnehage:</b> 3-6 år (30)<br><b>To
+ talt: 65 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen barnehage</b><br>
+ Tlf: +47 66 71 52 84<br>Anita Sønsteby &nbsp; +47 97 15 45 08 &nbsp; <a h
+ ref='mailto:anita.sonsteby@asker.kommune.no'>anita.sonsteby@asker.kommune.
+ no</a><br></p><p><b>Frelsesarmeens  Trollstua barnehage</b><br>Tlf: +47 66
+  78 74 86<br>Kristin Blütecher &nbsp; +47 41 45 14 58 &nbsp; <a href='mai
+ lto:kristin.blutecher@frelsesarmeen.no'>kristin.blutecher@frelsesarmeen.no
+ </a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body
+ ></html>
 LOCATION:Borgen innbyggertorg – Påfuglrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -1559,9 +1408,9 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-509388@asker.dks
-DTSTART:20261023T070000Z
-DTEND:20261023T090000Z
+UID:dks-509389@asker.dks
+DTSTART:20261023T100000Z
+DTEND:20261023T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
 DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nHovedg�
  �rden ungdomsskole: 10B (29)\\nTotalt: 29 elevar\\n\\nKONTAKT\\nHovedgå

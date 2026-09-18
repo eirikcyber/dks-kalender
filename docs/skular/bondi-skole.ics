@@ -5,36 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Bondi skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Bondi skole
-LAST-MODIFIED:20260916T090014Z
-BEGIN:VEVENT
-UID:dks-505688@asker.dks
-DTSTART:20260916T093000Z
-DTEND:20260916T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nBond
- i skole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turbuss frakter elevene fr
- a skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nK
- LASSER\\nBondi skole: 6C (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nBondi sko
- le\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul
- @asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Bondi skole</b><br>Avreise: 11:10 &nbsp; Retur: 13:05
- <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
- elefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 
- 6C (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi sk
- ole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nb
- sp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommun
- e.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:k
- arianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p
- ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20260918T010122Z
 BEGIN:VEVENT
 UID:dks-505689@asker.dks
 DTSTART:20260918T073000Z

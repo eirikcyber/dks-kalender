@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20260916T090013Z
+LAST-MODIFIED:20260918T010119Z
 BEGIN:VEVENT
 UID:dks-505693@asker.dks
 DTSTART:20260922T073000Z
@@ -681,22 +681,22 @@ UID:dks-509379@asker.dks
 DTSTART:20261015T100000Z
 DTEND:20261015T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
-  ungdomsskole: 10A (25)\\nTotalt: 25 elevar\\n\\nKONTAKT\\nSolvang ungdoms
- skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
- .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
- and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
+  ungdomsskole: 10C (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nTorstad ungdoms
+ skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
+ ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
+ ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Solvang ungdomsskole:</b> 10A (25)<br><b>Totalt: 25 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
- 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
- :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
- da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
- .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
- ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Torstad ungdomsskole:</b> 10C (27)<br><b>Totalt: 27 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
+ 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
+ :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
+ ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
+ .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
+ www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
+ 46'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -706,22 +706,22 @@ UID:dks-509380@asker.dks
 DTSTART:20261016T070000Z
 DTEND:20261016T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
-  ungdomsskole: 10D (25)\\nTotalt: 25 elevar\\n\\nKONTAKT\\nSolvang ungdoms
- skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
- .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
- and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
+  ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nTorstad ungdoms
+ skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
+ ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
+ ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Solvang ungdomsskole:</b> 10D (25)<br><b>Totalt: 25 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
- 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
- :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
- da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
- .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
- ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Torstad ungdomsskole:</b> 10A (28)<br><b>Totalt: 28 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
+ 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
+ :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
+ ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
+ .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
+ www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
+ 46'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -789,22 +789,22 @@ UID:dks-509381@asker.dks
 DTSTART:20261016T100000Z
 DTEND:20261016T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
-  ungdomsskole: 10B (26)\\nTotalt: 26 elevar\\n\\nKONTAKT\\nSolvang ungdoms
- skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
- .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
- and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
+  ungdomsskole: 10E (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nTorstad ungdoms
+ skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
+ ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
+ ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
+ -produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Solvang ungdomsskole:</b> 10B (26)<br><b>Totalt: 26 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
- 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
- :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
- da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
- .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
- ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Torstad ungdomsskole:</b> 10E (27)<br><b>Totalt: 27 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
+ 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
+ :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
+ ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
+ .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
+ www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
+ 46'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -899,22 +899,22 @@ UID:dks-509383@asker.dks
 DTSTART:20261019T100000Z
 DTEND:20261019T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
-  ungdomsskole: 10C (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nTorstad ungdoms
- skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
- ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
- ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
+  ungdomsskole: 10A (25)\\nTotalt: 25 elevar\\n\\nKONTAKT\\nSolvang ungdoms
+ skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
+ .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
+ and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Torstad ungdomsskole:</b> 10C (27)<br><b>Totalt: 27 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
- 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
- :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
- ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
- .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
- 46'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Solvang ungdomsskole:</b> 10A (25)<br><b>Totalt: 25 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
+ 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
+ :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
+ da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
+ .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
+ ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -924,22 +924,22 @@ UID:dks-509384@asker.dks
 DTSTART:20261020T070000Z
 DTEND:20261020T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
-  ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nTorstad ungdoms
- skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
- ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
- ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
+  ungdomsskole: 10D (25)\\nTotalt: 25 elevar\\n\\nKONTAKT\\nSolvang ungdoms
+ skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
+ .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
+ and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Torstad ungdomsskole:</b> 10A (28)<br><b>Totalt: 28 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
- 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
- :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
- ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
- .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
- 46'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Solvang ungdomsskole:</b> 10D (25)<br><b>Totalt: 25 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
+ 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
+ :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
+ da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
+ .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
+ ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -949,22 +949,22 @@ UID:dks-509385@asker.dks
 DTSTART:20261020T100000Z
 DTEND:20261020T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nTorstad
-  ungdomsskole: 10E (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nTorstad ungdoms
- skole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tv
- ethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@as
- ker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nSolvang
+  ungdomsskole: 10B (26)\\nTotalt: 26 elevar\\n\\nKONTAKT\\nSolvang ungdoms
+ skole\\n  Tlf: +47 66 71 23 50\\n  Torgeir Engen  +47 45 21 94 47  torgeir
+ .engen@asker.kommune.no\\n  Linda Tyvand Hovet  +47 90 67 80 85  linda.tyv
+ and.hovet@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Torstad ungdomsskole:</b> 10E (27)<br><b>Totalt: 27 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 
- 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto
- :mari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Mag
- ne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker
- .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
- 46'>Les meir om produksjonen</a></p></body></html>
+ SSER</b></p><p><b>Solvang ungdomsskole:</b> 10B (26)<br><b>Totalt: 26 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Solvang ungdomsskole</b><br>Tlf: +47 
+ 66 71 23 50<br>Torgeir Engen &nbsp; +47 45 21 94 47 &nbsp; <a href='mailto
+ :torgeir.engen@asker.kommune.no'>torgeir.engen@asker.kommune.no</a><br>Lin
+ da Tyvand Hovet &nbsp; +47 90 67 80 85 &nbsp; <a href='mailto:linda.tyvand
+ .hovet@asker.kommune.no'>linda.tyvand.hovet@asker.kommune.no</a><br></p><p
+ ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=23346'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -1083,6 +1083,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  .kommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://
  www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=233
  46'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-509388@asker.dks
+DTSTART:20261023T070000Z
+DTEND:20261023T090000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10a (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10a (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -1443,6 +1466,29 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568998@asker.dks
+DTSTART:20261102T080000Z
+DTEND:20261102T100000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10b (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10b (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-559371@asker.dks
 DTSTART:20261102T091500Z
 DTEND:20261102T100000Z
@@ -1487,6 +1533,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad ungdomsskole – Aula
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568999@asker.dks
+DTSTART:20261102T110000Z
+DTEND:20261102T130000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10c (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10c (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-559373@asker.dks

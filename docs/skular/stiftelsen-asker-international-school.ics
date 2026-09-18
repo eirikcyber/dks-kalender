@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20260916T090018Z
+LAST-MODIFIED:20260918T074100Z
 BEGIN:VEVENT
 UID:dks-546096@asker.dks
 DTSTART:20260923T093000Z
@@ -264,6 +264,29 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-509388@asker.dks
+DTSTART:20261023T070000Z
+DTEND:20261023T090000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10a (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10a (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-513407@asker.dks
 DTSTART:20261027T100000Z
 DTEND:20261027T110000Z
@@ -321,6 +344,52 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568998@asker.dks
+DTSTART:20261102T080000Z
+DTEND:20261102T100000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10b (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10b (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568999@asker.dks
+DTSTART:20261102T110000Z
+DTEND:20261102T130000Z
+SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nStiftel
+ sen Asker International School: 10c (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\
+ \nStiftelsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James
+  Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
+ SSER</b></p><p><b>Stiftelsen Asker International School:</b> 10c (23)<br><
+ b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23346
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482030@asker.dks
