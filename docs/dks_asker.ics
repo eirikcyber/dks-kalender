@@ -5,123 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20260918T010112Z
-BEGIN:VEVENT
-UID:dks-505689@asker.dks
-DTSTART:20260918T073000Z
-DTEND:20260918T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nBond
- i skole\\n  Avreise: 09:10  Retur: 11:05\\n  VY Turbuss frakter elevene fr
- a skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nK
- LASSER\\nBondi skole: 6A (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nBondi sko
- le\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul
- @asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Bondi skole</b><br>Avreise: 09:10 &nbsp; Retur: 11:05
- <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
- elefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 
- 6A (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi sk
- ole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nb
- sp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommun
- e.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:k
- arianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p
- ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559763@asker.dks
-DTSTART:20260918T073000Z
-DTEND:20260918T090000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSpikkestad barneskole\\n  Avreise: 08:35  Retur: 11:10\\n
-   VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttel
- efon Vy Buss er 91658600\\n\\nKLASSER\\nSpikkestad barneskole: 6a (22)\, 6
- b (11)\\nTotalt: 33 elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +
- 47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.ko
- mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Spikkestad barneskole</b><br>Avr
- eise: 08:35 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen o
- g tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER
- </b></p><p><b>Spikkestad barneskole:</b> 6a (22), 6b (11)<br><b>Totalt: 33
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf
- : +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href=
- 'mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a>
- <br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></p></body></h
- tml>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505690@asker.dks
-DTSTART:20260918T093000Z
-DTEND:20260918T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nBond
- i skole\\n  Avreise: 11:10  Retur: 13:05\\n  VY Turbuss frakter elevene fr
- a skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nK
- LASSER\\nBondi skole: 6B (15)\\nTotalt: 15 elevar\\n\\nKONTAKT\\nBondi sko
- le\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul
- @asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Bondi skole</b><br>Avreise: 11:10 &nbsp; Retur: 13:05
- <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
- elefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 
- 6B (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi sk
- ole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nb
- sp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommun
- e.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:k
- arianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p
- ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=23232'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559764@asker.dks
-DTSTART:20260918T093000Z
-DTEND:20260918T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSpikkestad barneskole\\n  Avreise: 10:35  Retur: 13:10\\n
-   VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttel
- efon Vy Buss er 91658600\\n\\nKLASSER\\nSpikkestad barneskole: 6b (10)\, 6
- c (21)\\nTotalt: 31 elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +
- 47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.ko
- mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Spikkestad barneskole</b><br>Avr
- eise: 10:35 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen o
- g tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER
- </b></p><p><b>Spikkestad barneskole:</b> 6b (10), 6c (21)<br><b>Totalt: 31
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf
- : +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href=
- 'mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a>
- <br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></p></body></h
- tml>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
+LAST-MODIFIED:20260919T010033Z
 BEGIN:VEVENT
 UID:dks-538221@asker.dks
 DTSTART:20260921T070000Z
@@ -956,24 +840,25 @@ DTEND:20260924T090000Z
 SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
 DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
  \n\\nTRANSPORT\\nTorvbråten barneskole\\n  Avreise: 08:35  Retur: 11:10\\
- n  VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktte
- lefon Vy Buss er 91658600\\n\\nKLASSER\\nTorvbråten barneskole: 6B (16)\,
-  6A (16)\\nTotalt: 32 elevar\\n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf
- : +47 46 83 89 11\\n  Jaspreet Bath  +47 46 83 89 11  jaspreet.kaur.bath@a
- sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
- k-produksjoner-i-dks/?produksjon=25157
+ n  VY Turbuss frakter elevene fra skolen og tilbake etter besøket\, med s
+ topp ved Holmsbu kirke på ca 30 minutt. Vakttelefon Vy Buss er 91658600\\
+ n\\nKLASSER\\nTorvbråten barneskole: 6B (16)\, 6A (16)\\nTotalt: 32 eleva
+ r\\n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspr
+ eet Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=25157
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
  nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Av
  reise: 08:35 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen 
- og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSE
- R</b></p><p><b>Torvbråten barneskole:</b> 6B (16), 6A (16)<br><b>Totalt: 
- 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torvbråten barneskole</b><br>
- Tlf: +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 83 89 11 &nbsp; <a hre
- f='mailto:jaspreet.kaur.bath@asker.kommune.no'>jaspreet.kaur.bath@asker.ko
- mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></
- p></body></html>
+ og tilbake etter besøket, med stopp ved Holmsbu kirke på ca 30 minutt. V
+ akttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torvbråten b
+ arneskole:</b> 6B (16), 6A (16)<br><b>Totalt: 32 elevar</b></p><p><b>KONTA
+ KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
+ reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
+ @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=25157'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25157
@@ -2431,7 +2316,7 @@ DTSTART:20261013T090000Z
 DTEND:20261013T100000Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSætre skole\\n  Avreise
- : 09:55  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake
+ : 08:30  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake
   etter besøket. Vakttelefon Vy Buss er 91658600\\nDrengsrud skole\\n  Ele
  vene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog 
  fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Ret
@@ -2447,7 +2332,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSætre skole\\n  Avreise
  eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Sætre skole</b><br>Avreise: 09:55 &nbsp; Retur: 12:05<br>VY Turbuss frak
+ >Sætre skole</b><br>Avreise: 08:30 &nbsp; Retur: 12:05<br>VY Turbuss frak
  ter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9
  1658600</p><p><b>Drengsrud skole</b><br>Elevene reiser kollektivt til Det 
  Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Be
@@ -4291,7 +4176,7 @@ DTSTART:20261026T100000Z
 DTEND:20261026T110000Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
-  09:35  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake 
+  09:00  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake 
  etter besøket. Vakttelefon Vy Buss er 91658600\\nHeggedal skole\\n  Eleve
  ne reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fr
  a Heggedal stasjon kl. 09:54. Beregnet ankomst på stasjonen kl. 10:35. Re
@@ -4309,7 +4194,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
  roduksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Tofte skole</b><br>Avreise: 09:35 &nbsp; Retur: 12:05<br>VY Turbuss frakt
+ >Tofte skole</b><br>Avreise: 09:00 &nbsp; Retur: 12:05<br>VY Turbuss frakt
  er elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91
  658600</p><p><b>Heggedal skole</b><br>Elevene reiser kollektivt til Det No
  rske Teatret. Forslag til reiserute: Tog fra Heggedal stasjon kl. 09:54. B

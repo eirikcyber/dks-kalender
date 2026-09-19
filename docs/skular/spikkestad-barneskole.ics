@@ -5,65 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20260918T010126Z
-BEGIN:VEVENT
-UID:dks-559763@asker.dks
-DTSTART:20260918T073000Z
-DTEND:20260918T090000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSpikkestad barneskole\\n  Avreise: 08:35  Retur: 11:10\\n
-   VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttel
- efon Vy Buss er 91658600\\n\\nKLASSER\\nSpikkestad barneskole: 6a (22)\, 6
- b (11)\\nTotalt: 33 elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +
- 47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.ko
- mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Spikkestad barneskole</b><br>Avr
- eise: 08:35 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen o
- g tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER
- </b></p><p><b>Spikkestad barneskole:</b> 6a (22), 6b (11)<br><b>Totalt: 33
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf
- : +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href=
- 'mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a>
- <br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></p></body></h
- tml>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559764@asker.dks
-DTSTART:20260918T093000Z
-DTEND:20260918T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSpikkestad barneskole\\n  Avreise: 10:35  Retur: 13:10\\n
-   VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttel
- efon Vy Buss er 91658600\\n\\nKLASSER\\nSpikkestad barneskole: 6b (10)\, 6
- c (21)\\nTotalt: 31 elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +
- 47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.ko
- mmune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Spikkestad barneskole</b><br>Avr
- eise: 10:35 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen o
- g tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER
- </b></p><p><b>Spikkestad barneskole:</b> 6b (10), 6c (21)<br><b>Totalt: 31
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf
- : +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href=
- 'mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a>
- <br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=25157'>Les meir om produksjonen</a></p></body></h
- tml>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
+LAST-MODIFIED:20260919T010050Z
 BEGIN:VEVENT
 UID:dks-513405@asker.dks
 DTSTART:20261023T090000Z
