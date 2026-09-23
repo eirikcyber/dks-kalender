@@ -5,55 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Mellom-Nes skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Mellom-Nes skole
-LAST-MODIFIED:20260920T010152Z
-BEGIN:VEVENT
-UID:dks-546093@asker.dks
-DTSTART:20260922T073000Z
-DTEND:20260922T100000Z
-SUMMARY:DKS Kulturvertkurs i Asker 2026
-DESCRIPTION:KLASSER\\nBondi skole: 6A (6)\\nHofstad skole: 6A (4)\\nMellom-
- Nes skole: 6 (6)\\nNesøya skole: 6A (6)\\nJansløkka skole: 6A  (6)\\nTot
- alt: 28 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Hei
- di Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Maye
- r  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nHofstad skole\\n  Tl
- f: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.syn
- nove.von.hirsch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iw
- iencke@asker.kommune.no\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Ka
- ri Ruud  +47 97 73 77 35  kari.ruud@asker.kommune.no\\nNesøya skole\\n  T
- lf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@aske
- r.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannes
- tad@asker.kommune.no\\nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit
-  Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 6A (6)<br><b
- >Hofstad skole:</b> 6A (4)<br><b>Mellom-Nes skole:</b> 6 (6)<br><b>Nesøya
-  skole:</b> 6A (6)<br><b>Jansløkka skole:</b> 6A  (6)<br><b>Totalt: 28 el
- evar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 1
- 9 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.a
- smul@asker.kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer 
- &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune
- .no'>karianne.mayer@asker.kommune.no</a><br></p><p><b>Hofstad skole</b><br
- >Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73 &
- nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.synno
- ve.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 13
-  94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.kommu
- ne.no</a><br></p><p><b>Mellom-Nes skole</b><br>Tlf: +47 97 73 77 35<br>Kar
- i Ruud &nbsp; +47 97 73 77 35 &nbsp; <a href='mailto:kari.ruud@asker.kommu
- ne.no'>kari.ruud@asker.kommune.no</a><br></p><p><b>Nesøya skole</b><br>Tl
- f: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href=
- 'mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.no</a>
- <br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bj
- orn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommune.no
- </a><br></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Me
- lås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no
- '>mmelas@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24658'>Les meir om p
- roduksjonen</a></p></body></html>
-LOCATION:Asker Kulturhus – Bjørn Carlsen-rommet
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24658
-END:VEVENT
+LAST-MODIFIED:20260923T090016Z
 BEGIN:VEVENT
 UID:dks-513403@asker.dks
 DTSTART:20261021T090000Z

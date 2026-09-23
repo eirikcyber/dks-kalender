@@ -5,84 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260920T010147Z
-BEGIN:VEVENT
-UID:dks-538223@asker.dks
-DTSTART:20260922T073000Z
-DTEND:20260922T080500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nNesøya skole: 1A (17)\, 2A (17)\, 1B (16)\, 2B (16)\
- , 1C (17)\, 2C (17)\\nTotalt: 100 elevar\\n\\nKONTAKT\\nNesøya skole\\n  
- Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@ask
- er.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.ranne
- stad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/
- utforsk-produksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 1A (17), 2
- A (17), 1B (16), 2B (16), 1C (17), 2C (17)<br><b>Totalt: 100 elevar</b></p
- ><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>K
- ari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@a
- sker.kommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Rannest
- ad &nbsp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@aske
- r.kommune.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a href=
- 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
- ksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Nesøya skole – Idrettshall
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482122@asker.dks
-DTSTART:20260922T083000Z
-DTEND:20260922T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nDoktorgården barnehage: 3-6 år (35)\\nKana barnehag
- e: 3-6 år (16)\\nTotalt: 51 elevar\\n\\nKONTAKT\\nDoktorgården barnehage
- \\n  Gry Henriksen  +47 48 06 73 70  gry.henriksen@asker.kommune.no\\nKana
-  barnehage\\n  Trude Eide  +47 92 27 91 67  admin@kanabarnehage.no\\n\\nIN
- FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Doktorgården barnehage:</b> 
- 3-6 år (35)<br><b>Kana barnehage:</b> 3-6 år (16)<br><b>Totalt: 51 eleva
- r</b></p><p><b>KONTAKT</b></p><p><b>Doktorgården barnehage</b><br>Gry Hen
- riksen &nbsp; +47 48 06 73 70 &nbsp; <a href='mailto:gry.henriksen@asker.k
- ommune.no'>gry.henriksen@asker.kommune.no</a><br></p><p><b>Kana barnehage<
- /b><br>Trude Eide &nbsp; +47 92 27 91 67 &nbsp; <a href='mailto:admin@kana
- barnehage.no'>admin@kanabarnehage.no</a><br></p><p><a href='https://www.de
- nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Le
- s meir om produksjonen</a></p></body></html>
-LOCATION:Tofte samfunnshus – Storsalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482123@asker.dks
-DTSTART:20260922T101500Z
-DTEND:20260922T105000Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nGulspurven barnehage: 3-6 år (24)\\nNorlandia Ødeg�
- �rden Barnehage: 3-6 år til Tofte (17)\\nTotalt: 41 elevar\\n\\nKONTAKT
- \\nGulspurven barnehage\\n  Gry Henriksen  +47 48 06 73 70  gry.henriksen@
- asker.kommune.no\\nNorlandia Ødegården Barnehage\\n  Tlf: +47 46 41 40 8
- 4\\n  Mari Flekstad-Engen  +47 46 41 40 84  mari.flekstad.engen@norlandia.
- com\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Gulspurven barnehage:</b> 3-6
-  år (24)<br><b>Norlandia Ødegården Barnehage:</b> 3-6 år til Tofte (17
- )<br><b>Totalt: 41 elevar</b></p><p><b>KONTAKT</b></p><p><b>Gulspurven bar
- nehage</b><br>Gry Henriksen &nbsp; +47 48 06 73 70 &nbsp; <a href='mailto:
- gry.henriksen@asker.kommune.no'>gry.henriksen@asker.kommune.no</a><br></p>
- <p><b>Norlandia Ødegården Barnehage</b><br>Tlf: +47 46 41 40 84<br>Mari 
- Flekstad-Engen &nbsp; +47 46 41 40 84 &nbsp; <a href='mailto:mari.flekstad
- .engen@norlandia.com'>mari.flekstad.engen@norlandia.com</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=21285'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Tofte samfunnshus – Storsalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
+LAST-MODIFIED:20260923T090013Z
 BEGIN:VEVENT
 UID:dks-538225@asker.dks
 DTSTART:20260923T070000Z
@@ -113,27 +36,26 @@ SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
 DESCRIPTION:KLASSER\\nBitehagen barnehage Sa: 3-6 år (30)\\nCarpe Diem Idr
  ett og Naturbarnehage: 3-6 år (5)\\n100-Meterskogen barnehage AS: 3-6 år
   (24)\\nTotalt: 59 elevar\\n\\nKONTAKT\\nBitehagen barnehage Sa\\n  Tlf: +
- 47 31 29 04 88\\n  Gry K. S.  Vaeng  +47 41 31 71 92  barnehagen@bitehagen
- .no\\nCarpe Diem Idrett og Naturbarnehage\\n  Stein Richard Størdal  +47 
- 47 45 67 80  stein.stordal@ulna.no\\n100-Meterskogen barnehage AS\\n  Tlf:
-  +47 31 28 76 70\\n  Ingvild Hansen  +47 90 19 75 32  ingvild.hansen@100-m
- eterskogenbhg.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfor
- sk-produksjoner-i-dks/?produksjon=21285
+ 47 31 29 04 88\\n  Jonas Fosdal  +47 92 11 57 95  barnehagen@bitehagen.no\
+ \nCarpe Diem Idrett og Naturbarnehage\\n  Stein Richard Størdal  +47 47 4
+ 5 67 80  stein.stordal@ulna.no\\n100-Meterskogen barnehage AS\\n  Tlf: +47
+  31 28 76 70\\n  Ingvild Hansen  +47 90 19 75 32  ingvild.hansen@100-meter
+ skogenbhg.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
+ roduksjoner-i-dks/?produksjon=21285
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bitehagen barnehage Sa:</b> 3
  -6 år (30)<br><b>Carpe Diem Idrett og Naturbarnehage:</b> 3-6 år (5)<br>
  <b>100-Meterskogen barnehage AS:</b> 3-6 år (24)<br><b>Totalt: 59 elevar<
  /b></p><p><b>KONTAKT</b></p><p><b>Bitehagen barnehage Sa</b><br>Tlf: +47 3
- 1 29 04 88<br>Gry K. S.  Vaeng &nbsp; +47 41 31 71 92 &nbsp; <a href='mail
- to:barnehagen@bitehagen.no'>barnehagen@bitehagen.no</a><br></p><p><b>Carpe
-  Diem Idrett og Naturbarnehage</b><br>Stein Richard Størdal &nbsp; +47 47
-  45 67 80 &nbsp; <a href='mailto:stein.stordal@ulna.no'>stein.stordal@ulna
- .no</a><br></p><p><b>100-Meterskogen barnehage AS</b><br>Tlf: +47 31 28 76
-  70<br>Ingvild Hansen &nbsp; +47 90 19 75 32 &nbsp; <a href='mailto:ingvil
- d.hansen@100-meterskogenbhg.no'>ingvild.hansen@100-meterskogenbhg.no</a><b
- r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
- oner-i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></htm
- l>
+ 1 29 04 88<br>Jonas Fosdal &nbsp; +47 92 11 57 95 &nbsp; <a href='mailto:b
+ arnehagen@bitehagen.no'>barnehagen@bitehagen.no</a><br></p><p><b>Carpe Die
+ m Idrett og Naturbarnehage</b><br>Stein Richard Størdal &nbsp; +47 47 45 
+ 67 80 &nbsp; <a href='mailto:stein.stordal@ulna.no'>stein.stordal@ulna.no<
+ /a><br></p><p><b>100-Meterskogen barnehage AS</b><br>Tlf: +47 31 28 76 70<
+ br>Ingvild Hansen &nbsp; +47 90 19 75 32 &nbsp; <a href='mailto:ingvild.ha
+ nsen@100-meterskogenbhg.no'>ingvild.hansen@100-meterskogenbhg.no</a><br></
+ p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
+ -i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21285
@@ -1138,23 +1060,27 @@ UID:dks-546952@asker.dks
 DTSTART:20261014T090000Z
 DTEND:20261014T110000Z
 SUMMARY:Oscarsborg festning (10. trinn Asker sør)
-DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nKLASSER\\nSætre ungdo
+DESCRIPTION:Omvisning på Oscarsborg festning. \\n\\nTRANSPORT\\nSætre ung
+ domsskole\\n  Elevene går eller sykler til Sætre bussterminal. Elevene h
+ entes i Sætre havn marina av Oscarsborgfergen\\n\\nKLASSER\\nSætre ungdo
  msskole: 10c (30)\, 10b (29)\, 10a (28)\\nTotalt: 87 elevar\\n\\nKONTAKT\\
  nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 7
  0 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08
   22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nhttps://www.
  denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24706
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>KLASSER<
- /b></p><p><b>Sætre ungdomsskole:</b> 10c (30), 10b (29), 10a (28)<br><b>T
- otalt: 87 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdomsskole</b>
- <br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a h
- ref='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a>
- <br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto
- :henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker
- .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=24706'>Les meir om produksjonen</a
- ></p></body></html>
+ f;font-size:13px'><p>Omvisning på Oscarsborg festning. </p><p><b>TRANSPOR
+ T</b></p><p><b>Sætre ungdomsskole</b><br>Elevene går eller sykler til S�
+ �tre bussterminal. Elevene hentes i Sætre havn marina av Oscarsborgferg
+ en</p><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 10c (30), 10b (2
+ 9), 10a (28)<br><b>Totalt: 87 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sæ
+ tre ungdomsskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 
+ 53 70 44 &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@
+ asker.kommune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &n
+ bsp; <a href='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.ski
+ fjeld.eliassen@asker.kommune.no</a><br></p><p><a href='https://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24706'>Les mei
+ r om produksjonen</a></p></body></html>
 LOCATION:Oscarsborg festning – Oscarsborg festning
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24706

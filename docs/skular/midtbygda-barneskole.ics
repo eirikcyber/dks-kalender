@@ -5,65 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Midtbygda barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Midtbygda barneskole
-LAST-MODIFIED:20260920T010152Z
-BEGIN:VEVENT
-UID:dks-559765@asker.dks
-DTSTART:20260921T073000Z
-DTEND:20260921T090000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nMidtbygda barneskole\\n  Avreise: 08:40  Retur: 11:10\\n 
-  VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttele
- fon Vy Buss er 91658600\\n\\nKLASSER\\nMidtbygda barneskole: 6A (20)\, 6B 
- (11)\\nTotalt: 31 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 
- 31 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.oph
- aug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/u
- tforsk-produksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Midtbygda barneskole</b><br>Avre
- ise: 08:40 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen og
-  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
- /b></p><p><b>Midtbygda barneskole:</b> 6A (20), 6B (11)<br><b>Totalt: 31 e
- levar</b></p><p><b>KONTAKT</b></p><p><b>Midtbygda barneskole</b><br>Tlf: +
- 47 31 29 35 00<br>Foline Geertje Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a h
- ref='mailto:foline.geertje.ophaug@asker.kommune.no'>foline.geertje.ophaug@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=25157'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559766@asker.dks
-DTSTART:20260921T093000Z
-DTEND:20260921T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nMidtbygda barneskole\\n  Avreise: 10:40  Retur: 13:10\\n 
-  VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vakttele
- fon Vy Buss er 91658600\\n\\nKLASSER\\nMidtbygda barneskole: 6B (8)\, 6C (
- 24)\\nTotalt: 32 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 3
- 1 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.opha
- ug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/ut
- forsk-produksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Midtbygda barneskole</b><br>Avre
- ise: 10:40 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen og
-  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
- /b></p><p><b>Midtbygda barneskole:</b> 6B (8), 6C (24)<br><b>Totalt: 32 el
- evar</b></p><p><b>KONTAKT</b></p><p><b>Midtbygda barneskole</b><br>Tlf: +4
- 7 31 29 35 00<br>Foline Geertje Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a hr
- ef='mailto:foline.geertje.ophaug@asker.kommune.no'>foline.geertje.ophaug@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=25157'>Les meir om produksjone
- n</a></p></body></html>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
+LAST-MODIFIED:20260923T090016Z
 BEGIN:VEVENT
 UID:dks-513402@asker.dks
 DTSTART:20261020T090000Z
