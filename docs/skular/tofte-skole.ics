@@ -5,38 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte skole
-LAST-MODIFIED:20260923T090017Z
-BEGIN:VEVENT
-UID:dks-559770@asker.dks
-DTSTART:20260923T093000Z
-DTEND:20260923T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nTofte skole\\n  Avreise: 10:55  Retur: 13:10\\n  VY Turbu
- ss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Bu
- ss er 91658600\\n\\nKLASSER\\nTofte skole: 6a (29)\\nTotalt: 29 elevar\\n\
- \nKONTAKT\\nTofte skole\\n  Tlf: +47 32 27 84 13\\n  Anita Olsen  +47 47 6
- 4 53 53  anita.olsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Tofte skole</b><br>Avreise: 10:5
- 5 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen og tilbake 
- etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p
- ><b>Tofte skole:</b> 6a (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT<
- /b></p><p><b>Tofte skole</b><br>Tlf: +47 32 27 84 13<br>Anita Olsen &nbsp;
-  +47 47 64 53 53 &nbsp; <a href='mailto:anita.olsen@asker.kommune.no'>anit
- a.olsen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
- kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25157'>Les meir om pr
- oduksjonen</a></p></body></html>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
+LAST-MODIFIED:20260930T073326Z
 BEGIN:VEVENT
 UID:dks-538233@asker.dks
-DTSTART:20261019T073000Z
-DTEND:20261019T080500Z
+DTSTART:20261019T073500Z
+DTEND:20261019T081000Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
 DESCRIPTION:KLASSER\\nTofte skole: 1a (30)\, 2a (26)\\nTotalt: 56 elevar\\n
  \\nKONTAKT\\nTofte skole\\n  Tlf: +47 32 27 84 13\\n  Anita Olsen  +47 47 
@@ -68,8 +41,8 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
  nyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSolberg skole\
  \n  Avreise: 10:15  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
- nSolberg skole: 5 (16)\\nHeggedal skole: 5A (23)\, 5B (23)\, 5c (20)\\nTof
- te skole: 5a (22)\\nTotalt: 104 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
+ nSolberg skole: 5 (18)\\nHeggedal skole: 5A (25)\, 5B (25)\, 5c (22)\\nTof
+ te skole: 5a (24)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
  f: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.engh@ask
  er.kommune.no\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Sch
  midt  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\nTofte skole\\
@@ -87,8 +60,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:15 &n
  bsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake ette
  r besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>
- Solberg skole:</b> 5 (16)<br><b>Heggedal skole:</b> 5A (23), 5B (23), 5c (
- 20)<br><b>Tofte skole:</b> 5a (22)<br><b>Totalt: 104 elevar</b></p><p><b>K
+ Solberg skole:</b> 5 (18)<br><b>Heggedal skole:</b> 5A (25), 5B (25), 5c (
+ 22)<br><b>Tofte skole:</b> 5a (24)<br><b>Totalt: 114 elevar</b></p><p><b>K
  ONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut Engh
   &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@asker.k
  ommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Heggedal 

@@ -5,61 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Heggedal skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Heggedal skole
-LAST-MODIFIED:20260923T090015Z
-BEGIN:VEVENT
-UID:dks-505695@asker.dks
-DTSTART:20260923T073000Z
-DTEND:20260923T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nHegg
- edal skole\\n  Avreise: 09:10  Retur: 11:00\\n  VY Turbuss frakter elevene
-  fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
- \nKLASSER\\nHeggedal skole: 6c (24)\\nTotalt: 24 elevar\\n\\nKONTAKT\\nHeg
- gedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 93 42 03 
- 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Heggedal skole</b><br>Avreise: 09:10 &nbsp; Retur: 11
- :00<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
- kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Heggedal skole
- :</b> 6c (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>He
- ggedal skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 
- 93 42 03 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>an
- n.louise.schmidt@asker.kommune.no</a><br></p><p><a href='https://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les m
- eir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505696@asker.dks
-DTSTART:20260923T093000Z
-DTEND:20260923T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nHegg
- edal skole\\n  Avreise: 11:15  Retur: 13:00\\n  VY Turbuss frakter elevene
-  fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
- \nKLASSER\\nHeggedal skole: 6B (23)\\nTotalt: 23 elevar\\n\\nKONTAKT\\nHeg
- gedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 93 42 03 
- 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Heggedal skole</b><br>Avreise: 11:15 &nbsp; Retur: 13
- :00<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Va
- kttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Heggedal skole
- :</b> 6B (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>He
- ggedal skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 
- 93 42 03 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>an
- n.louise.schmidt@asker.kommune.no</a><br></p><p><a href='https://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les m
- eir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20260930T073323Z
 BEGIN:VEVENT
 UID:dks-513406@asker.dks
 DTSTART:20261026T100000Z
@@ -74,8 +20,8 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
  nyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSolberg skole\
  \n  Avreise: 10:15  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
- nSolberg skole: 5 (16)\\nHeggedal skole: 5A (23)\, 5B (23)\, 5c (20)\\nTof
- te skole: 5a (22)\\nTotalt: 104 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
+ nSolberg skole: 5 (18)\\nHeggedal skole: 5A (25)\, 5B (25)\, 5c (22)\\nTof
+ te skole: 5a (24)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
  f: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.engh@ask
  er.kommune.no\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Sch
  midt  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\nTofte skole\\
@@ -93,8 +39,8 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:15 &n
  bsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake ette
  r besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>
- Solberg skole:</b> 5 (16)<br><b>Heggedal skole:</b> 5A (23), 5B (23), 5c (
- 20)<br><b>Tofte skole:</b> 5a (22)<br><b>Totalt: 104 elevar</b></p><p><b>K
+ Solberg skole:</b> 5 (18)<br><b>Heggedal skole:</b> 5A (25), 5B (25), 5c (
+ 22)<br><b>Tofte skole:</b> 5a (24)<br><b>Totalt: 114 elevar</b></p><p><b>K
  ONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut Engh
   &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@asker.k
  ommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Heggedal 

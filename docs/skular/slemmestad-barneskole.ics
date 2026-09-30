@@ -5,66 +5,63 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad barneskole
-LAST-MODIFIED:20260923T090016Z
+LAST-MODIFIED:20260930T073325Z
 BEGIN:VEVENT
 UID:dks-513396@asker.dks
-DTSTART:20261012T090000Z
-DTEND:20261012T100000Z
+DTSTART:20261007T090000Z
+DTEND:20261007T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSteinerskolen i Hurum\\n
-   Avreise: 09:55  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
- g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nHvalstad skole
- \\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiseru
- te: Tog fra Hvalstad stasjon kl. 10:10. Beregnet ankomst på stasjonen kl.
-  10:35. Retur med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billet
- ter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSlem
- mestad barneskole\\n  Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter 
- elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658
- 600\\n\\nKLASSER\\nSteinerskolen i Hurum: 5 (15)\\nSlemmestad barneskole: 
- 5 (36)\\nHvalstad skole: 5A (18)\, 5B (18)\, 5C (19)\\nTotalt: 106 elevar\
- \n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette
-  Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\nSlemmestad barnes
- kole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin Nergård  +47 90 04 36 18  a
- nn.kristin.nergard@asker.kommune.no\\nHvalstad skole\\n  Tlf: +47 66 71 54
-  50\\n  Trine Norman Hegg(kun tilrettelagt)  +47 93 86 68 66  trine.norman
- .hegg@asker.kommune.no\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.l
- ene.tveten.ekkje@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\\n
+   Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
+ g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nJansløkka sko
+ le\\n  Avreise: 10:20  Retur: 12:10\\n  VY Turbuss frakter elevene fra sko
+ len til Det Norske Teatret og tilbake etter besøket. Vakttelefon Vy Buss 
+ er 91658600\\nStiftelsen Asker International School\\n  Elevene reiser kol
+ lektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasj
+ on kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra 
+ Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette be
+ stilles av skolene og dekkes av DKS Asker\\n\\nKLASSER\\nSlemmestad barnes
+ kole: 5 (38)\\nStiftelsen Asker International School: 5c (23)\\nJansløkka
+  skole: 5A  (20)\, 5B (20)\, 5C (22)\\nTotalt: 123 elevar\\n\\nKONTAKT\\nS
+ lemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin Nergård  +4
+ 7 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\nStiftelsen Asker Int
+ ernational School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 
+ 91  james@askeris.no\\nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit
+  Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Steinerskolen i Hurum</b><br>Avreise: 09:55 &nbsp; Retur: 12:05<br>VY Tur
+ >Slemmestad barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Tur
  buss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy 
- Buss er 91658600</p><p><b>Hvalstad skole</b><br>Elevene reiser kollektivt 
- til Det Norske Teatret. Forslag til reiserute: Tog fra Hvalstad stasjon kl
- . 10:10. Beregnet ankomst på stasjonen kl. 10:35. Retur med tog fra Natio
- naltheatret stasjon kl. 12:29. RUFUS-billetter kan benyttes. Dette bestill
- es av skolene og dekkes av DKS Asker</p><p><b>Slemmestad barneskole</b><br
- >Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skol
- en og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLA
- SSER</b></p><p><b>Steinerskolen i Hurum:</b> 5 (15)<br><b>Slemmestad barne
- skole:</b> 5 (36)<br><b>Hvalstad skole:</b> 5A (18), 5B (18), 5C (19)<br><
- b>Totalt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskolen i Hur
- um</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 17 43 &nb
- sp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@steiners
- kolen.no</a><br></p><p><b>Slemmestad barneskole</b><br>Tlf: +47 31 29 34 0
- 0<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a href='mailto:an
- n.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker.kommune.no</
- a><br></p><p><b>Hvalstad skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norman
-  Hegg(kun tilrettelagt) &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:trin
- e.norman.hegg@asker.kommune.no'>trine.norman.hegg@asker.kommune.no</a><br>
- Anne Lene Tveten Ekkje &nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.
- lene.tveten.ekkje@asker.kommune.no'>anne.lene.tveten.ekkje@asker.kommune.n
- o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></bod
- y></html>
+ Buss er 91658600</p><p><b>Jansløkka skole</b><br>Avreise: 10:20 &nbsp; Re
+ tur: 12:10<br>VY Turbuss frakter elevene fra skolen til Det Norske Teatret
+  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>Stift
+ elsen Asker International School</b><br>Elevene reiser kollektivt til Det 
+ Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Be
+ regnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret
+  stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av skole
+ ne og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Slemmestad barnesk
+ ole:</b> 5 (38)<br><b>Stiftelsen Asker International School:</b> 5c (23)<b
+ r><b>Jansløkka skole:</b> 5A  (20), 5B (20), 5C (22)<br><b>Totalt: 123 el
+ evar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad barneskole</b><br>Tlf: +
+ 47 31 29 34 00<br>Ann Kristin Nergård &nbsp; +47 90 04 36 18 &nbsp; <a hr
+ ef='mailto:ann.kristin.nergard@asker.kommune.no'>ann.kristin.nergard@asker
+ .kommune.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>
+ Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href
+ ='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><b>Jansløkka sk
+ ole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nb
+ sp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-538235@asker.dks
-DTSTART:20261020T070000Z
-DTEND:20261020T073500Z
+DTSTART:20261020T100500Z
+DTEND:20261020T104000Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad barneskole: 1 (26)\, 2 (26)\\nTotalt: 52 e
  levar\\n\\nKONTAKT\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  An

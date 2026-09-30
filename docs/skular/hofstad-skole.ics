@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hofstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hofstad skole
-LAST-MODIFIED:20260923T090015Z
+LAST-MODIFIED:20260930T073323Z
 BEGIN:VEVENT
 UID:dks-505704@asker.dks
 DTSTART:20261006T093000Z
@@ -48,18 +48,19 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHofstad skole\\n  Eleven
  tes. Dette bestilles av skolene og dekkes av DKS Asker\\nVettre skole\\n  
  Avreise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og 
  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nFolkestad skole\
- \n  Avreise: 10:30  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
-  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
- nVettre skole: 5 (48)\\nFolkestad skole: 5 (11)\\nHofstad skole: 5A (23)\,
-  5B (25)\\nTotalt: 107 elevar\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 
- 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\n
- Folkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engeland  +47 48 19 60 
- 52  ellen.engeland@asker.kommune.no\\n  Gry Bente Olsen Brosø  +47 92 25 
- 86 48  gry.bente.broso@asker.kommune.no\\nHofstad skole\\n  Tlf: +47 66 71
-  54 20\\n  Anne Synnøve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hir
- sch@asker.kommune.no\\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@asker
- .kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
- oduksjoner-i-dks/?produksjon=23665
+ \n  Avreise: 09:30  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
+  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600. VY estimerer 
+ turen til å ta 1t og 20 minutt. \\n\\nKLASSER\\nVettre skole: 5 (50)\\nFo
+ lkestad skole: 5 (13)\\nHofstad skole: 5A (25)\, 5B (27)\\nTotalt: 115 ele
+ var\\n\\nKONTAKT\\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  
+ +47 92 26 88 00  sidsel.fonn@asker.kommune.no\\nFolkestad skole\\n  Tlf: +
+ 47 90 20 95 70\\n  Ellen Engeland  +47 48 19 60 52  ellen.engeland@asker.k
+ ommune.no\\n  Gry Bente Olsen Brosø  +47 92 25 86 48  gry.bente.broso@ask
+ er.kommune.no\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve V
+ on Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  I
+ ngeborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
  >Hofstad skole</b><br>Elevene reiser kollektivt til Det Norske Teatret. Fo
@@ -68,25 +69,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  :29. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av
   DKS Asker</p><p><b>Vettre skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:05
  <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
- elefon Vy Buss er 91658600</p><p><b>Folkestad skole</b><br>Avreise: 10:30 
+ elefon Vy Buss er 91658600</p><p><b>Folkestad skole</b><br>Avreise: 09:30 
  &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake et
- ter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><
- b>Vettre skole:</b> 5 (48)<br><b>Folkestad skole:</b> 5 (11)<br><b>Hofstad
-  skole:</b> 5A (23), 5B (25)<br><b>Totalt: 107 elevar</b></p><p><b>KONTAKT
- </b></p><p><b>Vettre skole</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbs
- p; +47 92 26 88 00 &nbsp; <a href='mailto:sidsel.fonn@asker.kommune.no'>si
- dsel.fonn@asker.kommune.no</a><br></p><p><b>Folkestad skole</b><br>Tlf: +4
- 7 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp; <a href='mai
- lto:ellen.engeland@asker.kommune.no'>ellen.engeland@asker.kommune.no</a><b
- r>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry
- .bente.broso@asker.kommune.no'>gry.bente.broso@asker.kommune.no</a><br></p
- ><p><b>Hofstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirs
- ch &nbsp; +47 97 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@a
- sker.kommune.no'>anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg 
- Wiencke &nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommu
- ne.no'>iwiencke@asker.kommune.no</a><br></p><p><a href='https://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les me
- ir om produksjonen</a></p></body></html>
+ ter besøket. Vakttelefon Vy Buss er 91658600. VY estimerer turen til å t
+ a 1t og 20 minutt. </p><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 5 (50)
+ <br><b>Folkestad skole:</b> 5 (13)<br><b>Hofstad skole:</b> 5A (25), 5B (2
+ 7)<br><b>Totalt: 115 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole
+ </b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; 
+ <a href='mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no
+ </a><br></p><p><b>Folkestad skole</b><br>Tlf: +47 90 20 95 70<br>Ellen Eng
+ eland &nbsp; +47 48 19 60 52 &nbsp; <a href='mailto:ellen.engeland@asker.k
+ ommune.no'>ellen.engeland@asker.kommune.no</a><br>Gry Bente Olsen Brosø &
+ nbsp; +47 92 25 86 48 &nbsp; <a href='mailto:gry.bente.broso@asker.kommune
+ .no'>gry.bente.broso@asker.kommune.no</a><br></p><p><b>Hofstad skole</b><b
+ r>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73 
+ &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.synn
+ ove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 1
+ 3 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.komm
+ une.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfo
+ rsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p>
+ </body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

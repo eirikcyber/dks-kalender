@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Bondi skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Bondi skole
-LAST-MODIFIED:20260923T090014Z
+LAST-MODIFIED:20260930T073321Z
 BEGIN:VEVENT
 UID:dks-513400@asker.dks
 DTSTART:20261019T090000Z
@@ -22,9 +22,9 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nStiftelsen Asker Interna
  . RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DK
  S Asker\\nNesøya skole\\n  Avreise: 10:30  Retur: 12:05\\n  VY Turbuss fr
  akter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er
-  91658600\\n\\nKLASSER\\nBondi skole: 5A (20)\, 5B (17)\\nNesøya skole: 5
- A (23)\, 5B (23)\\nStiftelsen Asker International School: 5b (21)\\nTotalt
- : 104 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi
+  91658600\\n\\nKLASSER\\nBondi skole: 5A (22)\, 5B (19)\\nNesøya skole: 5
+ A (25)\, 5B (25)\\nStiftelsen Asker International School: 5b (23)\\nTotalt
+ : 114 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi
   Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer 
   +47 91 59 43 53  karianne.mayer@asker.kommune.no\\nNesøya skole\\n  Tlf:
   +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.k
@@ -46,9 +46,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  e bestilles av skolene og dekkes av DKS Asker</p><p><b>Nesøya skole</b><b
  r>Avreise: 10:30 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra sko
  len og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KL
- ASSER</b></p><p><b>Bondi skole:</b> 5A (20), 5B (17)<br><b>Nesøya skole:<
- /b> 5A (23), 5B (23)<br><b>Stiftelsen Asker International School:</b> 5b (
- 21)<br><b>Totalt: 104 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole
+ ASSER</b></p><p><b>Bondi skole:</b> 5A (22), 5B (19)<br><b>Nesøya skole:<
+ /b> 5A (25), 5B (25)<br><b>Stiftelsen Asker International School:</b> 5b (
+ 23)<br><b>Totalt: 114 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole
  </b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp;
   <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommune.n
  o</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:kari
@@ -71,47 +71,73 @@ UID:dks-513402@asker.dks
 DTSTART:20261020T090000Z
 DTEND:20261020T100000Z
 SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nMidtbygda barneskole\\n 
-  Avreise: 10:05  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og
-  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nBondi skole\\n 
-  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: 
- Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37.
-  Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan
-  benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\n\\nKLASSER\
- \nBondi skole: 5C (18)\\nMidtbygda barneskole: 5A (21)\, 5B (19)\, 5C (20)
- \\nStiftelsen Vollen Montessoriskole: 6 (7)\, 4 (14)\\nTotalt: 99 elevar\\
- n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 6
- 6 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 
- 53  karianne.mayer@asker.kommune.no\\nMidtbygda barneskole\\n  Tlf: +47 31
-  29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophau
- g@asker.kommune.no\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 
- 71 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\n
- INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=23665
+DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nBondi skole\\n  Elevene 
+ reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra A
+ sker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur me
+ d tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes
+ . Dette bestilles av skolene og dekkes av DKS Asker\\nHvalstad skole\\n  E
+ levene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: To
+ g fra Hvalstad stasjon kl. 10:10. Beregnet ankomst på stasjonen kl. 10:35
+ . Retur med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter ka
+ n benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nStiftelsen
+  Vollen Montessoriskole\\n  Elevene reiser kollektivt til Det Norske Teatr
+ et. Forslag til reiserute: Buss 250 fra Vollen kl. 09:58. Beregnet ankomst
+  på holdeplassen kl. 10:36. Retur med buss 250 fra Nationaltheatret kl. 1
+ 2:26. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes a
+ v DKS Asker\\nSteinerskolen i Hurum\\n  Avreise: 09:50  Retur: 12:10\\n  V
+ Y Turbuss frakter elevene fra skolen til Det Norske Teatret og tilbake ett
+ er besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nBondi skole: 5
+ C (20)\\nSteinerskolen i Hurum: 5 (17)\\nHvalstad skole: 5A (20)\, 5B (20)
+ \, 5C (21)\\nStiftelsen Vollen Montessoriskole: 6 (9)\, 4 (16)\\nTotalt: 1
+ 23 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Å
+ smul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +4
+ 7 91 59 43 53  karianne.mayer@asker.kommune.no\\nSteinerskolen i Hurum\\n 
+  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@st
+ einerskolen.no\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman 
+ Hegg(kun tilrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.n
+ o\\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@aske
+ r.kommune.no\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\
+ \n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Midtbygda barneskole</b><br>Avreise: 10:05 &nbsp; Retur: 12:05<br>VY Turb
- uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
- uss er 91658600</p><p><b>Bondi skole</b><br>Elevene reiser kollektivt til 
- Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19
- . Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationalthea
- tret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av s
- kolene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Bondi skole:</
- b> 5C (18)<br><b>Midtbygda barneskole:</b> 5A (21), 5B (19), 5C (20)<br><b
- >Stiftelsen Vollen Montessoriskole:</b> 6 (7), 4 (14)<br><b>Totalt: 99 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19
-  20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.as
- mul@asker.kommune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &
- nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.
- no'>karianne.mayer@asker.kommune.no</a><br></p><p><b>Midtbygda barneskole<
- /b><br>Tlf: +47 31 29 35 00<br>Foline Geertje Ophaug &nbsp; +47 99 61 72 5
- 9 &nbsp; <a href='mailto:foline.geertje.ophaug@asker.kommune.no'>foline.ge
- ertje.ophaug@asker.kommune.no</a><br></p><p><b>Stiftelsen Vollen Montessor
- iskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97
-  04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>camilla.nystrom@vomo.n
- o</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></bod
- y></html>
+ >Bondi skole</b><br>Elevene reiser kollektivt til Det Norske Teatret. Fors
+ lag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på s
+ tasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. 
+ RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS 
+ Asker</p><p><b>Hvalstad skole</b><br>Elevene reiser kollektivt til Det Nor
+ ske Teatret. Forslag til reiserute: Tog fra Hvalstad stasjon kl. 10:10. Be
+ regnet ankomst på stasjonen kl. 10:35. Retur med tog fra Nationaltheatret
+  stasjon kl. 12:29. RUFUS-billetter kan benyttes. Dette bestilles av skole
+ ne og dekkes av DKS Asker</p><p><b>Stiftelsen Vollen Montessoriskole</b><b
+ r>Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiserute:
+  Buss 250 fra Vollen kl. 09:58. Beregnet ankomst på holdeplassen kl. 10:3
+ 6. Retur med buss 250 fra Nationaltheatret kl. 12:26. RUFUS-billetter kan 
+ benyttes. Dette bestilles av skolene og dekkes av DKS Asker</p><p><b>Stein
+ erskolen i Hurum</b><br>Avreise: 09:50 &nbsp; Retur: 12:10<br>VY Turbuss f
+ rakter elevene fra skolen til Det Norske Teatret og tilbake etter besøket
+ . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skol
+ e:</b> 5C (20)<br><b>Steinerskolen i Hurum:</b> 5 (17)<br><b>Hvalstad skol
+ e:</b> 5A (20), 5B (20), 5C (21)<br><b>Stiftelsen Vollen Montessoriskole:<
+ /b> 6 (9), 4 (16)<br><b>Totalt: 123 elevar</b></p><p><b>KONTAKT</b></p><p>
+ <b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 7
+ 6 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@a
+ sker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a hre
+ f='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no
+ </a><br></p><p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jea
+ nette Ward &nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@ste
+ inerskolen.no'>jeanette.ward@steinerskolen.no</a><br></p><p><b>Hvalstad sk
+ ole</b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nb
+ sp; +47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune
+ .no'>trine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbs
+ p; +47 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kom
+ mune.no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><b>Stiftels
+ en Vollen Montessoriskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm 
+ &nbsp; +47 92 28 97 04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>cam
+ illa.nystrom@vomo.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>Les meir om produk
+ sjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

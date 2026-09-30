@@ -5,306 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20260923T090013Z
-BEGIN:VEVENT
-UID:dks-538225@asker.dks
-DTSTART:20260923T070000Z
-DTEND:20260923T073500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nTorvbråten barneskole: 1A (21)\, 2A (16)\, 1B (20)\,
-  2B (16)\\nTotalt: 73 elevar\\n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf
- : +47 46 83 89 11\\n  Jaspreet Bath  +47 46 83 89 11  jaspreet.kaur.bath@a
- sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
- k-produksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torvbråten barneskole:</b> 1
- A (21), 2A (16), 1B (20), 2B (16)<br><b>Totalt: 73 elevar</b></p><p><b>KON
- TAKT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Ja
- spreet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.ba
- th@asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a 
- href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Torvbråten barneskole – Flerbrukshall
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482124@asker.dks
-DTSTART:20260923T083000Z
-DTEND:20260923T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nBitehagen barnehage Sa: 3-6 år (30)\\nCarpe Diem Idr
- ett og Naturbarnehage: 3-6 år (5)\\n100-Meterskogen barnehage AS: 3-6 år
-  (24)\\nTotalt: 59 elevar\\n\\nKONTAKT\\nBitehagen barnehage Sa\\n  Tlf: +
- 47 31 29 04 88\\n  Jonas Fosdal  +47 92 11 57 95  barnehagen@bitehagen.no\
- \nCarpe Diem Idrett og Naturbarnehage\\n  Stein Richard Størdal  +47 47 4
- 5 67 80  stein.stordal@ulna.no\\n100-Meterskogen barnehage AS\\n  Tlf: +47
-  31 28 76 70\\n  Ingvild Hansen  +47 90 19 75 32  ingvild.hansen@100-meter
- skogenbhg.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bitehagen barnehage Sa:</b> 3
- -6 år (30)<br><b>Carpe Diem Idrett og Naturbarnehage:</b> 3-6 år (5)<br>
- <b>100-Meterskogen barnehage AS:</b> 3-6 år (24)<br><b>Totalt: 59 elevar<
- /b></p><p><b>KONTAKT</b></p><p><b>Bitehagen barnehage Sa</b><br>Tlf: +47 3
- 1 29 04 88<br>Jonas Fosdal &nbsp; +47 92 11 57 95 &nbsp; <a href='mailto:b
- arnehagen@bitehagen.no'>barnehagen@bitehagen.no</a><br></p><p><b>Carpe Die
- m Idrett og Naturbarnehage</b><br>Stein Richard Størdal &nbsp; +47 47 45 
- 67 80 &nbsp; <a href='mailto:stein.stordal@ulna.no'>stein.stordal@ulna.no<
- /a><br></p><p><b>100-Meterskogen barnehage AS</b><br>Tlf: +47 31 28 76 70<
- br>Ingvild Hansen &nbsp; +47 90 19 75 32 &nbsp; <a href='mailto:ingvild.ha
- nsen@100-meterskogenbhg.no'>ingvild.hansen@100-meterskogenbhg.no</a><br></
- p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=21285'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482125@asker.dks
-DTSTART:20260923T100000Z
-DTEND:20260923T103500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nHeggum barnehage AS: 3-6 år (24)\\nHyggen barnehage:
-  3-6 år (16)\\nMidtbygda Kanvas-Barnehage: 3-6 år (19)\\nHelledammen Fus
-  barnehage AS: 3-6 år (18)\\nTotalt: 77 elevar\\n\\nKONTAKT\\nHeggum barn
- ehage AS\\n  Tlf: +47 92 69 34 98\\n  Marianne Bjørnstad  +47 92 69 34 98
-   marianne@heggumbarnehage.no\\nHyggen barnehage\\n  Tlf: +47 97 58 97 08\
- \n  Elin Evensen  +47 99 57 28 79  elin.evensen@asker.kommune.no\\nMidtbyg
- da Kanvas-Barnehage\\n  Tlf: +47 31 28 56 20\\n  Monica Gundhus  +47 40 63
-  05 23  monica.gundhus@kanvas.no\\nHelledammen Fus barnehage AS\\n  Tlf: +
- 47 31 09 59 95\\n  Helene  Malbasa  +47 48 31 13 21  dl.helledammen@bhg.no
- \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggum barnehage AS:</b> 3-6 
- år (24)<br><b>Hyggen barnehage:</b> 3-6 år (16)<br><b>Midtbygda Kanvas-B
- arnehage:</b> 3-6 år (19)<br><b>Helledammen Fus barnehage AS:</b> 3-6 år
-  (18)<br><b>Totalt: 77 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggum bar
- nehage AS</b><br>Tlf: +47 92 69 34 98<br>Marianne Bjørnstad &nbsp; +47 92
-  69 34 98 &nbsp; <a href='mailto:marianne@heggumbarnehage.no'>marianne@heg
- gumbarnehage.no</a><br></p><p><b>Hyggen barnehage</b><br>Tlf: +47 97 58 97
-  08<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <a href='mailto:elin.eve
- nsen@asker.kommune.no'>elin.evensen@asker.kommune.no</a><br></p><p><b>Midt
- bygda Kanvas-Barnehage</b><br>Tlf: +47 31 28 56 20<br>Monica Gundhus &nbsp
- ; +47 40 63 05 23 &nbsp; <a href='mailto:monica.gundhus@kanvas.no'>monica.
- gundhus@kanvas.no</a><br></p><p><b>Helledammen Fus barnehage AS</b><br>Tlf
- : +47 31 09 59 95<br>Helene  Malbasa &nbsp; +47 48 31 13 21 &nbsp; <a href
- ='mailto:dl.helledammen@bhg.no'>dl.helledammen@bhg.no</a><br></p><p><a hre
- f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505697@asker.dks
-DTSTART:20260924T073000Z
-DTEND:20260924T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
- �ya skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter eleven
- e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
- \\nKLASSER\\nNesøya skole: 6C (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNes
- øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
- ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
- jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 09:05 &nbsp; Retur: 11:
- 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
- ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
- /b> 6C (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
- �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
- 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
- @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
- p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
- stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
- ksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559771@asker.dks
-DTSTART:20260924T073000Z
-DTEND:20260924T090000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nTorvbråten barneskole\\n  Avreise: 08:35  Retur: 11:10\\
- n  VY Turbuss frakter elevene fra skolen og tilbake etter besøket\, med s
- topp ved Holmsbu kirke på ca 30 minutt. Vakttelefon Vy Buss er 91658600\\
- n\\nKLASSER\\nTorvbråten barneskole: 6B (16)\, 6A (16)\\nTotalt: 32 eleva
- r\\n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspr
- eet Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\
- nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
- ksjon=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Av
- reise: 08:35 &nbsp; Retur: 11:10<br>VY Turbuss frakter elevene fra skolen 
- og tilbake etter besøket, med stopp ved Holmsbu kirke på ca 30 minutt. V
- akttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torvbråten b
- arneskole:</b> 6B (16), 6A (16)<br><b>Totalt: 32 elevar</b></p><p><b>KONTA
- KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
- reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
- @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
- ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=25157'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482126@asker.dks
-DTSTART:20260924T083000Z
-DTEND:20260924T090500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nRøyken barnehage: 3-6 år (30)\\nSpikkestad Kanvas-B
- arnehage: 3-6 år (35)\\nTotalt: 65 elevar\\n\\nKONTAKT\\nRøyken barnehag
- e\\n  Tlf: +47 99 57 28 79\\n  Elin Evensen  +47 99 57 28 79  elin.evensen
- @asker.kommune.no\\nSpikkestad Kanvas-Barnehage\\n  Tlf: +47 22 40 58 40\\
- n  Hege Heiberg  +47 91 17 13 46  hege.heiberg@kanvas.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Røyken barnehage:</b> 3-6 å
- r (30)<br><b>Spikkestad Kanvas-Barnehage:</b> 3-6 år (35)<br><b>Totalt: 6
- 5 elevar</b></p><p><b>KONTAKT</b></p><p><b>Røyken barnehage</b><br>Tlf: +
- 47 99 57 28 79<br>Elin Evensen &nbsp; +47 99 57 28 79 &nbsp; <a href='mail
- to:elin.evensen@asker.kommune.no'>elin.evensen@asker.kommune.no</a><br></p
- ><p><b>Spikkestad Kanvas-Barnehage</b><br>Tlf: +47 22 40 58 40<br>Hege Hei
- berg &nbsp; +47 91 17 13 46 &nbsp; <a href='mailto:hege.heiberg@kanvas.no'
- >hege.heiberg@kanvas.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om pro
- duksjonen</a></p></body></html>
-LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505698@asker.dks
-DTSTART:20260924T093000Z
-DTEND:20260924T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
- �ya skole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter eleven
- e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
- \\nKLASSER\\nNesøya skole: 6B (20)\\nTotalt: 20 elevar\\n\\nKONTAKT\\nNes
- øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
- ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
- jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 11:05 &nbsp; Retur: 13:
- 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
- ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
- /b> 6B (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
- �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
- 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
- @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
- p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
- stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
- ksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559772@asker.dks
-DTSTART:20260924T093000Z
-DTEND:20260924T110000Z
-SUMMARY:Tur til Holmsbu kunstmuseum (6. trinn Asker sør)
-DESCRIPTION:Kunst under furua - besøk og verksted på Holmsbu kunstmuseum\
- \n\\nTRANSPORT\\nSætre skole\\n  Avreise: 10:50  Retur: 13:10\\n  VY Turb
- uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
- uss er 91658600\\n\\nKLASSER\\nSætre skole: 6a (17)\, 6b (16)\\nTotalt: 3
- 3 elevar\\n\\nKONTAKT\\nSætre skole\\n  Tlf: +47 32 27 83 30\\n  Hanne Li
- en Aaberg  +47 90 96 05 37  hanne.lien.aaberg@asker.kommune.no\\n  Linda S
- yvertsen  +47 40 23 68 60  linda.syvertsen@asker.kommune.no\\n  Skjalg Ols
- en  +47 95 07 47 37  skjalg.flesland.olsen@asker.kommune.no\\n\\nINFO\\nht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=25157
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Kunst under furua - besøk og verksted på Holmsbu ku
- nstmuseum</p><p><b>TRANSPORT</b></p><p><b>Sætre skole</b><br>Avreise: 10:
- 50 &nbsp; Retur: 13:10<br>VY Turbuss frakter elevene fra skolen og tilbake
-  etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><
- p><b>Sætre skole:</b> 6a (17), 6b (16)<br><b>Totalt: 33 elevar</b></p><p>
- <b>KONTAKT</b></p><p><b>Sætre skole</b><br>Tlf: +47 32 27 83 30<br>Hanne 
- Lien Aaberg &nbsp; +47 90 96 05 37 &nbsp; <a href='mailto:hanne.lien.aaber
- g@asker.kommune.no'>hanne.lien.aaberg@asker.kommune.no</a><br>Linda Syvert
- sen &nbsp; +47 40 23 68 60 &nbsp; <a href='mailto:linda.syvertsen@asker.ko
- mmune.no'>linda.syvertsen@asker.kommune.no</a><br>Skjalg Olsen &nbsp; +47 
- 95 07 47 37 &nbsp; <a href='mailto:skjalg.flesland.olsen@asker.kommune.no'
- >skjalg.flesland.olsen@asker.kommune.no</a><br></p><p><a href='https://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25157'
- >Les meir om produksjonen</a></p></body></html>
-LOCATION:Holmsbu kunstmuseum – Holmsbu Kunstmuseum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25157
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482127@asker.dks
-DTSTART:20260924T100000Z
-DTEND:20260924T103500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nPaletten Kanvas-Barnehage: 3-6 år (44)\\nKjekstadmar
- ka Kanvas-Barnehage: 3-6 år (12)\\nTotalt: 56 elevar\\n\\nKONTAKT\\nPalet
- ten Kanvas-Barnehage\\n  Mari Jansson  +47 40 63 05 13  paletten@kanvas.no
- \\nKjekstadmarka Kanvas-Barnehage\\n  Tlf: +47 31 29 14 00\\n  Sindre Andr
- eas Borgund  +47 47 24 62 82  sindre.borgund@kanvas.no\\n\\nINFO\\nhttps:/
- /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21
- 285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Paletten Kanvas-Barnehage:</b
- > 3-6 år (44)<br><b>Kjekstadmarka Kanvas-Barnehage:</b> 3-6 år (12)<br><
- b>Totalt: 56 elevar</b></p><p><b>KONTAKT</b></p><p><b>Paletten Kanvas-Barn
- ehage</b><br>Mari Jansson &nbsp; +47 40 63 05 13 &nbsp; <a href='mailto:pa
- letten@kanvas.no'>paletten@kanvas.no</a><br></p><p><b>Kjekstadmarka Kanvas
- -Barnehage</b><br>Tlf: +47 31 29 14 00<br>Sindre Andreas Borgund &nbsp; +4
- 7 47 24 62 82 &nbsp; <a href='mailto:sindre.borgund@kanvas.no'>sindre.borg
- und@kanvas.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om produksjonen<
- /a></p></body></html>
-LOCATION:Teglen - Spikkestad kirke og kultursenter – Kultursalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505699@asker.dks
-DTSTART:20260925T073000Z
-DTEND:20260925T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nNes�
- �ya skole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter eleven
- e fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n
- \\nKLASSER\\nNesøya skole: 6A (19)\\nTotalt: 19 elevar\\n\\nKONTAKT\\nNes
- øya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  ka
- ri.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  b
- jorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Nesøya skole</b><br>Avreise: 09:05 &nbsp; Retur: 11:
- 05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vak
- ttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Nesøya skole:<
- /b> 6A (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nes�
- �ya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 
- 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas
- @asker.kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbs
- p; <a href='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.ranne
- stad@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produ
- ksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20260930T073318Z
 BEGIN:VEVENT
 UID:dks-505701@asker.dks
 DTSTART:20261005T073000Z
@@ -636,25 +337,34 @@ UID:dks-509372@asker.dks
 DTSTART:20261009T070000Z
 DTEND:20261009T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nLandøy
- a ungdomsskole: 10B (30)\\nTotalt: 30 elevar\\n\\nKONTAKT\\nLandøya ungdo
- msskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25  mo
- na.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 37  trul
- s.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 22 68 02 
-  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nLand�
+ �ya ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag
+  til reiserute: Buss 270 fra Landøya kl. 08:47. Beregnet ankomst på hold
+ eplassen kl. 08:52. Retur med buss 270 fra Asker museum kl. 11:15. RUFUS-b
+ illetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\
+ n\\nKLASSER\\nLandøya ungdomsskole: 10B (30)\\nTotalt: 30 elevar\\n\\nKON
+ TAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen
+   +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valentini  
+ +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalh
+ eim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Landøya ungdomsskole:</b> 10B (30)<br><b>Totalt: 30 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: +4
- 7 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='m
- ailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no
- </a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:trul
- s.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.
- no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:m
- dalheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23346'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Landøya ungdomsskole</b><br>Elevene reiser kollektivt
+  til Asker museum. Forslag til reiserute: Buss 270 fra Landøya kl. 08:47.
+  Beregnet ankomst på holdeplassen kl. 08:52. Retur med buss 270 fra Asker
+  museum kl. 11:15. RUFUS-billetter kan benyttes. Dette bestilles av skolen
+ e og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Landøya ungdomssko
+ le:</b> 10B (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Landøya ungdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nb
+ sp; +47 93 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.
+ no'>mona.engebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99
+  11 70 37 &nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>
+ truls.ernani.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47
+  90 22 68 02 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@aske
+ rskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a>
+ </p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -741,25 +451,34 @@ UID:dks-509373@asker.dks
 DTSTART:20261009T100000Z
 DTEND:20261009T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nLandøy
- a ungdomsskole: 10C (27)\\nTotalt: 27 elevar\\n\\nKONTAKT\\nLandøya ungdo
- msskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25  mo
- na.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 37  trul
- s.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 22 68 02 
-  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nLand�
+ �ya ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag
+  til reiserute: Buss 270 fra Landøya kl. 11:47. Beregnet ankomst på hold
+ eplassen kl. 11:52. Retur med buss 270 fra Asker museum kl. 14:15. RUFUS-b
+ illetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\
+ n\\nKLASSER\\nLandøya ungdomsskole: 10C (27)\\nTotalt: 27 elevar\\n\\nKON
+ TAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen
+   +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valentini  
+ +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalh
+ eim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Landøya ungdomsskole:</b> 10C (27)<br><b>Totalt: 27 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: +4
- 7 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='m
- ailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no
- </a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:trul
- s.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.
- no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:m
- dalheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23346'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Landøya ungdomsskole</b><br>Elevene reiser kollektivt
+  til Asker museum. Forslag til reiserute: Buss 270 fra Landøya kl. 11:47.
+  Beregnet ankomst på holdeplassen kl. 11:52. Retur med buss 270 fra Asker
+  museum kl. 14:15. RUFUS-billetter kan benyttes. Dette bestilles av skolen
+ e og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Landøya ungdomssko
+ le:</b> 10C (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Landøya ungdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nb
+ sp; +47 93 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.
+ no'>mona.engebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99
+  11 70 37 &nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>
+ truls.ernani.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47
+  90 22 68 02 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@aske
+ rskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a>
+ </p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -769,25 +488,34 @@ UID:dks-509374@asker.dks
 DTSTART:20261012T070000Z
 DTEND:20261012T090000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nLandøy
- a ungdomsskole: 10D (30)\\nTotalt: 30 elevar\\n\\nKONTAKT\\nLandøya ungdo
- msskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25  mo
- na.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 37  trul
- s.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 22 68 02 
-  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nLand�
+ �ya ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag
+  til reiserute: Buss 270 fra Landøya kl. 08:47. Beregnet ankomst på hold
+ eplassen kl. 08:52. Retur med buss 270 fra Asker museum kl. 11:15. RUFUS-b
+ illetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\
+ n\\nKLASSER\\nLandøya ungdomsskole: 10D (30)\\nTotalt: 30 elevar\\n\\nKON
+ TAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen
+   +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valentini  
+ +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalh
+ eim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Landøya ungdomsskole:</b> 10D (30)<br><b>Totalt: 30 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: +4
- 7 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='m
- ailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no
- </a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:trul
- s.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.
- no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:m
- dalheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23346'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Landøya ungdomsskole</b><br>Elevene reiser kollektivt
+  til Asker museum. Forslag til reiserute: Buss 270 fra Landøya kl. 08:47.
+  Beregnet ankomst på holdeplassen kl. 08:52. Retur med buss 270 fra Asker
+  museum kl. 11:15. RUFUS-billetter kan benyttes. Dette bestilles av skolen
+ e og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Landøya ungdomssko
+ le:</b> 10D (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Landøya ungdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nb
+ sp; +47 93 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.
+ no'>mona.engebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99
+  11 70 37 &nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>
+ truls.ernani.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47
+  90 22 68 02 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@aske
+ rskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a>
+ </p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -883,25 +611,34 @@ UID:dks-509375@asker.dks
 DTSTART:20261012T100000Z
 DTEND:20261012T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nLandøy
- a ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nLandøya ungdo
- msskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25  mo
- na.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 37  trul
- s.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 22 68 02 
-  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.
- no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nLand�
+ �ya ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag
+  til reiserute: Buss 270 fra Landøya kl. 11:47. Beregnet ankomst på hold
+ eplassen kl. 11:52. Retur med buss 270 fra Asker museum kl. 14:15. RUFUS-b
+ illetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\
+ n\\nKLASSER\\nLandøya ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKON
+ TAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen
+   +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valentini  
+ +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalh
+ eim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Landøya ungdomsskole:</b> 10A (28)<br><b>Totalt: 28 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: +4
- 7 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='m
- ailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no
- </a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:trul
- s.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.
- no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:m
- dalheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23346'>Les meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Landøya ungdomsskole</b><br>Elevene reiser kollektivt
+  til Asker museum. Forslag til reiserute: Buss 270 fra Landøya kl. 11:47.
+  Beregnet ankomst på holdeplassen kl. 11:52. Retur med buss 270 fra Asker
+  museum kl. 14:15. RUFUS-billetter kan benyttes. Dette bestilles av skolen
+ e og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Landøya ungdomssko
+ le:</b> 10A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Landøya ungdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nb
+ sp; +47 93 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.
+ no'>mona.engebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99
+  11 70 37 &nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>
+ truls.ernani.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47
+  90 22 68 02 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@aske
+ rskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
+ utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a>
+ </p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -1293,43 +1030,44 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-541982@asker.dks
-DTSTART:20261020T084500Z
-DTEND:20261020T092000Z
+DTSTART:20261020T063000Z
+DTEND:20261020T070500Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nNærsnes barneskole: 1 (18)\, 2 (20)\\nTotalt: 38 ele
- var\\n\\nKONTAKT\\nNærsnes barneskole\\n  Tlf: +47 31 29 35 40\\n  Alise 
- Narjord Thue  +47 90 50 18 39  alise.narjord.thue@asker.kommune.no\\n\\nIN
- FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=24433
+DESCRIPTION:KLASSER\\nNærsnes barneskole: 4 (23)\, 3 (27)\, 1 (18)\, 2 (20
+ )\\nTotalt: 88 elevar\\n\\nKONTAKT\\nNærsnes barneskole\\n  Tlf: +47 31 2
+ 9 35 40\\n  Alise Narjord Thue  +47 90 50 18 39  alise.narjord.thue@asker.
+ kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=24433
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nærsnes barneskole:</b> 1 (1
- 8), 2 (20)<br><b>Totalt: 38 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærs
- nes barneskole</b><br>Tlf: +47 31 29 35 40<br>Alise Narjord Thue &nbsp; +4
- 7 90 50 18 39 &nbsp; <a href='mailto:alise.narjord.thue@asker.kommune.no'>
- alise.narjord.thue@asker.kommune.no</a><br></p><p><a href='https://www.den
- kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les
-  meir om produksjonen</a></p></body></html>
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nærsnes barneskole:</b> 4 (2
+ 3), 3 (27), 1 (18), 2 (20)<br><b>Totalt: 88 elevar</b></p><p><b>KONTAKT</b
+ ></p><p><b>Nærsnes barneskole</b><br>Tlf: +47 31 29 35 40<br>Alise Narjor
+ d Thue &nbsp; +47 90 50 18 39 &nbsp; <a href='mailto:alise.narjord.thue@as
+ ker.kommune.no'>alise.narjord.thue@asker.kommune.no</a><br></p><p><a href=
+ 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=24433'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Nærsnes barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-538655@asker.dks
-DTSTART:20261022T094000Z
-DTEND:20261022T101500Z
+DTSTART:20261022T095000Z
+DTEND:20261022T102500Z
 SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nRønningen skole: 1 (19)\, 2 (27)\\nTotalt: 46 elevar
- \\n\\nKONTAKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graff
- er  +47 95 76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nhttps://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433
+DESCRIPTION:KLASSER\\nRønningen skole: 3 (16)\, 1 (19)\, 2 (27)\\nTotalt: 
+ 62 elevar\\n\\nKONTAKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sø
+ lvi Graffer  +47 95 76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nh
+ ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
+ jon=24433
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Rønningen skole:</b> 1 (19),
-  2 (27)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønning
- en skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44
-  76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksjone
- n</a></p></body></html>
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Rønningen skole:</b> 3 (16),
+  1 (19), 2 (27)<br><b>Totalt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>
+ Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 
+ 95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.g
+ raffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om pro
+ duksjonen</a></p></body></html>
 LOCATION:Rønningen skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24433
@@ -1339,20 +1077,26 @@ UID:dks-509389@asker.dks
 DTSTART:20261023T100000Z
 DTEND:20261023T120000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nHovedg�
- �rden ungdomsskole: 10B (29)\\nTotalt: 29 elevar\\n\\nKONTAKT\\nHovedgå
- rden ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 2
- 6 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nHoved
+ gården ungdomsskole\\n  Avreise: 11:35  Retur: 14:00\\n  VY Turbuss frakt
+ er elevene fra skolen til Asker museum og tilbake etter besøket. Vakttele
+ fon Vy Buss er 91658600\\n\\nKLASSER\\nHovedgården ungdomsskole: 10B (29)
+ \\nTotalt: 29 elevar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47
+  66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kom
+ mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Hovedgården ungdomsskole:</b> 10B (29)<br><b>Totalt: 29
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br
- >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
- ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></bo
- dy></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Hovedgården ungdomsskole</b><br>Avreise: 11:35 &nbsp;
+  Retur: 14:00<br>VY Turbuss frakter elevene fra skolen til Asker museum og
+  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
+ /b></p><p><b>Hovedgården ungdomsskole:</b> 10B (29)<br><b>Totalt: 29 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf:
+  +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='
+ mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></
+ html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -1362,20 +1106,26 @@ UID:dks-509390@asker.dks
 DTSTART:20261026T080000Z
 DTEND:20261026T100000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nHovedg�
- �rden ungdomsskole: 10C (33)\\nTotalt: 33 elevar\\n\\nKONTAKT\\nHovedgå
- rden ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 2
- 6 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nHoved
+ gården ungdomsskole\\n  Avreise: 08:35  Retur: 11:00\\n  VY Turbuss frakt
+ er elevene fra skolen til Asker museum og tilbake etter besøket. Vakttele
+ fon Vy Buss er 91658600\\n\\nKLASSER\\nHovedgården ungdomsskole: 10C (33)
+ \\nTotalt: 33 elevar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47
+  66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kom
+ mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Hovedgården ungdomsskole:</b> 10C (33)<br><b>Totalt: 33
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br
- >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
- ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></bo
- dy></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Hovedgården ungdomsskole</b><br>Avreise: 08:35 &nbsp;
+  Retur: 11:00<br>VY Turbuss frakter elevene fra skolen til Asker museum og
+  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
+ /b></p><p><b>Hovedgården ungdomsskole:</b> 10C (33)<br><b>Totalt: 33 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf:
+  +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='
+ mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></
+ html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
@@ -1446,20 +1196,26 @@ UID:dks-509391@asker.dks
 DTSTART:20261026T110000Z
 DTEND:20261026T130000Z
 SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nKLASSER\\nHovedg�
- �rden ungdomsskole: 10A (31)\\nTotalt: 31 elevar\\n\\nKONTAKT\\nHovedgå
- rden ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 2
- 6 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
+DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nHoved
+ gården ungdomsskole\\n  Avreise: 11:35  Retur: 14:00\\n  VY Turbuss frakt
+ er elevene fra skolen til Asker museum og tilbake etter besøket. Vakttele
+ fon Vy Buss er 91658600\\n\\nKLASSER\\nHovedgården ungdomsskole: 10A (31)
+ \\nTotalt: 31 elevar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47
+  66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kom
+ mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
+ sjoner-i-dks/?produksjon=23346
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>KLA
- SSER</b></p><p><b>Hovedgården ungdomsskole:</b> 10A (31)<br><b>Totalt: 31
-  elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br
- >Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a h
- ref='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></bo
- dy></html>
+ f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
+ NSPORT</b></p><p><b>Hovedgården ungdomsskole</b><br>Avreise: 11:35 &nbsp;
+  Retur: 14:00<br>VY Turbuss frakter elevene fra skolen til Asker museum og
+  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
+ /b></p><p><b>Hovedgården ungdomsskole:</b> 10A (31)<br><b>Totalt: 31 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf:
+  +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='
+ mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a
+ ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
+ ksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></
+ html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
