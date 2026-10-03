@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Frydenlund barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Frydenlund barneskole
-LAST-MODIFIED:20261002T073256Z
+LAST-MODIFIED:20261003T010335Z
 BEGIN:VEVENT
 UID:dks-513407@asker.dks
 DTSTART:20261006T090000Z
-DTEND:20261006T100000Z
+DTEND:20261006T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nFrydenlund barneskole\\n
-   Avreise: 10:00  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
+   Avreise: 10:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen o
  g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nMidtbygda barn
- eskole\\n  Avreise: 10:00  Retur: 12:10\\n  VY Turbuss frakter elevene fra
+ eskole\\n  Avreise: 10:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra
   skolen til Det Norske Teatret og tilbake etter besøket. Vakttelefon Vy B
  uss er 91658600\\n\\nKLASSER\\nFrydenlund barneskole: 5 (33)\\nMidtbygda b
  arneskole: 5A (23)\, 5B (21)\, 5C (22)\\nTotalt: 99 elevar\\n\\nKONTAKT\\n
@@ -27,10 +27,10 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nFrydenlund barneskole\\n
  ksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Frydenlund barneskole</b><br>Avreise: 10:00 &nbsp; Retur: 12:05<br>VY Tur
+ >Frydenlund barneskole</b><br>Avreise: 10:00 &nbsp; Retur: 12:20<br>VY Tur
  buss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy 
  Buss er 91658600</p><p><b>Midtbygda barneskole</b><br>Avreise: 10:00 &nbsp
- ; Retur: 12:10<br>VY Turbuss frakter elevene fra skolen til Det Norske Tea
+ ; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen til Det Norske Tea
  tret og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>K
  LASSER</b></p><p><b>Frydenlund barneskole:</b> 5 (33)<br><b>Midtbygda barn
  eskole:</b> 5A (23), 5B (21), 5C (22)<br><b>Totalt: 99 elevar</b></p><p><b

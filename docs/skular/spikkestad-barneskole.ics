@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20261002T073258Z
+LAST-MODIFIED:20261003T010339Z
 BEGIN:VEVENT
 UID:dks-513405@asker.dks
 DTSTART:20261023T090000Z
-DTEND:20261023T100000Z
+DTEND:20261023T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTorvbråten barneskole\\
- n  Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen 
+ n  Avreise: 10:10  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen 
  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nSpikkestad ba
  rneskole\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til
   reiserute: Tog fra Spikkestad stasjon kl. 09:46. Beregnet ankomst på sta
@@ -33,7 +33,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTorvbråten barneskole\\
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Torvbråten barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Tu
+ >Torvbråten barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:20<br>VY Tu
  rbuss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy
   Buss er 91658600</p><p><b>Spikkestad barneskole</b><br>Elevene reiser kol
  lektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Spikkestad 

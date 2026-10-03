@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte skole
-LAST-MODIFIED:20261002T073259Z
+LAST-MODIFIED:20261003T010340Z
 BEGIN:VEVENT
 UID:dks-538233@asker.dks
 DTSTART:20261019T073500Z
@@ -30,16 +30,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dks-513406@asker.dks
 DTSTART:20261026T100000Z
-DTEND:20261026T110000Z
+DTEND:20261026T111500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
-  09:00  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake 
+  09:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og tilbake 
  etter besøket. Vakttelefon Vy Buss er 91658600\\nHeggedal skole\\n  Eleve
  ne reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fr
  a Heggedal stasjon kl. 09:54. Beregnet ankomst på stasjonen kl. 10:35. Re
  tur med tog fra Nationaltheatret stasjon kl. 12:43. RUFUS-billetter kan be
  nyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSolberg skole\
- \n  Avreise: 10:15  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
+ \n  Avreise: 10:15  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
  nSolberg skole: 5 (18)\\nHeggedal skole: 5A (25)\, 5B (25)\, 5c (22)\\nTof
  te skole: 5a (24)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
@@ -51,14 +51,14 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
  roduksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Tofte skole</b><br>Avreise: 09:00 &nbsp; Retur: 12:05<br>VY Turbuss frakt
+ >Tofte skole</b><br>Avreise: 09:00 &nbsp; Retur: 12:20<br>VY Turbuss frakt
  er elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91
  658600</p><p><b>Heggedal skole</b><br>Elevene reiser kollektivt til Det No
  rske Teatret. Forslag til reiserute: Tog fra Heggedal stasjon kl. 09:54. B
  eregnet ankomst på stasjonen kl. 10:35. Retur med tog fra Nationaltheatre
  t stasjon kl. 12:43. RUFUS-billetter kan benyttes. Dette bestilles av skol
  ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:15 &n
- bsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake ette
+ bsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og tilbake ette
  r besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>
  Solberg skole:</b> 5 (18)<br><b>Heggedal skole:</b> 5A (25), 5B (25), 5c (
  22)<br><b>Tofte skole:</b> 5a (24)<br><b>Totalt: 114 elevar</b></p><p><b>K

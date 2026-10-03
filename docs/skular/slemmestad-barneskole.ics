@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad barneskole
-LAST-MODIFIED:20261002T073258Z
+LAST-MODIFIED:20261003T010339Z
 BEGIN:VEVENT
 UID:dks-513396@asker.dks
 DTSTART:20261007T090000Z
-DTEND:20261007T100000Z
+DTEND:20261007T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\\n
-   Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen o
+   Avreise: 10:10  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen o
  g tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nJansløkka sko
- le\\n  Avreise: 10:20  Retur: 12:10\\n  VY Turbuss frakter elevene fra sko
+ le\\n  Avreise: 10:20  Retur: 12:20\\n  VY Turbuss frakter elevene fra sko
  len til Det Norske Teatret og tilbake etter besøket. Vakttelefon Vy Buss 
  er 91658600\\nStiftelsen Asker International School\\n  Elevene reiser kol
  lektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasj
@@ -31,10 +31,10 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSlemmestad barneskole\\n
  denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Slemmestad barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Tur
+ >Slemmestad barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:20<br>VY Tur
  buss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy 
  Buss er 91658600</p><p><b>Jansløkka skole</b><br>Avreise: 10:20 &nbsp; Re
- tur: 12:10<br>VY Turbuss frakter elevene fra skolen til Det Norske Teatret
+ tur: 12:20<br>VY Turbuss frakter elevene fra skolen til Det Norske Teatret
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>Stift
  elsen Asker International School</b><br>Elevene reiser kollektivt til Det 
  Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Be

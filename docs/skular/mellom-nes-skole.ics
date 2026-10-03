@@ -5,20 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Mellom-Nes skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Mellom-Nes skole
-LAST-MODIFIED:20261002T073257Z
+LAST-MODIFIED:20261003T010338Z
 BEGIN:VEVENT
 UID:dks-513403@asker.dks
 DTSTART:20261021T090000Z
-DTEND:20261021T100000Z
+DTEND:20261021T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSydskogen barneskole\\n 
-  Avreise: 10:10  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og
+  Avreise: 10:10  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og
   tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nRønningen skol
  e\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til reiser
  ute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 1
  0:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billette
  r kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nMellom
- -Nes skole\\n  Avreise: 10:25  Retur: 12:05\\n  VY Turbuss frakter elevene
+ -Nes skole\\n  Avreise: 10:25  Retur: 12:20\\n  VY Turbuss frakter elevene
   fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\
  \nKLASSER\\nSydskogen barneskole: 5 (17)\\nRønningen skole: 5 (29)\\nMell
  om-Nes skole: 5 (66)\\nTotalt: 112 elevar\\n\\nKONTAKT\\nSydskogen barnesk
@@ -31,14 +31,14 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSydskogen barneskole\\n
  o/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Sydskogen barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:05<br>VY Turb
+ >Sydskogen barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:20<br>VY Turb
  uss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy B
  uss er 91658600</p><p><b>Rønningen skole</b><br>Elevene reiser kollektivt
   til Det Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 
  10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationa
  ltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles
   av skolene og dekkes av DKS Asker</p><p><b>Mellom-Nes skole</b><br>Avreis
- e: 10:25 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og t
+ e: 10:25 &nbsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og t
  ilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b
  ></p><p><b>Sydskogen barneskole:</b> 5 (17)<br><b>Rønningen skole:</b> 5 
  (29)<br><b>Mellom-Nes skole:</b> 5 (66)<br><b>Totalt: 112 elevar</b></p><p

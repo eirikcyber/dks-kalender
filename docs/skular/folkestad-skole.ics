@@ -5,20 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Folkestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Folkestad skole
-LAST-MODIFIED:20261002T073256Z
+LAST-MODIFIED:20261003T010335Z
 BEGIN:VEVENT
 UID:dks-513398@asker.dks
 DTSTART:20261014T090000Z
-DTEND:20261014T100000Z
+DTEND:20261014T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHofstad skole\\n  Eleven
  e reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra
   Vakås stasjon kl. 10:08. Beregnet ankomst på stasjonen kl. 10:35. Retur
   med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter kan benyt
  tes. Dette bestilles av skolene og dekkes av DKS Asker\\nVettre skole\\n  
- Avreise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og 
+ Avreise: 10:20  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og 
  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nFolkestad skole\
- \n  Avreise: 09:30  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen
+ \n  Avreise: 09:30  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600. VY estimerer 
  turen til å ta 1t og 20 minutt. \\n\\nKLASSER\\nVettre skole: 5 (50)\\nFo
  lkestad skole: 5 (13)\\nHofstad skole: 5A (25)\, 5B (27)\\nTotalt: 115 ele
@@ -37,10 +37,10 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  rslag til reiserute: Tog fra Vakås stasjon kl. 10:08. Beregnet ankomst p�
  � stasjonen kl. 10:35. Retur med tog fra Nationaltheatret stasjon kl. 12
  :29. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av
-  DKS Asker</p><p><b>Vettre skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:05
+  DKS Asker</p><p><b>Vettre skole</b><br>Avreise: 10:20 &nbsp; Retur: 12:20
  <br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket. Vaktt
  elefon Vy Buss er 91658600</p><p><b>Folkestad skole</b><br>Avreise: 09:30 
- &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilbake et
+ &nbsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og tilbake et
  ter besøket. Vakttelefon Vy Buss er 91658600. VY estimerer turen til å t
  a 1t og 20 minutt. </p><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 5 (50)
  <br><b>Folkestad skole:</b> 5 (13)<br><b>Hofstad skole:</b> 5A (25), 5B (2

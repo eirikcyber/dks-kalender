@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Bondi skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Bondi skole
-LAST-MODIFIED:20261002T073255Z
+LAST-MODIFIED:20261003T010335Z
 BEGIN:VEVENT
 UID:dks-513400@asker.dks
 DTSTART:20261019T090000Z
-DTEND:20261019T100000Z
+DTEND:20261019T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nStiftelsen Asker Interna
  tional School\\n  Elevene reiser kollektivt til Det Norske Teatret. Forsla
@@ -20,7 +20,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nStiftelsen Asker Interna
  rslag til reiserute: Tog fra Asker stasjon kl. 10:19. Beregnet ankomst på
   stasjonen kl. 10:37. Retur med tog fra Nationaltheatret stasjon kl. 12:21
  . RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DK
- S Asker\\nNesøya skole\\n  Avreise: 10:30  Retur: 12:05\\n  VY Turbuss fr
+ S Asker\\nNesøya skole\\n  Avreise: 10:30  Retur: 12:20\\n  VY Turbuss fr
  akter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er
   91658600\\n\\nKLASSER\\nBondi skole: 5A (22)\, 5B (19)\\nNesøya skole: 5
  A (25)\, 5B (25)\\nStiftelsen Asker International School: 5b (23)\\nTotalt
@@ -44,7 +44,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  tasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Retur med tog 
  fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dett
  e bestilles av skolene og dekkes av DKS Asker</p><p><b>Nesøya skole</b><b
- r>Avreise: 10:30 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra sko
+ r>Avreise: 10:30 &nbsp; Retur: 12:20<br>VY Turbuss frakter elevene fra sko
  len og tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KL
  ASSER</b></p><p><b>Bondi skole:</b> 5A (22), 5B (19)<br><b>Nesøya skole:<
  /b> 5A (25), 5B (25)<br><b>Stiftelsen Asker International School:</b> 5b (
@@ -69,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dks-513402@asker.dks
 DTSTART:20261020T090000Z
-DTEND:20261020T100000Z
+DTEND:20261020T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nBondi skole\\n  Elevene 
  reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fra A
@@ -84,7 +84,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nBondi skole\\n  Elevene
  et. Forslag til reiserute: Buss 250 fra Vollen kl. 09:58. Beregnet ankomst
   på holdeplassen kl. 10:36. Retur med buss 250 fra Nationaltheatret kl. 1
  2:26. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes a
- v DKS Asker\\nSteinerskolen i Hurum\\n  Avreise: 09:50  Retur: 12:10\\n  V
+ v DKS Asker\\nSteinerskolen i Hurum\\n  Avreise: 09:50  Retur: 12:20\\n  V
  Y Turbuss frakter elevene fra skolen til Det Norske Teatret og tilbake ett
  er besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\nBondi skole: 5
  C (20)\\nSteinerskolen i Hurum: 5 (17)\\nHvalstad skole: 5A (20)\, 5B (20)
@@ -115,7 +115,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
   Buss 250 fra Vollen kl. 09:58. Beregnet ankomst på holdeplassen kl. 10:3
  6. Retur med buss 250 fra Nationaltheatret kl. 12:26. RUFUS-billetter kan 
  benyttes. Dette bestilles av skolene og dekkes av DKS Asker</p><p><b>Stein
- erskolen i Hurum</b><br>Avreise: 09:50 &nbsp; Retur: 12:10<br>VY Turbuss f
+ erskolen i Hurum</b><br>Avreise: 09:50 &nbsp; Retur: 12:20<br>VY Turbuss f
  rakter elevene fra skolen til Det Norske Teatret og tilbake etter besøket
  . Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Bondi skol
  e:</b> 5C (20)<br><b>Steinerskolen i Hurum:</b> 5 (17)<br><b>Hvalstad skol

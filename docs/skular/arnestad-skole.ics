@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Arnestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Arnestad skole
-LAST-MODIFIED:20261002T073254Z
+LAST-MODIFIED:20261003T010334Z
 BEGIN:VEVENT
 UID:dks-513404@asker.dks
 DTSTART:20261008T090000Z
-DTEND:20261008T100000Z
+DTEND:20261008T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nNærsnes barneskole\\n  
  Avreise: 08:30  Retur: 12:30\\n  VY Turbuss frakter elevene fra skolen og 
  tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nArnestad skole\\
- n  Avreise: 10:15  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen 
+ n  Avreise: 10:15  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen 
  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nSteinerskolen
   i Asker\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til
   reiserute: Buss 250 fra Nesåsen kl. 10:14. Beregnet ankomst på holdepla
@@ -40,7 +40,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  >Nærsnes barneskole</b><br>Avreise: 08:30 &nbsp; Retur: 12:30<br>VY Turbu
  ss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Bu
  ss er 91658600</p><p><b>Arnestad skole</b><br>Avreise: 10:15 &nbsp; Retur:
-  12:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket.
+  12:20<br>VY Turbuss frakter elevene fra skolen og tilbake etter besøket.
   Vakttelefon Vy Buss er 91658600</p><p><b>Steinerskolen i Asker</b><br>Ele
  vene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Buss
   250 fra Nesåsen kl. 10:14. Beregnet ankomst på holdeplassen kl. 10:36. 

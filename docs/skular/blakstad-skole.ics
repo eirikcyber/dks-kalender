@@ -5,20 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Blakstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Blakstad skole
-LAST-MODIFIED:20261002T073255Z
+LAST-MODIFIED:20261003T010334Z
 BEGIN:VEVENT
 UID:dks-513401@asker.dks
 DTSTART:20261016T090000Z
-DTEND:20261016T100000Z
+DTEND:20261016T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHyggen skole\\n  Avreise
- : 10:00  Retur: 12:05\\n  VY Turbuss frakter elevene fra skolen og tilbake
+ : 10:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og tilbake
   etter besøket. Vakttelefon Vy Buss er 91658600\\nBillingstad skole\\n  E
  levene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: To
  g fra Billingstad stasjon kl. 10:13. Beregnet ankomst på stasjonen kl. 10
  :35. Retur med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter
   kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nBlaksta
- d skole\\n  Avreise: 10:20  Retur: 12:05\\n  VY Turbuss frakter elevene fr
+ d skole\\n  Avreise: 10:20  Retur: 12:20\\n  VY Turbuss frakter elevene fr
  a skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nK
  LASSER\\nHyggen skole: 5 (18)\\nBlakstad skole: 5A (26)\, 5B (27)\\nBillin
  gstad skole: 5A (19)\, 5B (19)\\nTotalt: 109 elevar\\n\\nKONTAKT\\nHyggen 
@@ -31,14 +31,14 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHyggen skole\\n  Avreise
  n.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Hyggen skole</b><br>Avreise: 10:00 &nbsp; Retur: 12:05<br>VY Turbuss frak
+ >Hyggen skole</b><br>Avreise: 10:00 &nbsp; Retur: 12:20<br>VY Turbuss frak
  ter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9
  1658600</p><p><b>Billingstad skole</b><br>Elevene reiser kollektivt til De
  t Norske Teatret. Forslag til reiserute: Tog fra Billingstad stasjon kl. 1
  0:13. Beregnet ankomst på stasjonen kl. 10:35. Retur med tog fra National
  theatret stasjon kl. 12:29. RUFUS-billetter kan benyttes. Dette bestilles 
  av skolene og dekkes av DKS Asker</p><p><b>Blakstad skole</b><br>Avreise: 
- 10:20 &nbsp; Retur: 12:05<br>VY Turbuss frakter elevene fra skolen og tilb
+ 10:20 &nbsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og tilb
  ake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></
  p><p><b>Hyggen skole:</b> 5 (18)<br><b>Blakstad skole:</b> 5A (26), 5B (27
  )<br><b>Billingstad skole:</b> 5A (19), 5B (19)<br><b>Totalt: 109 elevar</
