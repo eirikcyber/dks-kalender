@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Arnestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Arnestad skole
-LAST-MODIFIED:20261003T010334Z
+LAST-MODIFIED:20261004T012749Z
 BEGIN:VEVENT
 UID:dks-513404@asker.dks
 DTSTART:20261008T090000Z
@@ -31,10 +31,9 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nNærsnes barneskole\\n
  alle.myskja@asker.kommune.no\\n  Anders Njåtun  +47 48 13 46 04  anders.n
  jatun@asker.kommune.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n
    marianne  stai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  
- DAVID WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Me
- tte Bøe  +47 90 66 73 87  anne.boe@askersteinerskole.no\\n\\nINFO\\nhttps
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 23665
+ DAVID WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
  >Nærsnes barneskole</b><br>Avreise: 08:30 &nbsp; Retur: 12:30<br>VY Turbu
@@ -65,11 +64,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f: +47 66 85 26 80<br>marianne  stai &nbsp; +47 98 03 49 34 &nbsp; <a href
  ='mailto:marianne.stai@askersteinerskole.no'>marianne.stai@askersteinersko
  le.no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp; <a href='mailto:dav
- id.whyte@askersteinerskole.no'>david.whyte@askersteinerskole.no</a><br>Ann
- e-Mette Bøe &nbsp; +47 90 66 73 87 &nbsp; <a href='mailto:anne.boe@askers
- teinerskole.no'>anne.boe@askersteinerskole.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 23665'>Les meir om produksjonen</a></p></body></html>
+ id.whyte@askersteinerskole.no'>david.whyte@askersteinerskole.no</a><br></p
+ ><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-
+ i-dks/?produksjon=23665'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Det Norske Teatret – Scene 3
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23665

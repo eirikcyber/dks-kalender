@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hvalstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hvalstad skole
-LAST-MODIFIED:20261003T010337Z
+LAST-MODIFIED:20261004T012752Z
 BEGIN:VEVENT
 UID:dks-538231@asker.dks
 DTSTART:20261007T070000Z
@@ -624,11 +624,10 @@ DESCRIPTION:KLASSER\\nHvalstad skole: 7A (26)\, 7B (25)\\nSteinerskolen i A
  n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.k
  ommune.no\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  s
  tai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  
- +47 96 62 36 15  david.whyte@askersteinerskole.no\\n  Anne-Mette Bøe  +47
-  90 66 73 87  anne.boe@askersteinerskole.no\\nJansløkka skole\\n  Tlf: +4
- 7 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\
- n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
- dks/?produksjon=24641
+ +47 96 62 36 15  david.whyte@askersteinerskole.no\\nJansløkka skole\\n  T
+ lf: +47 66 71 55 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommun
+ e.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjo
+ ner-i-dks/?produksjon=24641
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 7A (26), 
  7B (25)<br><b>Steinerskolen i Asker:</b> 7 (15)<br><b>Jansløkka skole:</b
@@ -642,13 +641,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  i &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteiner
  skole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47
   96 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>davi
- d.whyte@askersteinerskole.no</a><br>Anne-Mette Bøe &nbsp; +47 90 66 73 87
-  &nbsp; <a href='mailto:anne.boe@askersteinerskole.no'>anne.boe@askerstein
- erskole.no</a><br></p><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<b
- r>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.
- kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a href='https://www.den
- kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24641'>Les
-  meir om produksjonen</a></p></body></html>
+ d.whyte@askersteinerskole.no</a><br></p><p><b>Jansløkka skole</b><br>Tlf:
+  +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 46 28 &nbsp; <a href='ma
+ ilto:mmelas@asker.kommune.no'>mmelas@asker.kommune.no</a><br></p><p><a hre
+ f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24641'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker kino – Sal 2
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24641
