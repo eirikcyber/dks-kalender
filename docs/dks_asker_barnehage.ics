@@ -5,63 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20261005T073337Z
-BEGIN:VEVENT
-UID:dks-505701@asker.dks
-DTSTART:20261005T073000Z
-DTEND:20261005T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nTorv
- bråten barneskole\\n  Avreise: 09:05  Retur: 11:05\\n  VY Turbuss frakter
-  elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9165
- 8600\\n\\nKLASSER\\nTorvbråten barneskole: 6B (16)\\nTotalt: 16 elevar\\n
- \\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet 
- Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhtt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Avreise: 09:05 &nbsp; R
- etur: 11:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter bes�
- �ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torv
- bråten barneskole:</b> 6B (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTA
- KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
- reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
- @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
- ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=23232'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-505702@asker.dks
-DTSTART:20261005T093000Z
-DTEND:20261005T110000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nTorv
- bråten barneskole\\n  Avreise: 11:05  Retur: 13:05\\n  VY Turbuss frakter
-  elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9165
- 8600\\n\\nKLASSER\\nTorvbråten barneskole: 6A (16)\\nTotalt: 16 elevar\\n
- \\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet 
- Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nhtt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Torvbråten barneskole</b><br>Avreise: 11:05 &nbsp; R
- etur: 13:05<br>VY Turbuss frakter elevene fra skolen og tilbake etter bes�
- �ket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>Torv
- bråten barneskole:</b> 6A (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTA
- KT</b></p><p><b>Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jasp
- reet Bath &nbsp; +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath
- @asker.kommune.no'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a hr
- ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=23232'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20261006T073331Z
 BEGIN:VEVENT
 UID:dks-538229@asker.dks
 DTSTART:20261006T074500Z

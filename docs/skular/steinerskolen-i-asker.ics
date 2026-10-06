@@ -5,41 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Asker
-LAST-MODIFIED:20261005T073346Z
-BEGIN:VEVENT
-UID:dks-509366@asker.dks
-DTSTART:20261005T070000Z
-DTEND:20261005T090000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nStein
- erskolen i Asker\\n  Elevene reiser kollektivt til Asker museum. Forslag t
- il reiserute: Buss 270 fra Nesåsen kl. 08:46. Beregnet ankomst på holdep
- lassen kl. 08:52. Retur med buss 270 fra Asker museum kl. 11:15. RUFUS-bil
- letter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\n\
- \nKLASSER\\nSteinerskolen i Asker: 10 (15)\\nTotalt: 15 elevar\\n\\nKONTAK
- T\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  stai  +47
-  98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  +47 96 6
- 2 36 15  david.whyte@askersteinerskole.no\\n\\nINFO\\nhttps://www.denkultu
- relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Steinerskolen i Asker</b><br>Elevene reiser kollektivt
-  til Asker museum. Forslag til reiserute: Buss 270 fra Nesåsen kl. 08:46.
-  Beregnet ankomst på holdeplassen kl. 08:52. Retur med buss 270 fra Asker
-  museum kl. 11:15. RUFUS-billetter kan benyttes. Dette bestilles av skolen
- e og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Steinerskolen i Ask
- er:</b> 10 (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>
- Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbsp;
-  +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinerskole.no
- '>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62 3
- 6 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>david.whyte@
- askersteinerskole.no</a><br></p><p><a href='https://www.denkulturelleskole
- sekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om produk
- sjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
+LAST-MODIFIED:20261006T073343Z
 BEGIN:VEVENT
 UID:dks-513404@asker.dks
 DTSTART:20261008T090000Z
