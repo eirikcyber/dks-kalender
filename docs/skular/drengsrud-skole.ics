@@ -5,53 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Drengsrud skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Drengsrud skole
-LAST-MODIFIED:20261006T073335Z
-BEGIN:VEVENT
-UID:dks-513397@asker.dks
-DTSTART:20261013T090000Z
-DTEND:20261013T101500Z
-SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nSætre skole\\n  Avreise
- : 08:30  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og tilbake
-  etter besøket. Vakttelefon Vy Buss er 91658600\\nDrengsrud skole\\n  Ele
- vene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog 
- fra Asker stasjon kl. 10:19. Beregnet ankomst på stasjonen kl. 10:37. Ret
- ur med tog fra Nationaltheatret stasjon kl. 12:21. RUFUS-billetter kan ben
- yttes. Dette bestilles av skolene og dekkes av DKS Asker\\n\\nKLASSER\\nDr
- engsrud skole: 5A (19)\, 5B (19)\, 5C (20)\\nSætre skole: 5a (22)\, 5b (2
- 3)\\nTotalt: 103 elevar\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: +47 66 71 
- 27 00\\n  Thomas Rolland  +47 47 84 13 15  thomas.rolland@asker.kommune.no
- \\nSætre skole\\n  Tlf: +47 32 27 83 30\\n  Hanne Lien Aaberg  +47 90 96 
- 05 37  hanne.lien.aaberg@asker.kommune.no\\n  Linda Syvertsen  +47 40 23 6
- 8 60  linda.syvertsen@asker.kommune.no\\n  Skjalg Olsen  +47 95 07 47 37  
- skjalg.flesland.olsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Sætre skole</b><br>Avreise: 08:30 &nbsp; Retur: 12:20<br>VY Turbuss frak
- ter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9
- 1658600</p><p><b>Drengsrud skole</b><br>Elevene reiser kollektivt til Det 
- Norske Teatret. Forslag til reiserute: Tog fra Asker stasjon kl. 10:19. Be
- regnet ankomst på stasjonen kl. 10:37. Retur med tog fra Nationaltheatret
-  stasjon kl. 12:21. RUFUS-billetter kan benyttes. Dette bestilles av skole
- ne og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Drengsrud skole:</
- b> 5A (19), 5B (19), 5C (20)<br><b>Sætre skole:</b> 5a (22), 5b (23)<br><
- b>Totalt: 103 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsrud skole</b>
- <br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13 15 &nbsp; <
- a href='mailto:thomas.rolland@asker.kommune.no'>thomas.rolland@asker.kommu
- ne.no</a><br></p><p><b>Sætre skole</b><br>Tlf: +47 32 27 83 30<br>Hanne L
- ien Aaberg &nbsp; +47 90 96 05 37 &nbsp; <a href='mailto:hanne.lien.aaberg
- @asker.kommune.no'>hanne.lien.aaberg@asker.kommune.no</a><br>Linda Syverts
- en &nbsp; +47 40 23 68 60 &nbsp; <a href='mailto:linda.syvertsen@asker.kom
- mune.no'>linda.syvertsen@asker.kommune.no</a><br>Skjalg Olsen &nbsp; +47 9
- 5 07 47 37 &nbsp; <a href='mailto:skjalg.flesland.olsen@asker.kommune.no'>
- skjalg.flesland.olsen@asker.kommune.no</a><br></p><p><a href='https://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665'>
- Les meir om produksjonen</a></p></body></html>
-LOCATION:Det Norske Teatret – Scene 3
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23665
-END:VEVENT
+LAST-MODIFIED:20261021T090011Z
 BEGIN:VEVENT
 UID:dks-482003@asker.dks
 DTSTART:20261026T074500Z

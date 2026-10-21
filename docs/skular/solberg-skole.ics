@@ -5,36 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solberg skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solberg skole
-LAST-MODIFIED:20261006T073338Z
-BEGIN:VEVENT
-UID:dks-505703@asker.dks
-DTSTART:20261006T073000Z
-DTEND:20261006T090000Z
-SUMMARY:Tur til Kunsthall Dikemark (6. trinn)
-DESCRIPTION:Besøk og verksted hos Kunsthall Dikemark\\n\\nTRANSPORT\\nSolb
- erg skole\\n  Elevene går eller sykler til Kunsthall Dikemark.\\n\\nKLASS
- ER\\nSolberg skole: 6 (14)\\nTotalt: 14 elevar\\n\\nKONTAKT\\nSolberg skol
- e\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.
- engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/
- utforsk-produksjoner-i-dks/?produksjon=23232
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Besøk og verksted hos Kunsthall Dikemark</p><p><b>TR
- ANSPORT</b></p><p><b>Solberg skole</b><br>Elevene går eller sykler til Ku
- nsthall Dikemark.</p><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 6 (14)<
- br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg skole</b
- ><br>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a hr
- ef='mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@asker
- .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=23232'>Les meir om produksjonen</a
- ></p></body></html>
-LOCATION:Kunsthall Dikemark – Kunsthall Dikemark
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23232
-END:VEVENT
+LAST-MODIFIED:20261021T090012Z
 BEGIN:VEVENT
 UID:dks-482068@asker.dks
-DTSTART:20261021T094500Z
-DTEND:20261021T103000Z
+DTSTART:20261021T110000Z
+DTEND:20261021T114500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nSolberg skole: 3 (14)\\nTotalt: 14 elevar\\n\\nKONTAK
  T\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69 
@@ -58,13 +33,13 @@ DTSTART:20261026T100000Z
 DTEND:20261026T111500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
-  09:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og tilbake 
+  08:45  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen og tilbake 
  etter besøket. Vakttelefon Vy Buss er 91658600\\nHeggedal skole\\n  Eleve
  ne reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fr
  a Heggedal stasjon kl. 09:54. Beregnet ankomst på stasjonen kl. 10:35. Re
  tur med tog fra Nationaltheatret stasjon kl. 12:43. RUFUS-billetter kan be
  nyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSolberg skole\
- \n  Avreise: 10:15  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen
+ \n  Avreise: 10:00  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen
   og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
  nSolberg skole: 5 (18)\\nHeggedal skole: 5A (25)\, 5B (25)\, 5c (22)\\nTof
  te skole: 5a (24)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
@@ -76,14 +51,14 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
  roduksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Tofte skole</b><br>Avreise: 09:00 &nbsp; Retur: 12:20<br>VY Turbuss frakt
+ >Tofte skole</b><br>Avreise: 08:45 &nbsp; Retur: 12:45<br>VY Turbuss frakt
  er elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91
  658600</p><p><b>Heggedal skole</b><br>Elevene reiser kollektivt til Det No
  rske Teatret. Forslag til reiserute: Tog fra Heggedal stasjon kl. 09:54. B
  eregnet ankomst på stasjonen kl. 10:35. Retur med tog fra Nationaltheatre
  t stasjon kl. 12:43. RUFUS-billetter kan benyttes. Dette bestilles av skol
- ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:15 &n
- bsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og tilbake ette
+ ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:00 &n
+ bsp; Retur: 12:45<br>VY Turbuss frakter elevene fra skolen og tilbake ette
  r besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>
  Solberg skole:</b> 5 (18)<br><b>Heggedal skole:</b> 5A (25), 5B (25), 5c (
  22)<br><b>Tofte skole:</b> 5a (24)<br><b>Totalt: 114 elevar</b></p><p><b>K

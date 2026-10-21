@@ -5,59 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hyggen skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hyggen skole
-LAST-MODIFIED:20261006T073337Z
-BEGIN:VEVENT
-UID:dks-513401@asker.dks
-DTSTART:20261016T090000Z
-DTEND:20261016T101500Z
-SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nHyggen skole\\n  Avreise
- : 10:00  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen og tilbake
-  etter besøket. Vakttelefon Vy Buss er 91658600\\nBillingstad skole\\n  E
- levene reiser kollektivt til Det Norske Teatret. Forslag til reiserute: To
- g fra Billingstad stasjon kl. 10:13. Beregnet ankomst på stasjonen kl. 10
- :35. Retur med tog fra Nationaltheatret stasjon kl. 12:29. RUFUS-billetter
-  kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nBlaksta
- d skole\\n  Avreise: 10:20  Retur: 12:20\\n  VY Turbuss frakter elevene fr
- a skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nK
- LASSER\\nHyggen skole: 5 (18)\\nBlakstad skole: 5A (26)\, 5B (27)\\nBillin
- gstad skole: 5A (19)\, 5B (19)\\nTotalt: 109 elevar\\n\\nKONTAKT\\nHyggen 
- skole\\n  Tlf: +47 40 90 39 14\\n  Lene Austreng  +47 90 91 11 86  laustre
- n@asker.kommune.no\\n  Anita Tollefsen  +47 48 23 76 17  anita.tollefsen@a
- sker.kommune.no\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN
-   +47 41 68 28 11  lotte.hansen@asker.kommune.no\\nBillingstad skole\\n  T
- lf: +47 66 71 53 00\\n  Caroline Halnes  +47 92 64 17 94  caroline.blutech
- er.halnes@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=23665
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Hyggen skole</b><br>Avreise: 10:00 &nbsp; Retur: 12:20<br>VY Turbuss frak
- ter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 9
- 1658600</p><p><b>Billingstad skole</b><br>Elevene reiser kollektivt til De
- t Norske Teatret. Forslag til reiserute: Tog fra Billingstad stasjon kl. 1
- 0:13. Beregnet ankomst på stasjonen kl. 10:35. Retur med tog fra National
- theatret stasjon kl. 12:29. RUFUS-billetter kan benyttes. Dette bestilles 
- av skolene og dekkes av DKS Asker</p><p><b>Blakstad skole</b><br>Avreise: 
- 10:20 &nbsp; Retur: 12:20<br>VY Turbuss frakter elevene fra skolen og tilb
- ake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></
- p><p><b>Hyggen skole:</b> 5 (18)<br><b>Blakstad skole:</b> 5A (26), 5B (27
- )<br><b>Billingstad skole:</b> 5A (19), 5B (19)<br><b>Totalt: 109 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Hyggen skole</b><br>Tlf: +47 40 90 39 14<
- br>Lene Austreng &nbsp; +47 90 91 11 86 &nbsp; <a href='mailto:laustren@as
- ker.kommune.no'>laustren@asker.kommune.no</a><br>Anita Tollefsen &nbsp; +4
- 7 48 23 76 17 &nbsp; <a href='mailto:anita.tollefsen@asker.kommune.no'>ani
- ta.tollefsen@asker.kommune.no</a><br></p><p><b>Blakstad skole</b><br>Tlf: 
- +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 68 28 11 &nbsp; <a href='mai
- lto:lotte.hansen@asker.kommune.no'>lotte.hansen@asker.kommune.no</a><br></
- p><p><b>Billingstad skole</b><br>Tlf: +47 66 71 53 00<br>Caroline Halnes &
- nbsp; +47 92 64 17 94 &nbsp; <a href='mailto:caroline.blutecher.halnes@ask
- er.kommune.no'>caroline.blutecher.halnes@asker.kommune.no</a><br></p><p><a
-  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=23665'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Det Norske Teatret – Scene 3
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23665
-END:VEVENT
+LAST-MODIFIED:20261021T090011Z
 BEGIN:VEVENT
 UID:dks-541977@asker.dks
 DTSTART:20261027T110500Z

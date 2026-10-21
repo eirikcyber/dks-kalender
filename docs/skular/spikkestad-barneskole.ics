@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20261006T073338Z
+LAST-MODIFIED:20261021T090012Z
 BEGIN:VEVENT
 UID:dks-513405@asker.dks
 DTSTART:20261023T090000Z
 DTEND:20261023T101500Z
 SUMMARY:Frankenstein (5. trinn)
 DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTorvbråten barneskole\\
- n  Avreise: 10:10  Retur: 12:20\\n  VY Turbuss frakter elevene fra skolen 
+ n  Avreise: 09:50  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen 
  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nSpikkestad ba
  rneskole\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til
   reiserute: Tog fra Spikkestad stasjon kl. 09:46. Beregnet ankomst på sta
@@ -33,7 +33,7 @@ DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTorvbråten barneskole\\
  .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Torvbråten barneskole</b><br>Avreise: 10:10 &nbsp; Retur: 12:20<br>VY Tu
+ >Torvbråten barneskole</b><br>Avreise: 09:50 &nbsp; Retur: 12:45<br>VY Tu
  rbuss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy
   Buss er 91658600</p><p><b>Spikkestad barneskole</b><br>Elevene reiser kol
  lektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Spikkestad 
@@ -119,28 +119,6 @@ DESCRIPTION:KLASSER\\nSpikkestad barneskole: 3B (23)\\nTotalt: 23 elevar\\n
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 3B
   (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad
-  barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88
-  69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsru
- d@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Spikkestad barneskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482017@asker.dks
-DTSTART:20261028T113000Z
-DTEND:20261028T121500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad barneskole: 3C (14)\\nTotalt: 14 elevar\\n
- \\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dul
- srud  +47 92 88 69 58  eirik.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 3C
-  (14)<br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad
   barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88
   69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsru
  d@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
