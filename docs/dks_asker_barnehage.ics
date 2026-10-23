@@ -5,29 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20261022T091438Z
-BEGIN:VEVENT
-UID:dks-538655@asker.dks
-DTSTART:20261022T095000Z
-DTEND:20261022T102500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nRønningen skole: 3 (16)\, 1 (19)\, 2 (27)\\nTotalt: 
- 62 elevar\\n\\nKONTAKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sø
- lvi Graffer  +47 95 76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nh
- ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
- jon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Rønningen skole:</b> 3 (16),
-  1 (19), 2 (27)<br><b>Totalt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>
- Rønningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 
- 95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.g
- raffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om pro
- duksjonen</a></p></body></html>
-LOCATION:Rønningen skole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20261023T090133Z
 BEGIN:VEVENT
 UID:dks-509389@asker.dks
 DTSTART:20261023T100000Z
