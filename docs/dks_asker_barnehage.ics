@@ -5,36 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20261023T090133Z
-BEGIN:VEVENT
-UID:dks-509389@asker.dks
-DTSTART:20261023T100000Z
-DTEND:20261023T120000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nHoved
- gården ungdomsskole\\n  Avreise: 11:35  Retur: 14:00\\n  VY Turbuss frakt
- er elevene fra skolen til Asker museum og tilbake etter besøket. Vakttele
- fon Vy Buss er 91658600\\n\\nKLASSER\\nHovedgården ungdomsskole: 10B (29)
- \\nTotalt: 29 elevar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47
-  66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kom
- mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Hovedgården ungdomsskole</b><br>Avreise: 11:35 &nbsp;
-  Retur: 14:00<br>VY Turbuss frakter elevene fra skolen til Asker museum og
-  tilbake etter besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER<
- /b></p><p><b>Hovedgården ungdomsskole:</b> 10B (29)<br><b>Totalt: 29 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf:
-  +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='
- mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a
- ><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produ
- ksjoner-i-dks/?produksjon=23346'>Les meir om produksjonen</a></p></body></
- html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
+LAST-MODIFIED:20261025T020121Z
 BEGIN:VEVENT
 UID:dks-509390@asker.dks
 DTSTART:20261026T080000Z

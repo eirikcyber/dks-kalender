@@ -5,63 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20261023T090139Z
-BEGIN:VEVENT
-UID:dks-513405@asker.dks
-DTSTART:20261023T090000Z
-DTEND:20261023T101500Z
-SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTorvbråten barneskole\\
- n  Avreise: 09:50  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen 
- og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\nSpikkestad ba
- rneskole\\n  Elevene reiser kollektivt til Det Norske Teatret. Forslag til
-  reiserute: Tog fra Spikkestad stasjon kl. 09:46. Beregnet ankomst på sta
- sjonen kl. 10:35. Retur med tog fra Nationaltheatret stasjon kl. 12:43. RU
- FUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS As
- ker\\nStiftelsen Vollen Montessoriskole\\n  Elevene reiser kollektivt til 
- Det Norske Teatret. Forslag til reiserute: Buss 250 fra Vollen kl. 09:58. 
- Beregnet ankomst på holdeplassen kl. 10:36. Retur med buss 250 fra Nation
- altheatret kl. 12:26. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker\\n\\nKLASSER\\nSpikkestad barneskole: 5a (26)\
- , 5b (27)\, 5c (23)\\nTorvbråten barneskole: 5A (28)\\nStiftelsen Vollen 
- Montessoriskole: 5 (19)\\nTotalt: 123 elevar\\n\\nKONTAKT\\nSpikkestad bar
- neskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eiri
- k.dulsrud@asker.kommune.no\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 
- 11\\n  Jaspreet Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no
- \\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camilla 
- Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23665
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Torvbråten barneskole</b><br>Avreise: 09:50 &nbsp; Retur: 12:45<br>VY Tu
- rbuss frakter elevene fra skolen og tilbake etter besøket. Vakttelefon Vy
-  Buss er 91658600</p><p><b>Spikkestad barneskole</b><br>Elevene reiser kol
- lektivt til Det Norske Teatret. Forslag til reiserute: Tog fra Spikkestad 
- stasjon kl. 09:46. Beregnet ankomst på stasjonen kl. 10:35. Retur med tog
-  fra Nationaltheatret stasjon kl. 12:43. RUFUS-billetter kan benyttes. Det
- te bestilles av skolene og dekkes av DKS Asker</p><p><b>Stiftelsen Vollen 
- Montessoriskole</b><br>Elevene reiser kollektivt til Det Norske Teatret. F
- orslag til reiserute: Buss 250 fra Vollen kl. 09:58. Beregnet ankomst på 
- holdeplassen kl. 10:36. Retur med buss 250 fra Nationaltheatret kl. 12:26.
-  RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS
-  Asker</p><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 5a (26), 5
- b (27), 5c (23)<br><b>Torvbråten barneskole:</b> 5A (28)<br><b>Stiftelsen
-  Vollen Montessoriskole:</b> 5 (19)<br><b>Totalt: 123 elevar</b></p><p><b>
- KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf: +47 31 29 33 00<br>
- Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href='mailto:eirik.dulsrud
- @asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a><br></p><p><b>Torvbr�
- �ten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 
- 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath@asker.kommune.no'>ja
- spreet.kaur.bath@asker.kommune.no</a><br></p><p><b>Stiftelsen Vollen Monte
- ssoriskole</b><br>Tlf: +47 66 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 2
- 8 97 04 &nbsp; <a href='mailto:camilla.nystrom@vomo.no'>camilla.nystrom@vo
- mo.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
- sk-produksjoner-i-dks/?produksjon=23665'>Les meir om produksjonen</a></p><
- /body></html>
-LOCATION:Det Norske Teatret – Scene 3
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23665
-END:VEVENT
+LAST-MODIFIED:20261025T020127Z
 BEGIN:VEVENT
 UID:dks-538237@asker.dks
 DTSTART:20261027T082500Z

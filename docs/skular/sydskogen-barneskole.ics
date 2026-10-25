@@ -5,32 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Sydskogen barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Sydskogen barneskole
-LAST-MODIFIED:20261023T090139Z
-BEGIN:VEVENT
-UID:dks-552485@asker.dks
-DTSTART:20261023T101500Z
-DTEND:20261023T110000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nSydskogen barneskole: 3 (26)\\nTotalt: 26 elevar\\n\\
- nKONTAKT\\nSydskogen barneskole\\n  Tlf: +47 31 29 33 55\\n  Siri Østvik 
- Hage  +47 92 69 67 67  siri.ostvik.hage@asker.kommune.no\\n  Marte Svestad
-  Eitrheim  +47 91 82 90 27  marte.svestad@asker.kommune.no\\n\\nINFO\\nhtt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sydskogen barneskole:</b> 3 (
- 26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sydskogen ba
- rneskole</b><br>Tlf: +47 31 29 33 55<br>Siri Østvik Hage &nbsp; +47 92 69
-  67 67 &nbsp; <a href='mailto:siri.ostvik.hage@asker.kommune.no'>siri.ostv
- ik.hage@asker.kommune.no</a><br>Marte Svestad Eitrheim &nbsp; +47 91 82 90
-  27 &nbsp; <a href='mailto:marte.svestad@asker.kommune.no'>marte.svestad@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjone
- n</a></p></body></html>
-LOCATION:Sydskogen barneskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261025T020127Z
 BEGIN:VEVENT
 UID:dks-559572@asker.dks
 DTSTART:20270113T113000Z

@@ -5,39 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20261023T090131Z
-BEGIN:VEVENT
-UID:dks-509388@asker.dks
-DTSTART:20261023T070000Z
-DTEND:20261023T090000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nStift
- elsen Asker International School\\n  Elevene reiser kollektivt til Asker m
- useum. Forslag til reiserute: Buss 270 fra Trekanten kl. 08:40. Beregnet a
- nkomst på holdeplassen kl. 08:45. Retur med tog fra Hvalstad stasjon kl. 
- 11:25. RUFUS-billetter kan benyttes. Dette bestilles av skolene og dekkes 
- av DKS Asker\\n\\nKLASSER\\nStiftelsen Asker International School: 10a (23
- )\\nTotalt: 23 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School
- \\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris
- .no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Stiftelsen Asker International School</b><br>Elevene r
- eiser kollektivt til Asker museum. Forslag til reiserute: Buss 270 fra Tre
- kanten kl. 08:40. Beregnet ankomst på holdeplassen kl. 08:45. Retur med t
- og fra Hvalstad stasjon kl. 11:25. RUFUS-billetter kan benyttes. Dette bes
- tilles av skolene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Sti
- ftelsen Asker International School:</b> 10a (23)<br><b>Totalt: 23 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International School</b>
- <br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a 
- href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=23346'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
+LAST-MODIFIED:20261025T020120Z
 BEGIN:VEVENT
 UID:dks-482071@asker.dks
 DTSTART:20261026T110000Z
