@@ -5,56 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solberg skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solberg skole
-LAST-MODIFIED:20261025T020126Z
-BEGIN:VEVENT
-UID:dks-513406@asker.dks
-DTSTART:20261026T100000Z
-DTEND:20261026T111500Z
-SUMMARY:Frankenstein (5. trinn)
-DESCRIPTION:Ein grøssar for barn\\n\\nTRANSPORT\\nTofte skole\\n  Avreise:
-  08:45  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen og tilbake 
- etter besøket. Vakttelefon Vy Buss er 91658600\\nHeggedal skole\\n  Eleve
- ne reiser kollektivt til Det Norske Teatret. Forslag til reiserute: Tog fr
- a Heggedal stasjon kl. 09:54. Beregnet ankomst på stasjonen kl. 10:35. Re
- tur med tog fra Nationaltheatret stasjon kl. 12:43. RUFUS-billetter kan be
- nyttes. Dette bestilles av skolene og dekkes av DKS Asker\\nSolberg skole\
- \n  Avreise: 10:00  Retur: 12:45\\n  VY Turbuss frakter elevene fra skolen
-  og tilbake etter besøket. Vakttelefon Vy Buss er 91658600\\n\\nKLASSER\\
- nSolberg skole: 5 (18)\\nHeggedal skole: 5A (25)\, 5B (25)\, 5c (22)\\nTof
- te skole: 5a (24)\\nTotalt: 114 elevar\\n\\nKONTAKT\\nSolberg skole\\n  Tl
- f: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69  knut.gustavsen.engh@ask
- er.kommune.no\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Sch
- midt  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\nTofte skole\\
- n  Tlf: +47 32 27 84 13\\n  Anita Olsen  +47 47 64 53 53  anita.olsen@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=23665
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Ein grøssar for barn</p><p><b>TRANSPORT</b></p><p><b
- >Tofte skole</b><br>Avreise: 08:45 &nbsp; Retur: 12:45<br>VY Turbuss frakt
- er elevene fra skolen og tilbake etter besøket. Vakttelefon Vy Buss er 91
- 658600</p><p><b>Heggedal skole</b><br>Elevene reiser kollektivt til Det No
- rske Teatret. Forslag til reiserute: Tog fra Heggedal stasjon kl. 09:54. B
- eregnet ankomst på stasjonen kl. 10:35. Retur med tog fra Nationaltheatre
- t stasjon kl. 12:43. RUFUS-billetter kan benyttes. Dette bestilles av skol
- ene og dekkes av DKS Asker</p><p><b>Solberg skole</b><br>Avreise: 10:00 &n
- bsp; Retur: 12:45<br>VY Turbuss frakter elevene fra skolen og tilbake ette
- r besøket. Vakttelefon Vy Buss er 91658600</p><p><b>KLASSER</b></p><p><b>
- Solberg skole:</b> 5 (18)<br><b>Heggedal skole:</b> 5A (25), 5B (25), 5c (
- 22)<br><b>Tofte skole:</b> 5a (24)<br><b>Totalt: 114 elevar</b></p><p><b>K
- ONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut Engh
-  &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@asker.k
- ommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Heggedal 
- skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 0
- 3 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louis
- e.schmidt@asker.kommune.no</a><br></p><p><b>Tofte skole</b><br>Tlf: +47 32
-  27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 &nbsp; <a href='mailto:ani
- ta.olsen@asker.kommune.no'>anita.olsen@asker.kommune.no</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=23665'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Det Norske Teatret – Scene 3
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23665
-END:VEVENT
+LAST-MODIFIED:20261027T090023Z
 BEGIN:VEVENT
 UID:dks-538656@asker.dks
 DTSTART:20261102T103000Z
