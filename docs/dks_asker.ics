@@ -5,216 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20261027T090010Z
-BEGIN:VEVENT
-UID:dks-482006@asker.dks
-DTSTART:20261027T074500Z
-DTEND:20261027T083000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHagaløkka skole: 3A (20)\\nTotalt: 20 elevar\\n\\nKO
- NTAKT\\nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 
- 95 76 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hagaløkka skole:</b> 3A (20)
- <br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skol
- e</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nb
- sp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.kommune.no</
- a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body><
- /html>
-LOCATION:Hagaløkka skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-509392@asker.dks
-DTSTART:20261027T080000Z
-DTEND:20261027T100000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 08:40. Beregnet ankomst på ho
- ldeplassen kl. 08:45. Retur med tog fra Hvalstad stasjon kl. 11:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10D (30)\\nTotalt: 30 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 08
- :40. Beregnet ankomst på holdeplassen kl. 08:45. Retur med tog fra Hvalst
- ad stasjon kl. 11:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10D (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-538237@asker.dks
-DTSTART:20261027T082500Z
-DTEND:20261027T090000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad barneskole: 1A (21)\, 2A (23)\, 1B (21)\, 
- 2B (23)\, 2C (21)\\nTotalt: 109 elevar\\n\\nKONTAKT\\nSpikkestad barneskol
- e\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.duls
- rud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/u
- tforsk-produksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 1A
-  (21), 2A (23), 1B (21), 2B (23), 2C (21)<br><b>Totalt: 109 elevar</b></p>
- <p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf: +47 31 29 33 
- 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href='mailto:eirik.d
- ulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a><br></p><p><a h
- ref='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad barneskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482007@asker.dks
-DTSTART:20261027T085000Z
-DTEND:20261027T093500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHagaløkka skole: 3B (23)\\nTotalt: 23 elevar\\n\\nKO
- NTAKT\\nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvorsen  +47 
- 95 76 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hagaløkka skole:</b> 3B (23)
- <br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hagaløkka skol
- e</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 76 04 05 &nb
- sp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.kommune.no</
- a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body><
- /html>
-LOCATION:Hagaløkka skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482148@asker.dks
-DTSTART:20261027T093000Z
-DTEND:20261027T100500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nBillingstad barnehage: 3-6 år (54)\\nFuruly barnehag
- e: 3-6 år (18)\\nFøyka barnehage Ånnerudveien: 3-6 år (21)\\nTotalt: 9
- 3 elevar\\n\\nKONTAKT\\nBillingstad barnehage\\n  Tlf: +47 66 85 12 40\\n 
-  Elin Brandsarbakken  +47 95 74 85 83  trine@billingstadbarnehage.no\\nFur
- uly barnehage\\n  Tlf: +47 40 45 23 56\\n  Camilla Aksnes  +47 40 45 23 56
-   post@furuly-barnehage.no\\nFøyka barnehage Ånnerudveien\\n  Tlf: +47 9
- 1 75 84 40\\n  Sofie  Bøe  +47 95 15 25 97  sofie.boe@asker.kommune.no\\n
- \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Billingstad barnehage:</b> 3-
- 6 år (54)<br><b>Furuly barnehage:</b> 3-6 år (18)<br><b>Føyka barnehage
-  Ånnerudveien:</b> 3-6 år (21)<br><b>Totalt: 93 elevar</b></p><p><b>KONT
- AKT</b></p><p><b>Billingstad barnehage</b><br>Tlf: +47 66 85 12 40<br>Elin
-  Brandsarbakken &nbsp; +47 95 74 85 83 &nbsp; <a href='mailto:trine@billin
- gstadbarnehage.no'>trine@billingstadbarnehage.no</a><br></p><p><b>Furuly b
- arnehage</b><br>Tlf: +47 40 45 23 56<br>Camilla Aksnes &nbsp; +47 40 45 23
-  56 &nbsp; <a href='mailto:post@furuly-barnehage.no'>post@furuly-barnehage
- .no</a><br></p><p><b>Føyka barnehage Ånnerudveien</b><br>Tlf: +47 91 75 
- 84 40<br>Sofie  Bøe &nbsp; +47 95 15 25 97 &nbsp; <a href='mailto:sofie.b
- oe@asker.kommune.no'>sofie.boe@asker.kommune.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=21285'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Asker Kulturhus – Multisal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482149@asker.dks
-DTSTART:20261027T110000Z
-DTEND:20261027T113500Z
-SUMMARY:Hvor er du kjære kjære roboten min? (b.hager 3-6 år)
-DESCRIPTION:KLASSER\\nLæringsverkstedet Velodromen idrettsbh: 3-6 år (74)
- \\nLæringsverkstedet Bekkeveien bh: 3-6 år (32)\\nTotalt: 106 elevar\\n\
- \nKONTAKT\\nLæringsverkstedet Velodromen idrettsbh\\n  Tlf: +47 37 07 16 
- 91\\n  Marie Osnes  +47 99 52 37 69  velodromen@laringsverkstedet.no\\nLæ
- ringsverkstedet Bekkeveien bh\\n  Tlf: +47 37 07 15 28\\n  Janicke Olsen  
- +47 99 47 21 09  bekkeveien@laringsverkstedet.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Læringsverkstedet Velodromen
-  idrettsbh:</b> 3-6 år (74)<br><b>Læringsverkstedet Bekkeveien bh:</b> 3
- -6 år (32)<br><b>Totalt: 106 elevar</b></p><p><b>KONTAKT</b></p><p><b>Læ
- ringsverkstedet Velodromen idrettsbh</b><br>Tlf: +47 37 07 16 91<br>Marie 
- Osnes &nbsp; +47 99 52 37 69 &nbsp; <a href='mailto:velodromen@laringsverk
- stedet.no'>velodromen@laringsverkstedet.no</a><br></p><p><b>Læringsverkst
- edet Bekkeveien bh</b><br>Tlf: +47 37 07 15 28<br>Janicke Olsen &nbsp; +47
-  99 47 21 09 &nbsp; <a href='mailto:bekkeveien@laringsverkstedet.no'>bekke
- veien@laringsverkstedet.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21285'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker Kulturhus – Multisal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21285
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-509393@asker.dks
-DTSTART:20261027T110000Z
-DTEND:20261027T130000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 11:40. Beregnet ankomst på ho
- ldeplassen kl. 11:45. Retur med tog fra Hvalstad stasjon kl. 14:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10B (28)\\nTotalt: 28 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 11
- :40. Beregnet ankomst på holdeplassen kl. 11:45. Retur med tog fra Hvalst
- ad stasjon kl. 14:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10B (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-541977@asker.dks
-DTSTART:20261027T110500Z
-DTEND:20261027T114000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nHyggen skole: 1 (5)\, 2 (9)\\nTotalt: 14 elevar\\n\\n
- KONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 39 14\\n  Lene Austreng  +47 90 
- 91 11 86  laustren@asker.kommune.no\\n  Anita Tollefsen  +47 48 23 76 17  
- anita.tollefsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hyggen skole:</b> 1 (5), 2 (9
- )<br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hyggen skole</
- b><br>Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp; +47 90 91 11 86 &nbsp; 
- <a href='mailto:laustren@asker.kommune.no'>laustren@asker.kommune.no</a><b
- r>Anita Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a href='mailto:anita.toll
- efsen@asker.kommune.no'>anita.tollefsen@asker.kommune.no</a><br></p><p><a 
- href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hyggen skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20261028T115004Z
 BEGIN:VEVENT
 UID:dks-482045@asker.dks
 DTSTART:20261028T082500Z
@@ -1062,29 +853,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21284
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-559373@asker.dks
-DTSTART:20261103T091500Z
-DTEND:20261103T100000Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
- skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
- domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
-  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
- 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
- ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-483435@asker.dks
 DTSTART:20261103T093500Z
 DTEND:20261103T102000Z
@@ -1173,28 +941,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Borgen ungdomsskole – Forum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559439@asker.dks
-DTSTART:20261103T115000Z
-DTEND:20261103T123500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nTofte ungdomsskole
- : 8A (24)\, 8B (25)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\
- \n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite-Rønning  +47 93 97 00 58  j
- veitait@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Tofte ungdomsskole:</b> 8A (24), 8B (25)<br><b>Totalt: 49 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 8
- 0 30<br>Jolanta Veitaite-Rønning &nbsp; +47 93 97 00 58 &nbsp; <a href='m
- ailto:jveitait@askerskolen.no'>jveitait@askerskolen.no</a><br></p><p><a hr
- ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=24899'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Tofte ungdomsskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-483437@asker.dks
@@ -2071,6 +1817,51 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-559373@asker.dks
+DTSTART:20261117T091500Z
+DTEND:20261117T100000Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
+ skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
+ domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
+  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
+ turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
+ 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
+ ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Aula
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559439@asker.dks
+DTSTART:20261117T115000Z
+DTEND:20261117T123500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nTofte ungdomsskole
+ : 8A (24)\, 8B (25)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\
+ \n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite-Rønning  +47 93 97 00 58  j
+ veitait@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
+ /utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Tofte ungdomsskole:</b> 8A (24), 8B (25)<br><b>Totalt: 49 elevar</b
+ ></p><p><b>KONTAKT</b></p><p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 8
+ 0 30<br>Jolanta Veitaite-Rønning &nbsp; +47 93 97 00 58 &nbsp; <a href='m
+ ailto:jveitait@askerskolen.no'>jveitait@askerskolen.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=24899'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Tofte ungdomsskole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560163@asker.dks
 DTSTART:20261123T080000Z
 DTEND:20261123T084500Z
@@ -2640,22 +2431,22 @@ UID:dks-523044@asker.dks
 DTSTART:20261126T103000Z
 DTEND:20261126T110500Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
-DESCRIPTION:KLASSER\\nBondi skole: 4B (20)\, 4C (18)\, 4VKK (10)\, 1A (20)\
- , 2B (20)\\nTotalt: 88 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 7
- 6 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n
-   Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\n\\nIN
- FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
- roduksjon=24038
+DESCRIPTION:KLASSER\\nBondi skole: 4B (20)\, 4C (18)\, 1A (20)\, 2B (20)\\n
+ Totalt: 78 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  
+ Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne M
+ ayer  +47 91 59 43 53  karianne.mayer@asker.kommune.no\\n\\nINFO\\nhttps:/
+ /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24
+ 038
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 4B (20), 4C 
- (18), 4VKK (10), 1A (20), 2B (20)<br><b>Totalt: 88 elevar</b></p><p><b>KON
- TAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul 
- &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no
- '>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 5
- 3 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=24038'>Les meir om produksjone
- n</a></p></body></html>
+ (18), 1A (20), 2B (20)<br><b>Totalt: 78 elevar</b></p><p><b>KONTAKT</b></p
+ ><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 
+ 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asm
+ ul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a
+  href='mailto:karianne.mayer@asker.kommune.no'>karianne.mayer@asker.kommun
+ e.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=24038'>Les meir om produksjonen</a></p></
+ body></html>
 LOCATION:Bondi skole – Auditoriumet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
@@ -9491,19 +9282,19 @@ DTSTART:20270406T073000Z
 DTEND:20270406T080500Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
 DESCRIPTION:KLASSER\\nMidtbygda barneskole: 4B (23)\, 3A (21)\, 1A (21)\, 2
- A (21)\, 1B (22)\, 1C (22)\\nTotalt: 130 elevar\\n\\nKONTAKT\\nMidtbygda b
- arneskole\\n  Tlf: +47 31 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72
-  59  foline.geertje.ophaug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038
+ A (21)\, 1B (22)\\nTotalt: 108 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\
+ \n  Tlf: +47 31 29 35 00\\n  Foline Geertje Ophaug  +47 99 61 72 59  folin
+ e.geertje.ophaug@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Midtbygda barneskole:</b> 4B 
- (23), 3A (21), 1A (21), 2A (21), 1B (22), 1C (22)<br><b>Totalt: 130 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Midtbygda barneskole</b><br>Tlf: +47 31
-  29 35 00<br>Foline Geertje Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href='
- mailto:foline.geertje.ophaug@asker.kommune.no'>foline.geertje.ophaug@asker
- .kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=24038'>Les meir om produksjonen</a
- ></p></body></html>
+ (23), 3A (21), 1A (21), 2A (21), 1B (22)<br><b>Totalt: 108 elevar</b></p><
+ p><b>KONTAKT</b></p><p><b>Midtbygda barneskole</b><br>Tlf: +47 31 29 35 00
+ <br>Foline Geertje Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href='mailto:fo
+ line.geertje.ophaug@asker.kommune.no'>foline.geertje.ophaug@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=24038'>Les meir om produksjonen</a></p></bo
+ dy></html>
 LOCATION:Midtbygda barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
@@ -10104,19 +9895,19 @@ UID:dks-523094@asker.dks
 DTSTART:20270414T091500Z
 DTEND:20270414T095000Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad barneskole: 4B (22)\, 3B (23)\, 3C (14)\, 
- 1B (21)\, 1C (22)\, 2C (21)\\nTotalt: 123 elevar\\n\\nKONTAKT\\nSpikkestad
-  barneskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  
- eirik.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
- ekken.no/utforsk-produksjoner-i-dks/?produksjon=24038
+DESCRIPTION:KLASSER\\nSpikkestad barneskole: 4B (22)\, 3B (23)\, 1B (21)\, 
+ 2C (21)\\nTotalt: 87 elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: 
+ +47 31 29 33 00\\n  Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.k
+ ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
+ uksjoner-i-dks/?produksjon=24038
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 4B
-  (22), 3B (23), 3C (14), 1B (21), 1C (22), 2C (21)<br><b>Totalt: 123 eleva
- r</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf: +47 
- 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href='mailt
- o:eirik.dulsrud@asker.kommune.no'>eirik.dulsrud@asker.kommune.no</a><br></
- p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=24038'>Les meir om produksjonen</a></p></body></html>
+  (22), 3B (23), 1B (21), 2C (21)<br><b>Totalt: 87 elevar</b></p><p><b>KONT
+ AKT</b></p><p><b>Spikkestad barneskole</b><br>Tlf: +47 31 29 33 00<br>Eiri
+ k  Dulsrud &nbsp; +47 92 88 69 58 &nbsp; <a href='mailto:eirik.dulsrud@ask
+ er.kommune.no'>eirik.dulsrud@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 24038'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Spikkestad barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
@@ -11024,6 +10815,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-559225@asker.dks
+DTSTART:20270429T070000Z
+DTEND:20270429T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nVardåsen skole:
+  4A (24)\, 4B (23)\\nTotalt: 47 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  
+ Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@ask
+ er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
+ /p><p><b>Vardåsen skole:</b> 4A (24), 4B (23)<br><b>Totalt: 47 elevar</b>
+ </p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00
+ <br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrh
+ aug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=25156'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556273@asker.dks
 DTSTART:20270429T074500Z
 DTEND:20270429T082500Z
@@ -11292,22 +11105,28 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nRønningen sko
  le\\n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollekti
  vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
  � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95
-  76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
- relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internatio
+ nal School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\\n
+   Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@
+ asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 7
+ 2 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Rønningen skole</b><br>Elevene sykler/går eller tar kollektiv
  t til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
  e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
  ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen skol
- e:</b> 4 (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>R�
- �nningen skole</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 
- 95 76 44 76 &nbsp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.g
- raffer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Les meir om pro
- duksjonen</a></p></body></html>
+ e:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)<br>
+ <b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skole</b
+ ><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; 
+ <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommun
+ e.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +4
+ 7 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailt
+ o:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.de
+ nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Le
+ s meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -11344,28 +11163,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-559225@asker.dks
-DTSTART:20270506T070000Z
-DTEND:20270506T113000Z
-SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
-DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nKLASSER\\nVardåsen skole:
-  4A (24)\, 4B (23)\\nTotalt: 47 elevar\\n\\nKONTAKT\\nVardåsen skole\\n  
- Tlf: +47 66 71 51 00\\n  Kristin K. Dyrhaug  +47 90 11 86 97  kdyrhaug@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=25156
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>KLASSER</b><
- /p><p><b>Vardåsen skole:</b> 4A (24), 4B (23)<br><b>Totalt: 47 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Vardåsen skole</b><br>Tlf: +47 66 71 51 00
- <br>Kristin K. Dyrhaug &nbsp; +47 90 11 86 97 &nbsp; <a href='mailto:kdyrh
- aug@asker.kommune.no'>kdyrhaug@asker.kommune.no</a><br></p><p><a href='htt
- ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
- n=25156'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25156
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-559223@asker.dks
 DTSTART:20270510T070000Z
 DTEND:20270510T113000Z
@@ -11375,23 +11172,22 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Ask
  ikemark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
  er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
  nummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International Scho
- ol: 4a (23)\, 4b (23)\, 4c (23)\\nTotalt: 69 elevar\\n\\nKONTAKT\\nStiftel
- sen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  
- +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ ol: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen Asker 
+ International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 
+ 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Stiftelsen Asker International School</b><br>Elevene sykler/gå
  r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
  letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
  olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
- <p><b>Stiftelsen Asker International School:</b> 4a (23), 4b (23), 4c (23)
- <br><b>Totalt: 69 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Aske
- r International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; 
- +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no<
- /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body>
- </html>
+ <p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><b>To
+ talt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Interna
+ tional School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83
+  92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></
+ p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
+ -i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156

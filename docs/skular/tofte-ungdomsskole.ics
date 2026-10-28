@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte ungdomsskole
-LAST-MODIFIED:20261027T090027Z
+LAST-MODIFIED:20261028T115015Z
 BEGIN:VEVENT
 UID:dks-483433@asker.dks
 DTSTART:20261030T090000Z
@@ -52,8 +52,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-559439@asker.dks
-DTSTART:20261103T115000Z
-DTEND:20261103T123500Z
+DTSTART:20261117T115000Z
+DTEND:20261117T123500Z
 SUMMARY:Bare vent (8. trinn)
 DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nTofte ungdomsskole
  : 8A (24)\, 8B (25)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\

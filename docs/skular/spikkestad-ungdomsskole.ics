@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
-LAST-MODIFIED:20261027T090026Z
+LAST-MODIFIED:20261028T115014Z
 BEGIN:VEVENT
 UID:dks-559371@asker.dks
 DTSTART:20261102T091500Z
@@ -42,29 +42,6 @@ DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
  ><p><b>Spikkestad ungdomsskole:</b> 8A (28), 8B (25)<br><b>Totalt: 53 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
- 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
- ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559373@asker.dks
-DTSTART:20261103T091500Z
-DTEND:20261103T100000Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
- skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
- domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
-  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
  ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
  47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
  ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
@@ -144,6 +121,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad ungdomsskole – Aula
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559373@asker.dks
+DTSTART:20261117T091500Z
+DTEND:20261117T100000Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
+ skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
+ domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
+  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
+ turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
+ 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
+ ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Aula
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560835@asker.dks

@@ -5,69 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20261027T090017Z
-BEGIN:VEVENT
-UID:dks-509392@asker.dks
-DTSTART:20261027T080000Z
-DTEND:20261027T100000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 08:40. Beregnet ankomst på ho
- ldeplassen kl. 08:45. Retur med tog fra Hvalstad stasjon kl. 11:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10D (30)\\nTotalt: 30 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 08
- :40. Beregnet ankomst på holdeplassen kl. 08:45. Retur med tog fra Hvalst
- ad stasjon kl. 11:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10D (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-509393@asker.dks
-DTSTART:20261027T110000Z
-DTEND:20261027T130000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 11:40. Beregnet ankomst på ho
- ldeplassen kl. 11:45. Retur med tog fra Hvalstad stasjon kl. 14:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10B (28)\\nTotalt: 28 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 11
- :40. Beregnet ankomst på holdeplassen kl. 11:45. Retur med tog fra Hvalst
- ad stasjon kl. 14:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10B (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
+LAST-MODIFIED:20261028T115009Z
 BEGIN:VEVENT
 UID:dks-483579@asker.dks
 DTSTART:20261028T084500Z
@@ -438,29 +376,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23346
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-559373@asker.dks
-DTSTART:20261103T091500Z
-DTEND:20261103T100000Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
- skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
- domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
-  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
- 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
- ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-483435@asker.dks
 DTSTART:20261103T093500Z
 DTEND:20261103T102000Z
@@ -505,28 +420,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Borgen ungdomsskole – Forum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559439@asker.dks
-DTSTART:20261103T115000Z
-DTEND:20261103T123500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nTofte ungdomsskole
- : 8A (24)\, 8B (25)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\
- \n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite-Rønning  +47 93 97 00 58  j
- veitait@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Tofte ungdomsskole:</b> 8A (24), 8B (25)<br><b>Totalt: 49 elevar</b
- ></p><p><b>KONTAKT</b></p><p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 8
- 0 30<br>Jolanta Veitaite-Rønning &nbsp; +47 93 97 00 58 &nbsp; <a href='m
- ailto:jveitait@askerskolen.no'>jveitait@askerskolen.no</a><br></p><p><a hr
- ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
- oduksjon=24899'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Tofte ungdomsskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-483437@asker.dks
@@ -1058,6 +951,51 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad ungdomsskole – Aula
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21348
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559373@asker.dks
+DTSTART:20261117T091500Z
+DTEND:20261117T100000Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSpikkestad ungdoms
+ skole: 8C (25)\, 8F (24)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nSpikkestad ung
+ domsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91 11 51
+  43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
+ turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Spikkestad ungdomsskole:</b> 8C (25), 8F (24)<br><b>Totalt: 49 elev
+ ar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: +
+ 47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a h
+ ref='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Aula
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-559439@asker.dks
+DTSTART:20261117T115000Z
+DTEND:20261117T123500Z
+SUMMARY:Bare vent (8. trinn)
+DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nTofte ungdomsskole
+ : 8A (24)\, 8B (25)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\
+ \n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite-Rønning  +47 93 97 00 58  j
+ veitait@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
+ /utforsk-produksjoner-i-dks/?produksjon=24899
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
+ ><p><b>Tofte ungdomsskole:</b> 8A (24), 8B (25)<br><b>Totalt: 49 elevar</b
+ ></p><p><b>KONTAKT</b></p><p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 8
+ 0 30<br>Jolanta Veitaite-Rønning &nbsp; +47 93 97 00 58 &nbsp; <a href='m
+ ailto:jveitait@askerskolen.no'>jveitait@askerskolen.no</a><br></p><p><a hr
+ ef='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=24899'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Tofte ungdomsskole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=24899
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482062@asker.dks
@@ -3216,6 +3154,41 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24624
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-559219@asker.dks
+DTSTART:20270504T070000Z
+DTEND:20270504T113000Z
+SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
+DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nRønningen sko
+ le\\n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollekti
+ vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
+ � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
+ ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internatio
+ nal School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\\n
+   Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@
+ asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 7
+ 2 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=25156
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
+ ></p><p><b>Rønningen skole</b><br>Elevene sykler/går eller tar kollektiv
+ t til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
+ e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
+ ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen skol
+ e:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)<br>
+ <b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skole</b
+ ><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; 
+ <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommun
+ e.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +4
+ 7 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailt
+ o:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.de
+ nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Le
+ s meir om produksjonen</a></p></body></html>
+LOCATION:Asker museum – Asker museum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-559223@asker.dks
 DTSTART:20270510T070000Z
 DTEND:20270510T113000Z
@@ -3225,23 +3198,22 @@ DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Ask
  ikemark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
  er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
  nummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International Scho
- ol: 4a (23)\, 4b (23)\, 4c (23)\\nTotalt: 69 elevar\\n\\nKONTAKT\\nStiftel
- sen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  
- +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ ol: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen Asker 
+ International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 
+ 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Stiftelsen Asker International School</b><br>Elevene sykler/gå
  r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
  letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
  olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
- <p><b>Stiftelsen Asker International School:</b> 4a (23), 4b (23), 4c (23)
- <br><b>Totalt: 69 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Aske
- r International School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; 
- +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no<
- /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body>
- </html>
+ <p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><b>To
+ talt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Interna
+ tional School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83
+  92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></
+ p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
+ -i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
