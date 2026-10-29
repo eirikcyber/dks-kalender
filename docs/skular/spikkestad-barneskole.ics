@@ -5,51 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad barneskole
-LAST-MODIFIED:20261028T115013Z
-BEGIN:VEVENT
-UID:dks-482045@asker.dks
-DTSTART:20261028T082500Z
-DTEND:20261028T091000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad barneskole: 3A (23)\\nTotalt: 23 elevar\\n
- \\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dul
- srud  +47 92 88 69 58  eirik.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 3A
-  (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad
-  barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88
-  69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsru
- d@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Spikkestad barneskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482046@asker.dks
-DTSTART:20261028T102500Z
-DTEND:20261028T111000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad barneskole: 3B (23)\\nTotalt: 23 elevar\\n
- \\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dul
- srud  +47 92 88 69 58  eirik.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 3B
-  (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad
-  barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88
-  69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsru
- d@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Spikkestad barneskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261029T122111Z
 BEGIN:VEVENT
 UID:dks-559581@asker.dks
 DTSTART:20270120T114500Z

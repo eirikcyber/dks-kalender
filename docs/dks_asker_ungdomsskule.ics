@@ -5,54 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker ungdomsskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - ungdomsskuleprogram i Asker trinn 8-10
-LAST-MODIFIED:20261028T115009Z
-BEGIN:VEVENT
-UID:dks-483579@asker.dks
-DTSTART:20261028T084500Z
-DTEND:20261028T093000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 10 (11)\, 8 (14)\, 9 (21)\\nTo
- talt: 46 elevar\\n\\nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21
-  90\\n  Jeanette Ward  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\
- \nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dk
- s/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 10
-  (11), 8 (14), 9 (21)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Steinerskolen i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &
- nbsp; +47 94 42 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.n
- o'>jeanette.ward@steinerskolen.no</a><br></p><p><a href='https://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les m
- eir om produksjonen</a></p></body></html>
-LOCATION:Steinerskolen i Hurum – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483577@asker.dks
-DTSTART:20261028T131500Z
-DTEND:20261028T140000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSteinerskolen i Asker: 10 (13)\, 8 (25)\, 9 (15)\\nTo
- talt: 53 elevar\\n\\nKONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26
-  80\\n  marianne  stai  +47 98 03 49 34  marianne.stai@askersteinerskole.n
- o\\n  DAVID WHYTE  +47 96 62 36 15  david.whyte@askersteinerskole.no\\n\\n
- INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Asker:</b> 10
-  (13), 8 (25), 9 (15)<br><b>Totalt: 53 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Steinerskolen i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai 
- &nbsp; +47 98 03 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinersk
- ole.no'>marianne.stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 9
- 6 62 36 15 &nbsp; <a href='mailto:david.whyte@askersteinerskole.no'>david.
- whyte@askersteinerskole.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Steinerskolen i Asker – stor sal uten scene
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
+LAST-MODIFIED:20261029T122104Z
 BEGIN:VEVENT
 UID:dks-509394@asker.dks
 DTSTART:20261029T080000Z
