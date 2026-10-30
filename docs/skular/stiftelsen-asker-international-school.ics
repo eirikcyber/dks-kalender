@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20261029T122115Z
+LAST-MODIFIED:20261030T101925Z
 BEGIN:VEVENT
 UID:dks-568998@asker.dks
 DTSTART:20261102T080000Z
@@ -72,8 +72,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482030@asker.dks
-DTSTART:20261106T080000Z
-DTEND:20261106T084500Z
+DTSTART:20261106T075500Z
+DTEND:20261106T084000Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3a (21)\\nTota
  lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
@@ -94,8 +94,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482031@asker.dks
-DTSTART:20261106T090500Z
-DTEND:20261106T095000Z
+DTSTART:20261106T090000Z
+DTEND:20261106T094500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3b (21)\\nTota
  lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
@@ -116,8 +116,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482032@asker.dks
-DTSTART:20261106T103500Z
-DTEND:20261106T112000Z
+DTSTART:20261106T095000Z
+DTEND:20261106T103500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3c (22)\\nTota
  lt: 22 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf

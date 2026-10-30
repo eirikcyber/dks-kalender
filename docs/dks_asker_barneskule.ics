@@ -5,70 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barneskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
-LAST-MODIFIED:20261029T122101Z
-BEGIN:VEVENT
-UID:dks-482012@asker.dks
-DTSTART:20261029T080000Z
-DTEND:20261029T084500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3A (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3A (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482013@asker.dks
-DTSTART:20261029T093000Z
-DTEND:20261029T101500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3B (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3B (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482014@asker.dks
-DTSTART:20261029T110000Z
-DTEND:20261029T114500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3c (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3c (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261030T101915Z
 BEGIN:VEVENT
 UID:dks-482015@asker.dks
 DTSTART:20261030T080000Z
@@ -95,8 +32,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482016@asker.dks
-DTSTART:20261030T091500Z
-DTEND:20261030T100000Z
+DTSTART:20261030T091000Z
+DTEND:20261030T095500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nHofstad skole: 3B (25)\\nTotalt: 25 elevar\\n\\nKONTA
  KT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  
@@ -469,8 +406,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482030@asker.dks
-DTSTART:20261106T080000Z
-DTEND:20261106T084500Z
+DTSTART:20261106T075500Z
+DTEND:20261106T084000Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3a (21)\\nTota
  lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
@@ -491,8 +428,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482031@asker.dks
-DTSTART:20261106T090500Z
-DTEND:20261106T095000Z
+DTSTART:20261106T090000Z
+DTEND:20261106T094500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3b (21)\\nTota
  lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
@@ -513,8 +450,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482032@asker.dks
-DTSTART:20261106T103500Z
-DTEND:20261106T112000Z
+DTSTART:20261106T095000Z
+DTEND:20261106T103500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3c (22)\\nTota
  lt: 22 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf

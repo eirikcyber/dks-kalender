@@ -5,70 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Heggedal skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Heggedal skole
-LAST-MODIFIED:20261029T122108Z
-BEGIN:VEVENT
-UID:dks-482012@asker.dks
-DTSTART:20261029T080000Z
-DTEND:20261029T084500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3A (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3A (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482013@asker.dks
-DTSTART:20261029T093000Z
-DTEND:20261029T101500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3B (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3B (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482014@asker.dks
-DTSTART:20261029T110000Z
-DTEND:20261029T114500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHeggedal skole: 3c (25)\\nTotalt: 25 elevar\\n\\nKONT
- AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
- 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 3c (25)<b
- r><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
- ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
- sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
- t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksj
- onen</a></p></body></html>
-LOCATION:Heggedal skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261030T101921Z
 BEGIN:VEVENT
 UID:dks-523054@asker.dks
 DTSTART:20261201T080000Z
