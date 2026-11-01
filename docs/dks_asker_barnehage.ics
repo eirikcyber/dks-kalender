@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barnehage
 X-WR-CALDESC:Den Kulturelle Skolesekken - barnehageprogram i Asker
-LAST-MODIFIED:20261030T101918Z
+LAST-MODIFIED:20261101T063028Z
 BEGIN:VEVENT
 UID:dks-482021@asker.dks
 DTSTART:20261102T081500Z
@@ -1999,6 +1999,87 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568656@asker.dks
+DTSTART:20270317T080000Z
+DTEND:20270317T093000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 8A (30)\\nTotalt: 30 elevar\\n
+ \\nKONTAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engeb
+ retsen  +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valen
+ tini  +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfri
+ d Dalheim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 8A
+  (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b>Landøya u
+ ngdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 
+ 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.no'>mona.en
+ gebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &
+ nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>truls.ernan
+ i.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 0
+ 2 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@askerskolen.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body>
+ </html>
+LOCATION:Landøya ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568657@asker.dks
+DTSTART:20270317T104000Z
+DTEND:20270317T121000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 8B (29)\\nTotalt: 29 elevar\\n
+ \\nKONTAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engeb
+ retsen  +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valen
+ tini  +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfri
+ d Dalheim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 8B
+  (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Landøya u
+ ngdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 
+ 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.no'>mona.en
+ gebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &
+ nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>truls.ernan
+ i.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 0
+ 2 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@askerskolen.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body>
+ </html>
+LOCATION:Landøya ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568661@asker.dks
+DTSTART:20270319T104000Z
+DTEND:20270319T121000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 8C (30)\\nTotalt: 30 elevar\\n
+ \\nKONTAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engeb
+ retsen  +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valen
+ tini  +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfri
+ d Dalheim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 8C
+  (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b>Landøya u
+ ngdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 
+ 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.no'>mona.en
+ gebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &
+ nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>truls.ernan
+ i.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 0
+ 2 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@askerskolen.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body>
+ </html>
+LOCATION:Landøya ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556238@asker.dks
 DTSTART:20270405T080000Z
 DTEND:20270405T084000Z
@@ -2299,6 +2380,58 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568688@asker.dks
+DTSTART:20270419T063000Z
+DTEND:20270419T080000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8a (22)\\nTotalt: 22 elevar\\n\\
+ nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8a (
+ 22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
+ msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
+ &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Sætre ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568662@asker.dks
+DTSTART:20270419T070000Z
+DTEND:20270419T083000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 8D (30)\\nTotalt: 30 elevar\\n
+ \\nKONTAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engeb
+ retsen  +47 93 05 42 25  mona.engebretsen@asker.kommune.no\\n  Truls Valen
+ tini  +47 99 11 70 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfri
+ d Dalheim  +47 90 22 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 8D
+  (30)<br><b>Totalt: 30 elevar</b></p><p><b>KONTAKT</b></p><p><b>Landøya u
+ ngdomsskole</b><br>Tlf: +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 
+ 05 42 25 &nbsp; <a href='mailto:mona.engebretsen@asker.kommune.no'>mona.en
+ gebretsen@asker.kommune.no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &
+ nbsp; <a href='mailto:truls.ernani.valentini@asker.kommune.no'>truls.ernan
+ i.valentini@asker.kommune.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 0
+ 2 &nbsp; <a href='mailto:mdalheim@askerskolen.no'>mdalheim@askerskolen.no<
+ /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
+ duksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body>
+ </html>
+LOCATION:Landøya ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556257@asker.dks
 DTSTART:20270419T080000Z
 DTEND:20270419T084000Z
@@ -2321,6 +2454,56 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568689@asker.dks
+DTSTART:20270419T091000Z
+DTEND:20270419T104000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8b (21)\\nTotalt: 21 elevar\\n\\
+ nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8b (
+ 21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
+ msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
+ &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Sætre ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568690@asker.dks
+DTSTART:20270420T063000Z
+DTEND:20270420T080000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSætre ungdomsskole: 8c (21)\\nTotalt: 21 elevar\\n\\
+ nKONTAKT\\nSætre ungdomsskole\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +
+ 47 91 53 70 44  hilde.solum@asker.kommune.no\\n  Henrik Skifjeld Eliassen 
+  +47 93 08 22 27  henrik.skifjeld.eliassen@asker.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre ungdomsskole:</b> 8c (
+ 21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdo
+ msskole</b><br>Tlf: +47 32 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 
+ &nbsp; <a href='mailto:hilde.solum@asker.kommune.no'>hilde.solum@asker.kom
+ mune.no</a><br>Henrik Skifjeld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a h
+ ref='mailto:henrik.skifjeld.eliassen@asker.kommune.no'>henrik.skifjeld.eli
+ assen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om prod
+ uksjonen</a></p></body></html>
+LOCATION:Sætre ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556262@asker.dks
 DTSTART:20270421T093000Z
 DTEND:20270421T101000Z
@@ -2341,6 +2524,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vardåsen skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568668@asker.dks
+DTSTART:20270422T070000Z
+DTEND:20270422T083000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 8A (29)\\nTotalt: 29 eleva
+ r\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Ha
+ nne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b
+ > 8A (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedg
+ ården ungdomsskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +
+ 47 99 72 26 98 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>han
+ ne.hellevik@asker.kommune.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Hovedgården ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556263@asker.dks
@@ -2386,6 +2591,50 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Stiftelsen Vollen Montessoriskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568669@asker.dks
+DTSTART:20270422T100500Z
+DTEND:20270422T113500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 8B (29)\\nTotalt: 29 eleva
+ r\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Ha
+ nne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b
+ > 8B (29)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedg
+ ården ungdomsskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +
+ 47 99 72 26 98 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>han
+ ne.hellevik@asker.kommune.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Hovedgården ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568670@asker.dks
+DTSTART:20270423T063500Z
+DTEND:20270423T080500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 8C (28)\\nTotalt: 28 eleva
+ r\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Ha
+ nne Hellevik  +47 99 72 26 98  hanne.hellevik@asker.kommune.no\\n\\nINFO\\
+ nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hovedgården ungdomsskole:</b
+ > 8C (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hovedg
+ ården ungdomsskole</b><br>Tlf: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +
+ 47 99 72 26 98 &nbsp; <a href='mailto:hanne.hellevik@asker.kommune.no'>han
+ ne.hellevik@asker.kommune.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Hovedgården ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-571138@asker.dks

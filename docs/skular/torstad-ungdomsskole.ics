@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Torstad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Torstad ungdomsskole
-LAST-MODIFIED:20261030T101925Z
+LAST-MODIFIED:20261101T063033Z
 BEGIN:VEVENT
 UID:dks-483430@asker.dks
 DTSTART:20261105T083500Z
@@ -300,6 +300,150 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Torstad ungdomsskole – Storstue
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568658@asker.dks
+DTSTART:20270318T072500Z
+DTEND:20270318T085500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8A (24)\\nTotalt: 24 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8A 
+ (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568659@asker.dks
+DTSTART:20270318T100500Z
+DTEND:20270318T113500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8B (24)\\nTotalt: 24 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8B 
+ (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568664@asker.dks
+DTSTART:20270420T062500Z
+DTEND:20270420T075500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8C (24)\\nTotalt: 24 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8C 
+ (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568665@asker.dks
+DTSTART:20270420T090500Z
+DTEND:20270420T103500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8D (22)\\nTotalt: 22 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8D 
+ (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568666@asker.dks
+DTSTART:20270421T062500Z
+DTEND:20270421T075500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8E (22)\\nTotalt: 22 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8E 
+ (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568667@asker.dks
+DTSTART:20270421T090500Z
+DTEND:20270421T103500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8F (23)\\nTotalt: 23 elevar\\n\
+ \nKONTAKT\\nTorstad ungdomsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethau
+ g  +47 41 22 17 79  mari.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 9
+ 7 63 02 83  magne.hasund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8F 
+ (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torstad ung
+ domsskole</b><br>Tlf: +47 66 71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17
+  79 &nbsp; <a href='mailto:mari.tvethaug@asker.kommune.no'>mari.tvethaug@a
+ sker.kommune.no</a><br>Magne Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href=
+ 'mailto:magne.hasund@asker.kommune.no'>magne.hasund@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21216'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Torstad ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545535@asker.dks

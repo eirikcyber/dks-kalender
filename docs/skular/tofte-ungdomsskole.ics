@@ -5,51 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Tofte ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Tofte ungdomsskole
-LAST-MODIFIED:20261030T101925Z
-BEGIN:VEVENT
-UID:dks-483433@asker.dks
-DTSTART:20261030T090000Z
-DTEND:20261030T094500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nTofte ungdomsskole: 10B (28)\, 10A (29)\, 8B (25)\\nT
- otalt: 82 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\\n  Tlf: +47 32 27 80 3
- 0\\n  Jolanta Veitaite-Rønning  +47 93 97 00 58  jveitait@askerskolen.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Tofte ungdomsskole:</b> 10B (
- 28), 10A (29), 8B (25)<br><b>Totalt: 82 elevar</b></p><p><b>KONTAKT</b></p
- ><p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-
- Rønning &nbsp; +47 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskole
- n.no'>jveitait@askerskolen.no</a><br></p><p><a href='https://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir 
- om produksjonen</a></p></body></html>
-LOCATION:Tofte ungdomsskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483434@asker.dks
-DTSTART:20261030T105000Z
-DTEND:20261030T113500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nTofte ungdomsskole: 8A (24)\, 9A (24)\, 9B (25)\\nTot
- alt: 73 elevar\\n\\nKONTAKT\\nTofte ungdomsskole\\n  Tlf: +47 32 27 80 30\
- \n  Jolanta Veitaite-Rønning  +47 93 97 00 58  jveitait@askerskolen.no\\n
- \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Tofte ungdomsskole:</b> 8A (2
- 4), 9A (24), 9B (25)<br><b>Totalt: 73 elevar</b></p><p><b>KONTAKT</b></p><
- p><b>Tofte ungdomsskole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-R�
- �nning &nbsp; +47 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskole
- n.no'>jveitait@askerskolen.no</a><br></p><p><a href='https://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir 
- om produksjonen</a></p></body></html>
-LOCATION:Tofte ungdomsskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
+LAST-MODIFIED:20261101T063033Z
 BEGIN:VEVENT
 UID:dks-559439@asker.dks
 DTSTART:20261117T115000Z
@@ -115,6 +71,48 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Tofte ungdomsskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568692@asker.dks
+DTSTART:20270421T061500Z
+DTEND:20270421T074500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTofte ungdomsskole: 8A (24)\\nTotalt: 24 elevar\\n\\n
+ KONTAKT\\nTofte ungdomsskole\\n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite
+ -Rønning  +47 93 97 00 58  jveitait@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Tofte ungdomsskole:</b> 8A (2
+ 4)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Tofte ungdoms
+ skole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-Rønning &nbsp; +47 
+ 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskolen.no'>jveitait@asker
+ skolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Tofte ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568693@asker.dks
+DTSTART:20270421T085500Z
+DTEND:20270421T102500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nTofte ungdomsskole: 8B (25)\\nTotalt: 25 elevar\\n\\n
+ KONTAKT\\nTofte ungdomsskole\\n  Tlf: +47 32 27 80 30\\n  Jolanta Veitaite
+ -Rønning  +47 93 97 00 58  jveitait@askerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Tofte ungdomsskole:</b> 8B (2
+ 5)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Tofte ungdoms
+ skole</b><br>Tlf: +47 32 27 80 30<br>Jolanta Veitaite-Rønning &nbsp; +47 
+ 93 97 00 58 &nbsp; <a href='mailto:jveitait@askerskolen.no'>jveitait@asker
+ skolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Tofte ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545535@asker.dks

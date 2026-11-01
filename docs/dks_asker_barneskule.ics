@@ -5,55 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker barneskule
 X-WR-CALDESC:Den Kulturelle Skolesekken - barneskuleprogram i Asker trinn 1-7
-LAST-MODIFIED:20261030T101915Z
-BEGIN:VEVENT
-UID:dks-482015@asker.dks
-DTSTART:20261030T080000Z
-DTEND:20261030T084500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHofstad skole: 3A (24)\\nTotalt: 24 elevar\\n\\nKONTA
- KT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  
- +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  Ingeborg Wie
- ncke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 3A (24)<br
- ><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad skole</b><
- br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73
-  &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.syn
- nove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 
- 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p
- ></body></html>
-LOCATION:Hofstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482016@asker.dks
-DTSTART:20261030T091000Z
-DTEND:20261030T095500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHofstad skole: 3B (25)\\nTotalt: 25 elevar\\n\\nKONTA
- KT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von Hirsch  
- +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  Ingeborg Wie
- ncke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 3B (25)<br
- ><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad skole</b><
- br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 11 34 73
-  &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>anne.syn
- nove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +47 90 98 
- 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@asker.kom
- mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p
- ></body></html>
-LOCATION:Hofstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261101T063025Z
 BEGIN:VEVENT
 UID:dks-538243@asker.dks
 DTSTART:20261102T080000Z
@@ -3422,6 +3374,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568672@asker.dks
+DTSTART:20270217T080000Z
+DTEND:20270217T093000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8b (21)\\nTota
+ lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552730@asker.dks
 DTSTART:20270217T083000Z
 DTEND:20270217T091500Z
@@ -3492,6 +3466,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Stiftelsen Asker International School
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568673@asker.dks
+DTSTART:20270217T103000Z
+DTEND:20270217T120000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8c (20)\\nTota
+ lt: 20 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8c (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552733@asker.dks
@@ -5698,6 +5694,30 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-568663@asker.dks
+DTSTART:20270419T095000Z
+DTEND:20270419T112000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Asker: 8 (25)\\nTotalt: 25 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  s
+ tai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  
+ +47 96 62 36 15  david.whyte@askersteinerskole.no\\n\\nINFO\\nhttps://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Asker:</b> 8 
+ (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbsp; +47 98 03 
+ 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinerskole.no'>marianne.
+ stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp;
+  <a href='mailto:david.whyte@askersteinerskole.no'>david.whyte@askersteine
+ rskole.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Steinerskolen i Asker
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556258@asker.dks
 DTSTART:20270419T100000Z
 DTEND:20270419T104000Z
@@ -5742,6 +5762,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Slemmestad barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568691@asker.dks
+DTSTART:20270420T093000Z
+DTEND:20270420T110000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 8 (14)\\nTotalt: 14 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Wa
+ rd  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 8 
+ (14)<br><b>Totalt: 14 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 1
+ 7 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@
+ steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Steinerskolen i Hurum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556260@asker.dks
@@ -5875,6 +5916,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Frydenlund barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568671@asker.dks
+DTSTART:20270423T093500Z
+DTEND:20270423T110500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8a (19)\\nTota
+ lt: 19 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 8a (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556267@asker.dks

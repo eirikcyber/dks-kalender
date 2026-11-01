@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
-LAST-MODIFIED:20261030T101924Z
+LAST-MODIFIED:20261101T063033Z
 BEGIN:VEVENT
 UID:dks-559371@asker.dks
 DTSTART:20261102T091500Z
@@ -276,6 +276,138 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad ungdomsskole – Auditorium
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568682@asker.dks
+DTSTART:20270317T080500Z
+DTEND:20270317T093500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8A (28)\\nTotalt: 28 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568683@asker.dks
+DTSTART:20270317T104500Z
+DTEND:20270317T121500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8B (25)\\nTotalt: 25 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8B (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568684@asker.dks
+DTSTART:20270318T080500Z
+DTEND:20270318T093500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8C (25)\\nTotalt: 25 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8C (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568685@asker.dks
+DTSTART:20270318T104500Z
+DTEND:20270318T121500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8D (26)\\nTotalt: 26 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8D (26)<br><b>Totalt: 26 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568686@asker.dks
+DTSTART:20270319T080500Z
+DTEND:20270319T093500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8E (22)\\nTotalt: 22 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8E (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568687@asker.dks
+DTSTART:20270319T104500Z
+DTEND:20270319T121500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8F (24)\\nTotalt: 24 elevar\
+ \n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne C
+ athrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\
+ n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
+ dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 8F (24)<br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkest
+ ad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp
+ ; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.kommu
+ ne.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21216'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545537@asker.dks

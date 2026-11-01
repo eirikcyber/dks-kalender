@@ -5,69 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Risenga ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Risenga ungdomsskole
-LAST-MODIFIED:20261030T101924Z
-BEGIN:VEVENT
-UID:dks-509396@asker.dks
-DTSTART:20261030T080000Z
-DTEND:20261030T100000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 08:40. Beregnet ankomst på ho
- ldeplassen kl. 08:45. Retur med tog fra Hvalstad stasjon kl. 11:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10A (28)\\nTotalt: 28 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 08
- :40. Beregnet ankomst på holdeplassen kl. 08:45. Retur med tog fra Hvalst
- ad stasjon kl. 11:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10A (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-509397@asker.dks
-DTSTART:20261030T110000Z
-DTEND:20261030T130000Z
-SUMMARY:Asker museum: Mor-ro hytta (10. trinn Asker nord)
-DESCRIPTION:Pilotprosjekt utvikles sammen med elever\\n\\nTRANSPORT\\nRisen
- ga ungdomsskole\\n  Elevene reiser kollektivt til Asker museum. Forslag ti
- l reiserute: Buss 270 fra Asker stasjon kl. 11:40. Beregnet ankomst på ho
- ldeplassen kl. 11:45. Retur med tog fra Hvalstad stasjon kl. 14:25. RUFUS-
- billetter kan benyttes. Dette bestilles av skolene og dekkes av DKS Asker\
- \n\\nKLASSER\\nRisenga ungdomsskole: 10E (28)\\nTotalt: 28 elevar\\n\\nKON
- TAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik  +47
-  90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkul
- turelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Pilotprosjekt utvikles sammen med elever</p><p><b>TRA
- NSPORT</b></p><p><b>Risenga ungdomsskole</b><br>Elevene reiser kollektivt 
- til Asker museum. Forslag til reiserute: Buss 270 fra Asker stasjon kl. 11
- :40. Beregnet ankomst på holdeplassen kl. 11:45. Retur med tog fra Hvalst
- ad stasjon kl. 14:25. RUFUS-billetter kan benyttes. Dette bestilles av sko
- lene og dekkes av DKS Asker</p><p><b>KLASSER</b></p><p><b>Risenga ungdomss
- kole:</b> 10E (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p>
- <b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp;
-  +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>lin
- e.nordvik@asker.kommune.no</a><br></p><p><a href='https://www.denkulturell
- eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23346'>Les meir om 
- produksjonen</a></p></body></html>
-LOCATION:Asker museum – Asker museum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=23346
-END:VEVENT
+LAST-MODIFIED:20261101T063032Z
 BEGIN:VEVENT
 UID:dks-483442@asker.dks
 DTSTART:20261110T093000Z
@@ -303,6 +241,111 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Askerbibliotekene – Asker bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568652@asker.dks
+DTSTART:20270315T082000Z
+DTEND:20270315T095000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 8B (27)\\nTotalt: 27 elevar\\n\
+ \nKONTAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik
+   +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 8B 
+ (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Risenga ung
+ domsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp; +47 90 84 04 
+ 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>line.nordvik@aske
+ r.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</
+ a></p></body></html>
+LOCATION:Risenga ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568653@asker.dks
+DTSTART:20270315T110000Z
+DTEND:20270315T123000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 8C (27)\\nTotalt: 27 elevar\\n\
+ \nKONTAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik
+   +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 8C 
+ (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Risenga ung
+ domsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp; +47 90 84 04 
+ 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>line.nordvik@aske
+ r.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</
+ a></p></body></html>
+LOCATION:Risenga ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568654@asker.dks
+DTSTART:20270316T082000Z
+DTEND:20270316T095000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 8D (28)\\nTotalt: 28 elevar\\n\
+ \nKONTAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik
+   +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 8D 
+ (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Risenga ung
+ domsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp; +47 90 84 04 
+ 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>line.nordvik@aske
+ r.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</
+ a></p></body></html>
+LOCATION:Risenga ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568655@asker.dks
+DTSTART:20270316T110000Z
+DTEND:20270316T123000Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 8E (28)\\nTotalt: 28 elevar\\n\
+ \nKONTAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik
+   +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 8E 
+ (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Risenga ung
+ domsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp; +47 90 84 04 
+ 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>line.nordvik@aske
+ r.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</
+ a></p></body></html>
+LOCATION:Risenga ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-568660@asker.dks
+DTSTART:20270319T071500Z
+DTEND:20270319T084500Z
+SUMMARY:Konspirasjonsverksted (8. trinn)
+DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 8F (23)\\nTotalt: 23 elevar\\n\
+ \nKONTAKT\\nRisenga ungdomsskole\\n  Tlf: +47 66 71 28 00\\n  Line Nordvik
+   +47 90 84 04 39  line.nordvik@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21216
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 8F 
+ (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Risenga ung
+ domsskole</b><br>Tlf: +47 66 71 28 00<br>Line Nordvik &nbsp; +47 90 84 04 
+ 39 &nbsp; <a href='mailto:line.nordvik@asker.kommune.no'>line.nordvik@aske
+ r.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.n
+ o/utforsk-produksjoner-i-dks/?produksjon=21216'>Les meir om produksjonen</
+ a></p></body></html>
+LOCATION:Risenga ungdomsskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545531@asker.dks
