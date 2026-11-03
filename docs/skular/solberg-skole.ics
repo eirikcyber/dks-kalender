@@ -5,28 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solberg skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solberg skole
-LAST-MODIFIED:20261101T063031Z
-BEGIN:VEVENT
-UID:dks-538656@asker.dks
-DTSTART:20261102T103000Z
-DTEND:20261102T110500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nSolberg skole: 1 (17)\, 2 (17)\\nTotalt: 34 elevar\\n
- \\nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 
- 79 10 69  knut.gustavsen.engh@asker.kommune.no\\n\\nINFO\\nhttps://www.den
- kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 1 (17), 2 
- (17)<br><b>Totalt: 34 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg sko
- le</b><br>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; 
- <a href='mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Solberg skole – Allrommet
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
+LAST-MODIFIED:20261103T063022Z
 BEGIN:VEVENT
 UID:dks-523065@asker.dks
 DTSTART:20261207T103000Z
