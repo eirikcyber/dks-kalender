@@ -5,38 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Steinerskolen i Hurum
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Steinerskolen i Hurum
-LAST-MODIFIED:20261103T090015Z
-BEGIN:VEVENT
-UID:dks-559422@asker.dks
-DTSTART:20261104T110000Z
-DTEND:20261104T114500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSteinerskolen i Hu
- rum: 8 (14)\\nSætre ungdomsskole: 8c (21)\\nTotalt: 35 elevar\\n\\nKONTAK
- T\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 
- 94 42 17 43  jeanette.ward@steinerskolen.no\\nSætre ungdomsskole\\n  Tlf:
-  +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommu
- ne.no\\n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skifjeld.elias
- sen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/u
- tforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Steinerskolen i Hurum:</b> 8 (14)<br><b>Sætre ungdomsskole:</b> 8c
-  (21)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
- len i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 
- 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward
- @steinerskolen.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 
- 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hild
- e.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifj
- eld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld
- .eliassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker.kommune.no</a><
- br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></ht
- ml>
-LOCATION:Askerbibliotekene – Sætre bibliotek
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
+LAST-MODIFIED:20261116T091317Z
 BEGIN:VEVENT
 UID:dks-482062@asker.dks
 DTSTART:20261125T110000Z
@@ -145,6 +114,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Steinerskolen i Hurum – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482213@asker.dks
+DTSTART:20270316T081500Z
+DTEND:20270316T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 7 (20)\\nTotalt: 20 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Wa
+ rd  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 7 
+ (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 1
+ 7 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@
+ steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Steinerskolen i Hurum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545602@asker.dks

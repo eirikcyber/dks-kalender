@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hofstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hofstad skole
-LAST-MODIFIED:20261103T090012Z
+LAST-MODIFIED:20261116T091309Z
 BEGIN:VEVENT
 UID:dks-560174@asker.dks
 DTSTART:20261125T081500Z
@@ -205,6 +205,31 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Hofstad skole – Gymsal Hofstad skole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482186@asker.dks
+DTSTART:20270210T093000Z
+DTEND:20270210T101000Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHofstad skole: 7A (26)\, 7B (26)\\nTotalt: 52 elevar\
+ \n\\nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Vo
+ n Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  In
+ geborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 7A (26), 7
+ B (26)<br><b>Totalt: 52 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad s
+ kole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97
+  11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'
+ >anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +
+ 47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Hofstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545600@asker.dks

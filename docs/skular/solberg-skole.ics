@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Solberg skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Solberg skole
-LAST-MODIFIED:20261103T090012Z
+LAST-MODIFIED:20261116T091312Z
 BEGIN:VEVENT
 UID:dks-523065@asker.dks
 DTSTART:20261207T103000Z
@@ -48,6 +48,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Solberg skole – Allrommet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482176@asker.dks
+DTSTART:20270204T091500Z
+DTEND:20270204T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSolberg skole: 7 (20)\\nTotalt: 20 elevar\\n\\nKONTAK
+ T\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69 
+  knut.gustavsen.engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 7 (20)<br>
+ <b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg skole</b><b
+ r>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a href=
+ 'mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@asker.ko
+ mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></
+ p></body></html>
+LOCATION:Solberg skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511537@asker.dks

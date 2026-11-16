@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Drengsrud skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Drengsrud skole
-LAST-MODIFIED:20261103T090011Z
+LAST-MODIFIED:20261116T091308Z
 BEGIN:VEVENT
 UID:dks-523045@asker.dks
 DTSTART:20261127T093000Z
@@ -75,8 +75,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511467@asker.dks
-DTSTART:20270111T110000Z
-DTEND:20270111T114500Z
+DTSTART:20270111T094500Z
+DTEND:20270111T103000Z
 SUMMARY:Duo Sara og Ole (1.-7. trinn)
 DESCRIPTION:KLASSER\\nDrengsrud skole: 7B (24)\, 6B (25)\, 5B (17)\, 4B (22
  )\, 3B (23)\, 1B (13)\, 2B (16)\, 2C (16)\\nTotalt: 156 elevar\\n\\nKONTAK
@@ -117,6 +117,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Drengsrud skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482196@asker.dks
+DTSTART:20270218T091500Z
+DTEND:20270218T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nDrengsrud skole: 7A (22)\, 7B (24)\\nTotalt: 46 eleva
+ r\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolla
+ nd  +47 47 84 13 15  thomas.rolland@asker.kommune.no\\n\\nINFO\\nhttps://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2128
+ 7
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Drengsrud skole:</b> 7A (22),
+  7B (24)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsr
+ ud skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13
+  15 &nbsp; <a href='mailto:thomas.rolland@asker.kommune.no'>thomas.rolland
+ @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjo
+ nen</a></p></body></html>
+LOCATION:Drengsrud skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556065@asker.dks

@@ -5,77 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
-LAST-MODIFIED:20261103T090014Z
-BEGIN:VEVENT
-UID:dks-483447@asker.dks
-DTSTART:20261113T093000Z
-DTEND:20261113T101500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8A (28)\, 8B (25)\, 8C (25)\
- , 8D (26)\, 8E (22)\, 8F (24)\\nTotalt: 150 elevar\\n\\nKONTAKT\\nSpikkest
- ad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91
-  11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 8A (28), 8B (25), 8C (25), 8D (26), 8E (22), 8F (24)<br><b>Totalt: 150 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: 
- +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a 
- href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjo
- nen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483449@asker.dks
-DTSTART:20261113T105500Z
-DTEND:20261113T114000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\, 10E (23)\, 10D (2
- 5)\, 10C (25)\, 10B (24)\, 10A (25)\\nTotalt: 145 elevar\\n\\nKONTAKT\\nSp
- ikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  
- +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 1348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10F (23), 10E (23), 10D (25), 10C (25), 10B (24), 10A (25)<br><b>Totalt: 1
- 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br
- >Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbs
- p; <a href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.f
- rogner@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om pro
- duksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483448@asker.dks
-DTSTART:20261113T120000Z
-DTEND:20261113T124500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 9A (28)\, 9B (25)\, 9C (25)\
- , 9D (26)\, 9E (22)\, 9F (24)\\nTotalt: 150 elevar\\n\\nKONTAKT\\nSpikkest
- ad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91
-  11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 9A (28), 9B (25), 9C (25), 9D (26), 9E (22), 9F (24)<br><b>Totalt: 150 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: 
- +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a 
- href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjo
- nen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
+LAST-MODIFIED:20261116T091315Z
 BEGIN:VEVENT
 UID:dks-559373@asker.dks
 DTSTART:20261117T091500Z

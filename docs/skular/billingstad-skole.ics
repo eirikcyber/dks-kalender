@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Billingstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Billingstad skole
-LAST-MODIFIED:20261103T090011Z
+LAST-MODIFIED:20261116T091307Z
 BEGIN:VEVENT
 UID:dks-560166@asker.dks
 DTSTART:20261124T084500Z
@@ -161,6 +161,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Billingstad skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482200@asker.dks
+DTSTART:20270303T091500Z
+DTEND:20270303T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nBillingstad skole: 7A (19)\, 7B (17)\\nTotalt: 36 ele
+ var\\n\\nKONTAKT\\nBillingstad skole\\n  Tlf: +47 66 71 53 00\\n  Caroline
+  Halnes  +47 92 64 17 94  caroline.blutecher.halnes@asker.kommune.no\\n\\n
+ INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Billingstad skole:</b> 7A (19
+ ), 7B (17)<br><b>Totalt: 36 elevar</b></p><p><b>KONTAKT</b></p><p><b>Billi
+ ngstad skole</b><br>Tlf: +47 66 71 53 00<br>Caroline Halnes &nbsp; +47 92 
+ 64 17 94 &nbsp; <a href='mailto:caroline.blutecher.halnes@asker.kommune.no
+ '>caroline.blutecher.halnes@asker.kommune.no</a><br></p><p><a href='https:
+ //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
+ 1287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Billingstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545595@asker.dks

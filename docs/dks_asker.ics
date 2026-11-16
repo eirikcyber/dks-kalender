@@ -5,1015 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20261103T090007Z
-BEGIN:VEVENT
-UID:dks-538601@asker.dks
-DTSTART:20261103T084500Z
-DTEND:20261103T092000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nBondi skole: 1A (20)\, 2A (20)\, 1B (20)\, 2B (20)\, 
- 1C (20)\, 2C (20)\\nTotalt: 120 elevar\\n\\nKONTAKT\\nBondi skole\\n  Tlf:
-  +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20  heidi.asmul@asker.komm
- une.no\\n  Karianne Mayer  +47 91 59 43 53  karianne.mayer@asker.kommune.n
- o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 1A (20), 2A 
- (20), 1B (20), 2B (20), 1C (20), 2C (20)<br><b>Totalt: 120 elevar</b></p><
- p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>Tlf: +47 66 76 19 20<br>Heidi
-  Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href='mailto:heidi.asmul@asker.ko
- mmune.no'>heidi.asmul@asker.kommune.no</a><br>Karianne Mayer &nbsp; +47 91
-  59 43 53 &nbsp; <a href='mailto:karianne.mayer@asker.kommune.no'>karianne
- .mayer@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om pro
- duksjonen</a></p></body></html>
-LOCATION:Bondi skole – Gymsalen
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482051@asker.dks
-DTSTART:20261103T091500Z
-DTEND:20261103T100000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nVettre skole: 3 (19)\\nTotalt: 19 elevar\\n\\nKONTAKT
- \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
-  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 3 (19)<br><
- b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
- Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
- 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
- </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vettre skole – 7 klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483435@asker.dks
-DTSTART:20261103T093500Z
-DTEND:20261103T102000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 8A (29)\, 8B (30)\, 8C (28)\, 8D
-  (29)\\nTotalt: 116 elevar\\n\\nKONTAKT\\nBorgen ungdomsskole\\n  Tlf: +47
-  66 71 54 00\\n  Anne-Marie Christophersen  +47 99 53 30 36  anne-marie.ch
- ristophersen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 8A (
- 29), 8B (30), 8C (28), 8D (29)<br><b>Totalt: 116 elevar</b></p><p><b>KONTA
- KT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 66 71 54 00<br>Anne-Ma
- rie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a href='mailto:anne-mari
- e.christophersen@asker.kommune.no'>anne-marie.christophersen@asker.kommune
- .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=21348'>Les meir om produksjonen</a></p></b
- ody></html>
-LOCATION:Borgen ungdomsskole – Forum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-538642@asker.dks
-DTSTART:20261103T110000Z
-DTEND:20261103T113500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nJansløkka skole: 1rød (17)\, 2rød (17)\, 1 blå (1
- 7)\, 2 blå (17)\, 1 grønn (17)\, 2 grønn (17)\, 1 gul (17)\, 2 gul (17)
- \\nTotalt: 136 elevar\\n\\nKONTAKT\\nJansløkka skole\\n  Tlf: +47 66 71 5
- 5 70\\n  Marit Melås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\
- \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Jansløkka skole:</b> 1rød (
- 17), 2rød (17), 1 blå (17), 2 blå (17), 1 grønn (17), 2 grønn (17), 1
-  gul (17), 2 gul (17)<br><b>Totalt: 136 elevar</b></p><p><b>KONTAKT</b></p
- ><p><b>Jansløkka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp;
-  +47 91 74 46 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@as
- ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
- .no/utforsk-produksjoner-i-dks/?produksjon=24433'>Les meir om produksjonen
- </a></p></body></html>
-LOCATION:Jansløkka skole – Gymsal - Jansløkka Skole
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482052@asker.dks
-DTSTART:20261103T110500Z
-DTEND:20261103T115000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nVettre skole: 3 (20)\\nTotalt: 20 elevar\\n\\nKONTAKT
- \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
-  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 3 (20)<br><
- b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
- Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
- 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
- </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vettre skole – 7 klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483436@asker.dks
-DTSTART:20261103T110500Z
-DTEND:20261103T115000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 9A (28)\, 9B (27)\, 9C (29)\, 9D
-  (28)\, VKK 8-10 trinn (17)\\nTotalt: 129 elevar\\n\\nKONTAKT\\nBorgen ung
- domsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christophersen  +47 99 5
- 3 30 36  anne-marie.christophersen@asker.kommune.no\\n\\nINFO\\nhttps://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 9A (
- 28), 9B (27), 9C (29), 9D (28), VKK 8-10 trinn (17)<br><b>Totalt: 129 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b><br>Tlf: +47 6
- 6 71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30 36 &nbsp; <a h
- ref='mailto:anne-marie.christophersen@asker.kommune.no'>anne-marie.christo
- phersen@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
- kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om pr
- oduksjonen</a></p></body></html>
-LOCATION:Borgen ungdomsskole – Forum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483437@asker.dks
-DTSTART:20261103T123000Z
-DTEND:20261103T131500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nBorgen ungdomsskole: 10A (25)\, 10B (27)\, 10C (25)\,
-  10D (25)\, 10VKK (5)\, VKK 9-10 trinn (17)\\nTotalt: 124 elevar\\n\\nKONT
- AKT\\nBorgen ungdomsskole\\n  Tlf: +47 66 71 54 00\\n  Anne-Marie Christop
- hersen  +47 99 53 30 36  anne-marie.christophersen@asker.kommune.no\\n\\nI
- NFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
- produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Borgen ungdomsskole:</b> 10A 
- (25), 10B (27), 10C (25), 10D (25), 10VKK (5), VKK 9-10 trinn (17)<br><b>T
- otalt: 124 elevar</b></p><p><b>KONTAKT</b></p><p><b>Borgen ungdomsskole</b
- ><br>Tlf: +47 66 71 54 00<br>Anne-Marie Christophersen &nbsp; +47 99 53 30
-  36 &nbsp; <a href='mailto:anne-marie.christophersen@asker.kommune.no'>ann
- e-marie.christophersen@asker.kommune.no</a><br></p><p><a href='https://www
- .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'
- >Les meir om produksjonen</a></p></body></html>
-LOCATION:Borgen ungdomsskole – Forum
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482018@asker.dks
-DTSTART:20261104T074500Z
-DTEND:20261104T083000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHvalstad skole: 3A (21)\\nTotalt: 21 elevar\\n\\nKONT
- AKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun ti
- lrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne 
- Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.n
- o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 3A (21)<b
- r><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</b
- ><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +4
- 7 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>t
- rine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47
-  91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.n
- o'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hvalstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-538603@asker.dks
-DTSTART:20261104T083000Z
-DTEND:20261104T090500Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nMidtbygda barneskole: 1A (21)\, 1B (22)\, 1C (22)\\nT
- otalt: 65 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 31 29 35
-  00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophaug@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Midtbygda barneskole:</b> 1A 
- (21), 1B (22), 1C (22)<br><b>Totalt: 65 elevar</b></p><p><b>KONTAKT</b></p
- ><p><b>Midtbygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje 
- Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug
- @asker.kommune.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p><a
-  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Midtbygda barneskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482019@asker.dks
-DTSTART:20261104T085000Z
-DTEND:20261104T093500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHvalstad skole: 3B (19)\\nTotalt: 19 elevar\\n\\nKONT
- AKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun ti
- lrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne 
- Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.n
- o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 3B (19)<b
- r><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</b
- ><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +4
- 7 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>t
- rine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47
-  91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.n
- o'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hvalstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559421@asker.dks
-DTSTART:20261104T090000Z
-DTEND:20261104T094500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSætre ungdomsskol
- e: 8b (21)\, 8a (22)\\nTotalt: 43 elevar\\n\\nKONTAKT\\nSætre ungdomsskol
- e\\n  Tlf: +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@a
- sker.kommune.no\\n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skif
- jeld.eliassen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskoles
- ekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Sætre ungdomsskole:</b> 8b (21), 8a (22)<br><b>Totalt: 43 elevar</
- b></p><p><b>KONTAKT</b></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 27
-  81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hilde.
- solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifjel
- d Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld.e
- liassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker.kommune.no</a><br
- ></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjo
- ner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></html
- >
-LOCATION:Askerbibliotekene – Sætre bibliotek
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483428@asker.dks
-DTSTART:20261104T093000Z
-DTEND:20261104T101500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 8 nord (26)\, 9 nord (21)\, 8 ø
- st (25)\, 8 sør (25)\, 9 sør (24)\\nTotalt: 121 elevar\\n\\nKONTAKT\\nVo
- llen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette Andersen  +47 91 75 8
- 7 22  mette.andersen@asker.kommune.no\\n  Line Utengen  +47 90 68 52 33  l
- ine.stenrud.utengen@asker.kommune.no\\n  siw melkvik  +47 92 61 25 80  sme
- @kulturtanken.no\\n  Anders Tollefsen  +47 99 57 16 02  at@kulturtanken.no
- \\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-
- i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 8 no
- rd (26), 9 nord (21), 8 øst (25), 8 sør (25), 9 sør (24)<br><b>Totalt: 
- 121 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen ungdomsskole</b><br>Tl
- f: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 75 87 22 &nbsp; <a href
- ='mailto:mette.andersen@asker.kommune.no'>mette.andersen@asker.kommune.no<
- /a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <a href='mailto:line.ste
- nrud.utengen@asker.kommune.no'>line.stenrud.utengen@asker.kommune.no</a><b
- r>siw melkvik &nbsp; +47 92 61 25 80 &nbsp; <a href='mailto:sme@kulturtank
- en.no'>sme@kulturtanken.no</a><br>Anders Tollefsen &nbsp; +47 99 57 16 02 
- &nbsp; <a href='mailto:at@kulturtanken.no'>at@kulturtanken.no</a><br></p><
- p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-
- dks/?produksjon=21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vollen ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-541988@asker.dks
-DTSTART:20261104T101500Z
-DTEND:20261104T105000Z
-SUMMARY:Kvitebjørn Kong Valemon (1.-2. trinn)
-DESCRIPTION:KLASSER\\nMidtbygda barneskole: 2A (21)\, 2B (23)\, 2C (22)\\nT
- otalt: 66 elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 31 29 35
-  00\\n  Foline Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophaug@aske
- r.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-p
- roduksjoner-i-dks/?produksjon=24433
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Midtbygda barneskole:</b> 2A 
- (21), 2B (23), 2C (22)<br><b>Totalt: 66 elevar</b></p><p><b>KONTAKT</b></p
- ><p><b>Midtbygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje 
- Ophaug &nbsp; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug
- @asker.kommune.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p><a
-  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=24433'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Midtbygda barneskole – Gymsal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24433
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482020@asker.dks
-DTSTART:20261104T103000Z
-DTEND:20261104T111500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHvalstad skole: 3C (19)\\nTotalt: 19 elevar\\n\\nKONT
- AKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun ti
- lrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne 
- Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.n
- o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 3C (19)<b
- r><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</b
- ><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +4
- 7 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>t
- rine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47
-  91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.n
- o'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hvalstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559422@asker.dks
-DTSTART:20261104T110000Z
-DTEND:20261104T114500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSteinerskolen i Hu
- rum: 8 (14)\\nSætre ungdomsskole: 8c (21)\\nTotalt: 35 elevar\\n\\nKONTAK
- T\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Ward  +47 
- 94 42 17 43  jeanette.ward@steinerskolen.no\\nSætre ungdomsskole\\n  Tlf:
-  +47 32 27 81 70\\n  Hilde Solum  +47 91 53 70 44  hilde.solum@asker.kommu
- ne.no\\n  Henrik Skifjeld Eliassen  +47 93 08 22 27  henrik.skifjeld.elias
- sen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/u
- tforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Steinerskolen i Hurum:</b> 8 (14)<br><b>Sætre ungdomsskole:</b> 8c
-  (21)<br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinersko
- len i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 
- 17 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward
- @steinerskolen.no</a><br></p><p><b>Sætre ungdomsskole</b><br>Tlf: +47 32 
- 27 81 70<br>Hilde Solum &nbsp; +47 91 53 70 44 &nbsp; <a href='mailto:hild
- e.solum@asker.kommune.no'>hilde.solum@asker.kommune.no</a><br>Henrik Skifj
- eld Eliassen &nbsp; +47 93 08 22 27 &nbsp; <a href='mailto:henrik.skifjeld
- .eliassen@asker.kommune.no'>henrik.skifjeld.eliassen@asker.kommune.no</a><
- br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produks
- joner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></ht
- ml>
-LOCATION:Askerbibliotekene – Sætre bibliotek
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482035@asker.dks
-DTSTART:20261104T114500Z
-DTEND:20261104T123000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nHvalstad skole: 3d (19)\\nTotalt: 19 elevar\\n\\nKONT
- AKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun ti
- lrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no\\n  Anne 
- Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker.kommune.n
- o\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 3d (19)<b
- r><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad skole</b
- ><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) &nbsp; +4
- 7 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.kommune.no'>t
- rine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &nbsp; +47
-  91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.kommune.n
- o'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
- 84'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hvalstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483429@asker.dks
-DTSTART:20261104T122000Z
-DTEND:20261104T130500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 10 nord (28)\, 10 øst (24)\, 10
-  sør (27)\, 9 øst (22)\\nTotalt: 101 elevar\\n\\nKONTAKT\\nVollen ungdom
- sskole\\n  Tlf: +47 66 71 52 50\\n  Mette Andersen  +47 91 75 87 22  mette
- .andersen@asker.kommune.no\\n  Line Utengen  +47 90 68 52 33  line.stenrud
- .utengen@asker.kommune.no\\n  siw melkvik  +47 92 61 25 80  sme@kulturtank
- en.no\\n  Anders Tollefsen  +47 99 57 16 02  at@kulturtanken.no\\n\\nINFO\
- \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
- uksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 10 n
- ord (28), 10 øst (24), 10 sør (27), 9 øst (22)<br><b>Totalt: 101 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Vollen ungdomsskole</b><br>Tlf: +47 66 
- 71 52 50<br>Mette Andersen &nbsp; +47 91 75 87 22 &nbsp; <a href='mailto:m
- ette.andersen@asker.kommune.no'>mette.andersen@asker.kommune.no</a><br>Lin
- e Utengen &nbsp; +47 90 68 52 33 &nbsp; <a href='mailto:line.stenrud.uteng
- en@asker.kommune.no'>line.stenrud.utengen@asker.kommune.no</a><br>siw melk
- vik &nbsp; +47 92 61 25 80 &nbsp; <a href='mailto:sme@kulturtanken.no'>sme
- @kulturtanken.no</a><br>Anders Tollefsen &nbsp; +47 99 57 16 02 &nbsp; <a 
- href='mailto:at@kulturtanken.no'>at@kulturtanken.no</a><br></p><p><a href=
- 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
- ksjon=21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vollen ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482027@asker.dks
-DTSTART:20261105T083000Z
-DTEND:20261105T091500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nNesøya skole: 3A (16)\\nTotalt: 16 elevar\\n\\nKONTA
- KT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
- 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
- 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 3A (16)<br
- ><b>Totalt: 16 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><
- br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a 
- href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.n
- o</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mail
- to:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommu
- ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
- sk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p><
- /body></html>
-LOCATION:Nesøya skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483430@asker.dks
-DTSTART:20261105T083500Z
-DTEND:20261105T092000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 8A (24)\, 8B (24)\, 8C (24)\, 8
- D (22)\, 8E (22)\, 8F (23)\\nTotalt: 139 elevar\\n\\nKONTAKT\\nTorstad ung
- domsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mar
- i.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasun
- d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 8A 
- (24), 8B (24), 8C (24), 8D (22), 8E (22), 8F (23)<br><b>Totalt: 139 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 66
-  71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto:m
- ari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Magne
-  Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker.k
- ommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
- '>Les meir om produksjonen</a></p></body></html>
-LOCATION:Torstad ungdomsskole – Storstue
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559423@asker.dks
-DTSTART:20261105T090000Z
-DTEND:20261105T094500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSlemmestad ungdoms
- skole: 8A (28)\, 8B (29)\, VKK 8 (5)\\nTotalt: 62 elevar\\n\\nKONTAKT\\nSl
- emmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 
- 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=248
- 99
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Slemmestad ungdomsskole:</b> 8A (28), 8B (29), VKK 8 (5)<br><b>Tota
- lt: 62 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b
- ><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbs
- p; <a href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.bir
- gitte.sund@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
- leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om
-  produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Auditoriet
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483431@asker.dks
-DTSTART:20261105T094500Z
-DTEND:20261105T103000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 9A (23)\, 9B (22)\, 9C (24)\, 9
- D (25)\, 9E (25)\, 9F (23)\\nTotalt: 142 elevar\\n\\nKONTAKT\\nTorstad ung
- domsskole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mar
- i.tvethaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasun
- d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 9A 
- (23), 9B (22), 9C (24), 9D (25), 9E (25), 9F (23)<br><b>Totalt: 142 elevar
- </b></p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 66
-  71 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto:m
- ari.tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Magne
-  Hasund &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker.k
- ommune.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://ww
- w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
- '>Les meir om produksjonen</a></p></body></html>
-LOCATION:Torstad ungdomsskole – Storstue
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482028@asker.dks
-DTSTART:20261105T103000Z
-DTEND:20261105T111500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nNesøya skole: 3B (17)\\nTotalt: 17 elevar\\n\\nKONTA
- KT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
- 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
- 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 3B (17)<br
- ><b>Totalt: 17 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><
- br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a 
- href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.n
- o</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mail
- to:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommu
- ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
- sk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p><
- /body></html>
-LOCATION:Nesøya skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559424@asker.dks
-DTSTART:20261105T110000Z
-DTEND:20261105T114500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nSlemmestad ungdoms
- skole: 8C (29)\, 8D (28)\\nTotalt: 57 elevar\\n\\nKONTAKT\\nSlemmestad ung
- domsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09 
-  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
- relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Slemmestad ungdomsskole:</b> 8C (29), 8D (28)<br><b>Totalt: 57 elev
- ar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +
- 47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href=
- 'mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=24899'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Auditoriet
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483559@asker.dks
-DTSTART:20261105T112500Z
-DTEND:20261105T121000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nTorstad ungdomsskole: 10A (26)\, 10B (26)\, 10C (25)\
- , 10D (26)\, 10E (25)\\nTotalt: 128 elevar\\n\\nKONTAKT\\nTorstad ungdomss
- kole\\n  Tlf: +47 66 71 53 50\\n  Mari Tvethaug  +47 41 22 17 79  mari.tve
- thaug@asker.kommune.no\\n  Magne Hasund  +47 97 63 02 83  magne.hasund@ask
- er.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torstad ungdomsskole:</b> 10A
-  (26), 10B (26), 10C (25), 10D (26), 10E (25)<br><b>Totalt: 128 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Torstad ungdomsskole</b><br>Tlf: +47 66 71 
- 53 50<br>Mari Tvethaug &nbsp; +47 41 22 17 79 &nbsp; <a href='mailto:mari.
- tvethaug@asker.kommune.no'>mari.tvethaug@asker.kommune.no</a><br>Magne Has
- und &nbsp; +47 97 63 02 83 &nbsp; <a href='mailto:magne.hasund@asker.kommu
- ne.no'>magne.hasund@asker.kommune.no</a><br></p><p><a href='https://www.de
- nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Le
- s meir om produksjonen</a></p></body></html>
-LOCATION:Torstad ungdomsskole – Storstue
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482029@asker.dks
-DTSTART:20261105T114500Z
-DTEND:20261105T123000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nTotalt: 0 elevar\\n\\nKONTAKT\\nNesøya skole\\n  Tlf
- : +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.
- kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannesta
- d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Totalt: 0 elevar</b></p><p><b
- >KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Si
- ngsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.k
- ommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Rannestad &nb
- sp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@asker.komm
- une.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21284'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Nesøya skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482030@asker.dks
-DTSTART:20261106T075500Z
-DTEND:20261106T084000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3a (21)\\nTota
- lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
- : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
- nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
- /?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
- l School:</b> 3a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
- >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
- no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
- sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
- sjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School – U1 Activity Room
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482031@asker.dks
-DTSTART:20261106T090000Z
-DTEND:20261106T094500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3b (21)\\nTota
- lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
- : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
- nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
- /?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
- l School:</b> 3b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
- >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
- no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
- sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
- sjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School – U1 Activity Room
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559425@asker.dks
-DTSTART:20261106T090000Z
-DTEND:20261106T094500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nHovedgården ungdo
- msskole: 8B (29)\, 8A (29)\\nTotalt: 58 elevar\\n\\nKONTAKT\\nHovedgården
-  ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98
-   hanne.hellevik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Hovedgården ungdomsskole:</b> 8B (29), 8A (29)<br><b>Totalt: 58 el
- evar</b></p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tl
- f: +47 66 71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href
- ='mailto:hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no<
- /a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pro
- duksjoner-i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body>
- </html>
-LOCATION:Hovedgården ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482032@asker.dks
-DTSTART:20261106T095000Z
-DTEND:20261106T103500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 3c (22)\\nTota
- lt: 22 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
- : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
- nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
- /?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
- l School:</b> 3c (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p>
- <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
- >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
- no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
- sekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir om produk
- sjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School – U1 Activity Room
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-559426@asker.dks
-DTSTART:20261106T110000Z
-DTEND:20261106T114500Z
-SUMMARY:Bare vent (8. trinn)
-DESCRIPTION:Forfattermøte med Neda Alaei\\n\\nKLASSER\\nHovedgården ungdo
- msskole: 8C (28)\\nTotalt: 28 elevar\\n\\nKONTAKT\\nHovedgården ungdomssk
- ole\\n  Tlf: +47 66 71 59 00\\n  Hanne Hellevik  +47 99 72 26 98  hanne.he
- llevik@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
- o/utforsk-produksjoner-i-dks/?produksjon=24899
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>Forfattermøte med Neda Alaei</p><p><b>KLASSER</b></p
- ><p><b>Hovedgården ungdomsskole:</b> 8C (28)<br><b>Totalt: 28 elevar</b><
- /p><p><b>KONTAKT</b></p><p><b>Hovedgården ungdomsskole</b><br>Tlf: +47 66
-  71 59 00<br>Hanne Hellevik &nbsp; +47 99 72 26 98 &nbsp; <a href='mailto:
- hanne.hellevik@asker.kommune.no'>hanne.hellevik@asker.kommune.no</a><br></
- p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=24899'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Hovedgården ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=24899
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483581@asker.dks
-DTSTART:20261109T100000Z
-DTEND:20261109T104500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 8a (19)\, 9a (
- 19)\, 8b (21)\, 9b (21)\, 8c (20)\\nTotalt: 100 elevar\\n\\nKONTAKT\\nStif
- telsen Asker International School\\n  Tlf: +47 90 72 06 70\\n  James Murph
- y  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelle
- skolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
- l School:</b> 8a (19), 9a (19), 8b (21), 9b (21), 8c (20)<br><b>Totalt: 10
- 0 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International 
- School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 
- &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a
-  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
- ?produksjon=21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School – U1 Activity Room
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483580@asker.dks
-DTSTART:20261109T124000Z
-DTEND:20261109T132500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 10a (21)\, 10b
-  (21)\, 10c (21)\, 9c (20)\\nTotalt: 83 elevar\\n\\nKONTAKT\\nStiftelsen A
- sker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 9
- 4 83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
- l School:</b> 10a (21), 10b (21), 10c (21), 9c (20)<br><b>Totalt: 83 eleva
- r</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker International School<
- /b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; 
- <a href='mailto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='
- https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
- sjon=21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School – U1 Activity Room
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483442@asker.dks
-DTSTART:20261110T093000Z
-DTEND:20261110T101500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 10A (26)\, 10B (26)\, 10C (26)\
- , 10D (28)\\nTotalt: 106 elevar\\n\\nKONTAKT\\nRisenga ungdomsskole\\n  Tl
- f: +47 66 71 28 00\\n  Line Nordvik  +47 90 84 04 39  line.nordvik@asker.k
- ommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-prod
- uksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 10A
-  (26), 10B (26), 10C (26), 10D (28)<br><b>Totalt: 106 elevar</b></p><p><b>
- KONTAKT</b></p><p><b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>L
- ine Nordvik &nbsp; +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@ask
- er.kommune.no'>line.nordvik@asker.kommune.no</a><br></p><p><a href='https:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 1348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Risenga ungdomsskole – Forsamlingssal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483443@asker.dks
-DTSTART:20261110T111000Z
-DTEND:20261110T115500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nRisenga ungdomsskole: 10E (26)\, 10F (27)\, 8E (28)\,
-  9E (28)\\nTotalt: 109 elevar\\n\\nKONTAKT\\nRisenga ungdomsskole\\n  Tlf:
-  +47 66 71 28 00\\n  Line Nordvik  +47 90 84 04 39  line.nordvik@asker.kom
- mune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produk
- sjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Risenga ungdomsskole:</b> 10E
-  (26), 10F (27), 8E (28), 9E (28)<br><b>Totalt: 109 elevar</b></p><p><b>KO
- NTAKT</b></p><p><b>Risenga ungdomsskole</b><br>Tlf: +47 66 71 28 00<br>Lin
- e Nordvik &nbsp; +47 90 84 04 39 &nbsp; <a href='mailto:line.nordvik@asker
- .kommune.no'>line.nordvik@asker.kommune.no</a><br></p><p><a href='https://
- www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=213
- 48'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Risenga ungdomsskole – Forsamlingssal
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483444@asker.dks
-DTSTART:20261111T085500Z
-DTEND:20261111T094000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 8A (28)\, 8B (29)\, 8C (29)\
- , 8D (28)\, VKK 8 (5)\, VKK 10 (5)\\nTotalt: 124 elevar\\n\\nKONTAKT\\nSle
- mmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 4
- 7 08 77 09  christine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://w
- ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2134
- 8
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 8A (28), 8B (29), 8C (29), 8D (28), VKK 8 (5), VKK 10 (5)<br><b>Totalt: 12
- 4 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>
- Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a
-  href='mailto:christine.birgitte.sund@asker.kommune.no'>christine.birgitte
- .sund@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesko
- lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om prod
- uksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Aula'n
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483445@asker.dks
-DTSTART:20261111T100500Z
-DTEND:20261111T105000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 9A (28)\, 9B (29)\, 9C (29)\
- , 9D (28)\, VKK 9 (5)\\nTotalt: 119 elevar\\n\\nKONTAKT\\nSlemmestad ungdo
- msskole\\n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  c
- hristine.birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 9A (28), 9B (29), 9C (29), 9D (28), VKK 9 (5)<br><b>Totalt: 119 elevar</b>
- </p><p><b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 
- 29 34 40<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailt
- o:christine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@asker.
- kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/
- utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjonen</a>
- </p></body></html>
-LOCATION:Slemmestad ungdomsskole – Aula'n
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483446@asker.dks
-DTSTART:20261111T113500Z
-DTEND:20261111T122000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10A (28)\, 10B (28)\, 10C (2
- 8)\, 10D (27)\\nTotalt: 111 elevar\\n\\nKONTAKT\\nSlemmestad ungdomsskole\
- \n  Tlf: +47 31 29 34 40\\n  Christine B. Sund  +47 47 08 77 09  christine
- .birgitte.sund@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskole
- sekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 10A (28), 10B (28), 10C (28), 10D (27)<br><b>Totalt: 111 elevar</b></p><p>
- <b>KONTAKT</b></p><p><b>Slemmestad ungdomsskole</b><br>Tlf: +47 31 29 34 4
- 0<br>Christine B. Sund &nbsp; +47 47 08 77 09 &nbsp; <a href='mailto:chris
- tine.birgitte.sund@asker.kommune.no'>christine.birgitte.sund@asker.kommune
- .no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk
- -produksjoner-i-dks/?produksjon=21348'>Les meir om produksjonen</a></p></b
- ody></html>
-LOCATION:Slemmestad ungdomsskole – Aula'n
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483451@asker.dks
-DTSTART:20261112T091000Z
-DTEND:20261112T095500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 8D (30)\, 8C (30)\, 8B (29)\, 
- 9B (29)\, 8A (30)\, 9A (30)\\nTotalt: 178 elevar\\n\\nKONTAKT\\nLandøya u
- ngdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 42 25
-   mona.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 37  
- truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 22 68
-  02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 8D
-  (30), 8C (30), 8B (29), 9B (29), 8A (30), 9A (30)<br><b>Totalt: 178 eleva
- r</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: +47 
- 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href='mai
- lto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.no</
- a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:truls.
- ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommune.no
- </a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto:mda
- lheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Landøya ungdomsskole – Kantina
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483452@asker.dks
-DTSTART:20261112T104500Z
-DTEND:20261112T113000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 10D (28)\, 10C (25)\, 10B (28)
- \, 10A (26)\, 9D (30)\, 9C (30)\\nTotalt: 167 elevar\\n\\nKONTAKT\\nLandø
- ya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Engebretsen  +47 93 05 4
- 2 25  mona.engebretsen@asker.kommune.no\\n  Truls Valentini  +47 99 11 70 
- 37  truls.ernani.valentini@asker.kommune.no\\n  Malmfrid Dalheim  +47 90 2
- 2 68 02  mdalheim@askerskolen.no\\n\\nINFO\\nhttps://www.denkulturelleskol
- esekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Landøya ungdomsskole:</b> 10
- D (28), 10C (25), 10B (28), 10A (26), 9D (30), 9C (30)<br><b>Totalt: 167 e
- levar</b></p><p><b>KONTAKT</b></p><p><b>Landøya ungdomsskole</b><br>Tlf: 
- +47 66 71 24 00<br>Mona Engebretsen &nbsp; +47 93 05 42 25 &nbsp; <a href=
- 'mailto:mona.engebretsen@asker.kommune.no'>mona.engebretsen@asker.kommune.
- no</a><br>Truls Valentini &nbsp; +47 99 11 70 37 &nbsp; <a href='mailto:tr
- uls.ernani.valentini@asker.kommune.no'>truls.ernani.valentini@asker.kommun
- e.no</a><br>Malmfrid Dalheim &nbsp; +47 90 22 68 02 &nbsp; <a href='mailto
- :mdalheim@askerskolen.no'>mdalheim@askerskolen.no</a><br></p><p><a href='h
- ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
- jon=21348'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Landøya ungdomsskole – Kantina
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483447@asker.dks
-DTSTART:20261113T093000Z
-DTEND:20261113T101500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 8A (28)\, 8B (25)\, 8C (25)\
- , 8D (26)\, 8E (22)\, 8F (24)\\nTotalt: 150 elevar\\n\\nKONTAKT\\nSpikkest
- ad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91
-  11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 8A (28), 8B (25), 8C (25), 8D (26), 8E (22), 8F (24)<br><b>Totalt: 150 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: 
- +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a 
- href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjo
- nen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483449@asker.dks
-DTSTART:20261113T105500Z
-DTEND:20261113T114000Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\, 10E (23)\, 10D (2
- 5)\, 10C (25)\, 10B (24)\, 10A (25)\\nTotalt: 145 elevar\\n\\nKONTAKT\\nSp
- ikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  
- +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 1348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10F (23), 10E (23), 10D (25), 10C (25), 10B (24), 10A (25)<br><b>Totalt: 1
- 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br
- >Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbs
- p; <a href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.f
- rogner@asker.kommune.no</a><br></p><p><a href='https://www.denkulturellesk
- olesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om pro
- duksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-483448@asker.dks
-DTSTART:20261113T120000Z
-DTEND:20261113T124500Z
-SUMMARY:Kniv & Gaffel - Universets All Inclusive (8.-10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 9A (28)\, 9B (25)\, 9C (25)\
- , 9D (26)\, 9E (22)\, 9F (24)\\nTotalt: 150 elevar\\n\\nKONTAKT\\nSpikkest
- ad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne Cathrine Frogner  +47 91
-  11 51 43  anne.cathrine.frogner@asker.kommune.no\\n\\nINFO\\nhttps://www.
- denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21348
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 9A (28), 9B (25), 9C (25), 9D (26), 9E (22), 9F (24)<br><b>Totalt: 150 ele
- var</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad ungdomsskole</b><br>Tlf: 
- +47 31 29 63 00<br>Anne Cathrine Frogner &nbsp; +47 91 11 51 43 &nbsp; <a 
- href='mailto:anne.cathrine.frogner@asker.kommune.no'>anne.cathrine.frogner
- @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
- ken.no/utforsk-produksjoner-i-dks/?produksjon=21348'>Les meir om produksjo
- nen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Aula
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21348
-END:VEVENT
+LAST-MODIFIED:20261116T091258Z
 BEGIN:VEVENT
 UID:dks-559373@asker.dks
 DTSTART:20261117T091500Z
@@ -1058,6 +50,77 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Tofte ungdomsskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482027@asker.dks
+DTSTART:20261119T083000Z
+DTEND:20261119T091500Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nNesøya skole: 3A (16)\\nTotalt: 16 elevar\\n\\nKONTA
+ KT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
+ 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
+ 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 3A (16)<br
+ ><b>Totalt: 16 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><
+ br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a 
+ href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.n
+ o</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mail
+ to:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommu
+ ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
+ sk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p><
+ /body></html>
+LOCATION:Nesøya skole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482028@asker.dks
+DTSTART:20261119T103000Z
+DTEND:20261119T111500Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nNesøya skole: 3B (17)\\nTotalt: 17 elevar\\n\\nKONTA
+ KT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
+ 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
+ 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 3B (17)<br
+ ><b>Totalt: 17 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><
+ br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a 
+ href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.n
+ o</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mail
+ to:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommu
+ ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
+ sk-produksjoner-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p><
+ /body></html>
+LOCATION:Nesøya skole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482029@asker.dks
+DTSTART:20261119T114500Z
+DTEND:20261119T123000Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nTotalt: 0 elevar\\n\\nKONTAKT\\nNesøya skole\\n  Tlf
+ : +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 26 53  kari.singsaas@asker.
+ kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 04 31  bjorn.erik.rannesta
+ d@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Totalt: 0 elevar</b></p><p><b
+ >KONTAKT</b></p><p><b>Nesøya skole</b><br>Tlf: +47 45 73 26 53<br>Kari Si
+ ngsaas &nbsp; +47 45 73 26 53 &nbsp; <a href='mailto:kari.singsaas@asker.k
+ ommune.no'>kari.singsaas@asker.kommune.no</a><br>Bjørn Erik Rannestad &nb
+ sp; +47 99 03 04 31 &nbsp; <a href='mailto:bjorn.erik.rannestad@asker.komm
+ une.no'>bjorn.erik.rannestad@asker.kommune.no</a><br></p><p><a href='https
+ ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
+ 21284'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Nesøya skole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560163@asker.dks
@@ -1718,8 +781,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482054@asker.dks
-DTSTART:20261127T080000Z
-DTEND:20261127T084500Z
+DTSTART:20261127T073000Z
+DTEND:20261127T081500Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nTorvbråten barneskole: 3A (21)\\nTotalt: 21 elevar\\
  n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet
@@ -1771,6 +834,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482055@asker.dks
+DTSTART:20261127T083000Z
+DTEND:20261127T091500Z
+SUMMARY:Arkitektens alfabet (3. trinn)
+DESCRIPTION:KLASSER\\nTorvbråten barneskole: 3B (20)\\nTotalt: 20 elevar\\
+ n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet
+  Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21284
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torvbråten barneskole:</b> 3
+ B (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torvbråt
+ en barneskole</b><br>Tlf: +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 8
+ 3 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath@asker.kommune.no'>jaspre
+ et.kaur.bath@asker.kommune.no</a><br></p><p><a href='https://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir 
+ om produksjonen</a></p></body></html>
+LOCATION:Torvbråten barneskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21284
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560169@asker.dks
 DTSTART:20261127T091500Z
 DTEND:20261127T100000Z
@@ -1801,28 +886,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Arnestad skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482055@asker.dks
-DTSTART:20261127T093000Z
-DTEND:20261127T101500Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nTorvbråten barneskole: 3B (20)\\nTotalt: 20 elevar\\
- n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n  Jaspreet
-  Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\nINFO\\nht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torvbråten barneskole:</b> 3
- B (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Torvbråt
- en barneskole</b><br>Tlf: +47 46 83 89 11<br>Jaspreet Bath &nbsp; +47 46 8
- 3 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath@asker.kommune.no'>jaspre
- et.kaur.bath@asker.kommune.no</a><br></p><p><a href='https://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21284'>Les meir 
- om produksjonen</a></p></body></html>
-LOCATION:Torvbråten barneskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-523045@asker.dks
@@ -3286,8 +2349,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511467@asker.dks
-DTSTART:20270111T110000Z
-DTEND:20270111T114500Z
+DTSTART:20270111T094500Z
+DTEND:20270111T103000Z
 SUMMARY:Duo Sara og Ole (1.-7. trinn)
 DESCRIPTION:KLASSER\\nDrengsrud skole: 7B (24)\, 6B (25)\, 5B (17)\, 4B (22
  )\, 3B (23)\, 1B (13)\, 2B (16)\, 2C (16)\\nTotalt: 156 elevar\\n\\nKONTAK
@@ -3304,6 +2367,31 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  uksjoner-i-dks/?produksjon=23367'>Les meir om produksjonen</a></p></body><
  /html>
 LOCATION:Drengsrud skole – Gymsal
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-572326@asker.dks
+DTSTART:20270111T114500Z
+DTEND:20270111T123000Z
+SUMMARY:Duo Sara og Ole (1.-7. trinn)
+DESCRIPTION:KLASSER\\nAsker voksenopplæring – FOV: FOV (90)\\nTotalt: 90
+  elevar\\n\\nKONTAKT\\nAsker voksenopplæring – FOV\\n  Hanne Marie Morb
+ erg Berg  +47 97 40 03 11  hanne.marie.morberg.berg@asker.kommune.no\\n  S
+ ilje Rueslåtten  +47 97 54 09 32  silje.rueslatten@asker.kommune.no\\n\\n
+ INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=23367
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Asker voksenopplæring – FO
+ V:</b> FOV (90)<br><b>Totalt: 90 elevar</b></p><p><b>KONTAKT</b></p><p><b>
+ Asker voksenopplæring – FOV</b><br>Hanne Marie Morberg Berg &nbsp; +47 
+ 97 40 03 11 &nbsp; <a href='mailto:hanne.marie.morberg.berg@asker.kommune.
+ no'>hanne.marie.morberg.berg@asker.kommune.no</a><br>Silje Rueslåtten &nb
+ sp; +47 97 54 09 32 &nbsp; <a href='mailto:silje.rueslatten@asker.kommune.
+ no'>silje.rueslatten@asker.kommune.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=23367'>L
+ es meir om produksjonen</a></p></body></html>
+LOCATION:Asker voksenopplæring – FOV
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
@@ -4805,6 +3893,31 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482171@asker.dks
+DTSTART:20270201T081500Z
+DTEND:20270201T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHvalstad skole: 7A (26)\, 7B (25)\\nTotalt: 51 elevar
+ \\n\\nKONTAKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman H
+ egg(kun tilrettelagt)  +47 93 86 68 66  trine.norman.hegg@asker.kommune.no
+ \\n  Anne Lene Tveten Ekkje  +47 91 15 24 67  anne.lene.tveten.ekkje@asker
+ .kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hvalstad skole:</b> 7A (26), 
+ 7B (25)<br><b>Totalt: 51 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hvalstad
+  skole</b><br>Tlf: +47 66 71 54 50<br>Trine Norman Hegg(kun tilrettelagt) 
+ &nbsp; +47 93 86 68 66 &nbsp; <a href='mailto:trine.norman.hegg@asker.komm
+ une.no'>trine.norman.hegg@asker.kommune.no</a><br>Anne Lene Tveten Ekkje &
+ nbsp; +47 91 15 24 67 &nbsp; <a href='mailto:anne.lene.tveten.ekkje@asker.
+ kommune.no'>anne.lene.tveten.ekkje@asker.kommune.no</a><br></p><p><a href=
+ 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Hvalstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-559557@asker.dks
 DTSTART:20270201T083000Z
 DTEND:20270201T090500Z
@@ -4825,6 +3938,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Heggedal skole – Auditoriet
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482173@asker.dks
+DTSTART:20270201T091500Z
+DTEND:20270201T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nTorvbråten barneskole: 7A (25)\, 7B (22)\\nTotalt: 4
+ 7 elevar\\n\\nKONTAKT\\nTorvbråten barneskole\\n  Tlf: +47 46 83 89 11\\n
+   Jaspreet Bath  +47 46 83 89 11  jaspreet.kaur.bath@asker.kommune.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Torvbråten barneskole:</b> 7
+ A (25), 7B (22)<br><b>Totalt: 47 elevar</b></p><p><b>KONTAKT</b></p><p><b>
+ Torvbråten barneskole</b><br>Tlf: +47 46 83 89 11<br>Jaspreet Bath &nbsp;
+  +47 46 83 89 11 &nbsp; <a href='mailto:jaspreet.kaur.bath@asker.kommune.n
+ o'>jaspreet.kaur.bath@asker.kommune.no</a><br></p><p><a href='https://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>
+ Les meir om produksjonen</a></p></body></html>
+LOCATION:Torvbråten barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-559558@asker.dks
@@ -5010,6 +4145,30 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482175@asker.dks
+DTSTART:20270204T081500Z
+DTEND:20270204T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nFolkestad skole: 7 (17)\\nTotalt: 17 elevar\\n\\nKONT
+ AKT\\nFolkestad skole\\n  Tlf: +47 90 20 95 70\\n  Ellen Engeland  +47 48 
+ 19 60 52  ellen.engeland@asker.kommune.no\\n  Gry Bente Olsen Brosø  +47 
+ 92 25 86 48  gry.bente.broso@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Folkestad skole:</b> 7 (17)<b
+ r><b>Totalt: 17 elevar</b></p><p><b>KONTAKT</b></p><p><b>Folkestad skole</
+ b><br>Tlf: +47 90 20 95 70<br>Ellen Engeland &nbsp; +47 48 19 60 52 &nbsp;
+  <a href='mailto:ellen.engeland@asker.kommune.no'>ellen.engeland@asker.kom
+ mune.no</a><br>Gry Bente Olsen Brosø &nbsp; +47 92 25 86 48 &nbsp; <a hre
+ f='mailto:gry.bente.broso@asker.kommune.no'>gry.bente.broso@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Folkestad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552714@asker.dks
 DTSTART:20270204T084500Z
 DTEND:20270204T093000Z
@@ -5055,6 +4214,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Drengsrud skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482176@asker.dks
+DTSTART:20270204T091500Z
+DTEND:20270204T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSolberg skole: 7 (20)\\nTotalt: 20 elevar\\n\\nKONTAK
+ T\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79 10 69 
+  knut.gustavsen.engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturell
+ eskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 7 (20)<br>
+ <b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg skole</b><b
+ r>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; <a href=
+ 'mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@asker.ko
+ mmune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/ut
+ forsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></
+ p></body></html>
+LOCATION:Solberg skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511537@asker.dks
@@ -5226,6 +4406,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482179@asker.dks
+DTSTART:20270208T081500Z
+DTEND:20270208T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nMidtbygda barneskole: 7A (22)\, 7B (21)\\nTotalt: 43 
+ elevar\\n\\nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 31 29 35 00\\n  Fo
+ line Geertje Ophaug  +47 99 61 72 59  foline.geertje.ophaug@asker.kommune.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Midtbygda barneskole:</b> 7A 
+ (22), 7B (21)<br><b>Totalt: 43 elevar</b></p><p><b>KONTAKT</b></p><p><b>Mi
+ dtbygda barneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje Ophaug &n
+ bsp; +47 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug@asker.ko
+ mmune.no'>foline.geertje.ophaug@asker.kommune.no</a><br></p><p><a href='ht
+ tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
+ on=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Midtbygda barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552718@asker.dks
 DTSTART:20270208T083000Z
 DTEND:20270208T091500Z
@@ -5247,6 +4449,33 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Jansløkka skole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482177@asker.dks
+DTSTART:20270208T091500Z
+DTEND:20270208T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSætre skole: 7a (18)\, 7b (18)\\nTotalt: 36 elevar\\
+ n\\nKONTAKT\\nSætre skole\\n  Tlf: +47 32 27 83 30\\n  Hanne Lien Aaberg 
+  +47 90 96 05 37  hanne.lien.aaberg@asker.kommune.no\\n  Linda Syvertsen  
+ +47 40 23 68 60  linda.syvertsen@asker.kommune.no\\n  Skjalg Olsen  +47 95
+  07 47 37  skjalg.flesland.olsen@asker.kommune.no\\n\\nINFO\\nhttps://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sætre skole:</b> 7a (18), 7b
+  (18)<br><b>Totalt: 36 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sætre sko
+ le</b><br>Tlf: +47 32 27 83 30<br>Hanne Lien Aaberg &nbsp; +47 90 96 05 37
+  &nbsp; <a href='mailto:hanne.lien.aaberg@asker.kommune.no'>hanne.lien.aab
+ erg@asker.kommune.no</a><br>Linda Syvertsen &nbsp; +47 40 23 68 60 &nbsp; 
+ <a href='mailto:linda.syvertsen@asker.kommune.no'>linda.syvertsen@asker.ko
+ mmune.no</a><br>Skjalg Olsen &nbsp; +47 95 07 47 37 &nbsp; <a href='mailto
+ :skjalg.flesland.olsen@asker.kommune.no'>skjalg.flesland.olsen@asker.kommu
+ ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
+ sk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p><
+ /body></html>
+LOCATION:Sætre skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552719@asker.dks
@@ -5293,6 +4522,27 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482181@asker.dks
+DTSTART:20270209T081500Z
+DTEND:20270209T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nTofte skole: 7a (14)\, 7b (17)\\nTotalt: 31 elevar\\n
+ \\nKONTAKT\\nTofte skole\\n  Tlf: +47 32 27 84 13\\n  Anita Olsen  +47 47 
+ 64 53 53  anita.olsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturel
+ leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Tofte skole:</b> 7a (14), 7b 
+ (17)<br><b>Totalt: 31 elevar</b></p><p><b>KONTAKT</b></p><p><b>Tofte skole
+ </b><br>Tlf: +47 32 27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 &nbsp; 
+ <a href='mailto:anita.olsen@asker.kommune.no'>anita.olsen@asker.kommune.no
+ </a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-pr
+ oduksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></body
+ ></html>
+LOCATION:Tofte skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552720@asker.dks
 DTSTART:20270209T083000Z
 DTEND:20270209T091500Z
@@ -5313,6 +4563,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Mellom-Nes skole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482185@asker.dks
+DTSTART:20270209T091500Z
+DTEND:20270209T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Vollen Montessoriskole: 7 (12)\\nTotalt: 1
+ 2 elevar\\n\\nKONTAKT\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 
+ 98 71 20\\n  Camilla Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Vollen Montessoris
+ kole:</b> 7 (12)<br><b>Totalt: 12 elevar</b></p><p><b>KONTAKT</b></p><p><b
+ >Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47 66 98 71 20<br>Camilla 
+ Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='mailto:camilla.nystrom@vom
+ o.no'>camilla.nystrom@vomo.no</a><br></p><p><a href='https://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir 
+ om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Vollen Montessoriskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552721@asker.dks
@@ -5382,6 +4654,31 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482186@asker.dks
+DTSTART:20270210T093000Z
+DTEND:20270210T101000Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHofstad skole: 7A (26)\, 7B (26)\\nTotalt: 52 elevar\
+ \n\\nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Vo
+ n Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  In
+ geborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 7A (26), 7
+ B (26)<br><b>Totalt: 52 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad s
+ kole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97
+  11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'
+ >anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +
+ 47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Hofstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552668@asker.dks
 DTSTART:20270210T120000Z
 DTEND:20270210T124500Z
@@ -5403,6 +4700,38 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Stiftelsen Vollen Montessoriskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482187@asker.dks
+DTSTART:20270211T081500Z
+DTEND:20270211T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nArnestad skole: 7A (22)\, 7B (22)\\nTotalt: 44 elevar
+ \\n\\nKONTAKT\\nArnestad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (
+ tilrettelagt)  +47 98 01 82 20  eva.overas@asker.kommune.no\\n  Nina Eyler
+ tsen  +47 98 42 16 87  nina.eylertsen@asker.kommune.no\\n  Cecilie Bjørns
+ tad  +47 97 19 30 13  cecilie.bjornstad@asker.kommune.no\\n  Signe Myskja 
+  +47 97 00 83 72  signe.langballe.myskja@asker.kommune.no\\n  Anders Njåt
+ un  +47 48 13 46 04  anders.njatun@asker.kommune.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Arnestad skole:</b> 7A (22), 
+ 7B (22)<br><b>Totalt: 44 elevar</b></p><p><b>KONTAKT</b></p><p><b>Arnestad
+  skole</b><br>Tlf: +47 48 24 24 13<br>Eva Øverås (tilrettelagt) &nbsp; +
+ 47 98 01 82 20 &nbsp; <a href='mailto:eva.overas@asker.kommune.no'>eva.ove
+ ras@asker.kommune.no</a><br>Nina Eylertsen &nbsp; +47 98 42 16 87 &nbsp; <
+ a href='mailto:nina.eylertsen@asker.kommune.no'>nina.eylertsen@asker.kommu
+ ne.no</a><br>Cecilie Bjørnstad &nbsp; +47 97 19 30 13 &nbsp; <a href='mai
+ lto:cecilie.bjornstad@asker.kommune.no'>cecilie.bjornstad@asker.kommune.no
+ </a><br>Signe Myskja &nbsp; +47 97 00 83 72 &nbsp; <a href='mailto:signe.l
+ angballe.myskja@asker.kommune.no'>signe.langballe.myskja@asker.kommune.no<
+ /a><br>Anders Njåtun &nbsp; +47 48 13 46 04 &nbsp; <a href='mailto:anders
+ .njatun@asker.kommune.no'>anders.njatun@asker.kommune.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Arnestad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552723@asker.dks
@@ -5428,6 +4757,38 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Nesøya skole – Idrettshall
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482188@asker.dks
+DTSTART:20270211T091500Z
+DTEND:20270211T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nArnestad skole: 7C (23)\\nTotalt: 23 elevar\\n\\nKONT
+ AKT\\nArnestad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (tilrettela
+ gt)  +47 98 01 82 20  eva.overas@asker.kommune.no\\n  Nina Eylertsen  +47 
+ 98 42 16 87  nina.eylertsen@asker.kommune.no\\n  Cecilie Bjørnstad  +47 9
+ 7 19 30 13  cecilie.bjornstad@asker.kommune.no\\n  Signe Myskja  +47 97 00
+  83 72  signe.langballe.myskja@asker.kommune.no\\n  Anders Njåtun  +47 48
+  13 46 04  anders.njatun@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Arnestad skole:</b> 7C (23)<b
+ r><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Arnestad skole</b
+ ><br>Tlf: +47 48 24 24 13<br>Eva Øverås (tilrettelagt) &nbsp; +47 98 01 
+ 82 20 &nbsp; <a href='mailto:eva.overas@asker.kommune.no'>eva.overas@asker
+ .kommune.no</a><br>Nina Eylertsen &nbsp; +47 98 42 16 87 &nbsp; <a href='m
+ ailto:nina.eylertsen@asker.kommune.no'>nina.eylertsen@asker.kommune.no</a>
+ <br>Cecilie Bjørnstad &nbsp; +47 97 19 30 13 &nbsp; <a href='mailto:cecil
+ ie.bjornstad@asker.kommune.no'>cecilie.bjornstad@asker.kommune.no</a><br>S
+ igne Myskja &nbsp; +47 97 00 83 72 &nbsp; <a href='mailto:signe.langballe.
+ myskja@asker.kommune.no'>signe.langballe.myskja@asker.kommune.no</a><br>An
+ ders Njåtun &nbsp; +47 48 13 46 04 &nbsp; <a href='mailto:anders.njatun@a
+ sker.kommune.no'>anders.njatun@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Arnestad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552724@asker.dks
@@ -5524,6 +4885,30 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482189@asker.dks
+DTSTART:20270215T081500Z
+DTEND:20270215T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Asker: 7 (15)\\nTotalt: 15 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  s
+ tai  +47 98 03 49 34  marianne.stai@askersteinerskole.no\\n  DAVID WHYTE  
+ +47 96 62 36 15  david.whyte@askersteinerskole.no\\n\\nINFO\\nhttps://www.
+ denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Asker:</b> 7 
+ (15)<br><b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Asker</b><br>Tlf: +47 66 85 26 80<br>marianne  stai &nbsp; +47 98 03 
+ 49 34 &nbsp; <a href='mailto:marianne.stai@askersteinerskole.no'>marianne.
+ stai@askersteinerskole.no</a><br>DAVID WHYTE &nbsp; +47 96 62 36 15 &nbsp;
+  <a href='mailto:david.whyte@askersteinerskole.no'>david.whyte@askersteine
+ rskole.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Steinerskolen i Asker
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552726@asker.dks
 DTSTART:20270215T083000Z
 DTEND:20270215T091500Z
@@ -5566,6 +4951,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Askerbibliotekene – Asker bibliotek
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482190@asker.dks
+DTSTART:20270215T091500Z
+DTEND:20270215T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHagaløkka skole: 7A (23)\, 7B (23)\\nTotalt: 46 elev
+ ar\\n\\nKONTAKT\\nHagaløkka skole\\n  Tlf: +47 66 71 50 50\\n  Even Halvo
+ rsen  +47 95 76 04 05  ehalvors@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hagaløkka skole:</b> 7A (23)
+ , 7B (23)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hagal�
+ �kka skole</b><br>Tlf: +47 66 71 50 50<br>Even Halvorsen &nbsp; +47 95 7
+ 6 04 05 &nbsp; <a href='mailto:ehalvors@asker.kommune.no'>ehalvors@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Hagaløkka skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552727@asker.dks
@@ -5615,6 +5021,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482191@asker.dks
+DTSTART:20270216T081500Z
+DTEND:20270216T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad barneskole: 7a (15)\, 7b (17)\\nTotalt: 32
+  elevar\\n\\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +47 31 29 33 00\\n  
+ Eirik  Dulsrud  +47 92 88 69 58  eirik.dulsrud@asker.kommune.no\\n\\nINFO\
+ \nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?prod
+ uksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 7a
+  (15), 7b (17)<br><b>Totalt: 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>S
+ pikkestad barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; 
+ +47 92 88 69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eir
+ ik.dulsrud@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
+ leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om
+  produksjonen</a></p></body></html>
+LOCATION:Spikkestad barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552728@asker.dks
 DTSTART:20270216T083000Z
 DTEND:20270216T091500Z
@@ -5662,6 +5090,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Landøya ungdomsskole – Kantina
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482192@asker.dks
+DTSTART:20270216T091500Z
+DTEND:20270216T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad barneskole: 7c (19)\\nTotalt: 19 elevar\\n
+ \\nKONTAKT\\nSpikkestad barneskole\\n  Tlf: +47 31 29 33 00\\n  Eirik  Dul
+ srud  +47 92 88 69 58  eirik.dulsrud@asker.kommune.no\\n\\nINFO\\nhttps://
+ www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=212
+ 87
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad barneskole:</b> 7c
+  (19)<br><b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkestad
+  barneskole</b><br>Tlf: +47 31 29 33 00<br>Eirik  Dulsrud &nbsp; +47 92 88
+  69 58 &nbsp; <a href='mailto:eirik.dulsrud@asker.kommune.no'>eirik.dulsru
+ d@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksj
+ onen</a></p></body></html>
+LOCATION:Spikkestad barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552729@asker.dks
@@ -5756,6 +5206,27 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482193@asker.dks
+DTSTART:20270217T081500Z
+DTEND:20270217T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nMellom-Nes skole: 7 (36)\\nTotalt: 36 elevar\\n\\nKON
+ TAKT\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 
+ 77 35  kari.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Mellom-Nes skole:</b> 7 (36)<
+ br><b>Totalt: 36 elevar</b></p><p><b>KONTAKT</b></p><p><b>Mellom-Nes skole
+ </b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &nbsp; <a
+  href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Mellom-Nes skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552730@asker.dks
 DTSTART:20270217T083000Z
 DTEND:20270217T091500Z
@@ -5803,6 +5274,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Torstad ungdomsskole – Storstue
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482194@asker.dks
+DTSTART:20270217T091500Z
+DTEND:20270217T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nMellom-Nes skole: 7 (35)\\nTotalt: 35 elevar\\n\\nKON
+ TAKT\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47 97 73 
+ 77 35  kari.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesko
+ lesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Mellom-Nes skole:</b> 7 (35)<
+ br><b>Totalt: 35 elevar</b></p><p><b>KONTAKT</b></p><p><b>Mellom-Nes skole
+ </b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &nbsp; <a
+  href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker.kommune.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></body></htm
+ l>
+LOCATION:Mellom-Nes skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552731@asker.dks
@@ -5922,6 +5414,27 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482195@asker.dks
+DTSTART:20270218T081500Z
+DTEND:20270218T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nVardåsen skole: 7a (22)\, 7b (23)\\nTotalt: 45 eleva
+ r\\n\\nKONTAKT\\nVardåsen skole\\n  Tlf: +47 66 71 51 00\\n  Kristin K. D
+ yrhaug  +47 90 11 86 97  kdyrhaug@asker.kommune.no\\n\\nINFO\\nhttps://www
+ .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vardåsen skole:</b> 7a (22),
+  7b (23)<br><b>Totalt: 45 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vardås
+ en skole</b><br>Tlf: +47 66 71 51 00<br>Kristin K. Dyrhaug &nbsp; +47 90 1
+ 1 86 97 &nbsp; <a href='mailto:kdyrhaug@asker.kommune.no'>kdyrhaug@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Vardåsen skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552733@asker.dks
 DTSTART:20270218T083000Z
 DTEND:20270218T091500Z
@@ -5970,6 +5483,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Torstad ungdomsskole – Storstue
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24899
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482196@asker.dks
+DTSTART:20270218T091500Z
+DTEND:20270218T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nDrengsrud skole: 7A (22)\, 7B (24)\\nTotalt: 46 eleva
+ r\\n\\nKONTAKT\\nDrengsrud skole\\n  Tlf: +47 66 71 27 00\\n  Thomas Rolla
+ nd  +47 47 84 13 15  thomas.rolland@asker.kommune.no\\n\\nINFO\\nhttps://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2128
+ 7
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Drengsrud skole:</b> 7A (22),
+  7B (24)<br><b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Drengsr
+ ud skole</b><br>Tlf: +47 66 71 27 00<br>Thomas Rolland &nbsp; +47 47 84 13
+  15 &nbsp; <a href='mailto:thomas.rolland@asker.kommune.no'>thomas.rolland
+ @asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjo
+ nen</a></p></body></html>
+LOCATION:Drengsrud skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-568675@asker.dks
@@ -6386,6 +5921,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482197@asker.dks
+DTSTART:20270302T081500Z
+DTEND:20270302T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7b (21)\, 7c (
+ 21)\\nTotalt: 42 elevar\\n\\nKONTAKT\\nStiftelsen Asker International Scho
+ ol\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@asker
+ is.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7b (21), 7c (21)<br><b>Totalt: 42 elevar</b></p><p><b>KONTAK
+ T</b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72
+  06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james
+ @askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkultur
+ elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir 
+ om produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560122@asker.dks
 DTSTART:20270302T081500Z
 DTEND:20270302T090000Z
@@ -6479,6 +6036,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Slemmestad barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482198@asker.dks
+DTSTART:20270302T091500Z
+DTEND:20270302T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nStiftelsen Asker International School: 7a (21)\\nTota
+ lt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\\n  Tlf
+ : +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\
+ nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks
+ /?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Internationa
+ l School:</b> 7a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT</b></p>
+ <p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 06 70<br
+ >James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@askeris.
+ no'>james@askeris.no</a><br></p><p><a href='https://www.denkulturelleskole
+ sekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produk
+ sjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552736@asker.dks
@@ -6697,6 +6276,31 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482199@asker.dks
+DTSTART:20270303T081500Z
+DTEND:20270303T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSydskogen barneskole: 7 (11)\\nTotalt: 11 elevar\\n\\
+ nKONTAKT\\nSydskogen barneskole\\n  Tlf: +47 31 29 33 55\\n  Siri Østvik 
+ Hage  +47 92 69 67 67  siri.ostvik.hage@asker.kommune.no\\n  Marte Svestad
+  Eitrheim  +47 91 82 90 27  marte.svestad@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Sydskogen barneskole:</b> 7 (
+ 11)<br><b>Totalt: 11 elevar</b></p><p><b>KONTAKT</b></p><p><b>Sydskogen ba
+ rneskole</b><br>Tlf: +47 31 29 33 55<br>Siri Østvik Hage &nbsp; +47 92 69
+  67 67 &nbsp; <a href='mailto:siri.ostvik.hage@asker.kommune.no'>siri.ostv
+ ik.hage@asker.kommune.no</a><br>Marte Svestad Eitrheim &nbsp; +47 91 82 90
+  27 &nbsp; <a href='mailto:marte.svestad@asker.kommune.no'>marte.svestad@a
+ sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
+ n.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjone
+ n</a></p></body></html>
+LOCATION:Sydskogen barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560835@asker.dks
 DTSTART:20270303T083000Z
 DTEND:20270303T091500Z
@@ -6761,6 +6365,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Solberg skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482200@asker.dks
+DTSTART:20270303T091500Z
+DTEND:20270303T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nBillingstad skole: 7A (19)\, 7B (17)\\nTotalt: 36 ele
+ var\\n\\nKONTAKT\\nBillingstad skole\\n  Tlf: +47 66 71 53 00\\n  Caroline
+  Halnes  +47 92 64 17 94  caroline.blutecher.halnes@asker.kommune.no\\n\\n
+ INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Billingstad skole:</b> 7A (19
+ ), 7B (17)<br><b>Totalt: 36 elevar</b></p><p><b>KONTAKT</b></p><p><b>Billi
+ ngstad skole</b><br>Tlf: +47 66 71 53 00<br>Caroline Halnes &nbsp; +47 92 
+ 64 17 94 &nbsp; <a href='mailto:caroline.blutecher.halnes@asker.kommune.no
+ '>caroline.blutecher.halnes@asker.kommune.no</a><br></p><p><a href='https:
+ //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
+ 1287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Billingstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560126@asker.dks
@@ -6892,6 +6518,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482201@asker.dks
+DTSTART:20270304T081500Z
+DTEND:20270304T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nNærsnes barneskole: 7 (29)\\nTotalt: 29 elevar\\n\\n
+ KONTAKT\\nNærsnes barneskole\\n  Tlf: +47 31 29 35 40\\n  Alise Narjord T
+ hue  +47 90 50 18 39  alise.narjord.thue@asker.kommune.no\\n\\nINFO\\nhttp
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nærsnes barneskole:</b> 7 (2
+ 9)<br><b>Totalt: 29 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nærsnes barn
+ eskole</b><br>Tlf: +47 31 29 35 40<br>Alise Narjord Thue &nbsp; +47 90 50 
+ 18 39 &nbsp; <a href='mailto:alise.narjord.thue@asker.kommune.no'>alise.na
+ rjord.thue@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
+ leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om
+  produksjonen</a></p></body></html>
+LOCATION:Nærsnes barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552739@asker.dks
 DTSTART:20270304T083000Z
 DTEND:20270304T091500Z
@@ -6936,6 +6584,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Spikkestad ungdomsskole – Auditorium
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482202@asker.dks
+DTSTART:20270304T091500Z
+DTEND:20270304T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHyggen skole: 7 (15)\\nTotalt: 15 elevar\\n\\nKONTAKT
+ \\nHyggen skole\\n  Tlf: +47 40 90 39 14\\n  Lene Austreng  +47 90 91 11 8
+ 6  laustren@asker.kommune.no\\n  Anita Tollefsen  +47 48 23 76 17  anita.t
+ ollefsen@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken
+ .no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Hyggen skole:</b> 7 (15)<br><
+ b>Totalt: 15 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hyggen skole</b><br>
+ Tlf: +47 40 90 39 14<br>Lene Austreng &nbsp; +47 90 91 11 86 &nbsp; <a hre
+ f='mailto:laustren@asker.kommune.no'>laustren@asker.kommune.no</a><br>Anit
+ a Tollefsen &nbsp; +47 48 23 76 17 &nbsp; <a href='mailto:anita.tollefsen@
+ asker.kommune.no'>anita.tollefsen@asker.kommune.no</a><br></p><p><a href='
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Hyggen skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552740@asker.dks
@@ -7282,6 +6953,26 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482203@asker.dks
+DTSTART:20270308T081500Z
+DTEND:20270308T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nTotalt: 39 elevar\\n\\nKONTAKT
+ \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
+  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (39)<br><
+ b>Totalt: 39 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
+ Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
+ 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Vettre skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556072@asker.dks
 DTSTART:20270308T084500Z
 DTEND:20270308T092500Z
@@ -7327,6 +7018,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Hvalstad skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482204@asker.dks
+DTSTART:20270308T091500Z
+DTEND:20270308T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nRønningen skole: 7 (24)\\nTotalt: 24 elevar\\n\\nKON
+ TAKT\\nRønningen skole\\n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 9
+ 5 76 44 76  solvi.graffer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkult
+ urelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Rønningen skole:</b> 7 (24)<
+ br><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skole
+ </b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbs
+ p; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kom
+ mune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p
+ ></body></html>
+LOCATION:Rønningen skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556073@asker.dks
@@ -7404,6 +7116,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482205@asker.dks
+DTSTART:20270309T081500Z
+DTEND:20270309T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHeggedal skole: 7B (24)\, 7c (25)\\nTotalt: 49 elevar
+ \\n\\nKONTAKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Sch
+ midt  +47 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhtt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 7B (24), 
+ 7c (25)<br><b>Totalt: 49 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal
+  skole</b><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 
+ 03 91 &nbsp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.loui
+ se.schmidt@asker.kommune.no</a><br></p><p><a href='https://www.denkulturel
+ leskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om
+  produksjonen</a></p></body></html>
+LOCATION:Heggedal skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556074@asker.dks
 DTSTART:20270309T090000Z
 DTEND:20270309T094000Z
@@ -7446,6 +7180,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Midtbygda barneskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482206@asker.dks
+DTSTART:20270309T091500Z
+DTEND:20270309T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nHeggedal skole: 7A (24)\\nTotalt: 24 elevar\\n\\nKONT
+ AKT\\nHeggedal skole\\n  Tlf: +47 66 76 88 00\\n  Ann Louise Schmidt  +47 
+ 93 42 03 91  ann.louise.schmidt@asker.kommune.no\\n\\nINFO\\nhttps://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Heggedal skole:</b> 7A (24)<b
+ r><b>Totalt: 24 elevar</b></p><p><b>KONTAKT</b></p><p><b>Heggedal skole</b
+ ><br>Tlf: +47 66 76 88 00<br>Ann Louise Schmidt &nbsp; +47 93 42 03 91 &nb
+ sp; <a href='mailto:ann.louise.schmidt@asker.kommune.no'>ann.louise.schmid
+ t@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksj
+ onen</a></p></body></html>
+LOCATION:Heggedal skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560138@asker.dks
@@ -7514,6 +7269,29 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482207@asker.dks
+DTSTART:20270310T081500Z
+DTEND:20270310T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nBondi skole: 7A (19)\, 7B (19)\\nTotalt: 38 elevar\\n
+ \\nKONTAKT\\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66
+  76 19 20  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 5
+ 3  karianne.mayer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturellesk
+ olesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 7A (19), 7B 
+ (19)<br><b>Totalt: 38 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole
+ </b><br>Tlf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp;
+  <a href='mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommune.n
+ o</a><br>Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:kari
+ anne.mayer@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p><p
+ ><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Bondi skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556076@asker.dks
 DTSTART:20270310T090000Z
 DTEND:20270310T094000Z
@@ -7561,6 +7339,29 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Folkestad skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482208@asker.dks
+DTSTART:20270310T091500Z
+DTEND:20270310T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nBondi skole: 7C (20)\\nTotalt: 20 elevar\\n\\nKONTAKT
+ \\nBondi skole\\n  Tlf: +47 66 76 19 20\\n  Heidi Åsmul  +47 66 76 19 20 
+  heidi.asmul@asker.kommune.no\\n  Karianne Mayer  +47 91 59 43 53  kariann
+ e.mayer@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.
+ no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Bondi skole:</b> 7C (20)<br><
+ b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Bondi skole</b><br>T
+ lf: +47 66 76 19 20<br>Heidi Åsmul &nbsp; +47 66 76 19 20 &nbsp; <a href=
+ 'mailto:heidi.asmul@asker.kommune.no'>heidi.asmul@asker.kommune.no</a><br>
+ Karianne Mayer &nbsp; +47 91 59 43 53 &nbsp; <a href='mailto:karianne.maye
+ r@asker.kommune.no'>karianne.mayer@asker.kommune.no</a><br></p><p><a href=
+ 'https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produ
+ ksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Bondi skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556077@asker.dks
@@ -7628,6 +7429,27 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482209@asker.dks
+DTSTART:20270311T081500Z
+DTEND:20270311T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nJansløkka skole: 7A  (27)\, 7B (28)\\nTotalt: 55 ele
+ var\\n\\nKONTAKT\\nJansløkka skole\\n  Tlf: +47 66 71 55 70\\n  Marit Mel
+ ås  +47 91 74 46 28  mmelas@asker.kommune.no\\n\\nINFO\\nhttps://www.denk
+ ulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Jansløkka skole:</b> 7A  (27
+ ), 7B (28)<br><b>Totalt: 55 elevar</b></p><p><b>KONTAKT</b></p><p><b>Jansl
+ økka skole</b><br>Tlf: +47 66 71 55 70<br>Marit Melås &nbsp; +47 91 74 4
+ 6 28 &nbsp; <a href='mailto:mmelas@asker.kommune.no'>mmelas@asker.kommune.
+ no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
+ produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></bo
+ dy></html>
+LOCATION:Jansløkka skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-556079@asker.dks
 DTSTART:20270311T084500Z
 DTEND:20270311T092500Z
@@ -7651,6 +7473,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482210@asker.dks
+DTSTART:20270311T091500Z
+DTEND:20270311T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad barneskole: 7 (32)\\nTotalt: 32 elevar\\n\
+ \nKONTAKT\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin
+  Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\n\\nINFO
+ \\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad barneskole:</b> 7 
+ (32)<br><b>Totalt: 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad 
+ barneskole</b><br>Tlf: +47 31 29 34 00<br>Ann Kristin Nergård &nbsp; +47 
+ 90 04 36 18 &nbsp; <a href='mailto:ann.kristin.nergard@asker.kommune.no'>a
+ nn.kristin.nergard@asker.kommune.no</a><br></p><p><a href='https://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les
+  meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560143@asker.dks
 DTSTART:20270311T093000Z
 DTEND:20270311T101500Z
@@ -7672,30 +7516,9 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560144@asker.dks
-DTSTART:20270311T110000Z
-DTEND:20270311T114500Z
-SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nSolberg skole: 5 (16)\\nTotalt: 16 elevar\\n\\
- nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79
-  10 69  knut.gustavsen.engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
- lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 5 
- (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg sko
- le</b><br>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; 
- <a href='mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@
- asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
- en.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om produksjon
- en</a></p></body></html>
-LOCATION:Solberg skole – klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-556078@asker.dks
-DTSTART:20270311T113000Z
-DTEND:20270311T121000Z
+DTSTART:20270311T110000Z
+DTEND:20270311T114000Z
 SUMMARY:Sangskattekista (skolestartere og 1. trinn)
 DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nHyggen skole
  : 1 (5)\\nTotalt: 5 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 
@@ -7716,6 +7539,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Hyggen skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560144@asker.dks
+DTSTART:20270311T110000Z
+DTEND:20270311T114500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nSolberg skole: 5 (16)\\nTotalt: 16 elevar\\n\\
+ nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79
+  10 69  knut.gustavsen.engh@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Solberg skole:</b> 5 
+ (16)<br><b>Totalt: 16 elevar</b></p><p><b>KONTAKT</b></p><p><b>Solberg sko
+ le</b><br>Tlf: +47 99 79 10 69<br>Knut Engh &nbsp; +47 99 79 10 69 &nbsp; 
+ <a href='mailto:knut.gustavsen.engh@asker.kommune.no'>knut.gustavsen.engh@
+ asker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Solberg skole – klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560145@asker.dks
@@ -7829,6 +7673,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482211@asker.dks
+DTSTART:20270315T081500Z
+DTEND:20270315T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nMidtbygda barneskole: 7C (20)\\nTotalt: 20 elevar\\n\
+ \nKONTAKT\\nMidtbygda barneskole\\n  Tlf: +47 31 29 35 00\\n  Foline Geert
+ je Ophaug  +47 99 61 72 59  foline.geertje.ophaug@asker.kommune.no\\n\\nIN
+ FO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?p
+ roduksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Midtbygda barneskole:</b> 7C 
+ (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Midtbygda b
+ arneskole</b><br>Tlf: +47 31 29 35 00<br>Foline Geertje Ophaug &nbsp; +47 
+ 99 61 72 59 &nbsp; <a href='mailto:foline.geertje.ophaug@asker.kommune.no'
+ >foline.geertje.ophaug@asker.kommune.no</a><br></p><p><a href='https://www
+ .denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'
+ >Les meir om produksjonen</a></p></body></html>
+LOCATION:Midtbygda barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-568652@asker.dks
 DTSTART:20270315T082000Z
 DTEND:20270315T095000Z
@@ -7910,6 +7776,31 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Asker kino – Sal 1
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24641
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482212@asker.dks
+DTSTART:20270315T091500Z
+DTEND:20270315T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nFrydenlund barneskole: 7 (32)\\nTotalt: 32 elevar\\n\
+ \nKONTAKT\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reita
+ n Johansen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Ce
+ cilie Nordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@a
+ sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Frydenlund barneskole:</b> 7 
+ (32)<br><b>Totalt: 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>Frydenlund 
+ barneskole</b><br>Tlf: +47 31 29 75 50<br>Bente Reitan Johansen &nbsp; +47
+  95 23 45 43 &nbsp; <a href='mailto:bente.reitan.johansen@asker.kommune.no
+ '>bente.reitan.johansen@asker.kommune.no</a><br>Cecilie Nordbø Øyen (til
+ rettelagt) &nbsp; +47 97 56 35 89 &nbsp; <a href='mailto:cecilie.nordbo.oy
+ en@asker.kommune.no'>cecilie.nordbo.oyen@asker.kommune.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Frydenlund barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545594@asker.dks
@@ -8103,6 +7994,27 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482213@asker.dks
+DTSTART:20270316T081500Z
+DTEND:20270316T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSteinerskolen i Hurum: 7 (20)\\nTotalt: 20 elevar\\n\
+ \nKONTAKT\\nSteinerskolen i Hurum\\n  Tlf: +47 32 79 21 90\\n  Jeanette Wa
+ rd  +47 94 42 17 43  jeanette.ward@steinerskolen.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Steinerskolen i Hurum:</b> 7 
+ (20)<br><b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Steinerskol
+ en i Hurum</b><br>Tlf: +47 32 79 21 90<br>Jeanette Ward &nbsp; +47 94 42 1
+ 7 43 &nbsp; <a href='mailto:jeanette.ward@steinerskolen.no'>jeanette.ward@
+ steinerskolen.no</a><br></p><p><a href='https://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjon
+ en</a></p></body></html>
+LOCATION:Steinerskolen i Hurum
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-568654@asker.dks
 DTSTART:20270316T082000Z
 DTEND:20270316T095000Z
@@ -8163,6 +8075,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Asker kino – Sal 1
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24641
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482214@asker.dks
+DTSTART:20270316T091500Z
+DTEND:20270316T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nBlakstad skole: 7A (23)\, 7B (24)\\nTotalt: 47 elevar
+ \\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTTE HANSEN  
+ +47 41 68 28 11  lotte.hansen@asker.kommune.no\\n\\nINFO\\nhttps://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Blakstad skole:</b> 7A (23), 
+ 7B (24)<br><b>Totalt: 47 elevar</b></p><p><b>KONTAKT</b></p><p><b>Blakstad
+  skole</b><br>Tlf: +47 66 78 68 10<br>LOTTE HANSEN &nbsp; +47 41 68 28 11 
+ &nbsp; <a href='mailto:lotte.hansen@asker.kommune.no'>lotte.hansen@asker.k
+ ommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Blakstad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545596@asker.dks
@@ -8315,6 +8248,31 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21216
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-482215@asker.dks
+DTSTART:20270317T081500Z
+DTEND:20270317T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nNesøya skole: 7A (20)\, 7B (14)\\nTotalt: 34 elevar\
+ \n\\nKONTAKT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +
+ 47 45 73 26 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  
+ +47 99 03 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps:/
+ /www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21
+ 287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 7A (20), 7
+ B (14)<br><b>Totalt: 34 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya s
+ kole</b><br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &
+ nbsp; <a href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.
+ kommune.no</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a h
+ ref='mailto:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@as
+ ker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekken
+ .no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen
+ </a></p></body></html>
+LOCATION:Nesøya skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560154@asker.dks
 DTSTART:20270317T082500Z
 DTEND:20270317T091000Z
@@ -8387,6 +8345,30 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Asker kino – Sal 1
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24641
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482216@asker.dks
+DTSTART:20270317T091500Z
+DTEND:20270317T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nNesøya skole: 7C (22)\\nTotalt: 22 elevar\\n\\nKONTA
+ KT\\nNesøya skole\\n  Tlf: +47 45 73 26 53\\n  Kari Singsaas  +47 45 73 2
+ 6 53  kari.singsaas@asker.kommune.no\\n  Bjørn Erik Rannestad  +47 99 03 
+ 04 31  bjorn.erik.rannestad@asker.kommune.no\\n\\nINFO\\nhttps://www.denku
+ lturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Nesøya skole:</b> 7C (22)<br
+ ><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Nesøya skole</b><
+ br>Tlf: +47 45 73 26 53<br>Kari Singsaas &nbsp; +47 45 73 26 53 &nbsp; <a 
+ href='mailto:kari.singsaas@asker.kommune.no'>kari.singsaas@asker.kommune.n
+ o</a><br>Bjørn Erik Rannestad &nbsp; +47 99 03 04 31 &nbsp; <a href='mail
+ to:bjorn.erik.rannestad@asker.kommune.no'>bjorn.erik.rannestad@asker.kommu
+ ne.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfor
+ sk-produksjoner-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p><
+ /body></html>
+LOCATION:Nesøya skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545598@asker.dks
@@ -9809,8 +9791,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556255@asker.dks
-DTSTART:20270415T103000Z
-DTEND:20270415T111000Z
+DTSTART:20270415T100000Z
+DTEND:20270415T104000Z
 SUMMARY:Sangskattekista (skolestartere og 1. trinn)
 DESCRIPTION:Bygge bro mellom barnehage og skole\\n\\nKLASSER\\nHyggen skole
  : 1 (5)\\nTotalt: 5 elevar\\n\\nKONTAKT\\nHyggen skole\\n  Tlf: +47 40 90 
@@ -10591,7 +10573,8 @@ DTEND:20270423T083500Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
 DESCRIPTION:KLASSER\\nAsker voksenopplæring – FOV: FOV (90)\\nTotalt: 90
   elevar\\n\\nKONTAKT\\nAsker voksenopplæring – FOV\\n  Hanne Marie Morb
- erg Berg  +47 97 40 03 11  hanne.marie.morberg.berg@asker.kommune.no\\n\\n
+ erg Berg  +47 97 40 03 11  hanne.marie.morberg.berg@asker.kommune.no\\n  S
+ ilje Rueslåtten  +47 97 54 09 32  silje.rueslatten@asker.kommune.no\\n\\n
  INFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
  ?produksjon=24038
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
@@ -10599,9 +10582,11 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  V:</b> FOV (90)<br><b>Totalt: 90 elevar</b></p><p><b>KONTAKT</b></p><p><b>
  Asker voksenopplæring – FOV</b><br>Hanne Marie Morberg Berg &nbsp; +47 
  97 40 03 11 &nbsp; <a href='mailto:hanne.marie.morberg.berg@asker.kommune.
- no'>hanne.marie.morberg.berg@asker.kommune.no</a><br></p><p><a href='https
- ://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=
- 24038'>Les meir om produksjonen</a></p></body></html>
+ no'>hanne.marie.morberg.berg@asker.kommune.no</a><br>Silje Rueslåtten &nb
+ sp; +47 97 54 09 32 &nbsp; <a href='mailto:silje.rueslatten@asker.kommune.
+ no'>silje.rueslatten@asker.kommune.no</a><br></p><p><a href='https://www.d
+ enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=24038'>L
+ es meir om produksjonen</a></p></body></html>
 LOCATION:Asker voksenopplæring – FOV
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038

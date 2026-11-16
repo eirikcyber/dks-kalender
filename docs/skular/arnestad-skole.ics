@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Arnestad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Arnestad skole
-LAST-MODIFIED:20261103T090011Z
+LAST-MODIFIED:20261116T091307Z
 BEGIN:VEVENT
 UID:dks-523034@asker.dks
 DTSTART:20261123T091500Z
@@ -305,6 +305,70 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Arnestad skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25176
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482187@asker.dks
+DTSTART:20270211T081500Z
+DTEND:20270211T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nArnestad skole: 7A (22)\, 7B (22)\\nTotalt: 44 elevar
+ \\n\\nKONTAKT\\nArnestad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (
+ tilrettelagt)  +47 98 01 82 20  eva.overas@asker.kommune.no\\n  Nina Eyler
+ tsen  +47 98 42 16 87  nina.eylertsen@asker.kommune.no\\n  Cecilie Bjørns
+ tad  +47 97 19 30 13  cecilie.bjornstad@asker.kommune.no\\n  Signe Myskja 
+  +47 97 00 83 72  signe.langballe.myskja@asker.kommune.no\\n  Anders Njåt
+ un  +47 48 13 46 04  anders.njatun@asker.kommune.no\\n\\nINFO\\nhttps://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Arnestad skole:</b> 7A (22), 
+ 7B (22)<br><b>Totalt: 44 elevar</b></p><p><b>KONTAKT</b></p><p><b>Arnestad
+  skole</b><br>Tlf: +47 48 24 24 13<br>Eva Øverås (tilrettelagt) &nbsp; +
+ 47 98 01 82 20 &nbsp; <a href='mailto:eva.overas@asker.kommune.no'>eva.ove
+ ras@asker.kommune.no</a><br>Nina Eylertsen &nbsp; +47 98 42 16 87 &nbsp; <
+ a href='mailto:nina.eylertsen@asker.kommune.no'>nina.eylertsen@asker.kommu
+ ne.no</a><br>Cecilie Bjørnstad &nbsp; +47 97 19 30 13 &nbsp; <a href='mai
+ lto:cecilie.bjornstad@asker.kommune.no'>cecilie.bjornstad@asker.kommune.no
+ </a><br>Signe Myskja &nbsp; +47 97 00 83 72 &nbsp; <a href='mailto:signe.l
+ angballe.myskja@asker.kommune.no'>signe.langballe.myskja@asker.kommune.no<
+ /a><br>Anders Njåtun &nbsp; +47 48 13 46 04 &nbsp; <a href='mailto:anders
+ .njatun@asker.kommune.no'>anders.njatun@asker.kommune.no</a><br></p><p><a 
+ href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?
+ produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Arnestad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482188@asker.dks
+DTSTART:20270211T091500Z
+DTEND:20270211T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nArnestad skole: 7C (23)\\nTotalt: 23 elevar\\n\\nKONT
+ AKT\\nArnestad skole\\n  Tlf: +47 48 24 24 13\\n  Eva Øverås (tilrettela
+ gt)  +47 98 01 82 20  eva.overas@asker.kommune.no\\n  Nina Eylertsen  +47 
+ 98 42 16 87  nina.eylertsen@asker.kommune.no\\n  Cecilie Bjørnstad  +47 9
+ 7 19 30 13  cecilie.bjornstad@asker.kommune.no\\n  Signe Myskja  +47 97 00
+  83 72  signe.langballe.myskja@asker.kommune.no\\n  Anders Njåtun  +47 48
+  13 46 04  anders.njatun@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultu
+ relleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Arnestad skole:</b> 7C (23)<b
+ r><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Arnestad skole</b
+ ><br>Tlf: +47 48 24 24 13<br>Eva Øverås (tilrettelagt) &nbsp; +47 98 01 
+ 82 20 &nbsp; <a href='mailto:eva.overas@asker.kommune.no'>eva.overas@asker
+ .kommune.no</a><br>Nina Eylertsen &nbsp; +47 98 42 16 87 &nbsp; <a href='m
+ ailto:nina.eylertsen@asker.kommune.no'>nina.eylertsen@asker.kommune.no</a>
+ <br>Cecilie Bjørnstad &nbsp; +47 97 19 30 13 &nbsp; <a href='mailto:cecil
+ ie.bjornstad@asker.kommune.no'>cecilie.bjornstad@asker.kommune.no</a><br>S
+ igne Myskja &nbsp; +47 97 00 83 72 &nbsp; <a href='mailto:signe.langballe.
+ myskja@asker.kommune.no'>signe.langballe.myskja@asker.kommune.no</a><br>An
+ ders Njåtun &nbsp; +47 48 13 46 04 &nbsp; <a href='mailto:anders.njatun@a
+ sker.kommune.no'>anders.njatun@asker.kommune.no</a><br></p><p><a href='htt
+ ps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjo
+ n=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Arnestad skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556067@asker.dks

@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad barneskole
-LAST-MODIFIED:20261103T090012Z
+LAST-MODIFIED:20261116T091311Z
 BEGIN:VEVENT
 UID:dks-560163@asker.dks
 DTSTART:20261123T080000Z
@@ -138,6 +138,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Slemmestad barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482210@asker.dks
+DTSTART:20270311T091500Z
+DTEND:20270311T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad barneskole: 7 (32)\\nTotalt: 32 elevar\\n\
+ \nKONTAKT\\nSlemmestad barneskole\\n  Tlf: +47 31 29 34 00\\n  Ann Kristin
+  Nergård  +47 90 04 36 18  ann.kristin.nergard@asker.kommune.no\\n\\nINFO
+ \\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad barneskole:</b> 7 
+ (32)<br><b>Totalt: 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmestad 
+ barneskole</b><br>Tlf: +47 31 29 34 00<br>Ann Kristin Nergård &nbsp; +47 
+ 90 04 36 18 &nbsp; <a href='mailto:ann.kristin.nergard@asker.kommune.no'>a
+ nn.kristin.nergard@asker.kommune.no</a><br></p><p><a href='https://www.den
+ kulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=21287'>Les
+  meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545598@asker.dks

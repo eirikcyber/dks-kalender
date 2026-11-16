@@ -5,47 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Vettre skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Vettre skole
-LAST-MODIFIED:20261103T090013Z
-BEGIN:VEVENT
-UID:dks-482051@asker.dks
-DTSTART:20261103T091500Z
-DTEND:20261103T100000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nVettre skole: 3 (19)\\nTotalt: 19 elevar\\n\\nKONTAKT
- \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
-  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 3 (19)<br><
- b>Totalt: 19 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
- Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
- 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
- </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vettre skole – 7 klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-482052@asker.dks
-DTSTART:20261103T110500Z
-DTEND:20261103T115000Z
-SUMMARY:Arkitektens alfabet (3. trinn)
-DESCRIPTION:KLASSER\\nVettre skole: 3 (20)\\nTotalt: 20 elevar\\n\\nKONTAKT
- \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
-  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
- kken.no/utforsk-produksjoner-i-dks/?produksjon=21284
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 3 (20)<br><
- b>Totalt: 20 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
- Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
- 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
- </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
- er-i-dks/?produksjon=21284'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Vettre skole – 7 klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=21284
-END:VEVENT
+LAST-MODIFIED:20261116T091314Z
 BEGIN:VEVENT
 UID:dks-559559@asker.dks
 DTSTART:20270203T113000Z
@@ -171,6 +131,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vettre skole – 7 klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482203@asker.dks
+DTSTART:20270308T081500Z
+DTEND:20270308T085500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nVettre skole: 7 (39)\\nTotalt: 39 elevar\\n\\nKONTAKT
+ \\nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00 
+  sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolese
+ kken.no/utforsk-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 7 (39)<br><
+ b>Totalt: 39 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre skole</b><br>
+ Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp; <a href=
+ 'mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.no</a><br>
+ </p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjon
+ er-i-dks/?produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Vettre skole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-545602@asker.dks

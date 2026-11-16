@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Frydenlund barneskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Frydenlund barneskole
-LAST-MODIFIED:20261103T090011Z
+LAST-MODIFIED:20261116T091308Z
 BEGIN:VEVENT
 UID:dks-482040@asker.dks
 DTSTART:20261203T121500Z
@@ -162,6 +162,31 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Frydenlund barneskole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-482212@asker.dks
+DTSTART:20270315T091500Z
+DTEND:20270315T095500Z
+SUMMARY:Ring Rikssalen (7. trinn)
+DESCRIPTION:KLASSER\\nFrydenlund barneskole: 7 (32)\\nTotalt: 32 elevar\\n\
+ \nKONTAKT\\nFrydenlund barneskole\\n  Tlf: +47 31 29 75 50\\n  Bente Reita
+ n Johansen  +47 95 23 45 43  bente.reitan.johansen@asker.kommune.no\\n  Ce
+ cilie Nordbø Øyen (tilrettelagt)  +47 97 56 35 89  cecilie.nordbo.oyen@a
+ sker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utfors
+ k-produksjoner-i-dks/?produksjon=21287
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Frydenlund barneskole:</b> 7 
+ (32)<br><b>Totalt: 32 elevar</b></p><p><b>KONTAKT</b></p><p><b>Frydenlund 
+ barneskole</b><br>Tlf: +47 31 29 75 50<br>Bente Reitan Johansen &nbsp; +47
+  95 23 45 43 &nbsp; <a href='mailto:bente.reitan.johansen@asker.kommune.no
+ '>bente.reitan.johansen@asker.kommune.no</a><br>Cecilie Nordbø Øyen (til
+ rettelagt) &nbsp; +47 97 56 35 89 &nbsp; <a href='mailto:cecilie.nordbo.oy
+ en@asker.kommune.no'>cecilie.nordbo.oyen@asker.kommune.no</a><br></p><p><a
+  href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/
+ ?produksjon=21287'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Frydenlund barneskole
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560160@asker.dks
