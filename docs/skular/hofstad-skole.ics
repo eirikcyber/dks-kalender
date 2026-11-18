@@ -5,53 +5,28 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Hofstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Hofstad skole
-LAST-MODIFIED:20261116T091309Z
+LAST-MODIFIED:20261118T020934Z
 BEGIN:VEVENT
 UID:dks-560174@asker.dks
 DTSTART:20261125T081500Z
 DTEND:20261125T090000Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nHofstad skole: 5B (25)\\nTotalt: 25 elevar\\n\
- \nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von H
- irsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  Ingeb
- org Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 5021
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 5B
-  (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad sk
- ole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 
- 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>
- anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +4
- 7 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om produksjone
- n</a></p></body></html>
-LOCATION:Hofstad skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560173@asker.dks
-DTSTART:20261126T121500Z
-DTEND:20261126T130000Z
-SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nHofstad skole: 5A (23)\\nTotalt: 23 elevar\\n\
- \nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synnøve Von H
- irsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no\\n  Ingeb
- org Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINFO\\nhttps:
- //www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2
- 5021
+DESCRIPTION:.\\n\\nKLASSER\\nHofstad skole: 5A (23)\, 5B (25)\\nTotalt: 48 
+ elevar\\n\\nKONTAKT\\nHofstad skole\\n  Tlf: +47 66 71 54 20\\n  Anne Synn
+ øve Von Hirsch  +47 97 11 34 73  anne.synnove.von.hirsch@asker.kommune.no
+ \\n  Ingeborg Wiencke  +47 90 98 13 94  iwiencke@asker.kommune.no\\n\\nINF
+ O\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pr
+ oduksjon=25021
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Hofstad skole:</b> 5A
-  (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Hofstad sk
- ole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp; +47 97 
- 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kommune.no'>
- anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke &nbsp; +4
- 7 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>iwiencke@a
- sker.kommune.no</a><br></p><p><a href='https://www.denkulturelleskolesekke
- n.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om produksjone
- n</a></p></body></html>
+  (23), 5B (25)<br><b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>H
+ ofstad skole</b><br>Tlf: +47 66 71 54 20<br>Anne Synnøve Von Hirsch &nbsp
+ ; +47 97 11 34 73 &nbsp; <a href='mailto:anne.synnove.von.hirsch@asker.kom
+ mune.no'>anne.synnove.von.hirsch@asker.kommune.no</a><br>Ingeborg Wiencke 
+ &nbsp; +47 90 98 13 94 &nbsp; <a href='mailto:iwiencke@asker.kommune.no'>i
+ wiencke@asker.kommune.no</a><br></p><p><a href='https://www.denkulturelles
+ kolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir om pr
+ oduksjonen</a></p></body></html>
 LOCATION:Hofstad skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
