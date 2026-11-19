@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Asker
 X-WR-CALDESC:Den Kulturelle Skolesekken - alle arrangement i Asker
-LAST-MODIFIED:20261118T020918Z
+LAST-MODIFIED:20261119T062700Z
 BEGIN:VEVENT
 UID:dks-482027@asker.dks
 DTSTART:20261119T083000Z
@@ -104,8 +104,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-482020@asker.dks
-DTSTART:20261120T103000Z
-DTEND:20261120T111500Z
+DTSTART:20261120T111500Z
+DTEND:20261120T120000Z
 SUMMARY:Arkitektens alfabet (3. trinn)
 DESCRIPTION:KLASSER\\nHvalstad skole: 3C (19)\\nTotalt: 19 elevar\\n\\nKONT
  AKT\\nHvalstad skole\\n  Tlf: +47 66 71 54 50\\n  Trine Norman Hegg(kun ti
@@ -449,8 +449,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560225@asker.dks
-DTSTART:20261124T120000Z
-DTEND:20261124T124500Z
+DTSTART:20261124T114500Z
+DTEND:20261124T123000Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
 DESCRIPTION:.\\n\\nKLASSER\\nMellom-Nes skole: 5 (22)\\nTotalt: 22 elevar\\
  n\\nKONTAKT\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47
@@ -966,6 +966,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21284
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-560177@asker.dks
+DTSTART:20261130T075500Z
+DTEND:20261130T084000Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5a (21)
+ \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
+ \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
+ rnational School:</b> 5a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
+ 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
+ askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-552697@asker.dks
 DTSTART:20261130T080000Z
 DTEND:20261130T084500Z
@@ -1000,28 +1022,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560177@asker.dks
-DTSTART:20261130T080000Z
-DTEND:20261130T084500Z
-SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5a (21)
- \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
- \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
- no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
- r-i-dks/?produksjon=25021
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
- rnational School:</b> 5a (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
- </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
- 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
- askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
- m produksjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-523050@asker.dks
 DTSTART:20261130T083000Z
 DTEND:20261130T090500Z
@@ -1042,6 +1042,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Tofte skole – Tofte Skole - gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=24038
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560178@asker.dks
+DTSTART:20261130T090000Z
+DTEND:20261130T094500Z
+SUMMARY:Konspirasjon eller fakta? (5. trinn)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5b (21)
+ \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
+ \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
+ no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
+ r-i-dks/?produksjon=25021
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
+ rnational School:</b> 5b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
+ 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
+ askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
+ lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
+ m produksjonen</a></p></body></html>
+LOCATION:Stiftelsen Asker International School
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511522@asker.dks
@@ -1078,18 +1100,18 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560178@asker.dks
-DTSTART:20261130T095000Z
-DTEND:20261130T103500Z
+UID:dks-560179@asker.dks
+DTSTART:20261130T094500Z
+DTEND:20261130T103000Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5b (21)
+DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5c (21)
  \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
  \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
  no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
  r-i-dks/?produksjon=25021
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
- rnational School:</b> 5b (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
+ rnational School:</b> 5c (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
  </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
  06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
  askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
@@ -1157,28 +1179,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Arnestad skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560179@asker.dks
-DTSTART:20261130T122000Z
-DTEND:20261130T130500Z
-SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5c (21)
- \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
- \n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.
- no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjone
- r-i-dks/?produksjon=25021
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Stiftelsen Asker Inte
- rnational School:</b> 5c (21)<br><b>Totalt: 21 elevar</b></p><p><b>KONTAKT
- </b></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +47 90 72 
- 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailto:james@
- askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.denkulture
- lleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021'>Les meir o
- m produksjonen</a></p></body></html>
-LOCATION:Stiftelsen Asker International School
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-523054@asker.dks
@@ -2118,8 +2118,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-523040@asker.dks
-DTSTART:20261210T104500Z
-DTEND:20261210T112000Z
+DTSTART:20261210T091000Z
+DTEND:20261210T094500Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
 DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
   80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
@@ -3766,8 +3766,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560824@asker.dks
-DTSTART:20270128T093000Z
-DTEND:20270128T101500Z
+DTSTART:20270128T091000Z
+DTEND:20270128T095500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nLandøya ungdomsskole: 10B (28)\\nTotalt: 28 elevar\\
  n\\nKONTAKT\\nLandøya ungdomsskole\\n  Tlf: +47 66 71 24 00\\n  Mona Enge
@@ -3850,8 +3850,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560827@asker.dks
-DTSTART:20270129T093000Z
-DTEND:20270129T101500Z
+DTSTART:20270129T092500Z
+DTEND:20270129T101000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSteinerskolen i Asker: 10 (13)\\nTotalt: 13 elevar\\n
  \\nKONTAKT\\nSteinerskolen i Asker\\n  Tlf: +47 66 85 26 80\\n  marianne  
@@ -5775,8 +5775,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560830@asker.dks
-DTSTART:20270301T100000Z
-DTEND:20270301T104500Z
+DTSTART:20270301T093500Z
+DTEND:20270301T102000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nVollen ungdomsskole: 10 øst (24)\\nTotalt: 24 elevar
  \\n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette And
@@ -5798,35 +5798,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  urtanken.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no
  /utforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a
  ></p></body></html>
-LOCATION:Vollen ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560831@asker.dks
-DTSTART:20270301T103000Z
-DTEND:20270301T111500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nVollen ungdomsskole: 10 sør (27)\\nTotalt: 27 elevar
- \\n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette And
- ersen  +47 91 75 87 22  mette.andersen@asker.kommune.no\\n  Line Utengen  
- +47 90 68 52 33  line.stenrud.utengen@asker.kommune.no\\n  siw melkvik  +4
- 7 92 61 25 80  sme@kulturtanken.no\\n  Anders Tollefsen  +47 99 57 16 02  
- at@kulturtanken.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
- orsk-produksjoner-i-dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 10 s
- ør (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen 
- ungdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 7
- 5 87 22 &nbsp; <a href='mailto:mette.andersen@asker.kommune.no'>mette.ande
- rsen@asker.kommune.no</a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <a
-  href='mailto:line.stenrud.utengen@asker.kommune.no'>line.stenrud.utengen@
- asker.kommune.no</a><br>siw melkvik &nbsp; +47 92 61 25 80 &nbsp; <a href=
- 'mailto:sme@kulturtanken.no'>sme@kulturtanken.no</a><br>Anders Tollefsen &
- nbsp; +47 99 57 16 02 &nbsp; <a href='mailto:at@kulturtanken.no'>at@kultur
- tanken.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
- tforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a><
- /p></body></html>
 LOCATION:Vollen ungdomsskole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25158
@@ -5876,6 +5847,35 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Drengsrud skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560831@asker.dks
+DTSTART:20270301T111000Z
+DTEND:20270301T115500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nVollen ungdomsskole: 10 sør (27)\\nTotalt: 27 elevar
+ \\n\\nKONTAKT\\nVollen ungdomsskole\\n  Tlf: +47 66 71 52 50\\n  Mette And
+ ersen  +47 91 75 87 22  mette.andersen@asker.kommune.no\\n  Line Utengen  
+ +47 90 68 52 33  line.stenrud.utengen@asker.kommune.no\\n  siw melkvik  +4
+ 7 92 61 25 80  sme@kulturtanken.no\\n  Anders Tollefsen  +47 99 57 16 02  
+ at@kulturtanken.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utf
+ orsk-produksjoner-i-dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Vollen ungdomsskole:</b> 10 s
+ ør (27)<br><b>Totalt: 27 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vollen 
+ ungdomsskole</b><br>Tlf: +47 66 71 52 50<br>Mette Andersen &nbsp; +47 91 7
+ 5 87 22 &nbsp; <a href='mailto:mette.andersen@asker.kommune.no'>mette.ande
+ rsen@asker.kommune.no</a><br>Line Utengen &nbsp; +47 90 68 52 33 &nbsp; <a
+  href='mailto:line.stenrud.utengen@asker.kommune.no'>line.stenrud.utengen@
+ asker.kommune.no</a><br>siw melkvik &nbsp; +47 92 61 25 80 &nbsp; <a href=
+ 'mailto:sme@kulturtanken.no'>sme@kulturtanken.no</a><br>Anders Tollefsen &
+ nbsp; +47 99 57 16 02 &nbsp; <a href='mailto:at@kulturtanken.no'>at@kultur
+ tanken.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/u
+ tforsk-produksjoner-i-dks/?produksjon=25158'>Les meir om produksjonen</a><
+ /p></body></html>
+LOCATION:Vollen ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560121@asker.dks
@@ -5974,8 +5974,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560832@asker.dks
-DTSTART:20270302T083000Z
-DTEND:20270302T091500Z
+DTSTART:20270302T084000Z
+DTEND:20270302T092500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10A (28)\\nTotalt: 28 elevar
  \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
@@ -6134,28 +6134,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560834@asker.dks
-DTSTART:20270302T103000Z
-DTEND:20270302T111500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10C (28)\\nTotalt: 28 elevar
- \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
- tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
- \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
- ks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
- 10C (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
- tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
- 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
- e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Slemmestad ungdomsskole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-556067@asker.dks
 DTSTART:20270302T110000Z
 DTEND:20270302T114000Z
@@ -6188,6 +6166,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Arnestad skole – Gymsal
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560834@asker.dks
+DTSTART:20270302T113000Z
+DTEND:20270302T121500Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10C (28)\\nTotalt: 28 elevar
+ \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
+ tine B. Sund  +47 47 08 77 09  christine.birgitte.sund@asker.kommune.no\\n
+ \\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-d
+ ks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Slemmestad ungdomsskole:</b> 
+ 10C (28)<br><b>Totalt: 28 elevar</b></p><p><b>KONTAKT</b></p><p><b>Slemmes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 34 40<br>Christine B. Sund &nbsp; +
+ 47 47 08 77 09 &nbsp; <a href='mailto:christine.birgitte.sund@asker.kommun
+ e.no'>christine.birgitte.sund@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Slemmestad ungdomsskole – Klasserom
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560124@asker.dks
@@ -6256,6 +6256,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-560835@asker.dks
+DTSTART:20270303T080500Z
+DTEND:20270303T085000Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\\nTotalt: 23 elevar
+ \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
+ Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
+ \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
+ -dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 10F (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
+ p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
+ une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-482199@asker.dks
 DTSTART:20270303T081500Z
 DTEND:20270303T085500Z
@@ -6279,28 +6301,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Sydskogen barneskole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21287
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560835@asker.dks
-DTSTART:20270303T083000Z
-DTEND:20270303T091500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\\nTotalt: 23 elevar
- \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
- Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10F (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
- tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
- p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
- une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-511551@asker.dks
@@ -6369,6 +6369,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21287
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-560836@asker.dks
+DTSTART:20270303T091500Z
+DTEND:20270303T100000Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10A (25)\\nTotalt: 25 elevar
+ \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
+ Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
+ \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
+ -dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 10A (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
+ p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
+ une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-560126@asker.dks
 DTSTART:20270303T093000Z
 DTEND:20270303T101500Z
@@ -6388,28 +6410,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vettre skole – 7 klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560836@asker.dks
-DTSTART:20270303T100000Z
-DTEND:20270303T104500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10A (25)\\nTotalt: 25 elevar
- \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
- Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10A (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
- tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
- p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
- une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556069@asker.dks
@@ -6435,8 +6435,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560837@asker.dks
-DTSTART:20270303T103000Z
-DTEND:20270303T111500Z
+DTSTART:20270303T104500Z
+DTEND:20270303T113000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10B (24)\\nTotalt: 24 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -6498,6 +6498,28 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
 END:VEVENT
 BEGIN:VEVENT
+UID:dks-560838@asker.dks
+DTSTART:20270304T080500Z
+DTEND:20270304T085000Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10C (25)\\nTotalt: 25 elevar
+ \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
+ Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
+ \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
+ -dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 10C (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
+ p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
+ une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
+END:VEVENT
+BEGIN:VEVENT
 UID:dks-482201@asker.dks
 DTSTART:20270304T081500Z
 DTEND:20270304T085500Z
@@ -6544,28 +6566,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560838@asker.dks
-DTSTART:20270304T083000Z
-DTEND:20270304T091500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10C (25)\\nTotalt: 25 elevar
- \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
- Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10C (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
- tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
- p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
- une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-482202@asker.dks
 DTSTART:20270304T091500Z
 DTEND:20270304T095500Z
@@ -6587,6 +6587,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Hyggen skole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21287
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560839@asker.dks
+DTSTART:20270304T091500Z
+DTEND:20270304T100000Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10D (25)\\nTotalt: 25 elevar
+ \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
+ Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
+ \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
+ -dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 10D (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
+ p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
+ une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552740@asker.dks
@@ -6636,28 +6658,6 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=21436
 END:VEVENT
 BEGIN:VEVENT
-UID:dks-560839@asker.dks
-DTSTART:20270304T100000Z
-DTEND:20270304T104500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10D (25)\\nTotalt: 25 elevar
- \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
- Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10D (25)<br><b>Totalt: 25 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
- tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
- p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
- une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
-END:VEVENT
-BEGIN:VEVENT
 UID:dks-560128@asker.dks
 DTSTART:20270304T103000Z
 DTEND:20270304T111500Z
@@ -6677,28 +6677,6 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Vardåsen skole – Klasserom
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25021
-END:VEVENT
-BEGIN:VEVENT
-UID:dks-560840@asker.dks
-DTSTART:20270304T103000Z
-DTEND:20270304T111500Z
-SUMMARY:Sytten snart atten (10. trinn)
-DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10E (23)\\nTotalt: 23 elevar
- \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
- Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
- \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
- -dks/?produksjon=25158
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
- 10E (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
- tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
- p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
- une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
- s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
- =25158'>Les meir om produksjonen</a></p></body></html>
-LOCATION:Spikkestad ungdomsskole – Auditorium
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-552741@asker.dks
@@ -6723,6 +6701,28 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
 LOCATION:Midtbygda barneskole
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=23367
+END:VEVENT
+BEGIN:VEVENT
+UID:dks-560840@asker.dks
+DTSTART:20270304T104500Z
+DTEND:20270304T113000Z
+SUMMARY:Sytten snart atten (10. trinn)
+DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10E (23)\\nTotalt: 23 elevar
+ \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
+ Cathrine Frogner  +47 91 11 51 43  anne.cathrine.frogner@asker.kommune.no\
+ \n\\nINFO\\nhttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i
+ -dks/?produksjon=25158
+X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
+ f;font-size:13px'><p><b>KLASSER</b></p><p><b>Spikkestad ungdomsskole:</b> 
+ 10E (23)<br><b>Totalt: 23 elevar</b></p><p><b>KONTAKT</b></p><p><b>Spikkes
+ tad ungdomsskole</b><br>Tlf: +47 31 29 63 00<br>Anne Cathrine Frogner &nbs
+ p; +47 91 11 51 43 &nbsp; <a href='mailto:anne.cathrine.frogner@asker.komm
+ une.no'>anne.cathrine.frogner@asker.kommune.no</a><br></p><p><a href='http
+ s://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon
+ =25158'>Les meir om produksjonen</a></p></body></html>
+LOCATION:Spikkestad ungdomsskole – Auditorium
+URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25158
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-556071@asker.dks
@@ -6793,8 +6793,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560841@asker.dks
-DTSTART:20270305T083000Z
-DTEND:20270305T091500Z
+DTSTART:20270305T084000Z
+DTEND:20270305T092500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10D (27)\\nTotalt: 27 elevar
  \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
@@ -11333,31 +11333,31 @@ DTSTART:20270504T070000Z
 DTEND:20270504T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nRønningen sko
- le\\n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollekti
- vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
- � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internatio
- nal School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\\n
-   Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@
- asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 7
- 2 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=25156
+ le\\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved koll
+ ektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, me
+ n må bestilles i forkant av skolene. Se e-post med ordrenummer for bestil
+ ling. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internat
+ ional School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\
+ \n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffe
+ r@asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90
+  72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\n
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Rønningen skole</b><br>Elevene sykler/går eller tar kollektiv
- t til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
- e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
- ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen skol
- e:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)<br>
- <b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skole</b
- ><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; 
- <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommun
- e.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +4
- 7 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailt
- o:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.de
- nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Le
- s meir om produksjonen</a></p></body></html>
+ t til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. 
+ Dette dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post 
+ med ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen 
+ skole:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)
+ <br><b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skol
+ e</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nb
+ sp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.ko
+ mmune.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf
+ : +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='m
+ ailto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ '>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -11399,26 +11399,27 @@ DTSTART:20270510T070000Z
 DTEND:20270510T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Ask
- er International School\\n  Elevene sykler/går eller tar kollektivt til D
- ikemark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
- er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
- nummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International Scho
- ol: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen Asker 
- International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 
- 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
- o/utforsk-produksjoner-i-dks/?produksjon=25156
+ er International School\\n  Elevene sykler/går eller tar kollektivt til A
+ sker museum. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette 
+ dekker DKS Asker\, men må bestilles i forkant av skolene. Se e-post med o
+ rdrenummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International 
+ School: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen As
+ ker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94
+  83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Stiftelsen Asker International School</b><br>Elevene sykler/gå
- r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
- letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
- olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
- <p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><b>To
- talt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Interna
- tional School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83
-  92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></
- p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
+ r eller tar kollektivt til Asker museum. Ved kollektivtransport, kan RUFUS
+ -billetter benyttes. Dette dekker DKS Asker, men må bestilles i forkant a
+ v skolene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b>
+ </p><p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><
+ b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -11429,25 +11430,25 @@ DTSTART:20270511T070000Z
 DTEND:20270511T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nVettre skole\\
- n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollektivtra
- nsport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men må be
- stilles i forkant av skolene. Se e-post med ordrenummer for bestilling. \\
- n\\nKLASSER\\nVettre skole: 4 (49)\\nTotalt: 49 elevar\\n\\nKONTAKT\\nVett
- re skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00  sidsel
- .fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.no
- /utforsk-produksjoner-i-dks/?produksjon=25156
+ n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved kollekti
+ vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
+ � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
+ ng. \\n\\nKLASSER\\nVettre skole: 4 (49)\\nTotalt: 49 elevar\\n\\nKONTAKT\
+ \nVettre skole\\n  Tlf: +47 66 71 55 50\\n  Sidsel Fonn  +47 92 26 88 00  
+ sidsel.fonn@asker.kommune.no\\n\\nINFO\\nhttps://www.denkulturelleskolesek
+ ken.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Vettre skole</b><br>Elevene sykler/går eller tar kollektivt ti
- l Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dette de
- kker DKS Asker, men må bestilles i forkant av skolene. Se e-post med ordr
- enummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Vettre skole:</b> 4
-  (49)<br><b>Totalt: 49 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre sko
- le</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &nbsp
- ; <a href='mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></bo
- dy></html>
+ l Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
+ e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
+ ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Vettre skole:</
+ b> 4 (49)<br><b>Totalt: 49 elevar</b></p><p><b>KONTAKT</b></p><p><b>Vettre
+  skole</b><br>Tlf: +47 66 71 55 50<br>Sidsel Fonn &nbsp; +47 92 26 88 00 &
+ nbsp; <a href='mailto:sidsel.fonn@asker.kommune.no'>sidsel.fonn@asker.komm
+ une.no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utfo
+ rsk-produksjoner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p>
+ </body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -11458,35 +11459,36 @@ DTSTART:20270512T070000Z
 DTEND:20270512T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Vol
- len Montessoriskole\\n  Elevene sykler/går eller tar kollektivt til Dikem
- ark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekker D
- KS Asker\, men må bestilles i forkant av skolene. Se e-post med ordrenumm
- er for bestilling. \\n\\nKLASSER\\nSolberg skole: 4 (16)\\nTofte skole: 4a
-  (27)\\nStiftelsen Vollen Montessoriskole: 4 (16)\\nTotalt: 59 elevar\\n\\
- nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 99 79
-  10 69  knut.gustavsen.engh@asker.kommune.no\\nTofte skole\\n  Tlf: +47 32
-  27 84 13\\n  Anita Olsen  +47 47 64 53 53  anita.olsen@asker.kommune.no\\
- nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camilla Ny
- strøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://www.d
- enkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ len Montessoriskole\\n  Elevene sykler/går eller tar kollektivt til Asker
+  museum. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
+ er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
+ nummer for bestilling. \\n\\nKLASSER\\nSolberg skole: 4 (16)\\nTofte skole
+ : 4a (27)\\nStiftelsen Vollen Montessoriskole: 4 (16)\\nTotalt: 59 elevar\
+ \n\\nKONTAKT\\nSolberg skole\\n  Tlf: +47 99 79 10 69\\n  Knut Engh  +47 9
+ 9 79 10 69  knut.gustavsen.engh@asker.kommune.no\\nTofte skole\\n  Tlf: +4
+ 7 32 27 84 13\\n  Anita Olsen  +47 47 64 53 53  anita.olsen@asker.kommune.
+ no\\nStiftelsen Vollen Montessoriskole\\n  Tlf: +47 66 98 71 20\\n  Camill
+ a Nystrøm  +47 92 28 97 04  camilla.nystrom@vomo.no\\n\\nINFO\\nhttps://w
+ ww.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=2515
+ 6
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Elevene sykler/går el
- ler tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-billett
- er benyttes. Dette dekker DKS Asker, men må bestilles i forkant av skolen
- e. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><
- b>Solberg skole:</b> 4 (16)<br><b>Tofte skole:</b> 4a (27)<br><b>Stiftelse
- n Vollen Montessoriskole:</b> 4 (16)<br><b>Totalt: 59 elevar</b></p><p><b>
- KONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut Eng
- h &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@asker.
- kommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Tofte sk
- ole</b><br>Tlf: +47 32 27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 &nbs
- p; <a href='mailto:anita.olsen@asker.kommune.no'>anita.olsen@asker.kommune
- .no</a><br></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47 66 
- 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='mailto
- :camilla.nystrom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><p><a href='h
- ttps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produks
- jon=25156'>Les meir om produksjonen</a></p></body></html>
+ ler tar kollektivt til Asker museum. Ved kollektivtransport, kan RUFUS-bil
+ letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
+ olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
+ <p><b>Solberg skole:</b> 4 (16)<br><b>Tofte skole:</b> 4a (27)<br><b>Stift
+ elsen Vollen Montessoriskole:</b> 4 (16)<br><b>Totalt: 59 elevar</b></p><p
+ ><b>KONTAKT</b></p><p><b>Solberg skole</b><br>Tlf: +47 99 79 10 69<br>Knut
+  Engh &nbsp; +47 99 79 10 69 &nbsp; <a href='mailto:knut.gustavsen.engh@as
+ ker.kommune.no'>knut.gustavsen.engh@asker.kommune.no</a><br></p><p><b>Toft
+ e skole</b><br>Tlf: +47 32 27 84 13<br>Anita Olsen &nbsp; +47 47 64 53 53 
+ &nbsp; <a href='mailto:anita.olsen@asker.kommune.no'>anita.olsen@asker.kom
+ mune.no</a><br></p><p><b>Stiftelsen Vollen Montessoriskole</b><br>Tlf: +47
+  66 98 71 20<br>Camilla Nystrøm &nbsp; +47 92 28 97 04 &nbsp; <a href='ma
+ ilto:camilla.nystrom@vomo.no'>camilla.nystrom@vomo.no</a><br></p><p><a hre
+ f='https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
+ duksjon=25156'>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -11600,8 +11602,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560853@asker.dks
-DTSTART:20270527T073000Z
-DTEND:20270527T081500Z
+DTSTART:20270527T070000Z
+DTEND:20270527T074500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 10A (29)\\nTotalt: 29 elev
  ar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  H
@@ -11622,8 +11624,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560854@asker.dks
-DTSTART:20270527T090000Z
-DTEND:20270527T094500Z
+DTSTART:20270527T081000Z
+DTEND:20270527T085500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 10C (31)\\nTotalt: 31 elev
  ar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  H
@@ -11644,8 +11646,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560855@asker.dks
-DTSTART:20270527T103000Z
-DTEND:20270527T111500Z
+DTSTART:20270527T100500Z
+DTEND:20270527T105000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nHovedgården ungdomsskole: 10B (27)\\nTotalt: 27 elev
  ar\\n\\nKONTAKT\\nHovedgården ungdomsskole\\n  Tlf: +47 66 71 59 00\\n  H

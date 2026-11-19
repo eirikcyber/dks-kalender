@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Spikkestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Spikkestad ungdomsskole
-LAST-MODIFIED:20261118T020941Z
+LAST-MODIFIED:20261119T062718Z
 BEGIN:VEVENT
 UID:dks-560835@asker.dks
-DTSTART:20270303T083000Z
-DTEND:20270303T091500Z
+DTSTART:20270303T080500Z
+DTEND:20270303T085000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10F (23)\\nTotalt: 23 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -30,8 +30,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560836@asker.dks
-DTSTART:20270303T100000Z
-DTEND:20270303T104500Z
+DTSTART:20270303T091500Z
+DTEND:20270303T100000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10A (25)\\nTotalt: 25 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -52,8 +52,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560837@asker.dks
-DTSTART:20270303T103000Z
-DTEND:20270303T111500Z
+DTSTART:20270303T104500Z
+DTEND:20270303T113000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10B (24)\\nTotalt: 24 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -74,8 +74,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560838@asker.dks
-DTSTART:20270304T083000Z
-DTEND:20270304T091500Z
+DTSTART:20270304T080500Z
+DTEND:20270304T085000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10C (25)\\nTotalt: 25 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -96,8 +96,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560839@asker.dks
-DTSTART:20270304T100000Z
-DTEND:20270304T104500Z
+DTSTART:20270304T091500Z
+DTEND:20270304T100000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10D (25)\\nTotalt: 25 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 
@@ -118,8 +118,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560840@asker.dks
-DTSTART:20270304T103000Z
-DTEND:20270304T111500Z
+DTSTART:20270304T104500Z
+DTEND:20270304T113000Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSpikkestad ungdomsskole: 10E (23)\\nTotalt: 23 elevar
  \\n\\nKONTAKT\\nSpikkestad ungdomsskole\\n  Tlf: +47 31 29 63 00\\n  Anne 

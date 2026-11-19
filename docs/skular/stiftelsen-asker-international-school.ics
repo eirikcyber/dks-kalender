@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Stiftelsen Asker International School
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Stiftelsen Asker International School
-LAST-MODIFIED:20261118T020943Z
+LAST-MODIFIED:20261119T062720Z
 BEGIN:VEVENT
 UID:dks-560177@asker.dks
-DTSTART:20261130T080000Z
-DTEND:20261130T084500Z
+DTSTART:20261130T075500Z
+DTEND:20261130T084000Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
 DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5a (21)
  \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
@@ -30,8 +30,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560178@asker.dks
-DTSTART:20261130T095000Z
-DTEND:20261130T103500Z
+DTSTART:20261130T090000Z
+DTEND:20261130T094500Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
 DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5b (21)
  \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
@@ -52,8 +52,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560179@asker.dks
-DTSTART:20261130T122000Z
-DTEND:20261130T130500Z
+DTSTART:20261130T094500Z
+DTEND:20261130T103000Z
 SUMMARY:Konspirasjon eller fakta? (5. trinn)
 DESCRIPTION:.\\n\\nKLASSER\\nStiftelsen Asker International School: 5c (21)
  \\nTotalt: 21 elevar\\n\\nKONTAKT\\nStiftelsen Asker International School\
@@ -502,31 +502,31 @@ DTSTART:20270504T070000Z
 DTEND:20270504T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nRønningen sko
- le\\n  Elevene sykler/går eller tar kollektivt til Dikemark. Ved kollekti
- vtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, men m�
- � bestilles i forkant av skolene. Se e-post med ordrenummer for bestilli
- ng. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internatio
- nal School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\\n
-   Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffer@
- asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90 7
- 2 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\nht
- tps://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksj
- on=25156
+ le\\n  Elevene sykler/går eller tar kollektivt til Asker museum. Ved koll
+ ektivtransport\, kan RUFUS-billetter benyttes. Dette dekker DKS Asker\, me
+ n må bestilles i forkant av skolene. Se e-post med ordrenummer for bestil
+ ling. \\n\\nKLASSER\\nRønningen skole: 4 (25)\\nStiftelsen Asker Internat
+ ional School: 4a (23)\\nTotalt: 48 elevar\\n\\nKONTAKT\\nRønningen skole\
+ \n  Tlf: +47 66 71 29 00\\n  Sølvi Graffer  +47 95 76 44 76  solvi.graffe
+ r@asker.kommune.no\\nStiftelsen Asker International School\\n  Tlf: +47 90
+  72 06 70\\n  James Murphy  +47 94 83 92 91  james@askeris.no\\n\\nINFO\\n
+ https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produk
+ sjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Rønningen skole</b><br>Elevene sykler/går eller tar kollektiv
- t til Dikemark. Ved kollektivtransport, kan RUFUS-billetter benyttes. Dett
- e dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post med 
- ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen skol
- e:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)<br>
- <b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skole</b
- ><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nbsp; 
- <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.kommun
- e.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf: +4
- 7 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='mailt
- o:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://www.de
- nkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156'>Le
- s meir om produksjonen</a></p></body></html>
+ t til Asker museum. Ved kollektivtransport, kan RUFUS-billetter benyttes. 
+ Dette dekker DKS Asker, men må bestilles i forkant av skolene. Se e-post 
+ med ordrenummer for bestilling. </p><p><b>KLASSER</b></p><p><b>Rønningen 
+ skole:</b> 4 (25)<br><b>Stiftelsen Asker International School:</b> 4a (23)
+ <br><b>Totalt: 48 elevar</b></p><p><b>KONTAKT</b></p><p><b>Rønningen skol
+ e</b><br>Tlf: +47 66 71 29 00<br>Sølvi Graffer &nbsp; +47 95 76 44 76 &nb
+ sp; <a href='mailto:solvi.graffer@asker.kommune.no'>solvi.graffer@asker.ko
+ mmune.no</a><br></p><p><b>Stiftelsen Asker International School</b><br>Tlf
+ : +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83 92 91 &nbsp; <a href='m
+ ailto:james@askeris.no'>james@askeris.no</a><br></p><p><a href='https://ww
+ w.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25156
+ '>Les meir om produksjonen</a></p></body></html>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156
@@ -537,26 +537,27 @@ DTSTART:20270510T070000Z
 DTEND:20270510T113000Z
 SUMMARY:Arbeid og lek i bygda for 100 år siden (4. trinn)
 DESCRIPTION:Aktivitetsdag på Asker museum \\n\\nTRANSPORT\\nStiftelsen Ask
- er International School\\n  Elevene sykler/går eller tar kollektivt til D
- ikemark. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette dekk
- er DKS Asker\, men må bestilles i forkant av skolene. Se e-post med ordre
- nummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International Scho
- ol: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen Asker 
- International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94 83 
- 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekken.n
- o/utforsk-produksjoner-i-dks/?produksjon=25156
+ er International School\\n  Elevene sykler/går eller tar kollektivt til A
+ sker museum. Ved kollektivtransport\, kan RUFUS-billetter benyttes. Dette 
+ dekker DKS Asker\, men må bestilles i forkant av skolene. Se e-post med o
+ rdrenummer for bestilling. \\n\\nKLASSER\\nStiftelsen Asker International 
+ School: 4b (23)\, 4c (23)\\nTotalt: 46 elevar\\n\\nKONTAKT\\nStiftelsen As
+ ker International School\\n  Tlf: +47 90 72 06 70\\n  James Murphy  +47 94
+  83 92 91  james@askeris.no\\n\\nINFO\\nhttps://www.denkulturelleskolesekk
+ en.no/utforsk-produksjoner-i-dks/?produksjon=25156
 X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
  f;font-size:13px'><p>Aktivitetsdag på Asker museum </p><p><b>TRANSPORT</b
  ></p><p><b>Stiftelsen Asker International School</b><br>Elevene sykler/gå
- r eller tar kollektivt til Dikemark. Ved kollektivtransport, kan RUFUS-bil
- letter benyttes. Dette dekker DKS Asker, men må bestilles i forkant av sk
- olene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b></p>
- <p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><b>To
- talt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Interna
- tional School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 94 83
-  92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><br></
- p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksjoner
- -i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></html>
+ r eller tar kollektivt til Asker museum. Ved kollektivtransport, kan RUFUS
+ -billetter benyttes. Dette dekker DKS Asker, men må bestilles i forkant a
+ v skolene. Se e-post med ordrenummer for bestilling. </p><p><b>KLASSER</b>
+ </p><p><b>Stiftelsen Asker International School:</b> 4b (23), 4c (23)<br><
+ b>Totalt: 46 elevar</b></p><p><b>KONTAKT</b></p><p><b>Stiftelsen Asker Int
+ ernational School</b><br>Tlf: +47 90 72 06 70<br>James Murphy &nbsp; +47 9
+ 4 83 92 91 &nbsp; <a href='mailto:james@askeris.no'>james@askeris.no</a><b
+ r></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-produksj
+ oner-i-dks/?produksjon=25156'>Les meir om produksjonen</a></p></body></htm
+ l>
 LOCATION:Asker museum – Asker museum
 URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
  duksjon=25156

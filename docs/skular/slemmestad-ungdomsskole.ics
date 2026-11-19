@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Slemmestad ungdomsskole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Slemmestad ungdomsskole
-LAST-MODIFIED:20261118T020941Z
+LAST-MODIFIED:20261119T062718Z
 BEGIN:VEVENT
 UID:dks-568674@asker.dks
 DTSTART:20270218T073000Z
@@ -96,8 +96,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560832@asker.dks
-DTSTART:20270302T083000Z
-DTEND:20270302T091500Z
+DTSTART:20270302T084000Z
+DTEND:20270302T092500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10A (28)\\nTotalt: 28 elevar
  \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
@@ -140,8 +140,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560834@asker.dks
-DTSTART:20270302T103000Z
-DTEND:20270302T111500Z
+DTSTART:20270302T113000Z
+DTEND:20270302T121500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10C (28)\\nTotalt: 28 elevar
  \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris
@@ -162,8 +162,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-560841@asker.dks
-DTSTART:20270305T083000Z
-DTEND:20270305T091500Z
+DTSTART:20270305T084000Z
+DTEND:20270305T092500Z
 SUMMARY:Sytten snart atten (10. trinn)
 DESCRIPTION:KLASSER\\nSlemmestad ungdomsskole: 10D (27)\\nTotalt: 27 elevar
  \\n\\nKONTAKT\\nSlemmestad ungdomsskole\\n  Tlf: +47 31 29 34 40\\n  Chris

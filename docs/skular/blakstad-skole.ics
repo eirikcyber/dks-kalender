@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Blakstad skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Blakstad skole
-LAST-MODIFIED:20261118T020932Z
+LAST-MODIFIED:20261119T062712Z
 BEGIN:VEVENT
 UID:dks-560171@asker.dks
 DTSTART:20261126T084500Z
@@ -94,8 +94,8 @@ URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
 END:VEVENT
 BEGIN:VEVENT
 UID:dks-523040@asker.dks
-DTSTART:20261210T104500Z
-DTEND:20261210T112000Z
+DTSTART:20261210T091000Z
+DTEND:20261210T094500Z
 SUMMARY:Sharqi Ensemble - Arabisk musikk fra Midtøsten (1.-4. trinn)
 DESCRIPTION:KLASSER\\nBlakstad skole: 1A (26)\, 2A (28)\, 1B (26)\\nTotalt:
   80 elevar\\n\\nKONTAKT\\nBlakstad skole\\n  Tlf: +47 66 78 68 10\\n  LOTT
