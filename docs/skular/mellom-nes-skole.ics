@@ -5,28 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:DKS Mellom-Nes skole
 X-WR-CALDESC:Den Kulturelle Skolesekken - program for Mellom-Nes skole
-LAST-MODIFIED:20261124T101931Z
-BEGIN:VEVENT
-UID:dks-560225@asker.dks
-DTSTART:20261124T114500Z
-DTEND:20261124T123000Z
-SUMMARY:Konspirasjon eller fakta? (5. trinn)
-DESCRIPTION:.\\n\\nKLASSER\\nMellom-Nes skole: 5 (22)\\nTotalt: 22 elevar\\
- n\\nKONTAKT\\nMellom-Nes skole\\n  Tlf: +47 97 73 77 35\\n  Kari Ruud  +47
-  97 73 77 35  kari.ruud@asker.kommune.no\\n\\nINFO\\nhttps://www.denkultur
- elleskolesekken.no/utforsk-produksjoner-i-dks/?produksjon=25021
-X-ALT-DESC;FMTTYPE=text/html:<html><body style='font-family:Arial,sans-seri
- f;font-size:13px'><p>.</p><p><b>KLASSER</b></p><p><b>Mellom-Nes skole:</b>
-  5 (22)<br><b>Totalt: 22 elevar</b></p><p><b>KONTAKT</b></p><p><b>Mellom-N
- es skole</b><br>Tlf: +47 97 73 77 35<br>Kari Ruud &nbsp; +47 97 73 77 35 &
- nbsp; <a href='mailto:kari.ruud@asker.kommune.no'>kari.ruud@asker.kommune.
- no</a><br></p><p><a href='https://www.denkulturelleskolesekken.no/utforsk-
- produksjoner-i-dks/?produksjon=25021'>Les meir om produksjonen</a></p></bo
- dy></html>
-LOCATION:Mellom-Nes skole – Klasserom
-URL:https://www.denkulturelleskolesekken.no/utforsk-produksjoner-i-dks/?pro
- duksjon=25021
-END:VEVENT
+LAST-MODIFIED:20261125T100047Z
 BEGIN:VEVENT
 UID:dks-560175@asker.dks
 DTSTART:20261125T103000Z
